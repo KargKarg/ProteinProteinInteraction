@@ -1,0 +1,3 @@
+>NP_878129.1 uncharacterized protein YLR264C-A [Saccharomyces cerevisiae S288C]
+MNVIFKLYLTIDAPKKKKVTVRDFLSIRYSMPYRLASN
+

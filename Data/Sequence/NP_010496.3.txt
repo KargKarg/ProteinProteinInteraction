@@ -1,0 +1,4 @@
+>NP_010496.3 cysteine-rich palmitoylated domain-containing protein CPP2 [Saccharomyces cerevisiae S288C]
+MSQQQGYYQQGPPQQGYYQQGPPQQGYYQQGPPQQGYPQQQPVYVQQGQPKEESCLDSCLKCLCCCFLLE
+LVCDN
+

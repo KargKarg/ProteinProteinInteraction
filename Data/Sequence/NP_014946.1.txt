@@ -1,0 +1,3 @@
+>NP_014946.1 uncharacterized protein YOR302W [Saccharomyces cerevisiae S288C]
+MFSLSNSQYTCQDYISDHIWKTSSH
+

@@ -1,0 +1,3 @@
+>NP_878075.3 uncharacterized protein YGL007C-A [Saccharomyces cerevisiae S288C]
+MLPSISFDYIKRPNIVLFSNVLSLSSNI
+

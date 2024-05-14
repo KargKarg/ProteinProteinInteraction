@@ -1,0 +1,3 @@
+>NP_878040.1 uncharacterized protein YAL037C-A [Saccharomyces cerevisiae S288C]
+MSISFPKMQHLIVMTTIGDKKVNNNIILFL
+

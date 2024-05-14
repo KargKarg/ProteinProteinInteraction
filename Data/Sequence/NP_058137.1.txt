@@ -1,0 +1,3 @@
+>NP_058137.1 proteolipid ATPase [Saccharomyces cerevisiae S288C]
+MTLPGGVILVFILVGLACIAIIATIIYRKWQARQRGLQRF
+

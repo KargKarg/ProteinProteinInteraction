@@ -1,0 +1,3 @@
+>NP_878148.1 uncharacterized protein YMR247W-A [Saccharomyces cerevisiae S288C]
+MAHKCASAKLLSGIMALLFNGKSLLRPICLHVHNHLVSNSDTNIVWP
+

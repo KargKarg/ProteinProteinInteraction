@@ -1,0 +1,3 @@
+>NP_878184.1 uncharacterized protein YPR159C-A [Saccharomyces cerevisiae S288C]
+MATLDFTTKPLALVIYMSVVLLLMVGVPLLFSS
+

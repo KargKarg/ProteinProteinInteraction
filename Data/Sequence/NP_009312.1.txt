@@ -1,0 +1,3 @@
+>NP_009312.1 F1F0 ATP synthase subunit 8 (mitochondrion) [Saccharomyces cerevisiae S288C]
+MPQLVPFYFMNQLTYGFLLMITLLILFSQFFLPMILRLYVSRLFISKL
+

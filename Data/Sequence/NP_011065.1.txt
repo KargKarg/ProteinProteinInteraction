@@ -1,0 +1,3 @@
+>NP_011065.1 uncharacterized protein YER138W-A [Saccharomyces cerevisiae S288C]
+MIIIFIELCRIADSLLWIPKSSRRTSSISTYLIL
+

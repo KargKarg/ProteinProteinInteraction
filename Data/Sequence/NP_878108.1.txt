@@ -1,0 +1,3 @@
+>NP_878108.1 uncharacterized protein YJR151W-A [Saccharomyces cerevisiae S288C]
+MLSLIFYLRFPSYIRG
+

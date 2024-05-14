@@ -1,0 +1,3 @@
+>NP_010097.1 ribosomal 60S subunit protein L41A [Saccharomyces cerevisiae S288C]
+MRAKWRKKRTRRLKRKRRKVRARSK
+

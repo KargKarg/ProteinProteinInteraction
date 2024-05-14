@@ -1,0 +1,3 @@
+>NP_878122.1 uncharacterized protein YLR157C-C [Saccharomyces cerevisiae S288C]
+MYSCAKKKTTAAPEFRVWSPTTLLGQALTSLTTVDRTGNGAFW
+

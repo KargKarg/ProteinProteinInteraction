@@ -1,0 +1,3 @@
+>NP_878156.3 uncharacterized protein YNL067W-B [Saccharomyces cerevisiae S288C]
+MCKLMWCTGVVSKTALLTGNFFFSSSEFFFKATHRKSENYLNGRQT
+

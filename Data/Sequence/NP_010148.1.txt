@@ -1,0 +1,3 @@
+>NP_010148.1 ribosomal 60S subunit protein L41B [Saccharomyces cerevisiae S288C]
+MRAKWRKKRTRRLKRKRRKVRARSK
+

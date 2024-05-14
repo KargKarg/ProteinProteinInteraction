@@ -1,0 +1,3 @@
+>NP_878061.3 uncharacterized protein YDR003W-A [Saccharomyces cerevisiae S288C]
+MTCGIENSYKSAEKKKKYRSFRFFESRDYSELCIIVGTYY
+

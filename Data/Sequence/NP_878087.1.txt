@@ -1,0 +1,3 @@
+>NP_878087.1 uncharacterized protein YHR022C-A [Saccharomyces cerevisiae S288C]
+MKIKFSRGARFSATFSFDKYPFLLYEVVR
+

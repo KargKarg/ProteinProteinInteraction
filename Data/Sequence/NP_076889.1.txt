@@ -1,0 +1,3 @@
+>NP_076889.1 uncharacterized protein YFR012W-A [Saccharomyces cerevisiae S288C]
+MLPRKYKPAYKKQAHRVKSNPQPAYTFQ
+

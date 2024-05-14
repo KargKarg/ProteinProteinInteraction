@@ -1,0 +1,4 @@
+>NP_011288.1 dolichyl-diphosphooligosaccharide--protein glycotransferase subunit [Saccharomyces cerevisiae S288C]
+MTYEQLYKEFHSSKSFQPFIHLDTQPKFAICGLIVTLAVLSSALFAVGSKSSYIKKLFFYTILSVIGSLF
+AGLTTVFASNSFGVYV
+

@@ -1,0 +1,3 @@
+>NP_013880.1 uncharacterized protein YMR158C-A [Saccharomyces cerevisiae S288C]
+MKMNYHLSTSSYTTSMLSCTVLDDDIRYEKLSWKLDEAEMQGLIM
+

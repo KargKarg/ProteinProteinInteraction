@@ -1,0 +1,3 @@
+>NP_878073.3 uncharacterized protein YGL188C-A [Saccharomyces cerevisiae S288C]
+MLTTQKCESREGKNDEIFELGESNSDKILLKHGKCNLFSERKPVNH
+
