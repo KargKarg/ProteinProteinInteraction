@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0005634;C:nucleus
+GO:0000159;C:protein phosphatase type 2A complex
+GO:0005816;C:spindle pole body
+GO:0019888;F:protein phosphatase regulator activity
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0006417;P:regulation of translation

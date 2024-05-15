@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C4-type;1163;1185
+REGION;Fork loop 1;467;478
+BINDING;;837;837
+BINDING;;1163;1163
+BINDING;;1166;1166
+BINDING;;1182;1182
+BINDING;;1185;1185

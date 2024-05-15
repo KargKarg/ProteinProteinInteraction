@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000324;C:fungal-type vacuole
+GO:0005634;C:nucleus
+GO:0038023;F:signaling receptor activity
+GO:0006882;P:intracellular zinc ion homeostasis

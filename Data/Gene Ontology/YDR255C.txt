@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0034657;C:GID complex
+GO:0005634;C:nucleus
+GO:0005777;C:peroxisome
+GO:0046872;F:metal ion binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0045721;P:negative regulation of gluconeogenesis
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0016567;P:protein ubiquitination
+GO:0006511;P:ubiquitin-dependent protein catabolic process

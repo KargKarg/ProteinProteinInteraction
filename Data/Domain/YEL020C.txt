@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Peroxisomal target signal 1 (PTS1);558;560
+BINDING;;49;49
+BINDING;;446;446
+BINDING;;473;473

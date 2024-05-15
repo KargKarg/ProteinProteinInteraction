@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005778;C:peroxisomal membrane
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140567;F:membrane protein dislocase activity
+GO:0140570;P:extraction of mislocalized protein from mitochondrial outer membrane
+GO:0034214;P:protein hexamerization
+GO:0006626;P:protein targeting to mitochondrion

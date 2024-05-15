@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005845;C:mRNA cap binding complex
+GO:0008190;F:eukaryotic initiation factor 4E binding
+GO:0003743;F:translation initiation factor activity
+GO:0017148;P:negative regulation of translation
+GO:0010606;P:positive regulation of cytoplasmic mRNA processing body assembly
+GO:0045727;P:positive regulation of translation

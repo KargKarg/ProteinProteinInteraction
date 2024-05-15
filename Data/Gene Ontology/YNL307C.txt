@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005524;F:ATP binding
+GO:0030332;F:cyclin binding
+GO:0004857;F:enzyme inhibitor activity
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0004712;F:protein serine/threonine/tyrosine kinase activity
+GO:0004713;F:protein tyrosine kinase activity
+GO:0030437;P:ascospore formation
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0051321;P:meiotic cell cycle
+GO:0000070;P:mitotic sister chromatid segregation
+GO:0016310;P:phosphorylation
+GO:0030163;P:protein catabolic process
+GO:0007165;P:signal transduction

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005777;C:peroxisome
+GO:0003729;F:mRNA binding
+GO:0004754;F:saccharopine dehydrogenase (NAD+, L-lysine-forming) activity
+GO:0004753;F:saccharopine dehydrogenase activity
+GO:0009085;P:lysine biosynthetic process
+GO:0019878;P:lysine biosynthetic process via aminoadipic acid

@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1-1;250;261
+REPEAT;1-2;267;278
+REPEAT;1-3;286;297
+REPEAT;1-4;305;316
+REPEAT;2-1;320;330
+REPEAT;2-2;339;349
+REPEAT;2-3;353;363
+REPEAT;2-4;367;377
+REGION;P domain (Extended arm);248;381
+REGION;4 X approximate repeats;250;316
+REGION;4 X approximate repeats;320;377
+BINDING;;131;131
+BINDING;;159;159
+BINDING;;398;398

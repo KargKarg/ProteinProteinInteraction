@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;333;353
+MOTIF;Histidine triad motif;265;269

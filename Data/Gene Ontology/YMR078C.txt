@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0031390;C:Ctf18 RFC-like complex
+GO:0005739;C:mitochondrion
+GO:0043596;C:nuclear replication fork
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003677;F:DNA binding
+GO:0006270;P:DNA replication initiation
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0035753;P:maintenance of DNA trinucleotide repeats
+GO:0007064;P:mitotic sister chromatid cohesion

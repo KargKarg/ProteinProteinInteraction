@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Important for dimerization;57;66
+REGION;Important for dimerization;266;302
+ACT_SITE;Proton donor;131;131
+BINDING;;117;117
+BINDING;;133;135
+BINDING;;285;290
+SITE;Important for dimerization;201;201

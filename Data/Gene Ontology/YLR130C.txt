@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0000007;F:low-affinity zinc ion transmembrane transporter activity
+GO:0071578;P:zinc ion import across plasma membrane

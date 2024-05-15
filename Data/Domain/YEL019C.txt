@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;SP-RING-type;169;256
+BINDING;;200;200
+BINDING;;202;202
+BINDING;;221;221
+BINDING;;226;226

@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Kinesin motor;36;477
+REGION;Disordered;1;28
+REGION;Disordered;220;248
+REGION;Disordered;260;312
+REGION;Disordered;970;1000
+BINDING;;128;135

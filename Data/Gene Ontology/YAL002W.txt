@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0033263;C:CORVET complex
+GO:0031901;C:early endosome membrane
+GO:0005795;C:Golgi stack
+GO:0030897;C:HOPS complex
+GO:0005770;C:late endosome
+GO:0016020;C:membrane
+GO:0051020;F:GTPase binding
+GO:0046872;F:metal ion binding
+GO:0043495;F:protein-membrane adaptor activity
+GO:0034058;P:endosomal vesicle fusion
+GO:0006886;P:intracellular protein transport
+GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0006623;P:protein targeting to vacuole
+GO:0032889;P:regulation of vacuole fusion, non-autophagic
+GO:0099022;P:vesicle tethering

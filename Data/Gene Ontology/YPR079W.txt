@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010008;C:endosome membrane
+GO:0005794;C:Golgi apparatus
+GO:0005770;C:late endosome
+GO:0005048;F:signal sequence binding
+GO:0015031;P:protein transport
+GO:0007034;P:vacuolar transport

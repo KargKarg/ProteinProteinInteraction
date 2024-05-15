@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005933;C:cellular bud
+GO:0005934;C:cellular bud tip
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0071782;C:endoplasmic reticulum tubular network
+GO:0000139;C:Golgi membrane
+GO:0016020;C:membrane
+GO:0048309;P:endoplasmic reticulum inheritance
+GO:0007029;P:endoplasmic reticulum organization
+GO:0071786;P:endoplasmic reticulum tubular network organization
+GO:0032581;P:ER-dependent peroxisome organization
+GO:0051292;P:nuclear pore complex assembly
+GO:0034976;P:response to endoplasmic reticulum stress
+GO:0007033;P:vacuole organization
+GO:0016192;P:vesicle-mediated transport

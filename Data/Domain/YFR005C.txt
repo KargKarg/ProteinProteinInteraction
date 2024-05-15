@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;USP;150;447
+ZN_FING;UBP-type; degenerate;27;124
+BINDING;;60;60
+BINDING;;63;63
+BINDING;;79;79
+BINDING;;85;85

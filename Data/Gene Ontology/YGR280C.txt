@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0032040;C:small-subunit processome
+GO:0008047;F:enzyme activator activity
+GO:0003676;F:nucleic acid binding
+GO:0010521;F:telomerase inhibitor activity
+GO:0000494;P:box C/D RNA 3'-end processing
+GO:0030490;P:maturation of SSU-rRNA
+GO:0032211;P:negative regulation of telomere maintenance via telomerase

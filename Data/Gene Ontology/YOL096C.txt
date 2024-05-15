@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0031314;C:extrinsic component of mitochondrial inner membrane
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0008425;F:2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity
+GO:0061543;F:3-demethylubiquinol-6 3-O-methyltransferase activity
+GO:0004395;F:hexaprenyldihydroxybenzoate methyltransferase activity
+GO:0032259;P:methylation
+GO:0006744;P:ubiquinone biosynthetic process

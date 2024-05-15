@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005758;C:mitochondrial intermembrane space
+GO:0031966;C:mitochondrial membrane
+GO:0005739;C:mitochondrion
+GO:0002083;F:4-hydroxybenzoate decaprenyltransferase activity
+GO:0047293;F:4-hydroxybenzoate nonaprenyltransferase activity
+GO:0008412;F:4-hydroxybenzoate octaprenyltransferase activity
+GO:0008299;P:isoprenoid biosynthetic process
+GO:0006744;P:ubiquinone biosynthetic process

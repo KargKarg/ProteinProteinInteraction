@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0004032;F:alditol:NADP+ 1-oxidoreductase activity
+GO:0047816;F:D-arabinose 1-dehydrogenase (NAD+) activity
+GO:0106271;F:D-arabinose 1-dehydrogenase (NADP+) activity
+GO:0045290;F:D-arabinose 1-dehydrogenase [NAD(P)+] activity
+GO:0005975;P:carbohydrate metabolic process

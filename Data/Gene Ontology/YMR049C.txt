@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0070545;C:PeBoW complex
+GO:0030687;C:preribosome, large subunit precursor
+GO:0003677;F:DNA binding
+GO:0070180;F:large ribosomal subunit rRNA binding
+GO:0043021;F:ribonucleoprotein complex binding
+GO:0000466;P:maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0006364;P:rRNA processing

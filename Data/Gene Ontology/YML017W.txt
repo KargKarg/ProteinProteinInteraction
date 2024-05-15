@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0000932;C:P-body
+GO:0000172;C:ribonuclease MRP complex
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0001682;P:tRNA 5'-leader removal

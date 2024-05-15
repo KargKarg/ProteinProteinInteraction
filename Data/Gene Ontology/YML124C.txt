@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005874;C:microtubule
+GO:0005634;C:nucleus
+GO:0005819;C:spindle
+GO:0045298;C:tubulin complex
+GO:0005525;F:GTP binding
+GO:0016787;F:hydrolase activity
+GO:0046872;F:metal ion binding
+GO:0005200;F:structural constituent of cytoskeleton
+GO:0045143;P:homologous chromosome segregation
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0000278;P:mitotic cell cycle
+GO:0000070;P:mitotic sister chromatid segregation
+GO:0000280;P:nuclear division
+GO:0030473;P:nuclear migration along microtubule
+GO:0098863;P:nuclear migration by microtubule mediated pushing forces

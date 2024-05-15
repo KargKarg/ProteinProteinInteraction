@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Biotin carboxylation;18;470
+DOMAIN;ATP-grasp;140;337
+DOMAIN;Pyruvate carboxyltransferase;557;824
+DOMAIN;Biotinyl-binding;1094;1169
+ACT_SITE;;312;312
+BINDING;;136;136
+BINDING;;220;220
+BINDING;;255;255
+BINDING;;565;569
+BINDING;;566;566
+BINDING;;638;638
+BINDING;via carbamate group;734;734
+BINDING;;764;764
+BINDING;;766;766
+BINDING;;898;898

@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;HAT 1;87;119
+REPEAT;HAT 2;124;156
+REPEAT;HAT 3;159;191
+REGION;Disordered;216;241

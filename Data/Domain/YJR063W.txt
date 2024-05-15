@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C4-type;10;33
+ZN_FING;TFIIS-type;82;122
+REGION;Necessary and sufficient for recruitment into Pol I;1;69
+REGION;Interaction with RPA2;1;60
+REGION;Required for RNA cleavage, but not essential for elongation activity;79;125
+BINDING;;86;86
+BINDING;;89;89
+BINDING;;114;114
+BINDING;;117;117

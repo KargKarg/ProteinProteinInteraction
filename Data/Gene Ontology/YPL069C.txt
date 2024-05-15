@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0004161;F:dimethylallyltranstransferase activity
+GO:0004311;F:farnesyltranstransferase activity
+GO:0004337;F:geranyltranstransferase activity
+GO:0046872;F:metal ion binding
+GO:0004659;F:prenyltransferase activity
+GO:0045337;P:farnesyl diphosphate biosynthetic process
+GO:0033384;P:geranyl diphosphate biosynthetic process
+GO:0033386;P:geranylgeranyl diphosphate biosynthetic process
+GO:0008299;P:isoprenoid biosynthetic process
+GO:0015031;P:protein transport
+GO:0016114;P:terpenoid biosynthetic process

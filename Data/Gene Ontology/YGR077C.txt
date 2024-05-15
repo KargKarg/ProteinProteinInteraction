@@ -1,0 +1,5 @@
+GO id;GO term
+GO:1990429;C:peroxisomal importomer complex
+GO:0005782;C:peroxisomal matrix
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0016558;P:protein import into peroxisome matrix

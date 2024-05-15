@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005945;C:6-phosphofructokinase complex
+GO:0005737;C:cytoplasm
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0003872;F:6-phosphofructokinase activity
+GO:0016208;F:AMP binding
+GO:0005524;F:ATP binding
+GO:0070095;F:fructose-6-phosphate binding
+GO:0042802;F:identical protein binding
+GO:0046872;F:metal ion binding
+GO:0048029;F:monosaccharide binding
+GO:0061621;P:canonical glycolysis
+GO:0030388;P:fructose 1,6-bisphosphate metabolic process
+GO:0006002;P:fructose 6-phosphate metabolic process
+GO:0006096;P:glycolytic process
+GO:1902600;P:proton transmembrane transport
+GO:0051453;P:regulation of intracellular pH

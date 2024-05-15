@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CN hydrolase;1;82
+ACT_SITE;Proton acceptor;21;21

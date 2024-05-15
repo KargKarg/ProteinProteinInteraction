@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0033263;C:CORVET complex
+GO:0005829;C:cytosol
+GO:0031901;C:early endosome membrane
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0030897;C:HOPS complex
+GO:0005524;F:ATP binding
+GO:0006897;P:endocytosis
+GO:0006896;P:Golgi to vacuole transport
+GO:0006886;P:intracellular protein transport
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0006623;P:protein targeting to vacuole
+GO:0035542;P:regulation of SNARE complex assembly
+GO:0032889;P:regulation of vacuole fusion, non-autophagic
+GO:0042144;P:vacuole fusion, non-autophagic
+GO:0007033;P:vacuole organization
+GO:0048278;P:vesicle docking
+GO:0051469;P:vesicle fusion with vacuole
+GO:0099022;P:vesicle tethering
+GO:0016192;P:vesicle-mediated transport

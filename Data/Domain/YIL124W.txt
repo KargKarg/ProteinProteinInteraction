@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;GXSXG;16;20
+ACT_SITE;Nucleophile; for lipase activity;18;18
+ACT_SITE;Proton acceptor;157;157
+ACT_SITE;Lowers pKa of active site Tyr;161;161
+BINDING;;21;21
+BINDING;;64;64
+BINDING;;93;93
+BINDING;;126;126
+BINDING;;157;157
+BINDING;;161;161
+BINDING;;190;190
+BINDING;;192;192

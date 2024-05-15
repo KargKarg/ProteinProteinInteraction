@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0002055;F:adenine binding
+GO:0003999;F:adenine phosphoribosyltransferase activity
+GO:0016208;F:AMP binding
+GO:0046872;F:metal ion binding
+GO:0006168;P:adenine salvage
+GO:0044209;P:AMP salvage
+GO:0006166;P:purine ribonucleoside salvage

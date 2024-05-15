@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0000776;C:kinetochore
+GO:0180019;C:Knl1/Spc105 complex
+GO:0005739;C:mitochondrion
+GO:0031965;C:nuclear membrane
+GO:0000940;C:outer kinetochore
+GO:0005816;C:spindle pole body
+GO:0008017;F:microtubule binding
+GO:0031619;P:homologous chromosome orientation in meiotic metaphase I
+GO:0051382;P:kinetochore assembly
+GO:1990758;P:mitotic sister chromatid biorientation
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:1905326;P:positive regulation of meiosis I spindle assembly checkpoint
+GO:0034501;P:protein localization to kinetochore
+GO:0031134;P:sister chromatid biorientation

@@ -1,0 +1,19 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Carrier;145;220
+DOMAIN;Ketosynthase family 3 (KS3);1123;1657
+REGION;Disordered;96;120
+REGION;Beta-ketoacyl reductase;675;874
+ACT_SITE;For beta-ketoacyl synthase activity;1305;1305
+ACT_SITE;For beta-ketoacyl synthase activity;1542;1542
+ACT_SITE;For beta-ketoacyl synthase activity;1583;1583
+BINDING;;1772;1774
+BINDING;;1772;1772
+BINDING;;1773;1773
+BINDING;;1774;1774
+BINDING;;1798;1798
+BINDING;;1808;1808
+BINDING;;1817;1827
+BINDING;;1841;1844
+BINDING;;1871;1873
+BINDING;;1872;1872
+BINDING;;1873;1873

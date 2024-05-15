@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0033186;C:CAF-1 complex
+GO:0000785;C:chromatin
+GO:0000775;C:chromosome, centromeric region
+GO:0000786;C:nucleosome
+GO:0005634;C:nucleus
+GO:0006325;P:chromatin organization
+GO:0006281;P:DNA repair
+GO:0006260;P:DNA replication
+GO:0006335;P:DNA replication-dependent chromatin assembly
+GO:0006334;P:nucleosome assembly

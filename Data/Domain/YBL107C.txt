@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Cx14C motif;99;114
+MOTIF;Cx13C motif;178;192

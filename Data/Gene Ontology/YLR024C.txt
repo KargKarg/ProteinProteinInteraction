@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:1990304;C:MUB1-RAD6-UBR2 ubiquitin ligase complex
+GO:1990305;C:RAD6-UBR2 ubiquitin ligase complex
+GO:0000151;C:ubiquitin ligase complex
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0008270;F:zinc ion binding
+GO:0071629;P:cytoplasm protein quality control by the ubiquitin-proteasome system
+GO:0000209;P:protein polyubiquitination
+GO:0016567;P:protein ubiquitination
+GO:0006511;P:ubiquitin-dependent protein catabolic process
+GO:0071596;P:ubiquitin-dependent protein catabolic process via the N-end rule pathway

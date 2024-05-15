@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0033588;C:elongator holoenzyme complex
+GO:0005654;C:nucleoplasm
+GO:0008023;C:transcription elongation factor complex
+GO:0042802;F:identical protein binding
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0006417;P:regulation of translation
+GO:0002098;P:tRNA wobble uridine modification

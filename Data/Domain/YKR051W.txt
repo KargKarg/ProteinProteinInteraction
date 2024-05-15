@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;ATG8-interacting region;379;402

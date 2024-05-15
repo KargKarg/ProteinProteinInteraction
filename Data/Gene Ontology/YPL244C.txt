@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005459;F:UDP-galactose transmembrane transporter activity
+GO:0005460;F:UDP-glucose transmembrane transporter activity
+GO:0008643;P:carbohydrate transport
+GO:0072334;P:UDP-galactose transmembrane transport
+GO:0015786;P:UDP-glucose transmembrane transport

@@ -1,0 +1,24 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0000794;C:condensed nuclear chromosome
+GO:0005662;C:DNA replication factor A complex
+GO:0035861;C:site of double-strand break
+GO:0003690;F:double-stranded DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0006281;P:DNA repair
+GO:0006260;P:DNA replication
+GO:0006265;P:DNA topological change
+GO:0006268;P:DNA unwinding involved in DNA replication
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0045184;P:establishment of protein localization
+GO:0030491;P:heteroduplex formation
+GO:0006312;P:mitotic recombination
+GO:0006289;P:nucleotide-excision repair
+GO:0016567;P:protein ubiquitination
+GO:0007131;P:reciprocal meiotic recombination
+GO:0000723;P:telomere maintenance
+GO:0000722;P:telomere maintenance via recombination
+GO:0007004;P:telomere maintenance via telomerase
+GO:0010833;P:telomere maintenance via telomere lengthening

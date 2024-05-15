@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FAS1;100;269

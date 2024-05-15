@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005634;C:nucleus
+GO:0000932;C:P-body
+GO:0003729;F:mRNA binding
+GO:0006338;P:chromatin remodeling
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0006417;P:regulation of translation

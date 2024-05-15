@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0016020;C:membrane
+GO:0071595;C:Nem1-Spo7 phosphatase complex
+GO:0031965;C:nuclear membrane
+GO:0019888;F:protein phosphatase regulator activity
+GO:0006629;P:lipid metabolic process
+GO:0071072;P:negative regulation of phospholipid biosynthetic process
+GO:0006998;P:nuclear envelope organization
+GO:0071071;P:regulation of phospholipid biosynthetic process
+GO:0061709;P:reticulophagy
+GO:0030435;P:sporulation resulting in formation of a cellular spore

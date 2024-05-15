@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005682;C:U5 snRNP
+GO:0000387;P:spliceosomal snRNP assembly
+GO:0000244;P:spliceosomal tri-snRNP complex assembly

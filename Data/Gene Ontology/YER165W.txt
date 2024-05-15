@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0043232;C:intracellular non-membrane-bounded organelle
+GO:0005634;C:nucleus
+GO:1990904;C:ribonucleoprotein complex
+GO:0005840;C:ribosome
+GO:0140693;F:molecular condensate scaffold activity
+GO:0003730;F:mRNA 3'-UTR binding
+GO:0003729;F:mRNA binding
+GO:0008143;F:poly(A) binding
+GO:0008266;F:poly(U) RNA binding
+GO:1990841;F:promoter-specific chromatin binding
+GO:0008428;F:ribonuclease inhibitor activity
+GO:0006397;P:mRNA processing
+GO:0051028;P:mRNA transport
+GO:0060211;P:regulation of nuclear-transcribed mRNA poly(A) tail shortening
+GO:0006446;P:regulation of translational initiation

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005782;C:peroxisomal matrix
+GO:0005777;C:peroxisome
+GO:0008670;F:2,4-dienoyl-CoA reductase (NADPH) activity
+GO:0030437;P:ascospore formation
+GO:0009062;P:fatty acid catabolic process
+GO:0006631;P:fatty acid metabolic process

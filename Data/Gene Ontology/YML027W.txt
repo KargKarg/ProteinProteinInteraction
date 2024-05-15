@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0000977;F:RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0007049;P:cell cycle
+GO:0030154;P:cell differentiation
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

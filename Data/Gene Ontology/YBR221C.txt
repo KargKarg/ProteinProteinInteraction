@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0042645;C:mitochondrial nucleoid
+GO:0005967;C:mitochondrial pyruvate dehydrogenase complex
+GO:0005739;C:mitochondrion
+GO:0004739;F:pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0006086;P:acetyl-CoA biosynthetic process from pyruvate
+GO:0006096;P:glycolytic process

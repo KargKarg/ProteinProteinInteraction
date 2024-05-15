@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0030428;C:cell septum
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0004864;F:protein phosphatase inhibitor activity
+GO:0071555;P:cell wall organization
+GO:0030010;P:establishment of cell polarity
+GO:0031507;P:heterochromatin formation
+GO:0006406;P:mRNA export from nucleus
+GO:0010971;P:positive regulation of G2/M transition of mitotic cell cycle
+GO:0032880;P:regulation of protein localization

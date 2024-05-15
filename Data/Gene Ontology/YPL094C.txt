@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0016020;C:membrane
+GO:0030867;C:rough endoplasmic reticulum membrane
+GO:0031207;C:Sec62/Sec63 complex
+GO:0071256;C:translocon complex
+GO:0008320;F:protein transmembrane transporter activity
+GO:0031204;P:post-translational protein targeting to membrane, translocation

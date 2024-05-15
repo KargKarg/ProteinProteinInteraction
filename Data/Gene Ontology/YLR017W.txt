@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0017061;F:S-methyl-5-thioadenosine phosphorylase activity
+GO:0006537;P:glutamate biosynthetic process
+GO:0019509;P:L-methionine salvage from methylthioadenosine
+GO:0006166;P:purine ribonucleoside salvage

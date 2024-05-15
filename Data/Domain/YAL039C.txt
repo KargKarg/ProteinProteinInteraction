@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;HRM 1;25;30
+REPEAT;HRM 2;41;46
+REGION;Disordered;1;72

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0033100;C:NuA3 histone acetyltransferase complex
+GO:1990467;C:NuA3a histone acetyltransferase complex
+GO:1990468;C:NuA3b histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0035064;F:methylated histone binding
+GO:0006338;P:chromatin remodeling
+GO:0006351;P:DNA-templated transcription
+GO:0006357;P:regulation of transcription by RNA polymerase II

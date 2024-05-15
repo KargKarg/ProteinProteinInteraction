@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0070300;F:phosphatidic acid binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0046625;F:sphingolipid binding
+GO:0006812;P:monoatomic cation transport
+GO:0042391;P:regulation of membrane potential

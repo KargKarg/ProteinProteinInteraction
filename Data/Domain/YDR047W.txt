@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;30;34
+BINDING;;48;48
+BINDING;;80;80
+BINDING;;81;81
+BINDING;;160;160
+BINDING;;215;215
+BINDING;;338;338
+SITE;Transition state stabilizer;81;81

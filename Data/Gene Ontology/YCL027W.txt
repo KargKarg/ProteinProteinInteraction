@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005783;C:endoplasmic reticulum
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0000755;P:cytogamy
+GO:0032065;P:maintenance of protein location in cell cortex

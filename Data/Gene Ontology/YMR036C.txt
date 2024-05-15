@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0051301;P:cell division
+GO:0000086;P:G2/M transition of mitotic cell cycle
+GO:0010971;P:positive regulation of G2/M transition of mitotic cell cycle
+GO:0110032;P:positive regulation of G2/MI transition of meiotic cell cycle

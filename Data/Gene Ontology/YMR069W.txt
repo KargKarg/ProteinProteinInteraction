@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0043998;F:histone H2A acetyltransferase activity
+GO:0010485;F:histone H4 acetyltransferase activity
+GO:1990189;F:peptide-serine-alpha-N-acetyltransferase activity
+GO:0031507;P:heterochromatin formation

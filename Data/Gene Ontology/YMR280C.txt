@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0008270;F:zinc ion binding
+GO:0005975;P:carbohydrate metabolic process
+GO:0006351;P:DNA-templated transcription
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0061414;P:positive regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source

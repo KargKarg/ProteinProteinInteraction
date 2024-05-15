@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0071013;C:catalytic step 2 spliceosome
+GO:0005634;C:nucleus
+GO:0005681;C:spliceosomal complex
+GO:0005686;C:U2 snRNP
+GO:0071004;C:U2-type prespliceosome
+GO:0003723;F:RNA binding
+GO:0008270;F:zinc ion binding
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0000245;P:spliceosomal complex assembly
+GO:1903241;P:U2-type prespliceosome assembly

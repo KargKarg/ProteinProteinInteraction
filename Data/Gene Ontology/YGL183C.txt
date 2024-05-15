@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0120231;C:DNA recombinase auxiliary factor complex
+GO:0005634;C:nucleus
+GO:0003690;F:double-stranded DNA binding
+GO:0120230;F:recombinase activator activity
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0000709;P:meiotic joint molecule formation
+GO:0010774;P:meiotic strand invasion involved in reciprocal meiotic recombination
+GO:0007131;P:reciprocal meiotic recombination

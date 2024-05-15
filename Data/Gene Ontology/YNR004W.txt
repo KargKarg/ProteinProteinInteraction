@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0036261;P:7-methylguanosine cap hypermethylation
+GO:0008033;P:tRNA processing

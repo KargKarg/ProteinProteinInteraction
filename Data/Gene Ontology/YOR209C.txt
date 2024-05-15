@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0004516;F:nicotinate phosphoribosyltransferase activity
+GO:0016740;F:transferase activity
+GO:0034355;P:NAD salvage
+GO:0019358;P:nicotinate nucleotide salvage
+GO:0000183;P:rDNA heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation

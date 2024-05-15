@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SAP;34;68
+DOMAIN;PINIT;162;314
+ZN_FING;SP-RING-type;344;431
+REGION;Disordered;1;21
+REGION;Disordered;122;170
+REGION;Disordered;443;584
+REGION;Disordered;596;616
+REGION;Disordered;672;733
+REGION;Required for localization at the bud neck;794;904
+REGION;Disordered;877;904
+BINDING;;377;377
+BINDING;;379;379
+BINDING;;400;400
+BINDING;;403;403

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0009931;F:calcium-dependent protein serine/threonine kinase activity
+GO:0005516;F:calmodulin binding
+GO:0004683;F:calmodulin-dependent protein kinase activity
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0035556;P:intracellular signal transduction
+GO:0006468;P:protein phosphorylation
+GO:0006508;P:proteolysis

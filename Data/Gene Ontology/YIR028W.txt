@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0005274;F:allantoin:proton symporter activity
+GO:0015205;F:nucleobase transmembrane transporter activity
+GO:0000256;P:allantoin catabolic process
+GO:0015720;P:allantoin transport
+GO:0015851;P:nucleobase transport
+GO:0006144;P:purine nucleobase metabolic process

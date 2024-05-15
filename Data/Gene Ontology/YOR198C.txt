@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0042175;C:nuclear outer membrane-endoplasmic reticulum membrane network
+GO:1990904;C:ribonucleoprotein complex
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0008298;P:intracellular mRNA localization
+GO:0051321;P:meiotic cell cycle
+GO:0045048;P:protein insertion into ER membrane
+GO:0035269;P:protein O-linked mannosylation
+GO:0007088;P:regulation of mitotic nuclear division

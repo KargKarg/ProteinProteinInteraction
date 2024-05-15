@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005794;C:Golgi apparatus
+GO:0031267;F:small GTPase binding

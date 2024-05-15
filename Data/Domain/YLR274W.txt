@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MCM;366;573
+REGION;Disordered;1;22
+MOTIF;Arginine finger;548;551
+BINDING;;416;423

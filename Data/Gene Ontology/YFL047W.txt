@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0000935;C:division septum
+GO:0005886;C:plasma membrane
+GO:0005096;F:GTPase activator activity
+GO:0007010;P:cytoskeleton organization
+GO:0007264;P:small GTPase mediated signal transduction

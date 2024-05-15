@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0016020;C:membrane
+GO:0004382;F:GDP phosphatase activity
+GO:0045134;F:UDP phosphatase activity
+GO:0009134;P:nucleoside diphosphate catabolic process
+GO:0006486;P:protein glycosylation
+GO:0006487;P:protein N-linked glycosylation

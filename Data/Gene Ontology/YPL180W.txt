@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005886;C:plasma membrane
+GO:0031931;C:TORC1 complex
+GO:0031505;P:fungal-type cell wall organization
+GO:0006071;P:glycerol metabolic process
+GO:0051726;P:regulation of cell cycle
+GO:0001558;P:regulation of cell growth
+GO:0007584;P:response to nutrient
+GO:0009651;P:response to salt stress
+GO:0031929;P:TOR signaling

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0043332;C:mating projection tip
+GO:0051082;F:unfolded protein binding
+GO:0090114;P:COPII-coated vesicle budding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006457;P:protein folding
+GO:0015031;P:protein transport

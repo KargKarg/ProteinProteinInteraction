@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005905;C:clathrin-coated pit
+GO:0030136;C:clathrin-coated vesicle
+GO:0005829;C:cytosol
+GO:0005628;C:prospore membrane
+GO:0005545;F:1-phosphatidylinositol binding
+GO:0030276;F:clathrin binding
+GO:0032050;F:clathrin heavy chain binding
+GO:0005546;F:phosphatidylinositol-4,5-bisphosphate binding
+GO:0000149;F:SNARE binding
+GO:0048268;P:clathrin coat assembly
+GO:0072583;P:clathrin-dependent endocytosis
+GO:0006897;P:endocytosis
+GO:0006900;P:vesicle budding from membrane

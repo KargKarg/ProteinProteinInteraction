@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0098800;C:inner mitochondrial membrane protein complex
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0050833;F:pyruvate transmembrane transporter activity
+GO:0006850;P:mitochondrial pyruvate transmembrane transport

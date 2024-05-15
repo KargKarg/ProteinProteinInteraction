@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0106388;F:18S rRNA aminocarboxypropyltransferase activity
+GO:1904047;F:S-adenosyl-L-methionine binding
+GO:0000455;P:enzyme-directed rRNA pseudouridine synthesis
+GO:0030490;P:maturation of SSU-rRNA

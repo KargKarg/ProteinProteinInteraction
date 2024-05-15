@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Dimerization and phosphorylation;2;183
+REGION;Dimerization/docking domain (D/D);8;45
+REGION;Disordered;65;138
+MOTIF;Inhibitor sequence (IS);142;146
+BINDING;;184;301
+BINDING;;249;249
+BINDING;;258;258
+BINDING;;302;416
+BINDING;;368;368
+BINDING;;377;377

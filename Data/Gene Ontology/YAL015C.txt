@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0140078;F:class I DNA-(apurinic or apyrimidinic site) endonuclease activity
+GO:0003677;F:DNA binding
+GO:0003906;F:DNA-(apurinic or apyrimidinic site) endonuclease activity
+GO:0008534;F:oxidized purine nucleobase lesion DNA N-glycosylase activity
+GO:0000703;F:oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity
+GO:0006284;P:base-excision repair
+GO:0006285;P:base-excision repair, AP site formation
+GO:0034599;P:cellular response to oxidative stress
+GO:0006281;P:DNA repair
+GO:0090297;P:positive regulation of mitochondrial DNA replication

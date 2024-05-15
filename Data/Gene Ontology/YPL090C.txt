@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0005730;C:nucleolus
+GO:0032040;C:small-subunit processome
+GO:0003735;F:structural constituent of ribosome
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0006412;P:translation

@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0032174;C:cellular bud neck septin collar
+GO:0032177;C:cellular bud neck split septin rings
+GO:0005934;C:cellular bud tip
+GO:0005637;C:nuclear inner membrane
+GO:0005886;C:plasma membrane
+GO:0045185;P:maintenance of protein location
+GO:1903473;P:positive regulation of mitotic actomyosin contractile ring contraction
+GO:0008104;P:protein localization
+GO:0098841;P:protein localization to cell division site after cytokinesis
+GO:1901900;P:regulation of protein localization to cell division site
+GO:1990344;P:secondary cell septum biogenesis

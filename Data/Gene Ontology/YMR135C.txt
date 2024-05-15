@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0034657;C:GID complex
+GO:0005634;C:nucleus
+GO:0007049;P:cell cycle
+GO:0045721;P:negative regulation of gluconeogenesis
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0007089;P:traversing start control point of mitotic cell cycle

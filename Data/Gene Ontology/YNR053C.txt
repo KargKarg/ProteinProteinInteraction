@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0070180;F:large ribosomal subunit rRNA binding
+GO:2000200;P:regulation of ribosomal subunit export from nucleus
+GO:0000055;P:ribosomal large subunit export from nucleus

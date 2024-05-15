@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;AB hydrolase-1;39;309
+ACT_SITE;Charge relay system;115;115
+ACT_SITE;Charge relay system;139;139
+ACT_SITE;Charge relay system;302;302

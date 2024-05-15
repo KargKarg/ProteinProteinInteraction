@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0006311;P:meiotic gene conversion
+GO:0007131;P:reciprocal meiotic recombination

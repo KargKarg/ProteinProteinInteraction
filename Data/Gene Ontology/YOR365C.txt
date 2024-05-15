@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0016020;C:membrane
+GO:0009272;P:fungal-type cell wall biogenesis
+GO:0055085;P:transmembrane transport

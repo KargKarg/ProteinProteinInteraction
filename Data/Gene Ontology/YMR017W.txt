@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0000139;C:Golgi membrane
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0005628;C:prospore membrane
+GO:0031201;C:SNARE complex
+GO:0070300;F:phosphatidic acid binding
+GO:0005546;F:phosphatidylinositol-4,5-bisphosphate binding
+GO:0005484;F:SNAP receptor activity
+GO:0019905;F:syntaxin binding
+GO:0031321;P:ascospore-type prospore assembly
+GO:0006887;P:exocytosis
+GO:0048210;P:Golgi vesicle fusion to target membrane
+GO:0006886;P:intracellular protein transport
+GO:0043934;P:sporulation
+GO:0006906;P:vesicle fusion

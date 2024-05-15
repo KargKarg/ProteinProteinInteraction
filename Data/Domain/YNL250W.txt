@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Zinc-hook;640;741
+BINDING;;34;41
+BINDING;;687;687
+BINDING;;690;690

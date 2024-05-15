@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005777;C:peroxisome
+GO:0106386;F:(3R)-hydroxyacyl-CoA dehydrogenase (NAD) activity
+GO:0003857;F:3-hydroxyacyl-CoA dehydrogenase activity
+GO:0004300;F:enoyl-CoA hydratase activity
+GO:0016853;F:isomerase activity
+GO:0006635;P:fatty acid beta-oxidation

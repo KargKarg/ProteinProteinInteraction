@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;HEAT 1;1316;1355
+REPEAT;HEAT 2;1779;1814
+REPEAT;HEAT 3;1902;1941
+REPEAT;HEAT 4;1985;2023
+REGION;Disordered;1;65
+REGION;Bromodomain-like (BRDL);1648;1732
+MOTIF;YYX motif;2141;2143

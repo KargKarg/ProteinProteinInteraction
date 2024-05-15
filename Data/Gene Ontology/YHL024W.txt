@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0017069;F:snRNA binding
+GO:0051321;P:meiotic cell cycle
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0006279;P:premeiotic DNA replication
+GO:0007131;P:reciprocal meiotic recombination
+GO:0030435;P:sporulation resulting in formation of a cellular spore

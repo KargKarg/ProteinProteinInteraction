@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005762;C:mitochondrial large ribosomal subunit
+GO:0004045;F:aminoacyl-tRNA hydrolase activity
+GO:0016150;F:translation release factor activity, codon nonspecific
+GO:0070126;P:mitochondrial translational termination

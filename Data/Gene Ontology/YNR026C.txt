@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005794;C:Golgi apparatus
+GO:0005096;F:GTPase activator activity
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0009306;P:protein secretion
+GO:0003400;P:regulation of COPII vesicle coating
+GO:0016192;P:vesicle-mediated transport

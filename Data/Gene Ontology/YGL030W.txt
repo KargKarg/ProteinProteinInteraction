@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0022625;C:cytosolic large ribosomal subunit
+GO:0030627;F:pre-mRNA 5'-splice site binding
+GO:0003723;F:RNA binding
+GO:0003735;F:structural constituent of ribosome
+GO:0002181;P:cytoplasmic translation
+GO:0048025;P:negative regulation of mRNA splicing, via spliceosome
+GO:0006364;P:rRNA processing

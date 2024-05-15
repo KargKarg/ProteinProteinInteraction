@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005740;C:mitochondrial envelope
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0015227;F:acyl carnitine transmembrane transporter activity
+GO:0005476;F:carnitine:acyl carnitine antiporter activity
+GO:1902603;P:carnitine transmembrane transport
+GO:0006631;P:fatty acid metabolic process
+GO:0006839;P:mitochondrial transport

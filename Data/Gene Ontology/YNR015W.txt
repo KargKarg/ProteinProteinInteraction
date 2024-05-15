@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0017150;F:tRNA dihydrouridine synthase activity
+GO:0102264;F:tRNA-dihydrouridine20 synthase activity
+GO:0006397;P:mRNA processing
+GO:0002943;P:tRNA dihydrouridine synthesis
+GO:0006400;P:tRNA modification
+GO:0008033;P:tRNA processing

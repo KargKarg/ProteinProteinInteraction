@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PRELI/MSF1;2;172
+REGION;Required for mitochondrial targeting;1;80
+BINDING;;26;26
+BINDING;;58;58
+BINDING;;148;148
+BINDING;;152;152

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0004015;F:adenosylmethionine-8-amino-7-oxononanoate transaminase activity
+GO:0004141;F:dethiobiotin synthase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0009102;P:biotin biosynthetic process

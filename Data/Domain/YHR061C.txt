@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CRIB;126;139
+REGION;Disordered;112;156
+REGION;Disordered;199;221
+REGION;Disordered;241;261

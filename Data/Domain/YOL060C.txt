@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CNNM transmembrane;57;240
+DOMAIN;CBS 1;259;320
+DOMAIN;CBS 2;321;386
+REGION;Disordered;421;495
+REGION;Disordered;515;540
+REGION;Disordered;557;597
+REGION;Disordered;626;706

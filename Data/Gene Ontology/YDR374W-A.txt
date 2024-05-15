@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0019237;F:centromeric DNA binding
+GO:0007059;P:chromosome segregation

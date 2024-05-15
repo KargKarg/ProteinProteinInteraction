@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:1990964;C:actin cytoskeleton-regulatory complex
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0010008;C:endosome membrane
+GO:0043332;C:mating projection tip
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0003779;F:actin binding
+GO:0071933;F:Arp2/3 complex binding
+GO:0005509;F:calcium ion binding
+GO:0000147;P:actin cortical patch assembly
+GO:0007120;P:axial cellular bud site selection
+GO:0007121;P:bipolar cellular bud site selection
+GO:0071555;P:cell wall organization
+GO:0006897;P:endocytosis
+GO:0016197;P:endosomal transport
+GO:2000601;P:positive regulation of Arp2/3 complex-mediated actin nucleation

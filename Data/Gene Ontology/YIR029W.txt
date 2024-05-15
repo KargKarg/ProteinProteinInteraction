@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0004037;F:allantoicase activity
+GO:0000256;P:allantoin catabolic process
+GO:0006144;P:purine nucleobase metabolic process

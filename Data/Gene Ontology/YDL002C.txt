@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0031011;C:Ino80 complex
+GO:0005634;C:nucleus
+GO:0045027;F:DNA end binding
+GO:0000404;F:heteroduplex DNA loop binding
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0006302;P:double-strand break repair
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0000722;P:telomere maintenance via recombination

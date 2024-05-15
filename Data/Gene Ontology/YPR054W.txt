@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0004707;F:MAP kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0030476;P:ascospore wall assembly
+GO:0035556;P:intracellular signal transduction
+GO:0042174;P:negative regulation of sporulation resulting in formation of a cellular spore
+GO:0016310;P:phosphorylation
+GO:0008360;P:regulation of cell shape

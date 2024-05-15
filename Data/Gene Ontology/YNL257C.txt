@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0032541;C:cortical endoplasmic reticulum
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005886;C:plasma membrane
+GO:0003712;F:transcription coregulator activity
+GO:0032366;P:intracellular sterol transport
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

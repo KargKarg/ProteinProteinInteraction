@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;S1 motif;67;137

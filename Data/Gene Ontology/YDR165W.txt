@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0106143;C:tRNA (m7G46) methyltransferase complex
+GO:0043527;C:tRNA methyltransferase complex
+GO:0008047;F:enzyme activator activity
+GO:0106004;P:tRNA (guanine-N7)-methylation
+GO:0030488;P:tRNA methylation
+GO:0006400;P:tRNA modification

@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Cytochrome b5 heme-binding;409;487
+MOTIF;Histidine box-1;161;166
+MOTIF;Histidine box-2;198;202
+MOTIF;Histidine box-3;335;339
+BINDING;;161;161
+BINDING;;166;166
+BINDING;;198;198
+BINDING;;201;201
+BINDING;;202;202
+BINDING;;306;306
+BINDING;;335;335
+BINDING;;338;338
+BINDING;;339;339
+BINDING;axial binding residue;444;444
+BINDING;axial binding residue;470;470

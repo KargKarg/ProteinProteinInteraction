@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005823;C:central plaque of spindle pole body
+GO:0005737;C:cytoplasm
+GO:0005822;C:inner plaque of spindle pole body
+GO:0005634;C:nucleus
+GO:0005516;F:calmodulin binding
+GO:0044877;F:protein-containing complex binding
+GO:0005200;F:structural constituent of cytoskeleton
+GO:0110120;P:gamma-tubulin complex localization to nuclear side of mitotic spindle pole body
+GO:0000742;P:karyogamy involved in conjugation with cellular fusion
+GO:0000022;P:mitotic spindle elongation
+GO:0090063;P:positive regulation of microtubule nucleation
+GO:1902440;P:protein localization to mitotic spindle pole body
+GO:0065003;P:protein-containing complex assembly
+GO:0010968;P:regulation of microtubule nucleation

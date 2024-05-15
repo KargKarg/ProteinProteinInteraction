@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0004424;F:imidazoleglycerol-phosphate dehydratase activity
+GO:0046872;F:metal ion binding
+GO:0000105;P:histidine biosynthetic process

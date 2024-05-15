@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0016603;F:glutaminyl-peptide cyclotransferase activity
+GO:0008270;F:zinc ion binding

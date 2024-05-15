@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with MYO2;300;439
+REGION;Disordered;419;491

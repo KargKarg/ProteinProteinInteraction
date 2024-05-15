@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005375;F:copper ion transmembrane transporter activity
+GO:0005315;F:inorganic phosphate transmembrane transporter activity
+GO:0035434;P:copper ion transmembrane transport
+GO:0006878;P:intracellular copper ion homeostasis
+GO:1990547;P:mitochondrial phosphate ion transmembrane transport
+GO:0035435;P:phosphate ion transmembrane transport

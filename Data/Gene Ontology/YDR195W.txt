@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0003723;F:RNA binding
+GO:0031124;P:mRNA 3'-end processing
+GO:0006378;P:mRNA polyadenylation
+GO:1903501;P:positive regulation of mitotic actomyosin contractile ring assembly
+GO:1901901;P:regulation of protein localization to cell division site involved in cytokinesis
+GO:0031126;P:sno(s)RNA 3'-end processing
+GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled

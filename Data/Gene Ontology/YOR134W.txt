@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005096;F:GTPase activator activity
+GO:0035024;P:negative regulation of Rho protein signal transduction
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0007165;P:signal transduction

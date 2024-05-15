@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;CHCR;406;583
+ZN_FING;RING-type;928;973
+REGION;Disordered;637;656

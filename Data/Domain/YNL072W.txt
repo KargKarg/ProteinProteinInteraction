@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;RNase H type-2;33;260
+BINDING;;39;39
+BINDING;;40;40
+BINDING;;155;155

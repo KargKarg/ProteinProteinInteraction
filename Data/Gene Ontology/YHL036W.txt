@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0015179;F:L-amino acid transmembrane transporter activity
+GO:0015191;F:L-methionine transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:1903692;P:methionine import across plasma membrane

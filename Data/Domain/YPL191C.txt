@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;317;360
+ACT_SITE;Nucleophile;28;28
+ACT_SITE;Proton acceptor;216;216
+SITE;Ubiquitin-binding;296;296
+SITE;Ubiquitin-binding;299;300
+SITE;Ubiquitin-binding;303;303

@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CS;1;91

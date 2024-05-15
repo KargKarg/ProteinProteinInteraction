@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0034457;C:Mpp10 complex
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0032040;C:small-subunit processome
+GO:0042134;F:rRNA primary transcript binding
+GO:0043047;F:single-stranded telomeric DNA binding
+GO:0030515;F:snoRNA binding
+GO:0030490;P:maturation of SSU-rRNA
+GO:0042274;P:ribosomal small subunit biogenesis
+GO:0006364;P:rRNA processing

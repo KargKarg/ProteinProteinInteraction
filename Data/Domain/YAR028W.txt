@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Required for resistance to killer toxin K28, a protein-toxin encoded by the M28 virus;68;75
+REGION;Required for resistance to killer toxin K28, a protein-toxin encoded by the M28 virus;147;234
+REGION;Disordered;168;187

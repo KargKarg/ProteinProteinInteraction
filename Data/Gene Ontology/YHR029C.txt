@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0016853;F:isomerase activity
+GO:0009058;P:biosynthetic process
+GO:0030968;P:endoplasmic reticulum unfolded protein response

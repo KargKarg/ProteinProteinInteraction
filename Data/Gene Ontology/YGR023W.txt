@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0005773;C:vacuole
+GO:0042149;P:cellular response to glucose starvation
+GO:0034599;P:cellular response to oxidative stress
+GO:0031505;P:fungal-type cell wall organization
+GO:0007039;P:protein catabolic process in the vacuole

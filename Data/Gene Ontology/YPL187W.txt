@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005576;C:extracellular region
+GO:1903135;F:cupric ion binding
+GO:0000772;F:mating pheromone activity
+GO:0007618;P:mating
+GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion

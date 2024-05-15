@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Aspartate;226;229
+BINDING;;198;198
+BINDING;;248;250
+BINDING;;248;248
+BINDING;;553;553
+BINDING;;560;560
+BINDING;;604;607

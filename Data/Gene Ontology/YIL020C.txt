@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003949;F:1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity
+GO:0000105;P:histidine biosynthetic process
+GO:0000162;P:tryptophan biosynthetic process

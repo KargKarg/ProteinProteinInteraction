@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0000786;C:nucleosome
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0042393;F:histone binding
+GO:0031151;F:histone H3K79 methyltransferase activity
+GO:0140956;F:histone H3K79 trimethyltransferase activity
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0006281;P:DNA repair
+GO:0070911;P:global genome nucleotide-excision repair
+GO:0034729;P:histone H3-K79 methylation
+GO:0051598;P:meiotic recombination checkpoint signaling
+GO:0031571;P:mitotic G1 DNA damage checkpoint signaling
+GO:0031573;P:mitotic intra-S DNA damage checkpoint signaling
+GO:0031452;P:negative regulation of heterochromatin formation
+GO:0006334;P:nucleosome assembly
+GO:0006289;P:nucleotide-excision repair
+GO:0006301;P:postreplication repair
+GO:0000725;P:recombinational repair
+GO:0031509;P:subtelomeric heterochromatin formation

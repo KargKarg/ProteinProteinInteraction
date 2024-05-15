@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0051286;C:cell tip
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005829;C:cytosol
+GO:0070319;C:Golgi to plasma membrane transport vesicle
+GO:0043332;C:mating projection tip
+GO:0030133;C:transport vesicle
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0042802;F:identical protein binding
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0006914;P:autophagy
+GO:0006887;P:exocytosis
+GO:0015031;P:protein transport

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000145;C:exocyst
+GO:0043332;C:mating projection tip
+GO:0006887;P:exocytosis
+GO:0006893;P:Golgi to plasma membrane transport
+GO:0015031;P:protein transport
+GO:0006904;P:vesicle docking involved in exocytosis

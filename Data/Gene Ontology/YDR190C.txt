@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0031011;C:Ino80 complex
+GO:0035267;C:NuA4 histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0097255;C:R2TP complex
+GO:0000812;C:Swr1 complex
+GO:0043139;F:5'-3' DNA helicase activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003678;F:DNA helicase activity
+GO:0000492;P:box C/D snoRNP assembly
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0050821;P:protein stabilization
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0006357;P:regulation of transcription by RNA polymerase II

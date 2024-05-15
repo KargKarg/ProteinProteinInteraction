@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004115;F:3',5'-cyclic-AMP phosphodiesterase activity
+GO:0046872;F:metal ion binding
+GO:0019933;P:cAMP-mediated signaling

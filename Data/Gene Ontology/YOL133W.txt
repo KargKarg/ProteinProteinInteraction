@@ -1,0 +1,32 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0031463;C:Cul3-RING ubiquitin ligase complex
+GO:0035361;C:Cul8-RING ubiquitin ligase complex
+GO:0031461;C:cullin-RING ubiquitin ligase complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0019005;C:SCF ubiquitin ligase complex
+GO:0097602;F:cullin family protein binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0008270;F:zinc ion binding
+GO:0051301;P:cell division
+GO:0071406;P:cellular response to methylmercury
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:0000086;P:G2/M transition of mitotic cell cycle
+GO:0031507;P:heterochromatin formation
+GO:0008053;P:mitochondrial fusion
+GO:0031573;P:mitotic intra-S DNA damage checkpoint signaling
+GO:0006334;P:nucleosome assembly
+GO:0006289;P:nucleotide-excision repair
+GO:0010828;P:positive regulation of glucose transmembrane transport
+GO:0016567;P:protein ubiquitination
+GO:0006275;P:regulation of DNA replication
+GO:0019222;P:regulation of metabolic process
+GO:0007346;P:regulation of mitotic cell cycle
+GO:0031335;P:regulation of sulfur amino acid metabolic process
+GO:0000409;P:regulation of transcription by galactose
+GO:0031146;P:SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0006511;P:ubiquitin-dependent protein catabolic process

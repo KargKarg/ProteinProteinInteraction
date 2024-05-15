@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;USP;736;1258
+REGION;Disordered;884;918
+ACT_SITE;Nucleophile;745;745
+ACT_SITE;Proton acceptor;1209;1209

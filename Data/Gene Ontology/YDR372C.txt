@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005794;C:Golgi apparatus
+GO:0031985;C:Golgi cisterna
+GO:0032580;C:Golgi cisterna membrane
+GO:0005797;C:Golgi medial cisterna
+GO:0000139;C:Golgi membrane
+GO:0005634;C:nucleus
+GO:0005802;C:trans-Golgi network
+GO:0019899;F:enzyme binding
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0030968;P:endoplasmic reticulum unfolded protein response
+GO:0007030;P:Golgi organization
+GO:0043001;P:Golgi to plasma membrane protein transport
+GO:0048194;P:Golgi vesicle budding
+GO:0006487;P:protein N-linked glycosylation
+GO:0035269;P:protein O-linked mannosylation
+GO:0045053;P:protein retention in Golgi apparatus
+GO:0060304;P:regulation of phosphatidylinositol dephosphorylation
+GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

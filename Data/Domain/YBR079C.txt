@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PCI;321;496
+REGION;Disordered;503;545
+REGION;Disordered;839;964

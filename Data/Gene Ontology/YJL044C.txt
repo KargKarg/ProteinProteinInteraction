@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0005802;C:trans-Golgi network
+GO:0005096;F:GTPase activator activity
+GO:0090630;P:activation of GTPase activity

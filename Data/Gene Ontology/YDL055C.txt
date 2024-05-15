@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005525;F:GTP binding
+GO:0004475;F:mannose-1-phosphate guanylyltransferase (GTP) activity
+GO:0007049;P:cell cycle
+GO:0000032;P:cell wall mannoprotein biosynthetic process
+GO:0009298;P:GDP-mannose biosynthetic process
+GO:0006486;P:protein glycosylation

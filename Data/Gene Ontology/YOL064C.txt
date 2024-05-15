@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0008441;F:3'(2'),5'-bisphosphate nucleotidase activity
+GO:0046872;F:metal ion binding
+GO:0042538;P:hyperosmotic salinity response
+GO:0009086;P:methionine biosynthetic process
+GO:0046854;P:phosphatidylinositol phosphate biosynthetic process
+GO:0000103;P:sulfate assimilation

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:1990143;C:CoA-synthesizing protein complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0004140;F:dephospho-CoA kinase activity
+GO:0004595;F:pantetheine-phosphate adenylyltransferase activity
+GO:0015937;P:coenzyme A biosynthetic process

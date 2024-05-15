@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0008703;F:5-amino-6-(5-phosphoribosylamino)uracil reductase activity
+GO:0050661;F:NADP binding
+GO:0009231;P:riboflavin biosynthetic process

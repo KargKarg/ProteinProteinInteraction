@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0017150;F:tRNA dihydrouridine synthase activity
+GO:0102262;F:tRNA-dihydrouridine16 synthase activity
+GO:0102263;F:tRNA-dihydrouridine17 synthase activity
+GO:0006397;P:mRNA processing
+GO:0006400;P:tRNA modification

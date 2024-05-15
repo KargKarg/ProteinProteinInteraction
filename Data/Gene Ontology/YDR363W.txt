@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0035361;C:Cul8-RING ubiquitin ligase complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0031507;P:heterochromatin formation
+GO:0031573;P:mitotic intra-S DNA damage checkpoint signaling
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0033235;P:positive regulation of protein sumoylation
+GO:0030466;P:silent mating-type cassette heterochromatin formation

@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0030870;C:Mre11 complex
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0004520;F:DNA endonuclease activity
+GO:0003690;F:double-stranded DNA binding
+GO:0042802;F:identical protein binding
+GO:0000014;F:single-stranded DNA endodeoxyribonuclease activity
+GO:0000729;P:DNA double-strand break processing
+GO:0010791;P:DNA double-strand break processing involved in repair via synthesis-dependent strand annealing
+GO:0007534;P:gene conversion at mating-type locus
+GO:0042138;P:meiotic DNA double-strand break formation
+GO:0000706;P:meiotic DNA double-strand break processing
+GO:0000723;P:telomere maintenance
+GO:0031860;P:telomeric 3' overhang formation

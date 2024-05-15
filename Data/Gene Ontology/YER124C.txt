@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0031683;F:G-protein beta/gamma-subunit complex binding
+GO:0007049;P:cell cycle
+GO:0071555;P:cell wall organization
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0010969;P:regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion
+GO:0000920;P:septum digestion after cytokinesis

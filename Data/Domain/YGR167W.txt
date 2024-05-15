@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;124
+REGION;Involved in binding clathrin heavy chain;144;204

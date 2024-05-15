@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0043023;F:ribosomal large subunit binding
+GO:0003743;F:translation initiation factor activity
+GO:1902626;P:assembly of large subunit precursor of preribosome
+GO:0042256;P:cytosolic ribosome assembly
+GO:0000460;P:maturation of 5.8S rRNA
+GO:0000466;P:maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000470;P:maturation of LSU-rRNA
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0000054;P:ribosomal subunit export from nucleus
+GO:0006364;P:rRNA processing

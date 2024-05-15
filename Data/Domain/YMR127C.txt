@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MYST-type HAT;45;338
+ZN_FING;C2HC MYST-type;100;126
+REGION;Disordered;1;31
+ACT_SITE;Proton donor/acceptor;242;242
+BINDING;;209;211
+BINDING;;216;222
+BINDING;;246;246
+BINDING;;323;323

@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PUM-HD;23;435
+REPEAT;Pumilio 1;92;127
+REPEAT;Pumilio 2;128;163
+REPEAT;Pumilio 3;188;223
+REPEAT;Pumilio 4;286;326
+REPEAT;Pumilio 5;334;368
+REPEAT;Pumilio 6;369;407
+REPEAT;Pumilio 7;511;548
+REPEAT;Pumilio 8;549;587
+REGION;Disordered;1;40
+REGION;Disordered;635;666

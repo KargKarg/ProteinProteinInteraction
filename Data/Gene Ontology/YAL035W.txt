@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0033290;C:eukaryotic 48S preinitiation complex
+GO:0005739;C:mitochondrion
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0046872;F:metal ion binding
+GO:0043022;F:ribosome binding
+GO:0070181;F:small ribosomal subunit rRNA binding
+GO:0003743;F:translation initiation factor activity
+GO:0031369;F:translation initiation factor binding
+GO:0042256;P:cytosolic ribosome assembly
+GO:0001732;P:formation of cytoplasmic translation initiation complex
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0006446;P:regulation of translational initiation
+GO:0042255;P:ribosome assembly
+GO:0006413;P:translational initiation

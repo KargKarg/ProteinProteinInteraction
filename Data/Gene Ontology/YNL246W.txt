@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005829;C:cytosol
+GO:0070775;C:H3 histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0010698;F:acetyltransferase activator activity
+GO:0003682;F:chromatin binding
+GO:0042393;F:histone binding
+GO:0042802;F:identical protein binding
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0043966;P:histone H3 acetylation
+GO:0043972;P:histone H3-K23 acetylation
+GO:0097043;P:histone H3-K56 acetylation
+GO:0043970;P:histone H3-K9 acetylation
+GO:0006334;P:nucleosome assembly
+GO:0035066;P:positive regulation of histone acetylation
+GO:2000617;P:positive regulation of histone H3-K9 acetylation
+GO:0015031;P:protein transport

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0034399;C:nuclear periphery
+GO:0005634;C:nucleus
+GO:0008139;F:nuclear localization sequence binding
+GO:0031267;F:small GTPase binding
+GO:0006606;P:protein import into nucleus
+GO:0006404;P:RNA import into nucleus
+GO:0006403;P:RNA localization
+GO:0061015;P:snRNA import into nucleus
+GO:0051031;P:tRNA transport

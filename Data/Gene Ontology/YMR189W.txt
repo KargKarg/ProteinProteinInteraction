@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005960;C:glycine cleavage complex
+GO:0005739;C:mitochondrion
+GO:0016594;F:glycine binding
+GO:0004375;F:glycine dehydrogenase (decarboxylating) activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0006546;P:glycine catabolic process
+GO:0019464;P:glycine decarboxylation via glycine cleavage system
+GO:0006730;P:one-carbon metabolic process

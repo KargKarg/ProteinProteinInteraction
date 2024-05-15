@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;9;27
+REPEAT;2;28;46
+REPEAT;3;47;65
+REGION;3 X 19 AA tandem repeats of S-M-X-M-X-A-M-S-S-A-S-K-T-X-X-S-X-M-X;9;65
+REGION;Disordered;71;117
+REGION;Disordered;318;406
+MOTIF;REP-III;304;315

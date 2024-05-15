@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005788;C:endoplasmic reticulum lumen
+GO:0044322;C:endoplasmic reticulum quality control compartment
+GO:0106055;C:mannosyl-oligosaccharide 1,2-alpha-mannosidase complex
+GO:0016020;C:membrane
+GO:0005509;F:calcium ion binding
+GO:0030246;F:carbohydrate binding
+GO:0004571;F:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity
+GO:0005975;P:carbohydrate metabolic process
+GO:1904380;P:endoplasmic reticulum mannose trimming
+GO:1904382;P:mannose trimming involved in glycoprotein ERAD pathway
+GO:1900103;P:positive regulation of endoplasmic reticulum unfolded protein response
+GO:0036508;P:protein alpha-1,2-demannosylation
+GO:0006486;P:protein glycosylation
+GO:0006986;P:response to unfolded protein
+GO:0097466;P:ubiquitin-dependent glycoprotein ERAD pathway

@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0018741;F:linear primary-alkylsulfatase activity
+GO:0046872;F:metal ion binding
+GO:0046983;F:protein dimerization activity
+GO:0018909;P:dodecyl sulfate metabolic process

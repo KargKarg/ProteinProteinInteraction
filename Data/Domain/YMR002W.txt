@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CHCH;115;156
+REGION;Disordered;1;50
+REGION;Disordered;78;110
+MOTIF;Cx9C motif;118;128

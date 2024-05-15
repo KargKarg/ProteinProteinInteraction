@@ -1,0 +1,9 @@
+GO id;GO term
+GO:1990483;C:Clr6 histone deacetylase complex I''
+GO:0005634;C:nucleus
+GO:0070210;C:Rpd3L-Expanded complex
+GO:0003682;F:chromatin binding
+GO:0003713;F:transcription coactivator activity
+GO:0030437;P:ascospore formation
+GO:0006338;P:chromatin remodeling
+GO:0006357;P:regulation of transcription by RNA polymerase II

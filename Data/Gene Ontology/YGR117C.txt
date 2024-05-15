@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0031326;P:regulation of cellular biosynthetic process
+GO:0080090;P:regulation of primary metabolic process

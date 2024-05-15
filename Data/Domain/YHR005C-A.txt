@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with transmembrane regions of transmembrane proteins in transit;1;31
+REGION;Required for heterohexamerization;73;93
+MOTIF;Twin CX3C motif;40;65

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0030267;F:glyoxylate reductase (NADP+) activity
+GO:0016618;F:hydroxypyruvate reductase activity
+GO:0051287;F:NAD binding
+GO:0016616;F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor

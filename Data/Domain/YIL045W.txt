@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CBM21;384;508

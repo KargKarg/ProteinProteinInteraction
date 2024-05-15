@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003700;F:DNA-binding transcription factor activity
+GO:0046983;F:protein dimerization activity
+GO:0043565;F:sequence-specific DNA binding
+GO:0016036;P:cellular response to phosphate starvation
+GO:0006338;P:chromatin remodeling
+GO:0045937;P:positive regulation of phosphate metabolic process
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

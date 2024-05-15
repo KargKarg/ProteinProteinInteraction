@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0046872;F:metal ion binding
+GO:0004222;F:metalloendopeptidase activity
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0006518;P:peptide metabolic process
+GO:0006627;P:protein processing involved in protein targeting to mitochondrion
+GO:0050821;P:protein stabilization

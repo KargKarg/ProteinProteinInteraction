@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0017053;C:transcription repressor complex
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0045892;P:negative regulation of DNA-templated transcription
+GO:0045727;P:positive regulation of translation
+GO:0006417;P:regulation of translation
+GO:0070482;P:response to oxygen levels

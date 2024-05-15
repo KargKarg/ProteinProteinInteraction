@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0071026;P:cytoplasmic RNA surveillance
+GO:0006310;P:DNA recombination
+GO:0070478;P:nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:0045727;P:positive regulation of translation
+GO:0016567;P:protein ubiquitination

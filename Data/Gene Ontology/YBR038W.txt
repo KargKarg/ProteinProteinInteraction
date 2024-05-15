@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0030428;C:cell septum
+GO:0005935;C:cellular bud neck
+GO:0016020;C:membrane
+GO:0004100;F:chitin synthase activity
+GO:0006038;P:cell wall chitin biosynthetic process
+GO:0071555;P:cell wall organization
+GO:0006031;P:chitin biosynthetic process
+GO:1902404;P:mitotic actomyosin contractile ring contraction

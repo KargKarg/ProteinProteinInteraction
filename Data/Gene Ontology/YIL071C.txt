@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0008180;C:COP9 signalosome
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000754;P:adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion
+GO:0000338;P:protein deneddylation
+GO:2000434;P:regulation of protein neddylation

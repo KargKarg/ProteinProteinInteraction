@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005634;C:nucleus
+GO:1990904;C:ribonucleoprotein complex
+GO:0031370;F:eukaryotic initiation factor 4G binding
+GO:0042802;F:identical protein binding
+GO:0003729;F:mRNA binding
+GO:0008143;F:poly(A) binding
+GO:0000993;F:RNA polymerase II complex binding
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:2000805;P:negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled
+GO:0017148;P:negative regulation of translation
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0042254;P:ribosome biogenesis
+GO:0006415;P:translational termination

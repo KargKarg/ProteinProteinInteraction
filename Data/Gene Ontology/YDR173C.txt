@@ -1,0 +1,24 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0090575;C:RNA polymerase II transcription regulator complex
+GO:0016303;F:1-phosphatidylinositol-3-kinase activity
+GO:0046934;F:1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity
+GO:0005524;F:ATP binding
+GO:0000828;F:inositol hexakisphosphate kinase activity
+GO:0000824;F:inositol tetrakisphosphate 3-kinase activity
+GO:0000825;F:inositol tetrakisphosphate 6-kinase activity
+GO:0000827;F:inositol-1,3,4,5,6-pentakisphosphate kinase activity
+GO:0008440;F:inositol-1,4,5-trisphosphate 3-kinase activity
+GO:0000823;F:inositol-1,4,5-trisphosphate 6-kinase activity
+GO:0046872;F:metal ion binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0006525;P:arginine metabolic process
+GO:0032958;P:inositol phosphate biosynthetic process
+GO:0016236;P:macroautophagy
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0046854;P:phosphatidylinositol phosphate biosynthetic process
+GO:0016310;P:phosphorylation
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0050821;P:protein stabilization
+GO:0000821;P:regulation of arginine metabolic process

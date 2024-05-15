@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;HMG box 1;43;111
+DNA_BIND;HMG box 2;116;183

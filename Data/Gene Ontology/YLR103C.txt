@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0071162;C:CMG complex
+GO:0031261;C:DNA replication preinitiation complex
+GO:0043596;C:nuclear replication fork
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0003682;F:chromatin binding
+GO:0003688;F:DNA replication origin binding
+GO:0003697;F:single-stranded DNA binding
+GO:0006270;P:DNA replication initiation
+GO:0006268;P:DNA unwinding involved in DNA replication
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:1902977;P:mitotic DNA replication preinitiation complex assembly

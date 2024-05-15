@@ -1,0 +1,6 @@
+GO id;GO term
+GO:1990524;C:INA complex
+GO:0005743;C:mitochondrial inner membrane
+GO:1990677;C:mitochondrial inner membrane assembly complex
+GO:0005739;C:mitochondrion
+GO:0033615;P:mitochondrial proton-transporting ATP synthase complex assembly

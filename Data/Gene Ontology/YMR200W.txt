@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0051082;F:unfolded protein binding
+GO:0006458;P:'de novo' protein folding
+GO:0007118;P:budding cell apical bud growth
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0009272;P:fungal-type cell wall biogenesis
+GO:0006457;P:protein folding
+GO:0034975;P:protein folding in endoplasmic reticulum
+GO:0006487;P:protein N-linked glycosylation
+GO:0035269;P:protein O-linked mannosylation

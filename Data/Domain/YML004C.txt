@@ -1,0 +1,14 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;VOC 1;22;167
+DOMAIN;VOC 2;182;322
+ACT_SITE;Proton donor/acceptor;163;163
+ACT_SITE;Proton donor/acceptor;318;318
+BINDING;;25;25
+BINDING;;29;29
+BINDING;;89;89
+BINDING;;93;93
+BINDING;in other chain;113;113
+BINDING;in other chain;117;117
+BINDING;in other chain;117;117
+BINDING;in other chain;147;148
+BINDING;in other chain;163;163

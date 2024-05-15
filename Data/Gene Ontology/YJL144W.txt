@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0055106;F:ubiquitin-protein transferase regulator activity
+GO:0042631;P:cellular response to water deprivation
+GO:0120174;P:stress-induced homeostatically regulated protein degradation pathway

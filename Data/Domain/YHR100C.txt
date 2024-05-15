@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Phosphoryl acceptor;45;49

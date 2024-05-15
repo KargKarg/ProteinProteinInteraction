@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0008271;F:secondary active sulfate transmembrane transporter activity
+GO:0015116;F:sulfate transmembrane transporter activity

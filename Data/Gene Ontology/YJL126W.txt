@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0050406;F:[acetyl-CoA carboxylase]-phosphatase activity
+GO:0110050;F:deaminated glutathione amidase activity
+GO:0043605;P:amide catabolic process

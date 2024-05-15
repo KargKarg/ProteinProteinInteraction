@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0018423;F:protein C-terminal leucine carboxyl O-methyltransferase activity
+GO:0006481;P:C-terminal protein methylation
+GO:0065003;P:protein-containing complex assembly
+GO:0010506;P:regulation of autophagy

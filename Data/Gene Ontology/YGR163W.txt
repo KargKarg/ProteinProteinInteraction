@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0000329;C:fungal-type vacuole membrane
+GO:1990131;C:Gtr1-Gtr2 GTPase complex
+GO:0005770;C:late endosome
+GO:0031902;C:late endosome membrane
+GO:0005634;C:nucleus
+GO:0071986;C:Ragulator complex
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0009267;P:cellular response to starvation
+GO:0032456;P:endocytic recycling
+GO:0016237;P:microautophagy
+GO:0010507;P:negative regulation of autophagy
+GO:0032008;P:positive regulation of TOR signaling
+GO:1904263;P:positive regulation of TORC1 signaling
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:1903778;P:protein localization to vacuolar membrane

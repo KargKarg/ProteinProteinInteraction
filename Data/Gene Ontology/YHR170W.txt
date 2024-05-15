@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0070180;F:large ribosomal subunit rRNA binding
+GO:0043023;F:ribosomal large subunit binding
+GO:0015031;P:protein transport
+GO:0000055;P:ribosomal large subunit export from nucleus

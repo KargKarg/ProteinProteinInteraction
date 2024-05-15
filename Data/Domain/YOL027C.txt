@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Letm1 RBD;182;404
+REGION;Disordered;417;455
+REGION;Disordered;477;573

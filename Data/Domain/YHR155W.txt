@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PH;308;421
+DOMAIN;VASt;773;978

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0012505;C:endomembrane system
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:1990871;C:Vma12-Vma22 assembly complex
+GO:0007035;P:vacuolar acidification
+GO:0070072;P:vacuolar proton-transporting V-type ATPase complex assembly

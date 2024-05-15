@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005737;C:cytoplasm
+GO:0005881;C:cytoplasmic microtubule
+GO:0000776;C:kinetochore
+GO:0043332;C:mating projection tip
+GO:0005634;C:nucleus
+GO:0005816;C:spindle pole body
+GO:0051293;P:establishment of spindle localization
+GO:0000741;P:karyogamy
+GO:0031578;P:mitotic spindle orientation checkpoint signaling
+GO:0030473;P:nuclear migration along microtubule

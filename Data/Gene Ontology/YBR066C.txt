@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0031519;C:PcG protein complex
+GO:0005667;C:transcription regulator complex
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0046872;F:metal ion binding
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0000433;P:carbon catabolite repression of transcription from RNA polymerase II promoter by glucose
+GO:0043709;P:cell adhesion involved in single-species biofilm formation
+GO:2000221;P:negative regulation of pseudohyphal growth
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

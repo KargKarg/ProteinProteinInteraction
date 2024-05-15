@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0005741;C:mitochondrial outer membrane
+GO:0055037;C:recycling endosome
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0006914;P:autophagy
+GO:0034498;P:early endosome to Golgi transport
+GO:0006887;P:exocytosis
+GO:0015031;P:protein transport
+GO:0016192;P:vesicle-mediated transport

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0004045;F:aminoacyl-tRNA hydrolase activity
+GO:0032435;P:negative regulation of proteasomal ubiquitin-dependent protein catabolic process

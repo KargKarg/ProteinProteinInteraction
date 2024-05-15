@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Histone-fold;29;137
+REGION;Disordered;1;43

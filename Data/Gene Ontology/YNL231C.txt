@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0071561;C:nucleus-vacuole junction
+GO:1902556;C:phosphatidylinositol transporter complex
+GO:0005886;C:plasma membrane
+GO:0042802;F:identical protein binding
+GO:0008526;F:phosphatidylinositol transfer activity
+GO:0032934;F:sterol binding
+GO:0043942;P:negative regulation of sexual sporulation resulting in formation of a cellular spore
+GO:0008654;P:phospholipid biosynthetic process
+GO:0015914;P:phospholipid transport
+GO:0009410;P:response to xenobiotic stimulus
+GO:0016126;P:sterol biosynthetic process

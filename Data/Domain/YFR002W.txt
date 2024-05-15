@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Leucine zipper-like heptad repeat, required for interaction with NSP1;25;60

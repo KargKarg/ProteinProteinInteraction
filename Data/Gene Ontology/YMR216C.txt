@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0030003;P:intracellular monoatomic cation homeostasis
+GO:0006873;P:intracellular monoatomic ion homeostasis
+GO:0006376;P:mRNA splice site recognition
+GO:0016310;P:phosphorylation
+GO:0042307;P:positive regulation of protein import into nucleus
+GO:0008361;P:regulation of cell size
+GO:0050684;P:regulation of mRNA processing
+GO:0009410;P:response to xenobiotic stimulus
+GO:0000245;P:spliceosomal complex assembly
+GO:0035617;P:stress granule disassembly

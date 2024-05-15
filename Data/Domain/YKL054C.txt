@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CUE;21;63
+REGION;Disordered;69;455
+REGION;Disordered;467;503
+REGION;Contains the proteolytic activation cleavage site;500;530
+REGION;Disordered;640;688

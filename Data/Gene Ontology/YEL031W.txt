@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0005801;C:cis-Golgi network
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0019829;F:ATPase-coupled monoatomic cation transmembrane transporter activity
+GO:0140567;F:membrane protein dislocase activity
+GO:0046872;F:metal ion binding
+GO:0015662;F:P-type ion transporter activity
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0140569;P:extraction of mislocalized protein from ER membrane
+GO:0006874;P:intracellular calcium ion homeostasis
+GO:0030026;P:intracellular manganese ion homeostasis
+GO:0034214;P:protein hexamerization
+GO:0015031;P:protein transport
+GO:0043335;P:protein unfolding
+GO:0055092;P:sterol homeostasis
+GO:0055085;P:transmembrane transport

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005634;C:nucleus
+GO:0005681;C:spliceosomal complex
+GO:0071008;C:U2-type post-mRNA release spliceosomal complex
+GO:0000390;P:spliceosomal complex disassembly

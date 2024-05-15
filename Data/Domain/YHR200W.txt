@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;VWFA;5;190
+DOMAIN;UIM;223;242
+REGION;Disordered;226;268

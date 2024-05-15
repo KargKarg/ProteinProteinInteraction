@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005801;C:cis-Golgi network
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0046923;F:ER retention sequence binding
+GO:0045015;F:HDEL sequence binding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006621;P:protein retention in ER lumen
+GO:0015031;P:protein transport

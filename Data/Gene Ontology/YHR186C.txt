@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0031931;C:TORC1 complex
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0043130;F:ubiquitin binding
+GO:0071230;P:cellular response to amino acid stimulus
+GO:0009267;P:cellular response to starvation
+GO:0030307;P:positive regulation of cell growth
+GO:0010506;P:regulation of autophagy
+GO:0051726;P:regulation of cell cycle
+GO:0001558;P:regulation of cell growth
+GO:0007584;P:response to nutrient
+GO:0031929;P:TOR signaling

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0030287;C:cell wall-bounded periplasmic space
+GO:0005783;C:endoplasmic reticulum
+GO:0009277;C:fungal-type cell wall
+GO:0003993;F:acid phosphatase activity
+GO:0006796;P:phosphate-containing compound metabolic process
+GO:0042723;P:thiamine-containing compound metabolic process

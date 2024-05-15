@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0042709;C:succinate-CoA ligase complex
+GO:0009361;C:succinate-CoA ligase complex (ADP-forming)
+GO:0005524;F:ATP binding
+GO:0000287;F:magnesium ion binding
+GO:0004775;F:succinate-CoA ligase (ADP-forming) activity
+GO:1901289;P:succinyl-CoA catabolic process
+GO:0006104;P:succinyl-CoA metabolic process
+GO:0006099;P:tricarboxylic acid cycle

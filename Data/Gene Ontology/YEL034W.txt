@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0043022;F:ribosome binding
+GO:0003723;F:RNA binding
+GO:0003746;F:translation elongation factor activity
+GO:0003743;F:translation initiation factor activity
+GO:0140708;P:CAT tailing
+GO:1903272;P:positive regulation of cytoplasmic translational elongation through polyproline stretches
+GO:0045901;P:positive regulation of translational elongation
+GO:0045948;P:positive regulation of translational initiation
+GO:0045905;P:positive regulation of translational termination
+GO:0072344;P:rescue of stalled ribosome
+GO:0006414;P:translational elongation
+GO:0006452;P:translational frameshifting

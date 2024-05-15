@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Helicase ATP-binding 1;297;485
+DOMAIN;Helicase C-terminal 1;516;735
+DOMAIN;SEC63 1;795;1100
+DOMAIN;Helicase ATP-binding 2;1149;1324
+DOMAIN;Helicase C-terminal 2;1355;1550
+DOMAIN;SEC63 2;1626;1776
+MOTIF;DEVH box;427;430
+MOTIF;DEAH box;1266;1269
+BINDING;;310;317
+BINDING;;1162;1169

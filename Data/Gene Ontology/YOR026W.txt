@@ -1,0 +1,9 @@
+GO id;GO term
+GO:1990298;C:bub1-bub3 complex
+GO:0000776;C:kinetochore
+GO:0033597;C:mitotic checkpoint complex
+GO:0005654;C:nucleoplasm
+GO:0043130;F:ubiquitin binding
+GO:0044774;P:mitotic DNA integrity checkpoint signaling
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:1902499;P:positive regulation of protein autoubiquitination

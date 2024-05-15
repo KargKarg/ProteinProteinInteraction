@@ -1,0 +1,34 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005829;C:cytosol
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0032993;C:protein-DNA complex
+GO:0070187;C:shelterin complex
+GO:0005667;C:transcription regulator complex
+GO:0000987;F:cis-regulatory region sequence-specific DNA binding
+GO:0008301;F:DNA binding, bending
+GO:0003700;F:DNA-binding transcription factor activity
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0003691;F:double-stranded telomeric DNA binding
+GO:0051880;F:G-quadruplex DNA binding
+GO:0042393;F:histone binding
+GO:0031492;F:nucleosomal DNA binding
+GO:0061629;F:RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0017025;F:TBP-class protein binding
+GO:0042162;F:telomeric DNA binding
+GO:0001094;F:TFIID-class transcription factor complex binding
+GO:0071169;P:establishment of protein localization to chromatin
+GO:0070200;P:establishment of protein localization to telomere
+GO:0071919;P:G-quadruplex DNA formation
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0060963;P:positive regulation of ribosomal protein gene transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0031848;P:protection from non-homologous end joining at telomere
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0006110;P:regulation of glycolytic process
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0000723;P:telomere maintenance
+GO:0010833;P:telomere maintenance via telomere lengthening

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;TFIIS N-terminal;219;296
+REGION;Disordered;1;132
+REGION;Disordered;318;346

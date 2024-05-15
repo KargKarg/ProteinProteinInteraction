@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004751;F:ribose-5-phosphate isomerase activity
+GO:0006014;P:D-ribose metabolic process
+GO:0006098;P:pentose-phosphate shunt
+GO:0009052;P:pentose-phosphate shunt, non-oxidative branch
+GO:0008615;P:pyridoxine biosynthetic process

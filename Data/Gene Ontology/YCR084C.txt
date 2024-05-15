@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0017053;C:transcription repressor complex
+GO:0042393;F:histone binding
+GO:0042826;F:histone deacetylase binding
+GO:0036033;F:mediator complex binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0003714;F:transcription corepressor activity
+GO:0000433;P:carbon catabolite repression of transcription from RNA polymerase II promoter by glucose
+GO:0006974;P:DNA damage response
+GO:0006972;P:hyperosmotic response
+GO:0045892;P:negative regulation of DNA-templated transcription
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

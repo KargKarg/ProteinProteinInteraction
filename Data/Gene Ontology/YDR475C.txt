@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005681;C:spliceosomal complex
+GO:0048024;P:regulation of mRNA splicing, via spliceosome

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0099617;C:matrix side of mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0000002;P:mitochondrial genome maintenance
+GO:0097745;P:mitochondrial tRNA 5'-end processing
+GO:0007035;P:vacuolar acidification

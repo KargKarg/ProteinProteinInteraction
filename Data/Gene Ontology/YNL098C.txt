@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0003925;F:G protein activity
+GO:0019003;F:GDP binding
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0030437;P:ascospore formation
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0016236;P:macroautophagy
+GO:2000222;P:positive regulation of pseudohyphal growth
+GO:0000411;P:positive regulation of transcription by galactose
+GO:0097271;P:protein localization to bud neck
+GO:0010603;P:regulation of cytoplasmic mRNA processing body assembly
+GO:0032880;P:regulation of protein localization
+GO:0007165;P:signal transduction

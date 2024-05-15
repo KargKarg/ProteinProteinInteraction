@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005096;F:GTPase activator activity
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0030010;P:establishment of cell polarity
+GO:0035024;P:negative regulation of Rho protein signal transduction
+GO:0031106;P:septin ring organization
+GO:0007165;P:signal transduction

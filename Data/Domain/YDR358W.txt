@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;VHS;29;165
+DOMAIN;GAT;192;317
+DOMAIN;GAE;440;556

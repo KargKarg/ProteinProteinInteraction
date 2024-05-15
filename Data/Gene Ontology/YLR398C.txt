@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0055087;C:Ski complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003677;F:DNA binding
+GO:0003729;F:mRNA binding
+GO:0003724;F:RNA helicase activity
+GO:0051607;P:defense response to virus
+GO:0006402;P:mRNA catabolic process
+GO:0070478;P:nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay
+GO:0034427;P:nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'
+GO:0070481;P:nuclear-transcribed mRNA catabolic process, non-stop decay
+GO:0006417;P:regulation of translation

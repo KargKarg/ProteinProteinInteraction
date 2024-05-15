@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0030137;C:COPI-coated vesicle
+GO:0030134;C:COPII-coated ER to Golgi transport vesicle
+GO:0005783;C:endoplasmic reticulum
+GO:0000324;C:fungal-type vacuole
+GO:0000139;C:Golgi membrane
+GO:0006621;P:protein retention in ER lumen
+GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SAM-dependent MTase TRM10-type;83;279
+REGION;Disordered;1;31
+ACT_SITE;Proton acceptor;210;210
+BINDING;;186;187
+BINDING;;206;206
+BINDING;;210;214
+BINDING;;218;218
+BINDING;;232;232
+BINDING;;244;246

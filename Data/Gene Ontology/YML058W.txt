@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:1990846;F:ribonucleoside-diphosphate reductase inhibitor activity
+GO:0007049;P:cell cycle
+GO:0006974;P:DNA damage response
+GO:0007005;P:mitochondrion organization
+GO:0008156;P:negative regulation of DNA replication

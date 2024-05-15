@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0008465;F:glycerate dehydrogenase activity
+GO:0047964;F:glyoxylate reductase (NAD+) activity
+GO:0030267;F:glyoxylate reductase (NADP+) activity
+GO:0016618;F:hydroxypyruvate reductase activity
+GO:0051287;F:NAD binding
+GO:0009436;P:glyoxylate catabolic process

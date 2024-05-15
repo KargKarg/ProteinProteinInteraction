@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0004222;F:metalloendopeptidase activity
+GO:0071586;P:CAAX-box protein processing
+GO:0071432;P:peptide mating pheromone maturation involved in positive regulation of conjugation with cellular fusion
+GO:0019236;P:response to pheromone

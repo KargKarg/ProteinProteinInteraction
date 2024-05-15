@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0004421;F:hydroxymethylglutaryl-CoA synthase activity
+GO:0006084;P:acetyl-CoA metabolic process
+GO:0006696;P:ergosterol biosynthetic process
+GO:0010142;P:farnesyl diphosphate biosynthetic process, mevalonate pathway

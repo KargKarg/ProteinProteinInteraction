@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;OBG-type G;66;292
+DOMAIN;TGS;292;368
+BINDING;;72;79
+BINDING;;118;122
+BINDING;;250;253

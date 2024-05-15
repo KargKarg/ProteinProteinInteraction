@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0034045;C:phagophore assembly site membrane
+GO:0019777;F:Atg12 transferase activity
+GO:0000422;P:autophagy of mitochondrion
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0016236;P:macroautophagy
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0032446;P:protein modification by small protein conjugation
+GO:0015031;P:protein transport

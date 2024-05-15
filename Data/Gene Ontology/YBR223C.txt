@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0017005;F:3'-tyrosyl-DNA phosphodiesterase activity
+GO:0070260;F:5'-tyrosyl-DNA phosphodiesterase activity
+GO:0003690;F:double-stranded DNA binding
+GO:0004527;F:exonuclease activity
+GO:0003697;F:single-stranded DNA binding
+GO:0006281;P:DNA repair

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0051082;F:unfolded protein binding
+GO:0033617;P:mitochondrial cytochrome c oxidase assembly
+GO:0043069;P:negative regulation of programmed cell death

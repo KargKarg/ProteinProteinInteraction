@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Rhodanese;205;328
+DOMAIN;USP;562;923
+ACT_SITE;Nucleophile;571;571
+ACT_SITE;Proton acceptor;880;880

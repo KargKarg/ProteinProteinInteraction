@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0035361;C:Cul8-RING ubiquitin ligase complex
+GO:0005634;C:nucleus
+GO:1990683;P:DNA double-strand break attachment to nuclear envelope
+GO:0006302;P:double-strand break repair
+GO:0006334;P:nucleosome assembly
+GO:2000001;P:regulation of DNA damage checkpoint
+GO:1903775;P:regulation of DNA double-strand break processing
+GO:0010526;P:retrotransposon silencing

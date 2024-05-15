@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005934;C:cellular bud tip
+GO:0005783;C:endoplasmic reticulum
+GO:0005739;C:mitochondrion
+GO:0005543;F:phospholipid binding
+GO:0015631;F:tubulin binding
+GO:0032065;P:maintenance of protein location in cell cortex
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0000266;P:mitochondrial fission
+GO:0000001;P:mitochondrion inheritance
+GO:0030473;P:nuclear migration along microtubule

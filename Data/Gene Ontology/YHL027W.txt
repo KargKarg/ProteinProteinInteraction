@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0001227;F:DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0008270;F:zinc ion binding
+GO:0030437;P:ascospore formation
+GO:0071469;P:cellular response to alkaline pH
+GO:0071454;P:cellular response to anoxia
+GO:0009272;P:fungal-type cell wall biogenesis
+GO:0051321;P:meiotic cell cycle
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0010973;P:positive regulation of division septum assembly
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

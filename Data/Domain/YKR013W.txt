@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SCP;197;311
+REGION;Disordered;122;197

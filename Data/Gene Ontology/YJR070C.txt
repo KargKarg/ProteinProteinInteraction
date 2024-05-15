@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0019135;F:deoxyhypusine monooxygenase activity
+GO:0046872;F:metal ion binding
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0008612;P:peptidyl-lysine modification to peptidyl-hypusine

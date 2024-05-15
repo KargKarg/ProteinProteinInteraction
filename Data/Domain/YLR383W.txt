@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;26;64
+REGION;Flexible hinge;530;695
+MOTIF;Nuclear localization signal;35;39
+BINDING;;109;116

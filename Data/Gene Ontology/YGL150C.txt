@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0031011;C:Ino80 complex
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0003677;F:DNA binding
+GO:0042393;F:histone binding
+GO:0006338;P:chromatin remodeling
+GO:0032508;P:DNA duplex unwinding
+GO:0006281;P:DNA repair
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0019222;P:regulation of metabolic process
+GO:0032006;P:regulation of TOR signaling
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0000722;P:telomere maintenance via recombination
+GO:0006366;P:transcription by RNA polymerase II

@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005783;C:endoplasmic reticulum
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0008526;F:phosphatidylinositol transfer activity
+GO:0043001;P:Golgi to plasma membrane protein transport
+GO:0120010;P:intermembrane phospholipid transfer
+GO:1901352;P:negative regulation of phosphatidylglycerol biosynthetic process
+GO:0006658;P:phosphatidylserine metabolic process
+GO:0008654;P:phospholipid biosynthetic process
+GO:0015914;P:phospholipid transport
+GO:2001247;P:positive regulation of phosphatidylcholine biosynthetic process
+GO:0009410;P:response to xenobiotic stimulus
+GO:0016126;P:sterol biosynthetic process

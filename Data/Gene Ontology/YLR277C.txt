@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
+GO:0005634;C:nucleus
+GO:0004534;F:5'-3' RNA exonuclease activity
+GO:0046872;F:metal ion binding
+GO:0003723;F:RNA binding
+GO:0004521;F:RNA endonuclease activity
+GO:0006378;P:mRNA polyadenylation
+GO:0006397;P:mRNA processing
+GO:0008380;P:RNA splicing
+GO:0031126;P:sno(s)RNA 3'-end processing
+GO:0034247;P:snoRNA splicing
+GO:0006369;P:termination of RNA polymerase II transcription
+GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled

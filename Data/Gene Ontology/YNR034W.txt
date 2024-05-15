@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0017057;F:6-phosphogluconolactonase activity
+GO:0005975;P:carbohydrate metabolic process
+GO:0009051;P:pentose-phosphate shunt, oxidative branch
+GO:0006409;P:tRNA export from nucleus

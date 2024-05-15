@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005834;C:heterotrimeric G-protein complex
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0001664;F:G protein-coupled receptor binding
+GO:0031683;F:G-protein beta/gamma-subunit complex binding
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0046872;F:metal ion binding
+GO:0007189;P:adenylate cyclase-activating G protein-coupled receptor signaling pathway
+GO:0030437;P:ascospore formation
+GO:0010255;P:glucose mediated signaling pathway
+GO:0009757;P:hexose mediated signaling
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0010737;P:protein kinase A signaling
+GO:0007124;P:pseudohyphal growth
+GO:0008361;P:regulation of cell size
+GO:0007165;P:signal transduction

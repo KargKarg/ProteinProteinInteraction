@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;TPR 1;102;135
+REPEAT;TPR 2;136;169
+REPEAT;TPR 3;170;203
+REPEAT;TPR 4;205;229
+REGION;Disordered;219;249
+REGION;Disordered;325;346

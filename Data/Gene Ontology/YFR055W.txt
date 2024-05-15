@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0004121;F:cystathionine beta-lyase activity
+GO:0047804;F:cysteine-S-conjugate beta-lyase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0019450;P:L-cysteine catabolic process to pyruvate
+GO:0009086;P:methionine biosynthetic process
+GO:0006790;P:sulfur compound metabolic process
+GO:0019346;P:transsulfuration

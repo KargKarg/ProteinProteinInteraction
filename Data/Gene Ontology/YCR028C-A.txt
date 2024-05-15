@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0042645;C:mitochondrial nucleoid
+GO:0005739;C:mitochondrion
+GO:0003697;F:single-stranded DNA binding
+GO:0006264;P:mitochondrial DNA replication
+GO:0000002;P:mitochondrial genome maintenance
+GO:0090297;P:positive regulation of mitochondrial DNA replication

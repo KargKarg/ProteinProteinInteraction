@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;BAG;73;159
+REGION;Disordered;39;64

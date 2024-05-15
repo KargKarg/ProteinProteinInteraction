@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0003779;F:actin binding
+GO:0031683;F:G-protein beta/gamma-subunit complex binding
+GO:0030036;P:actin cytoskeleton organization
+GO:1903645;P:negative regulation of chaperone-mediated protein folding
+GO:0009968;P:negative regulation of signal transduction
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006457;P:protein folding
+GO:0051726;P:regulation of cell cycle
+GO:0019236;P:response to pheromone

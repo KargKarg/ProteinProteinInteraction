@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0000139;C:Golgi membrane
+GO:0042802;F:identical protein binding
+GO:0016192;P:vesicle-mediated transport

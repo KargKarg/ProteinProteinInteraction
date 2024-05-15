@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0022626;C:cytosolic ribosome
+GO:0004519;F:endonuclease activity
+GO:0070530;F:K63-linked polyubiquitin modification-dependent protein binding
+GO:0031593;F:polyubiquitin modification-dependent protein binding
+GO:0004521;F:RNA endonuclease activity
+GO:0043130;F:ubiquitin binding
+GO:0070966;P:nuclear-transcribed mRNA catabolic process, no-go decay
+GO:0072344;P:rescue of stalled ribosome

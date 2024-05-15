@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0003677;F:DNA binding
+GO:0003917;F:DNA topoisomerase type I (single strand cut, ATP-independent) activity
+GO:0006325;P:chromatin organization
+GO:0007059;P:chromosome segregation
+GO:0006260;P:DNA replication
+GO:0006271;P:DNA strand elongation involved in DNA replication
+GO:0006265;P:DNA topological change
+GO:0007076;P:mitotic chromosome condensation
+GO:0007097;P:nuclear migration
+GO:0000183;P:rDNA heterochromatin formation
+GO:0000019;P:regulation of mitotic recombination
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0009303;P:rRNA transcription
+GO:0006368;P:transcription elongation by RNA polymerase II

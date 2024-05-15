@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0042564;C:NLS-dependent protein nuclear import complex
+GO:0005635;C:nuclear envelope
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0032991;C:protein-containing complex
+GO:0097718;F:disordered domain specific binding
+GO:0061608;F:nuclear import signal receptor activity
+GO:0008139;F:nuclear localization sequence binding
+GO:0044877;F:protein-containing complex binding
+GO:0051170;P:import into nucleus
+GO:0006607;P:NLS-bearing protein import into nucleus
+GO:0031144;P:proteasome localization
+GO:0006606;P:protein import into nucleus
+GO:0006612;P:protein targeting to membrane

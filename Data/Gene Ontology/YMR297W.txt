@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005576;C:extracellular region
+GO:0000324;C:fungal-type vacuole
+GO:0000328;C:fungal-type vacuole lumen
+GO:0004185;F:serine-type carboxypeptidase activity
+GO:0016236;P:macroautophagy
+GO:0046938;P:phytochelatin biosynthetic process
+GO:0031638;P:zymogen activation

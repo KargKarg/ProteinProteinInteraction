@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0004134;F:4-alpha-glucanotransferase activity
+GO:0004135;F:amylo-alpha-1,6-glucosidase activity
+GO:0102500;F:beta-maltose 4-alpha-glucanotransferase activity
+GO:0005978;P:glycogen biosynthetic process
+GO:0005980;P:glycogen catabolic process

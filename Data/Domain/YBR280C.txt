@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;F-box;14;63
+REPEAT;RCC1 1;109;202
+REPEAT;RCC1 2;565;635
+REGION;Disordered;242;315

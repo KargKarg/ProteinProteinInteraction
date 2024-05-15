@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0061503;F:tRNA threonylcarbamoyladenosine dehydratase
+GO:0008641;F:ubiquitin-like modifier activating enzyme activity
+GO:0061504;P:cyclic threonylcarbamoyladenosine biosynthetic process

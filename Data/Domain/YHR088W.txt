@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Brix;93;276
+REGION;Disordered;24;47
+REGION;RNA-binding;254;271

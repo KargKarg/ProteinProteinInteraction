@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0004032;F:alditol:NADP+ 1-oxidoreductase activity
+GO:0032866;F:D-xylose:NADP reductase activity
+GO:0003729;F:mRNA binding
+GO:0019568;P:arabinose catabolic process
+GO:0071470;P:cellular response to osmotic stress
+GO:0034599;P:cellular response to oxidative stress
+GO:0042843;P:D-xylose catabolic process
+GO:0019388;P:galactose catabolic process

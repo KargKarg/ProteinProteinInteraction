@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0030287;C:cell wall-bounded periplasmic space
+GO:0005576;C:extracellular region
+GO:0042597;C:periplasmic space
+GO:0004067;F:asparaginase activity
+GO:0006530;P:asparagine catabolic process
+GO:0006995;P:cellular response to nitrogen starvation

@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Tyrosine-protein phosphatase;233;375
+REGION;Disordered;1;30
+REGION;Disordered;375;401
+REGION;Disordered;419;489
+ACT_SITE;Phosphocysteine intermediate;319;319

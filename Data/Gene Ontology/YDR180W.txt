@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0005729;C:2-micrometer circle DNA
+GO:0000785;C:chromatin
+GO:0000775;C:chromosome, centromeric region
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0090694;C:Scc2-Scc4 cohesin loading complex
+GO:0032116;C:SMC loading complex
+GO:0003682;F:chromatin binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0006302;P:double-strand break repair
+GO:0034087;P:establishment of mitotic sister chromatid cohesion
+GO:0071169;P:establishment of protein localization to chromatin
+GO:0007076;P:mitotic chromosome condensation
+GO:0061780;P:mitotic cohesin loading
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0071168;P:protein localization to chromatin
+GO:0070550;P:rDNA chromatin condensation
+GO:0010468;P:regulation of gene expression
+GO:1990414;P:replication-born double-strand break repair via sister chromatid exchange
+GO:0000972;P:transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0070058;P:tRNA gene clustering

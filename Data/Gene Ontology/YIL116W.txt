@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004400;F:histidinol-phosphate transaminase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0000105;P:histidine biosynthetic process

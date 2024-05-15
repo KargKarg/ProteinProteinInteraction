@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;98;119
+REGION;Disordered;138;169
+REGION;Disordered;182;276
+ACT_SITE;Nucleophile;478;478

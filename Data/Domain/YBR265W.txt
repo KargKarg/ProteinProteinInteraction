@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;GXSXG;14;18
+ACT_SITE;Proton donor;166;166
+ACT_SITE;Proton donor;180;180
+ACT_SITE;Lowers pKa of active site Tyr;184;184
+BINDING;;11;11
+BINDING;;19;19
+BINDING;;89;89
+BINDING;;180;180
+BINDING;;184;184
+BINDING;;213;213

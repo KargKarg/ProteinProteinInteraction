@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0008663;F:2',3'-cyclic-nucleotide 2'-phosphodiesterase activity
+GO:0000175;F:3'-5'-RNA exonuclease activity
+GO:0016829;F:lyase activity
+GO:1990838;F:poly(U)-specific exoribonuclease activity, producing 3' uridine cyclic phosphate ends
+GO:0034477;P:U6 snRNA 3'-end processing

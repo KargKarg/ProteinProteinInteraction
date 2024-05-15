@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0090560;F:2-(3-amino-3-carboxypropyl)histidine synthase activity
+GO:0008198;F:ferrous iron binding
+GO:0034986;F:iron chaperone activity
+GO:0005506;F:iron ion binding
+GO:0016730;F:oxidoreductase activity, acting on iron-sulfur proteins as donors
+GO:0008270;F:zinc ion binding
+GO:0017183;P:protein histidyl modification to diphthamide
+GO:0002926;P:tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation
+GO:0002098;P:tRNA wobble uridine modification

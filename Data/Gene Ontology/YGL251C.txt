@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003677;F:DNA binding
+GO:0003678;F:DNA helicase activity
+GO:0046872;F:metal ion binding
+GO:0006268;P:DNA unwinding involved in DNA replication
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0051321;P:meiotic cell cycle
+GO:0007131;P:reciprocal meiotic recombination
+GO:0000712;P:resolution of meiotic recombination intermediates

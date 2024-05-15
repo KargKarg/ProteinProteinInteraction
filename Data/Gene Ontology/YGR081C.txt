@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030688;C:preribosome, small subunit precursor
+GO:0032040;C:small-subunit processome
+GO:0051880;F:G-quadruplex DNA binding
+GO:0030490;P:maturation of SSU-rRNA
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000056;P:ribosomal small subunit export from nucleus

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0015629;C:actin cytoskeleton
+GO:0005737;C:cytoplasm
+GO:0016363;C:nuclear matrix
+GO:0005886;C:plasma membrane
+GO:0051015;F:actin filament binding
+GO:0030042;P:actin filament depolymerization
+GO:0007015;P:actin filament organization
+GO:0051014;P:actin filament severing
+GO:0006897;P:endocytosis
+GO:0043001;P:Golgi to plasma membrane protein transport

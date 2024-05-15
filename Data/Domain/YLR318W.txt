@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Reverse transcriptase;422;725
+BINDING;;530;530
+BINDING;;670;670
+BINDING;;671;671

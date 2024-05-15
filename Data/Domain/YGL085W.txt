@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;TNase-like;53;261
+ACT_SITE;;151;151
+ACT_SITE;;159;159
+ACT_SITE;;199;199
+BINDING;;156;156

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016020;C:membrane
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0005375;F:copper ion transmembrane transporter activity
+GO:0015677;P:copper ion import

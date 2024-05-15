@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005681;C:spliceosomal complex
+GO:0005686;C:U2 snRNP
+GO:0000282;P:cellular bud site selection
+GO:0000398;P:mRNA splicing, via spliceosome

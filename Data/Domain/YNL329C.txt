@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;AAA-cassette D1;478;683
+REGION;AAA-cassette D2;767;956
+BINDING;;772;779

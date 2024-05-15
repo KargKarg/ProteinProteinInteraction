@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0000502;C:proteasome complex
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0034450;F:ubiquitin-ubiquitin ligase activity
+GO:0071629;P:cytoplasm protein quality control by the ubiquitin-proteasome system
+GO:0010994;P:free ubiquitin chain polymerization
+GO:0000209;P:protein polyubiquitination
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0006511;P:ubiquitin-dependent protein catabolic process

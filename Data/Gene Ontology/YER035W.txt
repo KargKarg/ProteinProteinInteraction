@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0000290;P:deadenylation-dependent decapping of nuclear-transcribed mRNA
+GO:0006397;P:mRNA processing
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:0032056;P:positive regulation of translation in response to stress

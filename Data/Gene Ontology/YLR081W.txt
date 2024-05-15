@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0005351;F:carbohydrate:proton symporter activity
+GO:0005354;F:galactose transmembrane transporter activity
+GO:0005355;F:glucose transmembrane transporter activity
+GO:0008643;P:carbohydrate transport
+GO:0006012;P:galactose metabolic process
+GO:0015757;P:galactose transmembrane transport

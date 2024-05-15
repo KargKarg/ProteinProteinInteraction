@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0008379;F:thioredoxin peroxidase activity
+GO:0045454;P:cell redox homeostasis
+GO:0034599;P:cellular response to oxidative stress

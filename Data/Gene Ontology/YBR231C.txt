@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0000812;C:Swr1 complex
+GO:0006338;P:chromatin remodeling
+GO:0006355;P:regulation of DNA-templated transcription

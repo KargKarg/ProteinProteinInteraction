@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0004860;F:protein kinase inhibitor activity
+GO:0031505;P:fungal-type cell wall organization

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000118;C:histone deacetylase complex
+GO:0005634;C:nucleus
+GO:0032221;C:Rpd3S complex
+GO:0046872;F:metal ion binding
+GO:0060195;P:negative regulation of antisense RNA transcription
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0006334;P:nucleosome assembly
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0030174;P:regulation of DNA-templated DNA replication initiation
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0006368;P:transcription elongation by RNA polymerase II

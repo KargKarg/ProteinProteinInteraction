@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0000287;F:magnesium ion binding
+GO:0004496;F:mevalonate kinase activity
+GO:0006696;P:ergosterol biosynthetic process
+GO:0010142;P:farnesyl diphosphate biosynthetic process, mevalonate pathway
+GO:0019287;P:isopentenyl diphosphate biosynthetic process, mevalonate pathway
+GO:0016310;P:phosphorylation

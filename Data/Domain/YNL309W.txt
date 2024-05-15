@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with SWI6;2;70
+REGION;Disordered;30;187
+REGION;Disordered;273;319

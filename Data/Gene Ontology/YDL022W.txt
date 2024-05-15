@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0009331;C:glycerol-3-phosphate dehydrogenase complex
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005777;C:peroxisome
+GO:0047952;F:glycerol-3-phosphate dehydrogenase [NAD(P)+] activity
+GO:0051287;F:NAD binding
+GO:0042803;F:protein homodimerization activity
+GO:0005975;P:carbohydrate metabolic process
+GO:0046168;P:glycerol-3-phosphate catabolic process
+GO:0006072;P:glycerol-3-phosphate metabolic process
+GO:0006973;P:intracellular accumulation of glycerol
+GO:0006116;P:NADH oxidation
+GO:0016558;P:protein import into peroxisome matrix

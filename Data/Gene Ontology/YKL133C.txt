@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0031942;C:i-AAA complex
+GO:0005739;C:mitochondrion
+GO:0051787;F:misfolded protein binding
+GO:0006515;P:protein quality control for misfolded or incompletely synthesized proteins

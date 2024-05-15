@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005811;C:lipid droplet
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0005773;C:vacuole
+GO:0016491;F:oxidoreductase activity
+GO:0006624;P:vacuolar protein processing
+GO:0007033;P:vacuole organization

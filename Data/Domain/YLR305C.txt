@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PIK helical;1345;1530
+DOMAIN;PI3K/PI4K catalytic;1617;1884
+REGION;Pleckstrin homology (PH) domain conferring phosphoinositide binding specificity;1531;1648
+REGION;G-loop;1623;1629
+REGION;Catalytic loop;1751;1759
+REGION;Activation loop;1770;1794

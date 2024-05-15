@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;TrmE-type G;274;444
+BINDING;;281;288
+BINDING;;328;332
+BINDING;;394;397

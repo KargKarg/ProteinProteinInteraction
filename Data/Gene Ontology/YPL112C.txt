@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005778;C:peroxisomal membrane
+GO:0005777;C:peroxisome
+GO:0016559;P:peroxisome fission
+GO:0007031;P:peroxisome organization
+GO:0016558;P:protein import into peroxisome matrix
+GO:0044375;P:regulation of peroxisome size

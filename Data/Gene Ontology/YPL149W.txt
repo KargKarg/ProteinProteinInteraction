@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0034274;C:Atg12-Atg5-Atg16 complex
+GO:0005776;C:autophagosome
+GO:0005829;C:cytosol
+GO:0016020;C:membrane
+GO:0005634;C:nucleus
+GO:0061908;C:phagophore
+GO:0000407;C:phagophore assembly site
+GO:0034045;C:phagophore assembly site membrane
+GO:1990234;C:transferase complex
+GO:0120095;C:vacuole-isolation membrane contact site
+GO:0140355;F:cargo receptor ligand activity
+GO:0008047;F:enzyme activator activity
+GO:0016787;F:hydrolase activity
+GO:0000045;P:autophagosome assembly
+GO:0006995;P:cellular response to nitrogen starvation
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0016236;P:macroautophagy
+GO:0000423;P:mitophagy
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0015031;P:protein transport

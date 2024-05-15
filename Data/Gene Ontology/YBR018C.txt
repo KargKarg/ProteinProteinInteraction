@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0008108;F:UDP-glucose:hexose-1-phosphate uridylyltransferase activity
+GO:0008270;F:zinc ion binding
+GO:0033499;P:galactose catabolic process via UDP-galactose

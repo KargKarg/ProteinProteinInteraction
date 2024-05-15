@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005663;C:DNA replication factor C complex
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003677;F:DNA binding
+GO:0003689;F:DNA clamp loader activity
+GO:0051301;P:cell division
+GO:0006281;P:DNA repair
+GO:0006261;P:DNA-templated DNA replication
+GO:0006272;P:leading strand elongation
+GO:0006298;P:mismatch repair
+GO:0000278;P:mitotic cell cycle

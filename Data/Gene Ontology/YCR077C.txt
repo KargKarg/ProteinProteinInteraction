@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0000776;C:kinetochore
+GO:1990726;C:Lsm1-7-Pat1 complex
+GO:0005634;C:nucleus
+GO:0000932;C:P-body
+GO:0003682;F:chromatin binding
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0000290;P:deadenylation-dependent decapping of nuclear-transcribed mRNA
+GO:0001731;P:formation of translation preinitiation complex
+GO:0006397;P:mRNA processing
+GO:0045947;P:negative regulation of translational initiation
+GO:0033962;P:P-body assembly
+GO:0006446;P:regulation of translational initiation

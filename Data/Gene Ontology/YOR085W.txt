@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0016020;C:membrane
+GO:0008250;C:oligosaccharyltransferase complex
+GO:0004579;F:dolichyl-diphosphooligosaccharide-protein glycotransferase activity
+GO:0015035;F:protein-disulfide reductase activity
+GO:0006486;P:protein glycosylation
+GO:0006487;P:protein N-linked glycosylation
+GO:0018279;P:protein N-linked glycosylation via asparagine
+GO:0035269;P:protein O-linked mannosylation
+GO:0065003;P:protein-containing complex assembly

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CTLH;176;236
+ZN_FING;RING-Gid-type;361;404

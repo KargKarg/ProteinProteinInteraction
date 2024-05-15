@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0009277;C:fungal-type cell wall
+GO:0003993;F:acid phosphatase activity
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0007124;P:pseudohyphal growth

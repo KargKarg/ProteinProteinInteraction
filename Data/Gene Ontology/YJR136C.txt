@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0110078;C:TTT Hsp90 cochaperone complex
+GO:0034605;P:cellular response to heat
+GO:0031669;P:cellular response to nutrient levels
+GO:0071472;P:cellular response to salt stress
+GO:0006325;P:chromatin organization
+GO:0006974;P:DNA damage response
+GO:2000003;P:positive regulation of DNA damage checkpoint
+GO:0050821;P:protein stabilization

@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0071944;C:cell periphery
+GO:0016020;C:membrane

@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:1990816;C:vacuole-mitochondrion membrane contact site
+GO:0015095;F:magnesium ion transmembrane transporter activity
+GO:0010961;P:intracellular magnesium ion homeostasis

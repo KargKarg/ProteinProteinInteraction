@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0051879;F:Hsp90 protein binding
+GO:0042802;F:identical protein binding
+GO:0017022;F:myosin binding
+GO:0030036;P:actin cytoskeleton organization
+GO:0061077;P:chaperone-mediated protein folding
+GO:0008298;P:intracellular mRNA localization
+GO:0007533;P:mating type switching

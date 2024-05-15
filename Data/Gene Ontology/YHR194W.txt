@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005634;C:nucleus
+GO:0006873;P:intracellular monoatomic ion homeostasis
+GO:0000001;P:mitochondrion inheritance
+GO:0007005;P:mitochondrion organization
+GO:1900208;P:regulation of cardiolipin metabolic process

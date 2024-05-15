@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Microbody targeting signal;278;280
+ACT_SITE;Proton donor/acceptor;158;158
+BINDING;;68;72
+BINDING;;126;126

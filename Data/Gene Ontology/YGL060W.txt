@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0034599;P:cellular response to oxidative stress
+GO:0007052;P:mitotic spindle organization

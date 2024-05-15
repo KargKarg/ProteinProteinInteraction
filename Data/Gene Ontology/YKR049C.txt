@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0016491;F:oxidoreductase activity

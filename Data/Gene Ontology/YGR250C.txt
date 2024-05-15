@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0003729;F:mRNA binding

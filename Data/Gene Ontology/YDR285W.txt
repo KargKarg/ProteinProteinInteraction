@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000775;C:chromosome, centromeric region
+GO:0000794;C:condensed nuclear chromosome
+GO:0000795;C:synaptonemal complex
+GO:0000802;C:transverse filament
+GO:0032184;F:SUMO polymer binding
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0035825;P:homologous recombination
+GO:0045128;P:negative regulation of reciprocal meiotic recombination
+GO:0033235;P:positive regulation of protein sumoylation
+GO:1990166;P:protein localization to site of double-strand break
+GO:0007131;P:reciprocal meiotic recombination

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0031463;C:Cul3-RING ubiquitin ligase complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0031625;F:ubiquitin protein ligase binding
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0070911;P:global genome nucleotide-excision repair
+GO:0006289;P:nucleotide-excision repair
+GO:0016567;P:protein ubiquitination
+GO:0009411;P:response to UV
+GO:0006511;P:ubiquitin-dependent protein catabolic process

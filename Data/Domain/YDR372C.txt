@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;26
+REGION;Beta-hairpin required for oligomerization;197;208
+BINDING;;88;88
+BINDING;;97;97
+BINDING;;178;178
+BINDING;;181;181

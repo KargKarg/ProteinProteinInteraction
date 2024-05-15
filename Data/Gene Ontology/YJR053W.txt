@@ -1,0 +1,12 @@
+GO id;GO term
+GO:1990334;C:Bfa1-Bub2 complex
+GO:0005737;C:cytoplasm
+GO:0044732;C:mitotic spindle pole body
+GO:0000922;C:spindle pole
+GO:0005816;C:spindle pole body
+GO:0005092;F:GDP-dissociation inhibitor activity
+GO:0005096;F:GTPase activator activity
+GO:0051301;P:cell division
+GO:0031578;P:mitotic spindle orientation checkpoint signaling
+GO:0001100;P:negative regulation of exit from mitosis
+GO:0046578;P:regulation of Ras protein signal transduction

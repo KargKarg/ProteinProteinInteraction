@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Helicase ATP-binding;53;222
+DOMAIN;Helicase C-terminal;233;394
+MOTIF;Q motif;22;50
+MOTIF;DEAD box;170;173
+BINDING;;66;73

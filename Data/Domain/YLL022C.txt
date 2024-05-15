@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;TPR 1;186;220
+REPEAT;TPR 2;229;262
+REPEAT;TPR 3;289;322
+REGION;Important for interaction with heterotetrameric histone H3 and H4 and for interaction with dimeric histone H2A and H2B;80;199
+REGION;Disordered;85;163
+REGION;Interaction with dimeric histone H2A and H2B;248;332
+REGION;Disordered;340;385

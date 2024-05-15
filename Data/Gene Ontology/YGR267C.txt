@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005525;F:GTP binding
+GO:0003934;F:GTP cyclohydrolase I activity
+GO:0008270;F:zinc ion binding
+GO:0035998;P:7,8-dihydroneopterin 3'-triphosphate biosynthetic process
+GO:0046656;P:folic acid biosynthetic process
+GO:0009396;P:folic acid-containing compound biosynthetic process
+GO:0006729;P:tetrahydrobiopterin biosynthetic process
+GO:0046654;P:tetrahydrofolate biosynthetic process

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with CDC4; required for degradation;1;47
+MOTIF;Nuclear localization signal;27;33
+BINDING;;108;115

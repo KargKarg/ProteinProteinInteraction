@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;NodB homology;108;288
+ACT_SITE;Proton acceptor;115;115
+ACT_SITE;Proton donor;263;263
+BINDING;;115;115
+BINDING;;116;116
+BINDING;;162;162
+BINDING;;166;166
+BINDING;;203;203

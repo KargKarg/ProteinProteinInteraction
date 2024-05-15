@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;461;498
+ACT_SITE;Proton donor;169;169
+ACT_SITE;Nucleophile;283;283
+BINDING;;96;96
+BINDING;;168;168
+BINDING;;169;169
+BINDING;;212;212
+BINDING;;217;217
+BINDING;;315;315

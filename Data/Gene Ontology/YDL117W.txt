@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000142;C:cellular bud neck contractile ring
+GO:0005737;C:cytoplasm
+GO:0044697;C:HICS complex
+GO:0016020;C:membrane
+GO:0110085;C:mitotic actomyosin contractile ring
+GO:0005634;C:nucleus
+GO:0030234;F:enzyme regulator activity
+GO:1902410;P:mitotic cytokinetic process
+GO:0140278;P:mitotic division septum assembly
+GO:1990344;P:secondary cell septum biogenesis

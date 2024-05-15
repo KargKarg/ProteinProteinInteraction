@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0006611;P:protein export from nucleus
+GO:0000055;P:ribosomal large subunit export from nucleus

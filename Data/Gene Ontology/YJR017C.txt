@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
+GO:0000993;F:RNA polymerase II complex binding
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:2000059;P:negative regulation of ubiquitin-dependent protein catabolic process
+GO:2000749;P:positive regulation of rDNA heterochromatin formation
+GO:0045899;P:positive regulation of RNA polymerase II transcription preinitiation complex assembly
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006369;P:termination of RNA polymerase II transcription

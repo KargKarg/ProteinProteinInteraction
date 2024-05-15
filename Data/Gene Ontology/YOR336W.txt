@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005788;C:endoplasmic reticulum lumen
+GO:0003980;F:UDP-glucose:glycoprotein glucosyltransferase activity
+GO:0051082;F:unfolded protein binding
+GO:0071555;P:cell wall organization
+GO:0071712;P:ER-associated misfolded protein catabolic process
+GO:0070880;P:fungal-type cell wall beta-glucan biosynthetic process
+GO:0018279;P:protein N-linked glycosylation via asparagine

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;UBA;1;41
+REGION;Disordered;68;87
+REGION;Disordered;643;671

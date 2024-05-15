@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Schiff-base intermediate with DNA;241;241
+BINDING;;134;134
+BINDING;;139;139
+BINDING;;189;189
+BINDING;;258;258
+BINDING;;260;260
+BINDING;;262;262
+BINDING;;320;320
+BINDING;;324;324

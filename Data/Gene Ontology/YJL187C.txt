@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0046872;F:metal ion binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0004713;F:protein tyrosine kinase activity
+GO:0051301;P:cell division
+GO:0000086;P:G2/M transition of mitotic cell cycle
+GO:0051321;P:meiotic cell cycle
+GO:0044879;P:mitotic morphogenesis checkpoint signaling
+GO:0110031;P:negative regulation of G2/MI transition of meiotic cell cycle
+GO:0010697;P:negative regulation of mitotic spindle pole body separation
+GO:0016310;P:phosphorylation
+GO:0090154;P:positive regulation of sphingolipid biosynthetic process
+GO:0000320;P:re-entry into mitotic cell cycle
+GO:0008361;P:regulation of cell size
+GO:0040020;P:regulation of meiotic nuclear division

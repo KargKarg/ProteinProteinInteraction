@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0097505;C:Rad6-Rad18 complex
+GO:0046872;F:metal ion binding
+GO:0003697;F:single-stranded DNA binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0032508;P:DNA duplex unwinding
+GO:0042275;P:error-free postreplication DNA repair
+GO:0070987;P:error-free translesion synthesis
+GO:0042276;P:error-prone translesion synthesis
+GO:0006301;P:postreplication repair
+GO:0006513;P:protein monoubiquitination

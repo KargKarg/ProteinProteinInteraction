@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0004458;F:D-lactate dehydrogenase (cytochrome) activity
+GO:0008720;F:D-lactate dehydrogenase activity
+GO:0071949;F:FAD binding
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:1903457;P:lactate catabolic process

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005829;C:cytosol
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0016514;C:SWI/SNF complex
+GO:0061629;F:RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0000436;P:carbon catabolite activation of transcription from RNA polymerase II promoter
+GO:0006338;P:chromatin remodeling
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:2000219;P:positive regulation of invasive growth in response to glucose limitation
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

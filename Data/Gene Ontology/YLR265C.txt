@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0032807;C:DNA ligase IV complex
+GO:0031965;C:nuclear membrane
+GO:0005634;C:nucleus
+GO:0045027;F:DNA end binding
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0045002;P:double-strand break repair via single-strand annealing
+GO:0035825;P:homologous recombination

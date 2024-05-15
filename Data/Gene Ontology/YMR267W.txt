@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0004427;F:inorganic diphosphate phosphatase activity
+GO:0000287;F:magnesium ion binding
+GO:0009060;P:aerobic respiration
+GO:0006796;P:phosphate-containing compound metabolic process

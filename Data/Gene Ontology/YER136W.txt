@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005096;F:GTPase activator activity
+GO:0005093;F:Rab GDP-dissociation inhibitor activity
+GO:0015031;P:protein transport
+GO:0007264;P:small GTPase mediated signal transduction
+GO:0016192;P:vesicle-mediated transport

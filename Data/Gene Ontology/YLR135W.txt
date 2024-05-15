@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:1905348;C:endonuclease complex
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0033557;C:Slx1-Slx4 complex
+GO:0017108;F:5'-flap endonuclease activity
+GO:0006974;P:DNA damage response
+GO:0006260;P:DNA replication
+GO:0006261;P:DNA-templated DNA replication
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:0000736;P:double-strand break repair via single-strand annealing, removal of nonhomologous ends
+GO:0036297;P:interstrand cross-link repair
+GO:2000001;P:regulation of DNA damage checkpoint
+GO:1903775;P:regulation of DNA double-strand break processing
+GO:1905261;P:regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination
+GO:1902681;P:regulation of replication fork arrest at rDNA repeats

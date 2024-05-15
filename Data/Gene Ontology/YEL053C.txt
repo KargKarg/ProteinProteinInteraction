@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0031417;C:NatC complex
+GO:0016236;P:macroautophagy
+GO:0006474;P:N-terminal protein amino acid acetylation

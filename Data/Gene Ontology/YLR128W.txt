@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000151;C:ubiquitin ligase complex
+GO:0097602;F:cullin family protein binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0031624;F:ubiquitin conjugating enzyme binding
+GO:0032182;F:ubiquitin-like protein binding
+GO:0045116;P:protein neddylation

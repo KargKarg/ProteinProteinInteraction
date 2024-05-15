@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;STAS;630;808

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;HxxHH motif;172;176
+MOTIF;Di-lysine motif;304;307

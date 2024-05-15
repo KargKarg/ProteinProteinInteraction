@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HhH;228;252
+REGION;Interaction with MLH1;15;40
+MOTIF;Nuclear localization signal;8;12
+MOTIF;Nuclear localization signal;376;380
+ACT_SITE;Nucleophile; for N-glycosylase activity;248;248
+BINDING;;319;319
+BINDING;;326;326
+BINDING;;329;329
+BINDING;;335;335
+SITE;Important for catalytic activity;267;267

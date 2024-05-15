@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000329;C:fungal-type vacuole membrane
+GO:0016020;C:membrane
+GO:0045121;C:membrane raft
+GO:0071563;C:Myo2p-Vac17p-Vac8p transport complex
+GO:0005640;C:nuclear outer membrane
+GO:0071561;C:nucleus-vacuole junction
+GO:0000407;C:phagophore assembly site
+GO:0042802;F:identical protein binding
+GO:0043495;F:protein-membrane adaptor activity
+GO:0000045;P:autophagosome assembly
+GO:0071255;P:Cvt vesicle assembly
+GO:0006629;P:lipid metabolic process
+GO:0016236;P:macroautophagy
+GO:0071562;P:nucleus-vacuole junction assembly
+GO:0000425;P:pexophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:1903044;P:protein localization to membrane raft
+GO:0034517;P:ribophagy
+GO:0042144;P:vacuole fusion, non-autophagic
+GO:0000011;P:vacuole inheritance

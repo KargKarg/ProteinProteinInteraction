@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000779;C:condensed chromosome, centromeric region
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0000159;C:protein phosphatase type 2A complex
+GO:0005816;C:spindle pole body
+GO:0003677;F:DNA binding
+GO:0019888;F:protein phosphatase regulator activity
+GO:0032186;P:cellular bud neck septin ring organization
+GO:0006281;P:DNA repair
+GO:0070199;P:establishment of protein localization to chromosome
+GO:0051754;P:meiotic sister chromatid cohesion, centromeric
+GO:0031578;P:mitotic spindle orientation checkpoint signaling
+GO:2000786;P:positive regulation of autophagosome assembly
+GO:0008104;P:protein localization
+GO:0031107;P:septin ring disassembly
+GO:0031134;P:sister chromatid biorientation

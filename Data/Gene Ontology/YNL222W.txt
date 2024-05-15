@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
+GO:0005634;C:nucleus
+GO:0017018;F:myosin phosphatase activity
+GO:0004721;F:phosphoprotein phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0008420;F:RNA polymerase II CTD heptapeptide repeat phosphatase activity
+GO:0031124;P:mRNA 3'-end processing
+GO:0006378;P:mRNA polyadenylation
+GO:0009302;P:sno(s)RNA transcription
+GO:0006369;P:termination of RNA polymerase II transcription
+GO:0030847;P:termination of RNA polymerase II transcription, exosome-dependent
+GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled
+GO:0031564;P:transcription antitermination
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter
+GO:0001174;P:transcriptional start site selection at RNA polymerase II promoter

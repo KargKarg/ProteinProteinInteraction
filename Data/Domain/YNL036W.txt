@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;57;57
+BINDING;;59;59
+BINDING;;112;112
+BINDING;;115;115

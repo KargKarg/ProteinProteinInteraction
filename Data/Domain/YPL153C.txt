@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FHA 1;66;116
+DOMAIN;Protein kinase;198;466
+DOMAIN;FHA 2;601;664
+REGION;Disordered;735;770
+REGION;Disordered;791;821
+ACT_SITE;Proton acceptor;319;319
+BINDING;;204;212
+BINDING;;227;227

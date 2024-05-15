@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;RING-type; atypical;349;400
+REGION;Disordered;226;256
+REGION;Interaction with USA1;517;551

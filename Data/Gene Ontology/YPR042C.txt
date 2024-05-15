@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000932;C:P-body
+GO:0035925;F:mRNA 3'-UTR AU-rich region binding
+GO:0003729;F:mRNA binding
+GO:0017148;P:negative regulation of translation
+GO:0000288;P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay

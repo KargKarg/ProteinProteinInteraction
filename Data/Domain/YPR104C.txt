@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FHA;300;357
+DNA_BIND;Fork-head;460;552
+REGION;Disordered;1;90
+REGION;Disordered;139;169
+REGION;Disordered;243;270
+REGION;Disordered;384;442
+REGION;Disordered;718;936

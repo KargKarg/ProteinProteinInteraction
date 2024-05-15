@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0005315;F:inorganic phosphate transmembrane transporter activity
+GO:0005384;F:manganese ion transmembrane transporter activity
+GO:0097079;F:selenite:proton symporter activity
+GO:0006828;P:manganese ion transport
+GO:0006817;P:phosphate ion transport
+GO:0097080;P:plasma membrane selenite transport
+GO:0006797;P:polyphosphate metabolic process

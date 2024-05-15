@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005739;C:mitochondrion
+GO:0004122;F:cystathionine beta-synthase activity
+GO:0003729;F:mRNA binding
+GO:0006535;P:cysteine biosynthetic process from serine
+GO:0019343;P:cysteine biosynthetic process via cystathionine
+GO:0070814;P:hydrogen sulfide biosynthetic process
+GO:0019346;P:transsulfuration
+GO:0007089;P:traversing start control point of mitotic cell cycle

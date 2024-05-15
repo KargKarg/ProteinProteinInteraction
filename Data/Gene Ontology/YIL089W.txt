@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0000324;C:fungal-type vacuole
+GO:0000328;C:fungal-type vacuole lumen
+GO:0016020;C:membrane
+GO:0005777;C:peroxisome

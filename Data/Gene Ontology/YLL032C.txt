@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005844;C:polysome
+GO:0003729;F:mRNA binding
+GO:0000280;P:nuclear division

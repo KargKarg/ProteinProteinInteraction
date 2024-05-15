@@ -1,0 +1,24 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Integrase catalytic;656;831
+DOMAIN;Reverse transcriptase Ty1/copia-type;1353;1491
+DOMAIN;RNase H Ty1/copia-type;1625;1767
+REGION;Disordered;1;89
+REGION;RNA-binding;295;397
+REGION;Disordered;360;449
+REGION;Integrase-type zinc finger-like;579;636
+REGION;Disordered;1005;1038
+REGION;Disordered;1059;1135
+REGION;Disordered;1171;1222
+MOTIF;Bipartite nuclear localization signal;1193;1227
+ACT_SITE;For protease activity; shared with dimeric partner;457;457
+BINDING;;667;667
+BINDING;;732;732
+BINDING;;1361;1361
+BINDING;;1442;1442
+BINDING;;1443;1443
+BINDING;;1625;1625
+BINDING;;1667;1667
+BINDING;;1700;1700
+SITE;Cleavage; by Ty2 protease;397;398
+SITE;Cleavage; by Ty2 protease;578;579
+SITE;Cleavage; by Ty2 protease;1232;1233

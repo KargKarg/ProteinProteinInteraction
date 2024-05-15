@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0000329;C:fungal-type vacuole membrane
+GO:0000131;C:incipient cellular bud site
+GO:0005770;C:late endosome
+GO:0005886;C:plasma membrane
+GO:0000133;C:polarisome
+GO:0005096;F:GTPase activator activity
+GO:0006897;P:endocytosis
+GO:0030010;P:establishment of cell polarity
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0006887;P:exocytosis
+GO:0070649;P:formin-nucleated actin cable assembly
+GO:0032880;P:regulation of protein localization
+GO:0006903;P:vesicle targeting

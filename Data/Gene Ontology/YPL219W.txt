@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000307;C:cyclin-dependent protein kinase holoenzyme complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0016538;F:cyclin-dependent protein serine/threonine kinase regulator activity
+GO:0019901;F:protein kinase binding
+GO:0005977;P:glycogen metabolic process
+GO:0045719;P:negative regulation of glycogen biosynthetic process
+GO:0005979;P:regulation of glycogen biosynthetic process

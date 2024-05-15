@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Ubiquitin-like;1;77
+DOMAIN;UBA 1;146;186
+DOMAIN;UBA 2;355;395
+REGION;Disordered;75;149
+REGION;Disordered;195;216
+REGION;Disordered;229;252

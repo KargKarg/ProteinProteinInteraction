@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0047631;F:ADP-ribose diphosphatase activity
+GO:0046872;F:metal ion binding
+GO:0006753;P:nucleoside phosphate metabolic process
+GO:0019693;P:ribose phosphate metabolic process

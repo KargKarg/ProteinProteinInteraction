@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C2H2-type 1;593;615
+ZN_FING;C2H2-type 2;621;643
+ZN_FING;C2H2-type 3;649;671
+ZN_FING;C2H2-type 4;677;702
+REGION;Disordered;1;63
+REGION;Disordered;93;124
+REGION;Polyglutamine domain;136;158
+REGION;Disordered;138;275
+REGION;Disordered;326;415
+REGION;Polyasparagine domain;362;386
+REGION;Disordered;743;812
+REGION;Disordered;853;877

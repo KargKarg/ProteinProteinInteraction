@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0030127;C:COPII vesicle coat
+GO:0005783;C:endoplasmic reticulum
+GO:0070971;C:endoplasmic reticulum exit site
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000139;C:Golgi membrane
+GO:0044233;C:mitochondria-associated endoplasmic reticulum membrane
+GO:0005739;C:mitochondrion
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006886;P:intracellular protein transport
+GO:0061024;P:membrane organization
+GO:0000266;P:mitochondrial fission
+GO:0007006;P:mitochondrial membrane organization
+GO:0006998;P:nuclear envelope organization
+GO:1902953;P:positive regulation of ER to Golgi vesicle-mediated transport
+GO:0070863;P:positive regulation of protein exit from endoplasmic reticulum
+GO:0003400;P:regulation of COPII vesicle coating
+GO:0016050;P:vesicle organization

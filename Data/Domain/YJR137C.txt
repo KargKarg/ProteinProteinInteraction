@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Flavodoxin-like;682;831
+BINDING;;1300;1300
+BINDING;;1306;1306
+BINDING;;1345;1345
+BINDING;;1349;1349
+BINDING;axial binding residue;1349;1349

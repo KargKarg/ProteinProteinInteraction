@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0010494;C:cytoplasmic stress granule
+GO:0016281;C:eukaryotic translation initiation factor 4F complex
+GO:0000932;C:P-body
+GO:0005840;C:ribosome
+GO:0001671;F:ATPase activator activity
+GO:0003729;F:mRNA binding
+GO:0003743;F:translation initiation factor activity
+GO:0031369;F:translation initiation factor binding
+GO:1901195;P:positive regulation of formation of translation preinitiation complex
+GO:0006446;P:regulation of translational initiation
+GO:0034063;P:stress granule assembly
+GO:0006413;P:translational initiation

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0034715;C:pICln-Sm protein complex
+GO:0005681;C:spliceosomal complex
+GO:0045292;P:mRNA cis splicing, via spliceosome
+GO:0000387;P:spliceosomal snRNP assembly

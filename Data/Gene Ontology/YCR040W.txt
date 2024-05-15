@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0090575;C:RNA polymerase II transcription regulator complex
+GO:0008301;F:DNA binding, bending
+GO:0003713;F:transcription coactivator activity
+GO:0045895;P:positive regulation of mating-type specific transcription, DNA-templated
+GO:0007532;P:regulation of mating-type specific transcription, DNA-templated
+GO:0006357;P:regulation of transcription by RNA polymerase II

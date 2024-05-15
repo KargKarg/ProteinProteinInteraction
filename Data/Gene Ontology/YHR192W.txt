@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0071782;C:endoplasmic reticulum tubular network
+GO:0046872;F:metal ion binding
+GO:0071786;P:endoplasmic reticulum tubular network organization
+GO:0006999;P:nuclear pore organization
+GO:0034976;P:response to endoplasmic reticulum stress
+GO:0061709;P:reticulophagy

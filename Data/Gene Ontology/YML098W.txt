@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005669;C:transcription factor TFIID complex
+GO:0046982;F:protein heterodimerization activity
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0006366;P:transcription by RNA polymerase II

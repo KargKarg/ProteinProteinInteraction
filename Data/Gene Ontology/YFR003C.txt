@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0000164;C:protein phosphatase type 1 complex
+GO:0008157;F:protein phosphatase 1 binding
+GO:0072542;F:protein phosphatase activator activity
+GO:0004865;F:protein serine/threonine phosphatase inhibitor activity
+GO:0051276;P:chromosome organization
+GO:0005977;P:glycogen metabolic process
+GO:0006873;P:intracellular monoatomic ion homeostasis
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0035308;P:negative regulation of protein dephosphorylation
+GO:0035307;P:positive regulation of protein dephosphorylation
+GO:1900180;P:regulation of protein localization to nucleus

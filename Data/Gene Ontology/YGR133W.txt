@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005777;C:peroxisome
+GO:0005524;F:ATP binding
+GO:0061631;F:ubiquitin conjugating enzyme activity
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0007031;P:peroxisome organization
+GO:0051865;P:protein autoubiquitination
+GO:0016562;P:protein import into peroxisome matrix, receptor recycling
+GO:0006513;P:protein monoubiquitination
+GO:0000209;P:protein polyubiquitination
+GO:0016567;P:protein ubiquitination

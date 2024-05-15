@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:1990306;C:RSP5-BUL ubiquitin ligase complex
+GO:0000151;C:ubiquitin ligase complex
+GO:0034450;F:ubiquitin-ubiquitin ligase activity
+GO:1904669;P:ATP export
+GO:0000001;P:mitochondrion inheritance
+GO:2000397;P:positive regulation of ubiquitin-dependent endocytosis
+GO:0006513;P:protein monoubiquitination
+GO:0000209;P:protein polyubiquitination
+GO:0070086;P:ubiquitin-dependent endocytosis
+GO:0043162;P:ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

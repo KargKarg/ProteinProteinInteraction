@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0016020;C:membrane
+GO:0061459;F:L-arginine transmembrane transporter activity
+GO:0005313;F:L-glutamate transmembrane transporter activity
+GO:0005290;F:L-histidine transmembrane transporter activity
+GO:0015189;F:L-lysine transmembrane transporter activity
+GO:0015194;F:L-serine transmembrane transporter activity
+GO:0005302;F:L-tyrosine transmembrane transporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:0055085;P:transmembrane transport

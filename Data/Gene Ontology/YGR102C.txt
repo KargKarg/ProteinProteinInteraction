@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0030956;C:glutamyl-tRNA(Gln) amidotransferase complex
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0050567;F:glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+GO:0070681;P:glutaminyl-tRNAGln biosynthesis via transamidation
+GO:0032543;P:mitochondrial translation

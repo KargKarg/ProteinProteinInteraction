@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004521;F:RNA endonuclease activity
+GO:0071032;P:nuclear mRNA surveillance of mRNP export

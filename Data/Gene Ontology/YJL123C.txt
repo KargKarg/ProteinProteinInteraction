@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0030137;C:COPI-coated vesicle
+GO:0005737;C:cytoplasm
+GO:0005794;C:Golgi apparatus
+GO:0005739;C:mitochondrion

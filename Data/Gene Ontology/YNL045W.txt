@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0004177;F:aminopeptidase activity
+GO:0004301;F:epoxide hydrolase activity
+GO:0008237;F:metallopeptidase activity
+GO:0008270;F:zinc ion binding
+GO:0044255;P:cellular lipid metabolic process
+GO:0043171;P:peptide catabolic process
+GO:0030163;P:protein catabolic process
+GO:0006508;P:proteolysis

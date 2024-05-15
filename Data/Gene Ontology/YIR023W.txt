@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0003713;F:transcription coactivator activity
+GO:0008270;F:zinc ion binding
+GO:0001080;P:nitrogen catabolite activation of transcription from RNA polymerase II promoter
+GO:1901717;P:positive regulation of gamma-aminobutyric acid catabolic process
+GO:1901714;P:positive regulation of urea catabolic process
+GO:0051123;P:RNA polymerase II preinitiation complex assembly

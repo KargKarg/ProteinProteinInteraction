@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005933;C:cellular bud
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0006312;P:mitotic recombination

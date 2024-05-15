@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Hcy-binding;6;321
+BINDING;;239;239
+BINDING;;306;306
+BINDING;;307;307

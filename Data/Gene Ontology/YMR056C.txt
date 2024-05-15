@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005743;C:mitochondrial inner membrane
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0005471;F:ATP:ADP antiporter activity
+GO:0009060;P:aerobic respiration
+GO:0006783;P:heme biosynthetic process
+GO:0015886;P:heme transport
+GO:0140021;P:mitochondrial ADP transmembrane transport
+GO:1990544;P:mitochondrial ATP transmembrane transport
+GO:0006839;P:mitochondrial transport

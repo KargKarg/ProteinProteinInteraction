@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005643;C:nuclear pore
+GO:0031080;C:nuclear pore outer ring
+GO:0035859;C:Seh1-associated complex
+GO:0005774;C:vacuolar membrane
+GO:0017056;F:structural constituent of nuclear pore
+GO:0034198;P:cellular response to amino acid starvation
+GO:0051028;P:mRNA transport
+GO:0006913;P:nucleocytoplasmic transport
+GO:1904263;P:positive regulation of TORC1 signaling
+GO:0015031;P:protein transport
+GO:1903432;P:regulation of TORC1 signaling

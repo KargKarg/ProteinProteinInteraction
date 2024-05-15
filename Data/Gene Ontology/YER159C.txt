@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0017054;C:negative cofactor 2 complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0001046;F:core promoter sequence-specific DNA binding
+GO:0046982;F:protein heterodimerization activity
+GO:0016251;F:RNA polymerase II general transcription initiation factor activity
+GO:0003713;F:transcription coactivator activity
+GO:0003714;F:transcription corepressor activity
+GO:0017055;P:negative regulation of RNA polymerase II transcription preinitiation complex assembly
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0006366;P:transcription by RNA polymerase II

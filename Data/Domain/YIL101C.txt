@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HTH APSES-type;282;395
+DNA_BIND;H-T-H motif;318;339
+REGION;Disordered;138;170
+REGION;Disordered;264;295
+REGION;Disordered;425;455
+REGION;Disordered;485;508
+REGION;Disordered;612;647

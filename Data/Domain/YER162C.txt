@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;;250;269
+REGION;Disordered;23;51
+REGION;Disordered;701;754

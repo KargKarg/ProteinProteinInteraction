@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0050185;F:phosphatidylinositol deacylase activity
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006505;P:GPI anchor metabolic process
+GO:0006621;P:protein retention in ER lumen
+GO:0015031;P:protein transport
+GO:0034368;P:protein-lipid complex remodeling
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0016050;P:vesicle organization

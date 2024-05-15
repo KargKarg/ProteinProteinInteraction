@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;C-terminal peroxisome targeting signal (PTS1);458;460
+ACT_SITE;;293;293
+ACT_SITE;;339;339
+ACT_SITE;;394;394

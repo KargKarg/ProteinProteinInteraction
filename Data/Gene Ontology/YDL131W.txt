@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0004410;F:homocitrate synthase activity
+GO:0046872;F:metal ion binding
+GO:0019878;P:lysine biosynthetic process via aminoadipic acid

@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;47;309
+REGION;Calmodulin-binding;323;334
+REGION;Disordered;421;447
+ACT_SITE;Proton acceptor;171;171
+BINDING;;53;61
+BINDING;;76;76

@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0005667;C:transcription regulator complex
+GO:0003682;F:chromatin binding
+GO:0003677;F:DNA binding
+GO:0003713;F:transcription coactivator activity
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0006972;P:hyperosmotic response
+GO:0075297;P:negative regulation of ascospore formation
+GO:0051053;P:negative regulation of DNA metabolic process
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0045945;P:positive regulation of transcription by RNA polymerase III
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0060261;P:positive regulation of transcription initiation by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0070898;P:RNA polymerase III preinitiation complex assembly
+GO:0006369;P:termination of RNA polymerase II transcription

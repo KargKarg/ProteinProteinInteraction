@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005886;C:plasma membrane
+GO:0140618;F:ferric-chelate reductase (NADH) activity
+GO:0000293;F:ferric-chelate reductase activity
+GO:0016722;F:oxidoreductase activity, acting on metal ions
+GO:0030003;P:intracellular monoatomic cation homeostasis
+GO:0033215;P:reductive iron assimilation

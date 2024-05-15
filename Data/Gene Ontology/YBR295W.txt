@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0005839;C:proteasome core complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0005507;F:copper ion binding
+GO:0008551;F:P-type cadmium transporter activity
+GO:0070628;F:proteasome binding
+GO:0015691;P:cadmium ion transport
+GO:0030003;P:intracellular monoatomic cation homeostasis
+GO:0046686;P:response to cadmium ion
+GO:0055085;P:transmembrane transport

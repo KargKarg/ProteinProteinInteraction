@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;38
+REGION;Disordered;61;264
+REGION;Important for interaction with histones;259;333
+REGION;Disordered;312;333

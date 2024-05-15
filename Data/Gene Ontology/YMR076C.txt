@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0000794;C:condensed nuclear chromosome
+GO:0005829;C:cytosol
+GO:0035808;C:meiotic recombination initiation complex
+GO:0005634;C:nucleus
+GO:0005198;F:structural molecule activity
+GO:0051301;P:cell division
+GO:0140588;P:chromatin looping
+GO:0006302;P:double-strand break repair
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0051321;P:meiotic cell cycle
+GO:0042138;P:meiotic DNA double-strand break formation
+GO:0007076;P:mitotic chromosome condensation
+GO:0007064;P:mitotic sister chromatid cohesion

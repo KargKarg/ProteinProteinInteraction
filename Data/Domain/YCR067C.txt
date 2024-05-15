@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;WD 1;259;298
+REPEAT;WD 2;302;341
+REPEAT;1;824;833
+REPEAT;2;834;843
+REPEAT;3;844;853
+REPEAT;4;854;863
+REGION;Disordered;458;477
+REGION;Disordered;482;520
+REGION;Disordered;551;625
+REGION;4 X 10 AA tandem repeats;824;863
+MOTIF;Prevents secretion from ER;1062;1065

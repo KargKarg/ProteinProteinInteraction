@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;N-terminal Ras-GEF;224;339
+DOMAIN;Ras-GEF;412;640

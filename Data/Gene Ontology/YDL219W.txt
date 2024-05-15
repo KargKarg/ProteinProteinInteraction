@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0097358;F:D-leucyl-tRNA(Leu) deacylase activity
+GO:0051500;F:D-tyrosyl-tRNA(Tyr) deacylase activity
+GO:0000049;F:tRNA binding
+GO:1900832;P:D-leucine catabolic process
+GO:1900829;P:D-tyrosine catabolic process
+GO:0006399;P:tRNA metabolic process

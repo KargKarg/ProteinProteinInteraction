@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0000145;C:exocyst
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0005628;C:prospore membrane
+GO:0031267;F:small GTPase binding
+GO:0006887;P:exocytosis
+GO:0006893;P:Golgi to plasma membrane transport
+GO:0006886;P:intracellular protein transport
+GO:0006904;P:vesicle docking involved in exocytosis
+GO:0090522;P:vesicle tethering involved in exocytosis

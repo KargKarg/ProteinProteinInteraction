@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;WD 1;435;474
+REPEAT;WD 2;483;523
+REPEAT;WD 3;592;634
+REPEAT;WD 4;637;675
+REPEAT;WD 5;678;717
+REPEAT;WD 6;721;760
+REPEAT;WD 7;776;807
+REGION;Disordered;1;108
+REGION;Required for interaction with NOP7;265;383
+REGION;Required for interaction with YTM1;383;419

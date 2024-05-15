@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0000257;F:nitrilase activity
+GO:0006807;P:nitrogen compound metabolic process

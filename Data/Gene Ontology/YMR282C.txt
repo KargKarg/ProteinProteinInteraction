@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0003723;F:RNA binding
+GO:0070124;P:mitochondrial translational initiation
+GO:0006417;P:regulation of translation

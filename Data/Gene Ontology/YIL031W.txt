@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0008234;F:cysteine-type peptidase activity
+GO:0016929;F:deSUMOylase activity
+GO:0003711;F:transcription elongation factor activity
+GO:0030261;P:chromosome condensation
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0006276;P:plasmid maintenance
+GO:0016926;P:protein desumoylation
+GO:0006508;P:proteolysis

@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0051285;C:cell cortex of cell tip
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:1990615;C:Kelch-containing formin regulatory complex
+GO:0043332;C:mating projection tip
+GO:0005628;C:prospore membrane
+GO:0042802;F:identical protein binding
+GO:0000755;P:cytogamy
+GO:0001100;P:negative regulation of exit from mitosis
+GO:0008360;P:regulation of cell shape
+GO:0032465;P:regulation of cytokinesis
+GO:0090337;P:regulation of formin-nucleated actin cable assembly
+GO:0060627;P:regulation of vesicle-mediated transport

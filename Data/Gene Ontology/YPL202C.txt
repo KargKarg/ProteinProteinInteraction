@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0051536;F:iron-sulfur cluster binding
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0032048;P:cardiolipin metabolic process
+GO:0010106;P:cellular response to iron ion starvation
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:2000185;P:regulation of phosphate transmembrane transport

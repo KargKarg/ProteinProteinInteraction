@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0016281;C:eukaryotic translation initiation factor 4F complex
+GO:0005634;C:nucleus
+GO:0005840;C:ribosome
+GO:0098808;F:mRNA cap binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0000340;F:RNA 7-methylguanosine cap binding
+GO:0003743;F:translation initiation factor activity
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:1901195;P:positive regulation of formation of translation preinitiation complex
+GO:0051726;P:regulation of cell cycle
+GO:0006446;P:regulation of translational initiation
+GO:0006413;P:translational initiation

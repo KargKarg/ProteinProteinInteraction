@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0034041;F:ABC-type sterol transporter activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0035376;P:sterol import

@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0033565;C:ESCRT-0 complex
+GO:0032991;C:protein-containing complex
+GO:0005774;C:vacuolar membrane
+GO:0035091;F:phosphatidylinositol binding
+GO:0019904;F:protein domain specific binding
+GO:0046982;F:protein heterodimerization activity
+GO:0043130;F:ubiquitin binding
+GO:1904669;P:ATP export
+GO:0045324;P:late endosome to vacuole transport
+GO:0016237;P:microautophagy
+GO:0071985;P:multivesicular body sorting pathway
+GO:1903319;P:positive regulation of protein maturation
+GO:0009306;P:protein secretion
+GO:0006623;P:protein targeting to vacuole
+GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+GO:0043162;P:ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

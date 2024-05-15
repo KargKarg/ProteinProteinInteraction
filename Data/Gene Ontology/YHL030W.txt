@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000502;C:proteasome complex
+GO:0060090;F:molecular adaptor activity
+GO:0043248;P:proteasome assembly
+GO:0030433;P:ubiquitin-dependent ERAD pathway

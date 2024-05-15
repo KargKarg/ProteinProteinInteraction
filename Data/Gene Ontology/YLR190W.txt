@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005933;C:cellular bud
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0000131;C:incipient cellular bud site
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0000001;P:mitochondrion inheritance

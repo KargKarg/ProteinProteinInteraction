@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0007131;P:reciprocal meiotic recombination

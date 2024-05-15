@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0070403;F:NAD+ binding
+GO:0050661;F:NADP binding
+GO:0008977;F:prephenate dehydrogenase (NAD+) activity
+GO:0004665;F:prephenate dehydrogenase (NADP+) activity
+GO:0006571;P:tyrosine biosynthetic process
+GO:0006570;P:tyrosine metabolic process

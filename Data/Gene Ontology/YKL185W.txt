@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005933;C:cellular bud
+GO:0005634;C:nucleus
+GO:0033698;C:Rpd3L complex
+GO:0070210;C:Rpd3L-Expanded complex
+GO:0000987;F:cis-regulatory region sequence-specific DNA binding
+GO:0001227;F:DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0008270;F:zinc ion binding
+GO:0006325;P:chromatin organization
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:1900461;P:positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0022890;F:inorganic cation transmembrane transporter activity
+GO:0015095;F:magnesium ion transmembrane transporter activity
+GO:0010961;P:intracellular magnesium ion homeostasis
+GO:0015693;P:magnesium ion transport
+GO:0006812;P:monoatomic cation transport

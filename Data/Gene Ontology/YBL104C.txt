@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0035859;C:Seh1-associated complex
+GO:0005774;C:vacuolar membrane
+GO:1904263;P:positive regulation of TORC1 signaling
+GO:0015031;P:protein transport
+GO:1903432;P:regulation of TORC1 signaling

@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0010008;C:endosome membrane
+GO:0070867;C:mating projection tip membrane
+GO:1990531;C:phospholipid-translocating ATPase complex
+GO:0005886;C:plasma membrane
+GO:0005802;C:trans-Golgi network
+GO:0030140;C:trans-Golgi network transport vesicle
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140326;F:ATPase-coupled intramembrane lipid transporter activity
+GO:0000287;F:magnesium ion binding
+GO:0140345;F:phosphatidylcholine flippase activity
+GO:0090554;F:phosphatidylcholine floppase activity
+GO:0090555;F:phosphatidylethanolamine flippase activity
+GO:0140346;F:phosphatidylserine flippase activity
+GO:0032456;P:endocytic recycling
+GO:0045332;P:phospholipid translocation
+GO:0006892;P:post-Golgi vesicle-mediated transport

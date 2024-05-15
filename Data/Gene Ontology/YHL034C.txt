@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0000932;C:P-body
+GO:1990904;C:ribonucleoprotein complex
+GO:0031370;F:eukaryotic initiation factor 4G binding
+GO:0003729;F:mRNA binding
+GO:0017148;P:negative regulation of translation
+GO:0032055;P:negative regulation of translation in response to stress

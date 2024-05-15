@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0070860;C:RNA polymerase I core factor complex
+GO:0001164;F:RNA polymerase I core promoter sequence-specific DNA binding
+GO:0001181;F:RNA polymerase I general transcription initiation factor activity
+GO:0017025;F:TBP-class protein binding
+GO:0042790;P:nucleolar large rRNA transcription by RNA polymerase I

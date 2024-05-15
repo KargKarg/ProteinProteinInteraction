@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0043332;C:mating projection tip
+GO:0003779;F:actin binding
+GO:0005522;F:profilin binding
+GO:0031267;F:small GTPase binding
+GO:0051017;P:actin filament bundle assembly
+GO:0045010;P:actin nucleation
+GO:0051016;P:barbed-end actin filament capping
+GO:0070649;P:formin-nucleated actin cable assembly
+GO:1903475;P:mitotic actomyosin contractile ring assembly
+GO:0032956;P:regulation of actin cytoskeleton organization

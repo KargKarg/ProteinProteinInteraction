@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0003725;F:double-stranded RNA binding
+GO:0061710;F:L-threonylcarbamoyladenylate synthase
+GO:0016779;F:nucleotidyltransferase activity
+GO:0043047;F:single-stranded telomeric DNA binding
+GO:0000049;F:tRNA binding
+GO:0006417;P:regulation of translation
+GO:0006450;P:regulation of translational fidelity
+GO:0000723;P:telomere maintenance
+GO:0070525;P:tRNA threonylcarbamoyladenosine metabolic process
+GO:0002949;P:tRNA threonylcarbamoyladenosine modification

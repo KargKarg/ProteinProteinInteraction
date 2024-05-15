@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0008126;F:acetylesterase activity
+GO:0047372;F:acylglycerol lipase activity
+GO:0004026;F:alcohol O-acetyltransferase activity
+GO:0034321;F:alcohol O-octanoyltransferase activity
+GO:0034338;F:short-chain carboxylesterase activity
+GO:0051792;P:medium-chain fatty acid biosynthetic process
+GO:0051793;P:medium-chain fatty acid catabolic process

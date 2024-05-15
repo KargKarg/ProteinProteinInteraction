@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;PTS2-type peroxisomal targeting signal;1;15
+ACT_SITE;Acyl-thioester intermediate;125;125
+ACT_SITE;Proton acceptor;375;375
+ACT_SITE;Proton acceptor;403;403

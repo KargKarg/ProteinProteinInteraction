@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PH;445;555
+REGION;Disordered;577;605
+MOTIF;PXIXIT-like, required for interaction with CNA1 and CNA2, and calcineurin-dependent dephosphorylation;640;645

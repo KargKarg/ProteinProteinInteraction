@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0032541;C:cortical endoplasmic reticulum
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0031902;C:late endosome membrane
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0017050;F:D-erythro-sphingosine kinase activity
+GO:0008481;F:sphinganine kinase activity
+GO:0019722;P:calcium-mediated signaling
+GO:0016310;P:phosphorylation
+GO:0006665;P:sphingolipid metabolic process
+GO:0046512;P:sphingosine biosynthetic process

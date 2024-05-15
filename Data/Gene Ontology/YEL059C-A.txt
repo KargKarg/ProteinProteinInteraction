@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0042720;C:mitochondrial inner membrane peptidase complex
+GO:0033108;P:mitochondrial respiratory chain complex assembly
+GO:0006465;P:signal peptide processing

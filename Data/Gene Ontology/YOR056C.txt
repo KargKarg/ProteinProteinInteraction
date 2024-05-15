@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030688;C:preribosome, small subunit precursor
+GO:0046872;F:metal ion binding
+GO:0004521;F:RNA endonuclease activity
+GO:0070181;F:small ribosomal subunit rRNA binding
+GO:0030490;P:maturation of SSU-rRNA
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0043248;P:proteasome assembly
+GO:0042274;P:ribosomal small subunit biogenesis

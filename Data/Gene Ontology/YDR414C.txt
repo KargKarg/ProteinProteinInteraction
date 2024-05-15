@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0016020;C:membrane
+GO:0006621;P:protein retention in ER lumen
+GO:0015031;P:protein transport

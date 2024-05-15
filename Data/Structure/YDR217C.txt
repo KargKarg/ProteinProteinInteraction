@@ -1,0 +1,2 @@
+Structure type;Structure begin;Structure end
+STRAND;190;192

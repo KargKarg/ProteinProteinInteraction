@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000159;C:protein phosphatase type 2A complex
+GO:0008287;C:protein serine/threonine phosphatase complex
+GO:0046872;F:metal ion binding
+GO:0017018;F:myosin phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0051301;P:cell division
+GO:0034599;P:cellular response to oxidative stress
+GO:0006281;P:DNA repair
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:0035556;P:intracellular signal transduction
+GO:0032956;P:regulation of actin cytoskeleton organization
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0031929;P:TOR signaling
+GO:0002098;P:tRNA wobble uridine modification

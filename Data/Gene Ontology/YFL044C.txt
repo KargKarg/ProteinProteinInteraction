@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004843;F:cysteine-type deubiquitinase activity
+GO:0046872;F:metal ion binding
+GO:0030968;P:endoplasmic reticulum unfolded protein response
+GO:0016579;P:protein deubiquitination
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0030433;P:ubiquitin-dependent ERAD pathway

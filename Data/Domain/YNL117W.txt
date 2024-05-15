@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;SKL peroxisome targeting motif;552;554
+ACT_SITE;Proton acceptor;177;177
+ACT_SITE;Proton donor;457;457

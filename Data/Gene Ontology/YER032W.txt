@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0006397;P:mRNA processing

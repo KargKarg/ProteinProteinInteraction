@@ -1,0 +1,23 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0042802;F:identical protein binding
+GO:0019207;F:kinase regulator activity
+GO:0051920;F:peroxiredoxin activity
+GO:0043022;F:ribosome binding
+GO:0008379;F:thioredoxin peroxidase activity
+GO:0051082;F:unfolded protein binding
+GO:0045454;P:cell redox homeostasis
+GO:0034605;P:cellular response to heat
+GO:0071447;P:cellular response to hydroperoxide
+GO:0034599;P:cellular response to oxidative stress
+GO:0061077;P:chaperone-mediated protein folding
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0042262;P:DNA protection
+GO:0042744;P:hydrogen peroxide catabolic process
+GO:0006457;P:protein folding
+GO:0051258;P:protein polymerization
+GO:0050821;P:protein stabilization
+GO:0006111;P:regulation of gluconeogenesis
+GO:0033194;P:response to hydroperoxide
+GO:0006979;P:response to oxidative stress

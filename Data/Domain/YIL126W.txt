@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HSA;307;383
+DOMAIN;Helicase ATP-binding;482;647
+DOMAIN;Helicase C-terminal;795;956
+DOMAIN;Bromo;1270;1340
+REGION;Disordered;1090;1246
+MOTIF;DEGH box;597;600
+BINDING;;495;502

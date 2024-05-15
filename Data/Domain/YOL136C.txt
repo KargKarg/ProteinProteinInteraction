@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;6-phosphofructo-2-kinase;85;305
+ACT_SITE;;197;197
+ACT_SITE;;235;235
+BINDING;;103;110
+BINDING;;269;269

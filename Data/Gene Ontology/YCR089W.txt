@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0005937;C:mating projection
+GO:0098552;C:side of membrane
+GO:0007155;P:cell adhesion
+GO:0000753;P:cell morphogenesis involved in conjugation with cellular fusion
+GO:0071555;P:cell wall organization
+GO:0000755;P:cytogamy
+GO:0044182;P:filamentous growth of a population of unicellular organisms
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0008360;P:regulation of cell shape
+GO:0019236;P:response to pheromone

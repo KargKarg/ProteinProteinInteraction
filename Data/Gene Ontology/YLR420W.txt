@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004151;F:dihydroorotase activity
+GO:0046872;F:metal ion binding
+GO:0006207;P:'de novo' pyrimidine nucleobase biosynthetic process
+GO:0044205;P:'de novo' UMP biosynthetic process
+GO:0006221;P:pyrimidine nucleotide biosynthetic process

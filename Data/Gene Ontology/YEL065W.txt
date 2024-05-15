@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0031410;C:cytoplasmic vesicle
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0000324;C:fungal-type vacuole
+GO:0005774;C:vacuolar membrane
+GO:0015344;F:siderophore uptake transmembrane transporter activity
+GO:0015343;F:siderophore-iron transmembrane transporter activity
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0015891;P:siderophore transport
+GO:0055085;P:transmembrane transport

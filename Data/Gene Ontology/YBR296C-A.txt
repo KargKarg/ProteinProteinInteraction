@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0010997;F:anaphase-promoting complex binding
+GO:1990948;F:ubiquitin ligase inhibitor activity
+GO:0031397;P:negative regulation of protein ubiquitination

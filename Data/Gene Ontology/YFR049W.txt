@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005947;C:mitochondrial alpha-ketoglutarate dehydrogenase complex
+GO:0042645;C:mitochondrial nucleoid
+GO:0009353;C:mitochondrial oxoglutarate dehydrogenase complex
+GO:0005761;C:mitochondrial ribosome
+GO:0005739;C:mitochondrion
+GO:0003735;F:structural constituent of ribosome
+GO:0006103;P:2-oxoglutarate metabolic process
+GO:0006099;P:tricarboxylic acid cycle

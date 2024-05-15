@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005801;C:cis-Golgi network
+GO:0030663;C:COPI-coated vesicle membrane
+GO:0005793;C:endoplasmic reticulum-Golgi intermediate compartment
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0015297;F:antiporter activity
+GO:0005338;F:nucleotide-sugar transmembrane transporter activity
+GO:0008643;P:carbohydrate transport
+GO:0015780;P:nucleotide-sugar transmembrane transport
+GO:0015786;P:UDP-glucose transmembrane transport

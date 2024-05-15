@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005694;C:chromosome
+GO:0000775;C:chromosome, centromeric region
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0140674;F:ATP-dependent histone chaperone activity
+GO:0003682;F:chromatin binding
+GO:0042393;F:histone binding
+GO:0034080;P:CENP-A containing chromatin assembly
+GO:0006325;P:chromatin organization
+GO:0006338;P:chromatin remodeling
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:2000219;P:positive regulation of invasive growth in response to glucose limitation
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

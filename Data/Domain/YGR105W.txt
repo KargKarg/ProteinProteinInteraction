@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Prevents secretion from ER;74;77

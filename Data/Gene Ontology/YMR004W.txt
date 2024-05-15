@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0016020;C:membrane
+GO:0005634;C:nucleus
+GO:0042802;F:identical protein binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0097320;P:plasma membrane tubulation
+GO:0006623;P:protein targeting to vacuole
+GO:0015031;P:protein transport
+GO:0042147;P:retrograde transport, endosome to Golgi

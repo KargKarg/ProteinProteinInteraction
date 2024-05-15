@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;BED-type;66;122
+REGION;Disordered;1;54
+REGION;Disordered;646;727
+BINDING;;87;87
+BINDING;;90;90
+BINDING;;110;110
+BINDING;;115;115

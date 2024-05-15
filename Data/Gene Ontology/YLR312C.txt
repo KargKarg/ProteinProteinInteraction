@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0097038;C:perinuclear endoplasmic reticulum
+GO:0034045;C:phagophore assembly site membrane
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0044804;P:nucleophagy
+GO:0061709;P:reticulophagy

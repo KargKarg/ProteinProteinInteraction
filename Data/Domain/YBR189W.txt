@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;S4 RNA-binding;107;181
+REGION;Disordered;161;195

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005524;F:ATP binding
+GO:0004399;F:histidinol dehydrogenase activity
+GO:0046872;F:metal ion binding
+GO:0051287;F:NAD binding
+GO:0004635;F:phosphoribosyl-AMP cyclohydrolase activity
+GO:0004636;F:phosphoribosyl-ATP diphosphatase activity
+GO:0000105;P:histidine biosynthetic process

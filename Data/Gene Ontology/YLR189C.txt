@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016020;C:membrane
+GO:0102203;F:brassicasterol glucosyltransferase activity
+GO:0102205;F:cholesterol alpha-glucosyltransferase activity
+GO:0051506;F:ergosterol UDP-glucosyltransferase activity
+GO:0102202;F:soladodine glucosyltransferase activity
+GO:0016906;F:sterol 3-beta-glucosyltransferase activity
+GO:0008194;F:UDP-glycosyltransferase activity
+GO:0032120;P:ascospore-type prospore membrane formation
+GO:0005975;P:carbohydrate metabolic process
+GO:0030259;P:lipid glycosylation
+GO:0016126;P:sterol biosynthetic process
+GO:0016125;P:sterol metabolic process

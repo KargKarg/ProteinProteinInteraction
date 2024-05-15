@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0030659;C:cytoplasmic vesicle membrane
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0005375;F:copper ion transmembrane transporter activity
+GO:0015677;P:copper ion import

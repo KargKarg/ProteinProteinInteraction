@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0004817;F:cysteine-tRNA ligase activity
+GO:0046872;F:metal ion binding
+GO:0006423;P:cysteinyl-tRNA aminoacylation

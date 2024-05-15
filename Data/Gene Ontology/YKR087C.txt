@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0046872;F:metal ion binding
+GO:0004222;F:metalloendopeptidase activity
+GO:0035694;P:mitochondrial protein catabolic process
+GO:0034982;P:mitochondrial protein processing
+GO:0033108;P:mitochondrial respiratory chain complex assembly
+GO:0006515;P:protein quality control for misfolded or incompletely synthesized proteins
+GO:0031929;P:TOR signaling

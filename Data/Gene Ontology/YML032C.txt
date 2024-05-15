@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0000150;F:DNA strand exchange activity
+GO:1990814;F:DNA/DNA annealing activity
+GO:0006277;P:DNA amplification
+GO:0000730;P:DNA recombinase assembly
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0045002;P:double-strand break repair via single-strand annealing
+GO:0000709;P:meiotic joint molecule formation
+GO:0043504;P:mitochondrial DNA repair
+GO:0006312;P:mitotic recombination
+GO:0006301;P:postreplication repair
+GO:0000722;P:telomere maintenance via recombination

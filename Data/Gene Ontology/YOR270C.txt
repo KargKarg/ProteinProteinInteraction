@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0016471;C:vacuolar proton-transporting V-type ATPase complex
+GO:0000220;C:vacuolar proton-transporting V-type ATPase, V0 domain
+GO:0051117;F:ATPase binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0046961;F:proton-transporting ATPase activity, rotational mechanism
+GO:0071474;P:cellular hyperosmotic response
+GO:0071469;P:cellular response to alkaline pH
+GO:0006797;P:polyphosphate metabolic process
+GO:0065003;P:protein-containing complex assembly
+GO:1902600;P:proton transmembrane transport
+GO:0007035;P:vacuolar acidification

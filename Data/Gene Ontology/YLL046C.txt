@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:1990904;C:ribonucleoprotein complex
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0042254;P:ribosome biogenesis

@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0046975;F:histone H3K36 methyltransferase activity
+GO:0140955;F:histone H3K36 trimethyltransferase activity
+GO:0030437;P:ascospore formation
+GO:0006354;P:DNA-templated transcription elongation
+GO:0006353;P:DNA-templated transcription termination
+GO:0032259;P:methylation
+GO:0060195;P:negative regulation of antisense RNA transcription
+GO:0045128;P:negative regulation of reciprocal meiotic recombination
+GO:0030174;P:regulation of DNA-templated DNA replication initiation
+GO:0006355;P:regulation of DNA-templated transcription

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0033745;F:L-methionine-(R)-S-oxide reductase activity
+GO:0034599;P:cellular response to oxidative stress

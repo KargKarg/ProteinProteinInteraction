@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PLA2c;36;588
+REGION;Disordered;627;672

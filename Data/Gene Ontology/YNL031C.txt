@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0043505;C:CENP-A containing nucleosome
+GO:0000786;C:nucleosome
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0000500;C:RNA polymerase I upstream activating factor complex
+GO:0003677;F:DNA binding
+GO:0046982;F:protein heterodimerization activity
+GO:0030527;F:structural constituent of chromatin
+GO:0006325;P:chromatin organization
+GO:0070911;P:global genome nucleotide-excision repair
+GO:0042790;P:nucleolar large rRNA transcription by RNA polymerase I
+GO:0045943;P:positive regulation of transcription by RNA polymerase I
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0009303;P:rRNA transcription
+GO:0043935;P:sexual sporulation resulting in formation of a cellular spore

@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0015629;C:actin cytoskeleton
+GO:0005933;C:cellular bud
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0031941;C:filamentous actin
+GO:0005739;C:mitochondrion
+GO:0031475;C:myosin V complex
+GO:0031982;C:vesicle
+GO:0051015;F:actin filament binding
+GO:0005524;F:ATP binding
+GO:0005516;F:calmodulin binding
+GO:0000146;F:microfilament motor activity
+GO:0007015;P:actin filament organization
+GO:0048309;P:endoplasmic reticulum inheritance
+GO:0008298;P:intracellular mRNA localization
+GO:0007533;P:mating type switching
+GO:0051028;P:mRNA transport
+GO:0030050;P:vesicle transport along actin filament

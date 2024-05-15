@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0043190;C:ATP-binding cassette (ABC) transporter complex
+GO:0005778;C:peroxisomal membrane
+GO:0005777;C:peroxisome
+GO:0140359;F:ABC-type transporter activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0042626;F:ATPase-coupled transmembrane transporter activity
+GO:0005324;F:long-chain fatty acid transporter activity
+GO:0006635;P:fatty acid beta-oxidation
+GO:0015908;P:fatty acid transport
+GO:0015916;P:fatty-acyl-CoA transport
+GO:0042758;P:long-chain fatty acid catabolic process
+GO:0015910;P:long-chain fatty acid import into peroxisome
+GO:0007031;P:peroxisome organization
+GO:0042760;P:very long-chain fatty acid catabolic process

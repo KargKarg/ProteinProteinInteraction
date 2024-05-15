@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004512;F:inositol-3-phosphate synthase activity
+GO:0006021;P:inositol biosynthetic process
+GO:0008654;P:phospholipid biosynthetic process

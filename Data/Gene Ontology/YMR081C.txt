@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0009060;P:aerobic respiration

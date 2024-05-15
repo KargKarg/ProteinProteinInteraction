@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;JmjN;14;55
+DOMAIN;JmjC;193;355
+ZN_FING;C2H2-type 1;709;732
+ZN_FING;C2H2-type 2; atypical;738;763
+REGION;Disordered;599;692
+REGION;Disordered;774;796
+MOTIF;Bipartite nuclear localization signal;455;471

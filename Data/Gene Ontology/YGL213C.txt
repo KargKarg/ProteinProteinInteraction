@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0055087;C:Ski complex
+GO:0051607;P:defense response to virus
+GO:0006402;P:mRNA catabolic process
+GO:0070478;P:nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay
+GO:0034427;P:nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'
+GO:0070481;P:nuclear-transcribed mRNA catabolic process, non-stop decay
+GO:0065003;P:protein-containing complex assembly
+GO:0065004;P:protein-DNA complex assembly
+GO:0007131;P:reciprocal meiotic recombination

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;41;81
+MOTIF;FYXDWWN motif;491;497
+ACT_SITE;;547;547

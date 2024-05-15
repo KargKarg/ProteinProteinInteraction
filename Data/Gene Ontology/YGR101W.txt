@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0004252;F:serine-type endopeptidase activity
+GO:0010821;P:regulation of mitochondrion organization
+GO:0006465;P:signal peptide processing

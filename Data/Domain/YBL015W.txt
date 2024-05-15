@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;5-glutamyl coenzyme A thioester intermediate;302;302
+BINDING;;277;281
+BINDING;;392;392
+BINDING;;396;396

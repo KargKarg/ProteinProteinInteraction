@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Microbody targeting signal;484;486
+ACT_SITE;;315;315
+ACT_SITE;;361;361
+ACT_SITE;;419;419

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;Lumazine-binding 1;1;103
+REPEAT;Lumazine-binding 2;104;205
+BINDING;;4;6
+BINDING;;54;56
+BINDING;;68;73
+BINDING;;107;109
+BINDING;in other chain;143;143
+BINDING;;152;154
+BINDING;;170;175

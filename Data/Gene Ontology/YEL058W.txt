@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000287;F:magnesium ion binding
+GO:0004610;F:phosphoacetylglucosamine mutase activity
+GO:0005975;P:carbohydrate metabolic process
+GO:0071555;P:cell wall organization
+GO:0034221;P:fungal-type cell wall chitin biosynthetic process
+GO:0006048;P:UDP-N-acetylglucosamine biosynthetic process

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0016042;P:lipid catabolic process
+GO:0043085;P:positive regulation of catalytic activity

@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0032807;C:DNA ligase IV complex
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0003677;F:DNA binding
+GO:0003910;F:DNA ligase (ATP) activity
+GO:0046872;F:metal ion binding
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0071897;P:DNA biosynthetic process
+GO:0051103;P:DNA ligation involved in DNA repair
+GO:0006310;P:DNA recombination
+GO:0097680;P:double-strand break repair via classical nonhomologous end joining
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0006297;P:nucleotide-excision repair, DNA gap filling

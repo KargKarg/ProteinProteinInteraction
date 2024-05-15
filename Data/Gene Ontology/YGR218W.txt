@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0005816;C:spindle pole body
+GO:0005049;F:nuclear export signal receptor activity
+GO:0061608;F:nuclear import signal receptor activity
+GO:0031267;F:small GTPase binding
+GO:0030619;F:U1 snRNA binding
+GO:0030620;F:U2 snRNA binding
+GO:0030621;F:U4 snRNA binding
+GO:0030623;F:U5 snRNA binding
+GO:0017070;F:U6 snRNA binding
+GO:0006406;P:mRNA export from nucleus
+GO:0051168;P:nuclear export
+GO:0006611;P:protein export from nucleus
+GO:0034501;P:protein localization to kinetochore
+GO:0000055;P:ribosomal large subunit export from nucleus
+GO:0000056;P:ribosomal small subunit export from nucleus

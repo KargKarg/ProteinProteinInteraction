@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0072659;P:protein localization to plasma membrane

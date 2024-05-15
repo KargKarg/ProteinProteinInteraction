@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Tele-phosphohistidine intermediate;284;284
+BINDING;;45;48
+BINDING;;71;71
+BINDING;;124;126
+BINDING;;189;189

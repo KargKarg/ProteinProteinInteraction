@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0030132;C:clathrin coat of coated pit
+GO:0030130;C:clathrin coat of trans-Golgi network vesicle
+GO:0071439;C:clathrin complex
+GO:0030125;C:clathrin vesicle coat
+GO:0005829;C:cytosol
+GO:0032051;F:clathrin light chain binding
+GO:0005198;F:structural molecule activity
+GO:0048268;P:clathrin coat assembly
+GO:0030866;P:cortical actin cytoskeleton organization
+GO:0006897;P:endocytosis
+GO:0006895;P:Golgi to endosome transport
+GO:0006886;P:intracellular protein transport
+GO:0006898;P:receptor-mediated endocytosis

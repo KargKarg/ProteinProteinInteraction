@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005829;C:cytosol
+GO:0005937;C:mating projection
+GO:0043332;C:mating projection tip
+GO:0031097;C:medial cortex
+GO:0045121;C:membrane raft
+GO:1990528;C:Rvs161p-Rvs167p complex
+GO:0008092;F:cytoskeletal protein binding
+GO:0051666;P:actin cortical patch localization
+GO:0030036;P:actin cytoskeleton organization
+GO:0007015;P:actin filament organization
+GO:0000747;P:conjugation with cellular fusion
+GO:0006897;P:endocytosis
+GO:0060988;P:lipid tube assembly
+GO:0097320;P:plasma membrane tubulation
+GO:0030100;P:regulation of endocytosis
+GO:0006970;P:response to osmotic stress
+GO:0042594;P:response to starvation

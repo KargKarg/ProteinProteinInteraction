@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004021;F:L-alanine:2-oxoglutarate aminotransferase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0008483;F:transaminase activity
+GO:0009058;P:biosynthetic process
+GO:0042853;P:L-alanine catabolic process

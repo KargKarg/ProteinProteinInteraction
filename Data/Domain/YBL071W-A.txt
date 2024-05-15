@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;DPH-type MB;3;59
+REGION;Required for interaction with the elongator complex;66;82
+BINDING;;25;25
+BINDING;;27;27
+BINDING;;47;47
+BINDING;;50;50

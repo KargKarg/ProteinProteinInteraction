@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0004190;F:aspartic-type endopeptidase activity
+GO:0071444;P:cellular response to pheromone
+GO:0031505;P:fungal-type cell wall organization
+GO:0043171;P:peptide catabolic process
+GO:0006508;P:proteolysis

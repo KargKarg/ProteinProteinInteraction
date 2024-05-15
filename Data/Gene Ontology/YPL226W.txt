@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003729;F:mRNA binding
+GO:0043022;F:ribosome binding
+GO:0008079;F:translation termination factor activity
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0006449;P:regulation of translational termination
+GO:0042274;P:ribosomal small subunit biogenesis

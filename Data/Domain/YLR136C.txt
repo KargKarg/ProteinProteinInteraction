@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C3H1-type 1;169;197
+ZN_FING;C3H1-type 2;207;235
+REGION;Required for mRNA decay activity;37;55
+REGION;Disordered;132;164
+REGION;Disordered;252;271

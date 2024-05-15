@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0016791;F:phosphatase activity
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0004792;F:thiosulfate sulfurtransferase activity
+GO:0016311;P:dephosphorylation

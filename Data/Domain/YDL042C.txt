@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Deacetylase sirtuin-type;237;527
+REGION;Disordered;1;67
+ACT_SITE;Proton acceptor;364;364
+BINDING;;262;281
+BINDING;;344;347
+BINDING;;372;372
+BINDING;;375;375
+BINDING;;396;396
+BINDING;;399;399
+BINDING;;471;473
+BINDING;;496;498
+BINDING;;513;513

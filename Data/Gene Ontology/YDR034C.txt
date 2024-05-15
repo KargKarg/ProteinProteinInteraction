@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0003700;F:DNA-binding transcription factor activity
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0000976;F:transcription cis-regulatory region binding
+GO:0008270;F:zinc ion binding
+GO:0009085;P:lysine biosynthetic process
+GO:2001196;P:positive regulation of lysine biosynthetic process via alpha-aminoadipate and saccharopine
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

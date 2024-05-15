@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0089713;C:Cbf1-Met4-Met28 complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005667;C:transcription regulator complex
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0000977;F:RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0061629;F:RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0019344;P:cysteine biosynthetic process
+GO:0009086;P:methionine biosynthetic process
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:2000679;P:positive regulation of transcription regulatory region DNA binding
+GO:0031335;P:regulation of sulfur amino acid metabolic process
+GO:0042762;P:regulation of sulfur metabolic process
+GO:0006357;P:regulation of transcription by RNA polymerase II

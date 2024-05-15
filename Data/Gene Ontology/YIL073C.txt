@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0005634;C:nucleus
+GO:0106069;C:synapsis initiation complex
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0035825;P:homologous recombination
+GO:0033235;P:positive regulation of protein sumoylation
+GO:0016925;P:protein sumoylation
+GO:0007131;P:reciprocal meiotic recombination
+GO:0090173;P:regulation of synaptonemal complex assembly
+GO:0030435;P:sporulation resulting in formation of a cellular spore

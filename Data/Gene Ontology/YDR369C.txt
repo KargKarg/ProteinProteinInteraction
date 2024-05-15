@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0030870;C:Mre11 complex
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0003691;F:double-stranded telomeric DNA binding
+GO:0051880;F:G-quadruplex DNA binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0043047;F:single-stranded telomeric DNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0006284;P:base-excision repair
+GO:0006302;P:double-strand break repair
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0035753;P:maintenance of DNA trinucleotide repeats
+GO:0042138;P:meiotic DNA double-strand break formation
+GO:0097552;P:mitochondrial double-strand break repair via homologous recombination
+GO:0030435;P:sporulation resulting in formation of a cellular spore
+GO:0000723;P:telomere maintenance

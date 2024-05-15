@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005619;C:ascospore wall
+GO:0005615;C:extracellular space
+GO:0005635;C:nuclear envelope
+GO:0004252;F:serine-type endopeptidase activity
+GO:0008236;F:serine-type peptidase activity
+GO:0030476;P:ascospore wall assembly
+GO:0006508;P:proteolysis

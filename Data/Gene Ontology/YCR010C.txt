@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0005774;C:vacuolar membrane
+GO:0015123;F:acetate transmembrane transporter activity
+GO:0008519;F:ammonium transmembrane transporter activity
+GO:0006846;P:acetate transport
+GO:0072488;P:ammonium transmembrane transport
+GO:0051321;P:meiotic cell cycle
+GO:0006811;P:monoatomic ion transport
+GO:0019740;P:nitrogen utilization
+GO:0055085;P:transmembrane transport

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0015186;F:L-glutamine transmembrane transporter activity
+GO:0015188;F:L-isoleucine transmembrane transporter activity
+GO:0005302;F:L-tyrosine transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:0006865;P:amino acid transport
+GO:0015824;P:proline transport
+GO:0007034;P:vacuolar transport

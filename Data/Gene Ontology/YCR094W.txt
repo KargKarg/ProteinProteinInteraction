@@ -1,0 +1,15 @@
+GO id;GO term
+GO:1990530;C:Cdc50p-Drs2p complex
+GO:0005829;C:cytosol
+GO:0005783;C:endoplasmic reticulum
+GO:0005794;C:Golgi apparatus
+GO:0031902;C:late endosome membrane
+GO:1990531;C:phospholipid-translocating ATPase complex
+GO:0005886;C:plasma membrane
+GO:0005802;C:trans-Golgi network
+GO:0051666;P:actin cortical patch localization
+GO:0140331;P:aminophospholipid translocation
+GO:0006897;P:endocytosis
+GO:0006886;P:intracellular protein transport
+GO:0045332;P:phospholipid translocation
+GO:0042147;P:retrograde transport, endosome to Golgi

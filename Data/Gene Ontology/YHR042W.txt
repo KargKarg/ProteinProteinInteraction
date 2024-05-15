@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0009055;F:electron transfer activity
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0010181;F:FMN binding
+GO:0050661;F:NADP binding
+GO:0003959;F:NADPH dehydrogenase activity
+GO:0003958;F:NADPH-hemoprotein reductase activity
+GO:0006696;P:ergosterol biosynthetic process

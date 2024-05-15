@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0070941;P:eisosome assembly

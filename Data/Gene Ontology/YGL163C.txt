@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0003677;F:DNA binding
+GO:0015616;F:DNA translocase activity
+GO:0004386;F:helicase activity
+GO:0046872;F:metal ion binding
+GO:0006338;P:chromatin remodeling
+GO:0032392;P:DNA geometric change
+GO:0045003;P:double-strand break repair via synthesis-dependent strand annealing
+GO:0030491;P:heteroduplex formation
+GO:0007131;P:reciprocal meiotic recombination
+GO:0000722;P:telomere maintenance via recombination

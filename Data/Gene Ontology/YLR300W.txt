@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0009986;C:cell surface
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0004338;F:glucan exo-1,3-beta-glucosidase activity
+GO:0031505;P:fungal-type cell wall organization
+GO:0009251;P:glucan catabolic process
+GO:0044042;P:glucan metabolic process

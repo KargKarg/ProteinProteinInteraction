@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0031386;F:protein tag activity
+GO:0003735;F:structural constituent of ribosome
+GO:0031625;F:ubiquitin protein ligase binding
+GO:0002181;P:cytoplasmic translation
+GO:0002109;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA,5S)
+GO:0019941;P:modification-dependent protein catabolic process
+GO:0016567;P:protein ubiquitination
+GO:0000028;P:ribosomal small subunit assembly
+GO:0042254;P:ribosome biogenesis

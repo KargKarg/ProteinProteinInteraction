@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:1990816;C:vacuole-mitochondrion membrane contact site
+GO:0005262;F:calcium channel activity
+GO:0005227;F:calcium-activated cation channel activity
+GO:0005267;F:potassium channel activity
+GO:0005272;F:sodium channel activity
+GO:0005244;F:voltage-gated monoatomic ion channel activity
+GO:0097553;P:calcium ion transmembrane import into cytosol
+GO:0030003;P:intracellular monoatomic cation homeostasis

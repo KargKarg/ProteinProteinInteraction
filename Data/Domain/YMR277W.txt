@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FCP1 homology;170;363
+DOMAIN;BRCT;499;593
+REGION;Disordered;50;73
+REGION;Disordered;642;732

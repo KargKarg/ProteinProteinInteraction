@@ -1,0 +1,29 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005739;C:mitochondrion
+GO:0030874;C:nucleolar chromatin
+GO:0005634;C:nucleus
+GO:0000124;C:SAGA complex
+GO:0046695;C:SLIK (SAGA-like) complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0008094;F:ATP-dependent activity, acting on DNA
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0003682;F:chromatin binding
+GO:0031490;F:chromatin DNA binding
+GO:0003677;F:DNA binding
+GO:0004386;F:helicase activity
+GO:0042393;F:histone binding
+GO:0035064;F:methylated histone binding
+GO:0000182;F:rDNA binding
+GO:0000976;F:transcription cis-regulatory region binding
+GO:0006338;P:chromatin remodeling
+GO:2000104;P:negative regulation of DNA-templated DNA replication
+GO:0034728;P:nucleosome organization
+GO:1902275;P:regulation of chromatin organization
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0001178;P:regulation of transcriptional start site selection at RNA polymerase II promoter
+GO:0007062;P:sister chromatid cohesion
+GO:0006363;P:termination of RNA polymerase I transcription
+GO:0006369;P:termination of RNA polymerase II transcription
+GO:0006368;P:transcription elongation by RNA polymerase II

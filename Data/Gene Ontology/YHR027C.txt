@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005634;C:nucleus
+GO:0000502;C:proteasome complex
+GO:0008540;C:proteasome regulatory particle, base subcomplex
+GO:0034515;C:proteasome storage granule
+GO:0030234;F:enzyme regulator activity
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0042176;P:regulation of protein catabolic process
+GO:0006511;P:ubiquitin-dependent protein catabolic process

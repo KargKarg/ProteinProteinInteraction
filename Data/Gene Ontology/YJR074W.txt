@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0031267;F:small GTPase binding
+GO:0051028;P:mRNA transport
+GO:0006606;P:protein import into nucleus

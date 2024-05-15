@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005643;C:nuclear pore
+GO:0044611;C:nuclear pore inner ring
+GO:0003677;F:DNA binding
+GO:0003723;F:RNA binding
+GO:0017056;F:structural constituent of nuclear pore
+GO:0051028;P:mRNA transport
+GO:0051292;P:nuclear pore complex assembly
+GO:0006913;P:nucleocytoplasmic transport
+GO:0000973;P:post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0006606;P:protein import into nucleus
+GO:0036228;P:protein localization to nuclear inner membrane
+GO:0006405;P:RNA export from nucleus
+GO:0000972;P:transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery

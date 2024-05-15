@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
+GO:0006479;P:protein methylation

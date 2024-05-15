@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0046872;F:metal ion binding
+GO:0008970;F:phospholipase A1 activity
+GO:0004620;F:phospholipase activity
+GO:0032048;P:cardiolipin metabolic process
+GO:0016042;P:lipid catabolic process
+GO:0046337;P:phosphatidylethanolamine metabolic process
+GO:0006644;P:phospholipid metabolic process

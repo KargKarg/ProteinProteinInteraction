@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0034316;P:negative regulation of Arp2/3 complex-mediated actin nucleation

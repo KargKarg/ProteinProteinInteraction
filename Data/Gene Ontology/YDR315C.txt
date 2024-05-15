@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0035299;F:inositol pentakisphosphate 2-kinase activity
+GO:0032958;P:inositol phosphate biosynthetic process
+GO:0070481;P:nuclear-transcribed mRNA catabolic process, non-stop decay
+GO:0016310;P:phosphorylation

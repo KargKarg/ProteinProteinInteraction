@@ -1,0 +1,26 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1-1;405;424
+REPEAT;1-2;439;458
+REPEAT;1-3;479;498
+REPEAT;2-1;534;545
+REPEAT;2-2;564;575
+REPEAT;2-3;593;604
+REPEAT;2-4;608;619
+REPEAT;2-5;623;634
+REPEAT;2-5;636;647
+REPEAT;2-7;650;661
+REPEAT;2-8;683;694
+REPEAT;2-9;717;728
+REGION;Disordered;1;98
+REGION;Disordered;209;239
+REGION;Disordered;280;321
+REGION;Disordered;338;358
+REGION;3 X 20 AA approximate repeats;405;448
+REGION;Disordered;460;489
+REGION;Disordered;516;571
+REGION;9 X 12 AA approximate repeats;534;728
+REGION;Disordered;591;620
+REGION;Disordered;649;681
+REGION;Disordered;697;758
+REGION;Disordered;806;838
+MOTIF;KKRVK motif; Required for interaction with GLC7, endocytosis and actin cytoskeleton organization;272;276

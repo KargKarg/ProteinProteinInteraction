@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0000228;C:nuclear chromosome
+GO:0032798;C:Swi5-Sfr1 complex
+GO:0034974;C:Swi5-Swi2 complex
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0000707;P:meiotic DNA recombinase assembly
+GO:0010772;P:meiotic DNA recombinase assembly involved in reciprocal meiotic recombination
+GO:0000709;P:meiotic joint molecule formation
+GO:0007131;P:reciprocal meiotic recombination

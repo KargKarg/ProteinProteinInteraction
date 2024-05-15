@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-1;13;202
+DOMAIN;GMPS ATP-PPase;203;400
+ACT_SITE;For GATase activity;89;89
+ACT_SITE;For GATase activity;176;176
+ACT_SITE;For GATase activity;178;178
+BINDING;;231;237

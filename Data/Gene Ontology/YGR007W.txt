@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004306;F:ethanolamine-phosphate cytidylyltransferase activity
+GO:0006646;P:phosphatidylethanolamine biosynthetic process

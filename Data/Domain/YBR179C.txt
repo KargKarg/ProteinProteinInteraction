@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Dynamin-type G;184;467
+REGION;Disordered;1;27
+REGION;HRN;91;190
+REGION;Disordered;413;447
+REGION;HR1;484;547
+REGION;Required for interaction with UGO1;630;843
+REGION;HR2;769;831
+BINDING;;197;202
+BINDING;;370;373
+BINDING;;408;408

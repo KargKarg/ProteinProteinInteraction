@@ -1,0 +1,23 @@
+GO id;GO term
+GO:0071819;C:DUBm complex
+GO:0005643;C:nuclear pore
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0000932;C:P-body
+GO:0000124;C:SAGA complex
+GO:0046695;C:SLIK (SAGA-like) complex
+GO:0070390;C:transcription export complex 2
+GO:0003682;F:chromatin binding
+GO:0008047;F:enzyme activator activity
+GO:0003713;F:transcription coactivator activity
+GO:0006325;P:chromatin organization
+GO:0016578;P:histone deubiquitination
+GO:0006406;P:mRNA export from nucleus
+GO:0071028;P:nuclear mRNA surveillance
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0000973;P:post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0015031;P:protein transport
+GO:0032880;P:regulation of protein localization
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0006368;P:transcription elongation by RNA polymerase II

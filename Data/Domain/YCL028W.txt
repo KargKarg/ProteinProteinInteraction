@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;149;172
+REGION;Prion domain (PrD);153;402
+REGION;Disordered;185;405

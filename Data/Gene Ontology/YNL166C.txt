@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000144;C:cellular bud neck septin ring
+GO:1990317;C:Gin4 complex
+GO:0032035;F:myosin II tail binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0007049;P:cell cycle
+GO:0072741;P:protein localization to cell division site
+GO:0000921;P:septin ring assembly
+GO:0000920;P:septum digestion after cytokinesis

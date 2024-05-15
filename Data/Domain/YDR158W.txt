@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Acyl-thioester intermediate;156;156
+ACT_SITE;Proton acceptor;256;256
+BINDING;;13;16
+BINDING;;40;41
+BINDING;;112;112
+BINDING;;184;184
+BINDING;;187;188
+BINDING;;211;211
+BINDING;;214;214
+BINDING;;249;249
+BINDING;;343;344

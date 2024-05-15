@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005783;C:endoplasmic reticulum
+GO:0000774;F:adenyl-nucleotide exchange factor activity
+GO:0071629;P:cytoplasm protein quality control by the ubiquitin-proteasome system
+GO:0006417;P:regulation of translation

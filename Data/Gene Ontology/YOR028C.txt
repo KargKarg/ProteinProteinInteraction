@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003700;F:DNA-binding transcription factor activity
+GO:0140297;F:DNA-binding transcription factor binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0006972;P:hyperosmotic response
+GO:0042538;P:hyperosmotic salinity response
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0009410;P:response to xenobiotic stimulus

@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with RAT1;273;387
+BINDING;;172;172
+BINDING;;221;221
+BINDING;;223;223
+BINDING;;241;241
+BINDING;;242;242
+BINDING;;243;243
+BINDING;;267;267

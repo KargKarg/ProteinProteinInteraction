@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0004351;F:glutamate decarboxylase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0034599;P:cellular response to oxidative stress
+GO:0006538;P:glutamate catabolic process

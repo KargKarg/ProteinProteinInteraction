@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0000002;P:mitochondrial genome maintenance
+GO:0032543;P:mitochondrial translation
+GO:0051881;P:regulation of mitochondrial membrane potential
+GO:0032790;P:ribosome disassembly

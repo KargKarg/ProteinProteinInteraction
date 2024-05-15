@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005643;C:nuclear pore
+GO:0044613;C:nuclear pore central transport channel
+GO:0044614;C:nuclear pore cytoplasmic filaments
+GO:0005634;C:nucleus
+GO:0000774;F:adenyl-nucleotide exchange factor activity
+GO:0060090;F:molecular adaptor activity
+GO:0017056;F:structural constituent of nuclear pore
+GO:0003714;F:transcription corepressor activity
+GO:0097064;P:ncRNA export from nucleus
+GO:0006607;P:NLS-bearing protein import into nucleus
+GO:0051664;P:nuclear pore localization
+GO:0006913;P:nucleocytoplasmic transport
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0006611;P:protein export from nucleus
+GO:0000055;P:ribosomal large subunit export from nucleus
+GO:0000056;P:ribosomal small subunit export from nucleus

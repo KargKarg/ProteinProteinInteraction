@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PAP-associated;371;431
+REGION;Disordered;1;63
+REGION;Disordered;81;147
+REGION;Disordered;525;584
+BINDING;;236;236
+BINDING;;238;238

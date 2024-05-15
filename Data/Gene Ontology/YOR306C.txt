@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0032217;F:riboflavin transmembrane transporter activity
+GO:0032218;P:riboflavin transport

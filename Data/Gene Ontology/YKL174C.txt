@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0015203;F:polyamine transmembrane transporter activity
+GO:0006865;P:amino acid transport
+GO:0015846;P:polyamine transport

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;;289;289
+ACT_SITE;;297;297
+ACT_SITE;;328;328

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-2;2;262
+ACT_SITE;Nucleophile; for GATase activity;2;2

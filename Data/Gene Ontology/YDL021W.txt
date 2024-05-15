@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0046538;F:2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity
+GO:0006096;P:glycolytic process

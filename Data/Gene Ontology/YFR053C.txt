@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0008865;F:fructokinase activity
+GO:0004340;F:glucokinase activity
+GO:0005536;F:glucose binding
+GO:0004396;F:hexokinase activity
+GO:0019158;F:mannokinase activity
+GO:0046835;P:carbohydrate phosphorylation
+GO:1990539;P:fructose import across plasma membrane
+GO:0006000;P:fructose metabolic process
+GO:0051156;P:glucose 6-phosphate metabolic process
+GO:0046323;P:glucose import
+GO:0006006;P:glucose metabolic process
+GO:0006096;P:glycolytic process
+GO:0001678;P:intracellular glucose homeostasis
+GO:0006013;P:mannose metabolic process

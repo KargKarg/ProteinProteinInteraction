@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0016020;C:membrane
+GO:0032585;C:multivesicular body membrane
+GO:0005775;C:vacuolar lumen
+GO:0004620;F:phospholipase activity
+GO:0004806;F:triglyceride lipase activity
+GO:0006914;P:autophagy
+GO:0016236;P:macroautophagy
+GO:0030397;P:membrane disassembly
+GO:0034496;P:multivesicular body membrane disassembly
+GO:0046461;P:neutral lipid catabolic process
+GO:0000425;P:pexophagy
+GO:0006660;P:phosphatidylserine catabolic process
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0006624;P:vacuolar protein processing

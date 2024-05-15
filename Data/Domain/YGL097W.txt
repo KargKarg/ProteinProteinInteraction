@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;RCC1 1;45;101
+REPEAT;RCC1 2;103;152
+REPEAT;RCC1 3;183;238
+REPEAT;RCC1 4;239;291
+REPEAT;RCC1 5;292;347
+REPEAT;RCC1 6;349;411
+REPEAT;RCC1 7;412;466
+REGION;Disordered;1;22
+REGION;Disordered;128;158
+MOTIF;Nuclear localization signal;15;26

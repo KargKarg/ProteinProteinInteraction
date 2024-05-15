@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;22
+REGION;Required for interaction with SPC24-SPC25;65;79
+REGION;Disordered;103;132
+REGION;Disordered;193;255

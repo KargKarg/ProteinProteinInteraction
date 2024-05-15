@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Cyclin N-terminal;19;152
+REGION;Required for degradation by DMA1;29;36

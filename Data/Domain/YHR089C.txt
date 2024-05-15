@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;31
+REGION;RGG-box 1;4;21
+REGION;Disordered;124;205
+REGION;RGG-box 2;147;205

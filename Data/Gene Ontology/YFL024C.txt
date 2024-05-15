@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0035267;C:NuA4 histone acetyltransferase complex
+GO:0000786;C:nucleosome
+GO:0005634;C:nucleus
+GO:0032777;C:piccolo histone acetyltransferase complex
+GO:0007049;P:cell cycle
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0006351;P:DNA-templated transcription
+GO:0016239;P:positive regulation of macroautophagy
+GO:0006357;P:regulation of transcription by RNA polymerase II

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;119;119
+BINDING;;129;129
+BINDING;;150;150
+BINDING;;237;237
+BINDING;;237;237
+BINDING;;263;263
+BINDING;;267;267
+SITE;Critical for catalysis;157;157
+SITE;Critical for catalysis;204;204

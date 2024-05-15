@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;25;44
+REGION;Disordered;553;578
+MOTIF;Amiloride-binding;124;133

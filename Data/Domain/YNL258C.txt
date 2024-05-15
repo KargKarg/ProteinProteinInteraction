@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with TIP20;1;200
+REGION;Interaction with RET2;406;459
+REGION;Interaction with RET1;406;440
+REGION;Disordered;425;454

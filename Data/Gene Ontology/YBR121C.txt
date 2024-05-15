@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0004820;F:glycine-tRNA ligase activity
+GO:0046983;F:protein dimerization activity
+GO:0016740;F:transferase activity
+GO:0015966;P:diadenosine tetraphosphate biosynthetic process
+GO:0006353;P:DNA-templated transcription termination
+GO:0006426;P:glycyl-tRNA aminoacylation
+GO:0070150;P:mitochondrial glycyl-tRNA aminoacylation

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;GATA-type;306;330
+REGION;Disordered;1;45
+REGION;Disordered;187;208
+REGION;Disordered;224;262
+REGION;Disordered;355;398
+REGION;Disordered;449;516
+REGION;Disordered;593;673
+REGION;Disordered;696;717
+MOTIF;9aaTAD;129;137

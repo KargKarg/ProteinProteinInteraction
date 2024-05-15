@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;586;606
+ACT_SITE;Proton acceptor;152;152

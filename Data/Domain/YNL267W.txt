@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PIK helical;1;133
+DOMAIN;PI3K/PI4K catalytic;770;1049
+REGION;Disordered;218;240
+REGION;Disordered;303;411
+REGION;Disordered;564;624
+REGION;G-loop;776;782
+REGION;Catalytic loop;915;923
+REGION;Activation loop;934;958

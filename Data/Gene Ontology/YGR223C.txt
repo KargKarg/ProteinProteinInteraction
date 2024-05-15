@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0019898;C:extrinsic component of membrane
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0034045;C:phagophore assembly site membrane
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0010314;F:phosphatidylinositol-5-phosphate binding
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0034497;P:protein localization to phagophore assembly site

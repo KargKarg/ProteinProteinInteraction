@@ -1,0 +1,23 @@
+GO id;GO term
+GO:0071162;C:CMG complex
+GO:0005737;C:cytoplasm
+GO:0031261;C:DNA replication preinitiation complex
+GO:0042555;C:MCM complex
+GO:0005656;C:nuclear pre-replicative complex
+GO:0043596;C:nuclear replication fork
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003682;F:chromatin binding
+GO:0003688;F:DNA replication origin binding
+GO:0004386;F:helicase activity
+GO:0046872;F:metal ion binding
+GO:0006974;P:DNA damage response
+GO:0006271;P:DNA strand elongation involved in DNA replication
+GO:0006268;P:DNA unwinding involved in DNA replication
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:1902975;P:mitotic DNA replication initiation
+GO:0006267;P:pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+GO:0006279;P:premeiotic DNA replication

@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PPIase cyclophilin-type;8;196
+REPEAT;TPR 1;240;273
+REPEAT;TPR 2;292;325
+REPEAT;TPR 3;330;363

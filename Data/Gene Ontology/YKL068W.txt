@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005643;C:nuclear pore
+GO:0044613;C:nuclear pore central transport channel
+GO:0044614;C:nuclear pore cytoplasmic filaments
+GO:0060090;F:molecular adaptor activity
+GO:0008139;F:nuclear localization sequence binding
+GO:0003723;F:RNA binding
+GO:0017056;F:structural constituent of nuclear pore
+GO:0006406;P:mRNA export from nucleus
+GO:0031990;P:mRNA export from nucleus in response to heat stress
+GO:0006607;P:NLS-bearing protein import into nucleus
+GO:0006913;P:nucleocytoplasmic transport
+GO:0045893;P:positive regulation of DNA-templated transcription
+GO:0000973;P:post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0006606;P:protein import into nucleus
+GO:0036228;P:protein localization to nuclear inner membrane
+GO:0006405;P:RNA export from nucleus
+GO:0034398;P:telomere tethering at nuclear periphery

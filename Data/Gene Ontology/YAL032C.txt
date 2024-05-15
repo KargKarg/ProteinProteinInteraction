@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0071014;C:post-mRNA release spliceosomal complex
+GO:0071006;C:U2-type catalytic step 1 spliceosome
+GO:0071007;C:U2-type catalytic step 2 spliceosome
+GO:0000350;P:generation of catalytic spliceosome for second transesterification step

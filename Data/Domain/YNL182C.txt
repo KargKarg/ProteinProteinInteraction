@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;WD 1;29;68
+REPEAT;WD 2;90;133
+REPEAT;WD 3;137;176
+REPEAT;WD 4;187;234
+REPEAT;WD 5;255;296
+REPEAT;WD 6;342;383
+REGION;Interaction with RIX1;460;504

@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;J;123;198
+DOMAIN;SEC63;228;532
+REPEAT;1;461;471
+REPEAT;2;493;503
+REGION;2 X 11 AA repeats;461;503
+REGION;Disordered;615;663

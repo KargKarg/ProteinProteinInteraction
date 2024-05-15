@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Contains the major tRNA-Phe binding sites;2;173
+BINDING;;333;333
+BINDING;;374;376
+BINDING;;414;414
+BINDING;;416;416
+BINDING;;440;440

@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PUA;315;406
+BINDING;;51;51
+BINDING;;138;138
+BINDING;;150;150
+BINDING;;170;171
+BINDING;;214;220

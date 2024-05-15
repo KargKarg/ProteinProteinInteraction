@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:1990816;C:vacuole-mitochondrion membrane contact site
+GO:0015297;F:antiporter activity
+GO:0015183;F:L-aspartate transmembrane transporter activity
+GO:0005313;F:L-glutamate transmembrane transporter activity
+GO:0015292;F:uniporter activity
+GO:0015810;P:aspartate transmembrane transport
+GO:0044271;P:cellular nitrogen compound biosynthetic process
+GO:0015813;P:L-glutamate transmembrane transport
+GO:0043490;P:malate-aspartate shuttle

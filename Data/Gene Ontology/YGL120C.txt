@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0005739;C:mitochondrion
+GO:0005730;C:nucleolus
+GO:0071014;C:post-mRNA release spliceosomal complex
+GO:0032040;C:small-subunit processome
+GO:0005681;C:spliceosomal complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0004386;F:helicase activity
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0003724;F:RNA helicase activity
+GO:0000466;P:maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0030490;P:maturation of SSU-rRNA
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0006364;P:rRNA processing
+GO:0000390;P:spliceosomal complex disassembly

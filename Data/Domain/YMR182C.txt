@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C2H2-type 1;19;44
+ZN_FING;C2H2-type 2;50;73
+REGION;Disordered;178;211
+MOTIF;Nuclear localization signal;6;11

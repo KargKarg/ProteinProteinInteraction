@@ -1,0 +1,14 @@
+GO id;GO term
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0051537;F:2 iron, 2 sulfur cluster binding
+GO:0015036;F:disulfide oxidoreductase activity
+GO:0046872;F:metal ion binding
+GO:0034599;P:cellular response to oxidative stress
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0106034;P:protein maturation by [2Fe-2S] cluster transfer
+GO:0106035;P:protein maturation by [4Fe-4S] cluster transfer
+GO:0097428;P:protein maturation by iron-sulfur cluster transfer
+GO:0006970;P:response to osmotic stress

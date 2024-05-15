@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0043138;F:3'-5' DNA helicase activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0033677;F:DNA/RNA helicase activity
+GO:0070336;F:flap-structured DNA binding
+GO:0000400;F:four-way junction DNA binding
+GO:0009378;F:four-way junction helicase activity
+GO:0033567;P:DNA replication, Okazaki fragment processing
+GO:0007535;P:donor selection
+GO:0045003;P:double-strand break repair via synthesis-dependent strand annealing
+GO:0036297;P:interstrand cross-link repair
+GO:0060543;P:negative regulation of strand invasion
+GO:0000725;P:recombinational repair

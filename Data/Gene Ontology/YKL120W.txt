@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0034658;F:isopropylmalate transmembrane transporter activity
+GO:1901239;F:malonate(1-) transmembrane transporter activity
+GO:0015131;F:oxaloacetate transmembrane transporter activity
+GO:0015116;F:sulfate transmembrane transporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:0034659;P:isopropylmalate transport
+GO:0015729;P:oxaloacetate transport
+GO:0008272;P:sulfate transport

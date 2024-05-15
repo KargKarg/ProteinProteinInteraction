@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0006997;P:nucleus organization
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0006606;P:protein import into nucleus
+GO:0019236;P:response to pheromone
+GO:0000054;P:ribosomal subunit export from nucleus
+GO:0006407;P:rRNA export from nucleus

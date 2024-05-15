@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PPIase FKBP-type;306;392
+REGION;Disordered;58;116
+REGION;Disordered;161;284

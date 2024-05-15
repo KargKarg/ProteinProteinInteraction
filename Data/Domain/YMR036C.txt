@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Rhodanese;261;373
+REGION;Disordered;72;93
+REGION;Disordered;111;192
+REGION;Disordered;449;469
+REGION;Disordered;510;554
+ACT_SITE;;320;320

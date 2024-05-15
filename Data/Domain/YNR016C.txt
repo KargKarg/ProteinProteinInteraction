@@ -1,0 +1,18 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Biotin carboxylation;58;567
+DOMAIN;ATP-grasp;216;408
+DOMAIN;Biotinyl-binding;694;768
+DOMAIN;CoA carboxyltransferase N-terminal;1486;1822
+DOMAIN;CoA carboxyltransferase C-terminal;1826;2141
+REGION;Carboxyltransferase;1486;2141
+ACT_SITE;;383;383
+BINDING;;256;261
+BINDING;;365;365
+BINDING;;379;379
+BINDING;;379;379
+BINDING;;381;381
+BINDING;;1627;1629
+BINDING;;1731;1731
+BINDING;;1998;1998
+BINDING;;2034;2034
+BINDING;;2036;2036

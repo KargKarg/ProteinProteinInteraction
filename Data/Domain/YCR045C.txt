@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Peptidase S8;142;442
+ACT_SITE;Charge relay system;174;174
+ACT_SITE;Charge relay system;205;205
+ACT_SITE;Charge relay system;365;365

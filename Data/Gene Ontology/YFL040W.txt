@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0005628;C:prospore membrane
+GO:0005366;F:myo-inositol:proton symporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:1904679;P:myo-inositol import across plasma membrane
+GO:0055085;P:transmembrane transport

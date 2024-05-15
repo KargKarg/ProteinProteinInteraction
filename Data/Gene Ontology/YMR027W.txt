@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0097023;F:fructose 6-phosphate aldolase activity
+GO:0103026;F:fructose-1-phosphatase activity
+GO:0046872;F:metal ion binding
+GO:0016791;F:phosphatase activity

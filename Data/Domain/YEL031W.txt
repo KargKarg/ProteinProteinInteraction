@@ -1,0 +1,17 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;A-domain; part 1;156;185
+REGION;A-domain; part 2;250;390
+REGION;P-domain; part 1;466;495
+REGION;N-domain;497;674
+REGION;P-domain; part 2;677;837
+REGION;Arm-like;838;953
+REGION;P-domain; part 3;954;969
+ACT_SITE;4-aspartylphosphate intermediate;487;487
+BINDING;;487;489
+BINDING;;487;487
+BINDING;;489;489
+BINDING;;582;582
+BINDING;;634;634
+BINDING;;699;699
+BINDING;;816;820
+BINDING;;816;816

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Required for correct nucleolar localization;1;58
+REGION;Disordered;271;315
+BINDING;;126;126

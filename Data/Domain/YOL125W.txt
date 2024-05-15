@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;CHHC U11-48K-type;72;99
+REGION;Disordered;55;78
+BINDING;;75;75
+BINDING;;81;81
+BINDING;;91;91
+BINDING;;95;95

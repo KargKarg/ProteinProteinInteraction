@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005801;C:cis-Golgi network
+GO:0005737;C:cytoplasm
+GO:0000324;C:fungal-type vacuole
+GO:0005794;C:Golgi apparatus
+GO:0005796;C:Golgi lumen
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:0016020;C:membrane
+GO:0005634;C:nucleus
+GO:0051537;F:2 iron, 2 sulfur cluster binding
+GO:0015038;F:glutathione disulfide oxidoreductase activity
+GO:0004362;F:glutathione-disulfide reductase (NADP) activity
+GO:0046872;F:metal ion binding
+GO:0034599;P:cellular response to oxidative stress
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0016226;P:iron-sulfur cluster assembly

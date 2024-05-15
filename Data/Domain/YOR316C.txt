@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;207;231
+REGION;Disordered;388;408
+MOTIF;Histidine repeat 1;140;144
+MOTIF;Histidine repeat 2;165;169
+MOTIF;Histidine repeat 3;219;223

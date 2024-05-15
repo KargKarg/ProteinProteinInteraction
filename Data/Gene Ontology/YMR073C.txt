@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004128;F:cytochrome-b5 reductase activity, acting on NAD(P)H
+GO:0020037;F:heme binding
+GO:0046872;F:metal ion binding
+GO:0006974;P:DNA damage response
+GO:0009410;P:response to xenobiotic stimulus

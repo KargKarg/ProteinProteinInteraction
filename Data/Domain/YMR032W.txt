@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;F-BAR;1;261
+DOMAIN;SH3;599;667
+REGION;Disordered;372;518

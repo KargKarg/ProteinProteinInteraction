@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0000812;C:Swr1 complex
+GO:0140849;F:ATP-dependent H2AZ histone chaperone activity
+GO:0006338;P:chromatin remodeling
+GO:0007029;P:endoplasmic reticulum organization
+GO:0006355;P:regulation of DNA-templated transcription

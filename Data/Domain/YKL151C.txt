@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;YjeF C-terminal;11;335
+REGION;Disordered;224;246
+BINDING;;121;121
+BINDING;;182;188
+BINDING;;218;222
+BINDING;;240;249
+BINDING;;250;250

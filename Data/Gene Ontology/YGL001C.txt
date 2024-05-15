@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0003854;F:3-beta-hydroxy-delta5-steroid dehydrogenase activity
+GO:0103066;F:4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating) activity
+GO:0103067;F:4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol:NAD(P)+ 3-dehydrogenase (decarboxylating) activity
+GO:0000252;F:C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity
+GO:0047012;F:sterol-4-alpha-carboxylate 3-dehydrogenase (decarboxylating) activity
+GO:0006696;P:ergosterol biosynthetic process

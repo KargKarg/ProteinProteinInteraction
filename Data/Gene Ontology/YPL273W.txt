@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0008898;F:S-adenosylmethionine-homocysteine S-methyltransferase activity
+GO:0061627;F:S-methylmethionine-homocysteine S-methyltransferase activity
+GO:0050667;P:homocysteine metabolic process
+GO:0019284;P:L-methionine salvage from S-adenosylmethionine
+GO:0032259;P:methylation
+GO:0046498;P:S-adenosylhomocysteine metabolic process

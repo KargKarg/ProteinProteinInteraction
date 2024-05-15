@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;2Fe-2S ferredoxin-type;61;163
+BINDING;;98;98
+BINDING;;104;104
+BINDING;;107;107
+BINDING;;144;144

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030663;C:COPI-coated vesicle membrane
+GO:0005783;C:endoplasmic reticulum
+GO:0012507;C:ER to Golgi transport vesicle membrane
+GO:0005794;C:Golgi apparatus
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0015031;P:protein transport
+GO:0016050;P:vesicle organization
+GO:0016192;P:vesicle-mediated transport

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0140671;C:ADA complex
+GO:0005634;C:nucleus
+GO:0000124;C:SAGA complex
+GO:0046695;C:SLIK (SAGA-like) complex
+GO:0003713;F:transcription coactivator activity
+GO:0006325;P:chromatin organization
+GO:0006338;P:chromatin remodeling
+GO:0006357;P:regulation of transcription by RNA polymerase II

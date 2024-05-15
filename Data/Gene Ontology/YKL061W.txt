@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0031083;C:BLOC-1 complex
+GO:0005768;C:endosome
+GO:0007032;P:endosome organization
+GO:0032880;P:regulation of protein localization

@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000779;C:condensed chromosome, centromeric region
+GO:0000796;C:condensin complex
+GO:0005730;C:nucleolus
+GO:0042393;F:histone binding
+GO:0051301;P:cell division
+GO:0030261;P:chromosome condensation
+GO:0043007;P:maintenance of rDNA
+GO:0010032;P:meiotic chromosome condensation
+GO:0051307;P:meiotic chromosome separation
+GO:0007076;P:mitotic chromosome condensation
+GO:0000070;P:mitotic sister chromatid segregation
+GO:1903342;P:negative regulation of meiotic DNA double-strand break formation
+GO:0044804;P:nucleophagy
+GO:0070550;P:rDNA chromatin condensation
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0007130;P:synaptonemal complex assembly
+GO:0070058;P:tRNA gene clustering

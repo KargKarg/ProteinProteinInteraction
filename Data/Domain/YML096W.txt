@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-2;2;209
+DOMAIN;Asparagine synthetase;210;523
+REGION;Disordered;503;525
+ACT_SITE;For GATase activity;2;2

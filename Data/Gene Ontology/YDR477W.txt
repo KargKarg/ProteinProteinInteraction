@@ -1,0 +1,34 @@
+GO id;GO term
+GO:0000144;C:cellular bud neck septin ring
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005641;C:nuclear envelope lumen
+GO:0031965;C:nuclear membrane
+GO:0031588;C:nucleotide-activated protein kinase complex
+GO:0005634;C:nucleus
+GO:0005774;C:vacuolar membrane
+GO:0004679;F:AMP-activated protein kinase activity
+GO:0005524;F:ATP binding
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0042802;F:identical protein binding
+GO:0140677;F:molecular function activator activity
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0005975;P:carbohydrate metabolic process
+GO:0000132;P:establishment of mitotic spindle orientation
+GO:0030447;P:filamentous growth
+GO:0071940;P:fungal-type cell wall assembly
+GO:0035556;P:intracellular signal transduction
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0017148;P:negative regulation of translation
+GO:0016310;P:phosphorylation
+GO:1900436;P:positive regulation of filamentous growth of a population of unicellular organisms in response to starvation
+GO:0045722;P:positive regulation of gluconeogenesis
+GO:0016239;P:positive regulation of macroautophagy
+GO:2000222;P:positive regulation of pseudohyphal growth
+GO:1904547;P:regulation of cellular response to glucose starvation
+GO:2000217;P:regulation of invasive growth in response to glucose limitation
+GO:0034976;P:response to endoplasmic reticulum stress
+GO:0006986;P:response to unfolded protein
+GO:0090606;P:single-species surface biofilm formation

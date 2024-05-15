@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;SRX;1;158
+REGION;Disordered;167;217
+REGION;NG domain;398;620
+BINDING;;404;411
+BINDING;;510;514
+BINDING;;572;575

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0070403;F:NAD+ binding
+GO:0017136;F:NAD-dependent histone deacetylase activity
+GO:0046970;F:NAD-dependent histone H4K16 deacetylase activity
+GO:0016740;F:transferase activity
+GO:0045950;P:negative regulation of mitotic recombination
+GO:0000183;P:rDNA heterochromatin formation

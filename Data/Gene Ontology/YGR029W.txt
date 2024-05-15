@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0016971;F:flavin-dependent sulfhydryl oxidase activity
+GO:0016972;F:thiol oxidase activity
+GO:0034599;P:cellular response to oxidative stress
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0045041;P:protein import into mitochondrial intermembrane space

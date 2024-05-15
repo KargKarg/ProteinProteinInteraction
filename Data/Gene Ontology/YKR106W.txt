@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005768;C:endosome
+GO:0005886;C:plasma membrane
+GO:0005774;C:vacuolar membrane
+GO:0015297;F:antiporter activity
+GO:0015078;F:proton transmembrane transporter activity
+GO:0015343;F:siderophore-iron transmembrane transporter activity
+GO:0034775;P:glutathione transmembrane transport
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0055085;P:transmembrane transport

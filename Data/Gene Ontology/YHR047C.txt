@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0070006;F:metalloaminopeptidase activity
+GO:0042277;F:peptide binding
+GO:0008270;F:zinc ion binding
+GO:0005977;P:glycogen metabolic process
+GO:0043171;P:peptide catabolic process
+GO:0006508;P:proteolysis

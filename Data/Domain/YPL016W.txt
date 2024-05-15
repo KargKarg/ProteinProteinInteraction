@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;ARID;406;493
+ZN_FING;C4-type;1241;1258
+REGION;Prion domain (PrD);1;323
+REGION;Disordered;1;112
+REGION;Disordered;213;250
+REGION;Disordered;262;321
+REGION;Disordered;355;384
+REGION;Disordered;581;617

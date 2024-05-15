@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0032865;C:ERMES complex
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0098799;C:outer mitochondrial membrane protein complex
+GO:0005886;C:plasma membrane
+GO:0008289;F:lipid binding
+GO:0015917;P:aminophospholipid transport
+GO:0120009;P:intermembrane lipid transfer
+GO:0000002;P:mitochondrial genome maintenance
+GO:0070096;P:mitochondrial outer membrane translocase complex assembly
+GO:0000001;P:mitochondrion inheritance
+GO:0007005;P:mitochondrion organization
+GO:1990456;P:mitochondrion-endoplasmic reticulum membrane tethering
+GO:0055091;P:phospholipid homeostasis
+GO:0015914;P:phospholipid transport
+GO:0045040;P:protein insertion into mitochondrial outer membrane

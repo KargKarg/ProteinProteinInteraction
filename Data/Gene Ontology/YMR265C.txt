@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0031428;C:box C/D RNP complex
+GO:0032040;C:small-subunit processome
+GO:1990259;F:histone H2AQ104 methyltransferase activity
+GO:0003723;F:RNA binding
+GO:0008649;F:rRNA methyltransferase activity
+GO:0000494;P:box C/D RNA 3'-end processing
+GO:0031167;P:rRNA methylation

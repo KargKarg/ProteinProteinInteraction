@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005770;C:late endosome
+GO:0031902;C:late endosome membrane
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030688;C:preribosome, small subunit precursor
+GO:0071986;C:Ragulator complex
+GO:0032040;C:small-subunit processome
+GO:1904669;P:ATP export
+GO:0034599;P:cellular response to oxidative stress
+GO:0032456;P:endocytic recycling
+GO:0030490;P:maturation of SSU-rRNA
+GO:0015031;P:protein transport
+GO:0006970;P:response to osmotic stress
+GO:0042274;P:ribosomal small subunit biogenesis
+GO:0000056;P:ribosomal small subunit export from nucleus

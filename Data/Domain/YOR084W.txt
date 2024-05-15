@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Peroxisomal targeting signal type 1;385;387

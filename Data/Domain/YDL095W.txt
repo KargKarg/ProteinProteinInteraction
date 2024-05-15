@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MIR 1;324;378
+DOMAIN;MIR 2;388;448
+DOMAIN;MIR 3;459;514

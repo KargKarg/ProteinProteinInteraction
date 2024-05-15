@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;43
+REGION;Disordered;61;87
+REGION;Interaction with RSA4;85;98
+MOTIF;Nuclear localization signal 1;15;22
+MOTIF;Nuclear localization signal 2;51;58

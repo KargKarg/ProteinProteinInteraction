@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Thioredoxin 1;28;142
+DOMAIN;Thioredoxin 2;408;446

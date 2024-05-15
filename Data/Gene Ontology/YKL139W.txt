@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0032806;C:carboxy-terminal domain protein kinase complex
+GO:0070692;C:CTDK-1 complex
+GO:0008024;C:cyclin/CDK positive transcription elongation factor complex
+GO:0005737;C:cytoplasm
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0030332;F:cyclin binding
+GO:0004693;F:cyclin-dependent protein serine/threonine kinase activity
+GO:0004672;F:protein kinase activity
+GO:0008353;F:RNA polymerase II CTD heptapeptide repeat kinase activity
+GO:0006974;P:DNA damage response
+GO:0031124;P:mRNA 3'-end processing
+GO:0016310;P:phosphorylation
+GO:0032786;P:positive regulation of DNA-templated transcription, elongation
+GO:0045943;P:positive regulation of transcription by RNA polymerase I
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0045903;P:positive regulation of translational fidelity
+GO:0006413;P:translational initiation

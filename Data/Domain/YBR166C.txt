@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Prephenate/arogenate dehydrogenase;14;297
+BINDING;;14;43

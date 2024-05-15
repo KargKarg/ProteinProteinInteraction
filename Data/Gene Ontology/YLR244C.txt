@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0022626;C:cytosolic ribosome
+GO:0004239;F:initiator methionyl aminopeptidase activity
+GO:0070006;F:metalloaminopeptidase activity
+GO:0003729;F:mRNA binding
+GO:0008270;F:zinc ion binding
+GO:0010629;P:negative regulation of gene expression
+GO:0016485;P:protein processing

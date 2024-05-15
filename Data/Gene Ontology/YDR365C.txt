@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0032040;C:small-subunit processome
+GO:0003723;F:RNA binding
+GO:0030490;P:maturation of SSU-rRNA
+GO:0006364;P:rRNA processing

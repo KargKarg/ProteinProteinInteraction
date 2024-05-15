@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0032991;C:protein-containing complex
+GO:0008289;F:lipid binding
+GO:0006744;P:ubiquinone biosynthetic process
+GO:1901006;P:ubiquinone-6 biosynthetic process

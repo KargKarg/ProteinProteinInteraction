@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Twin CX3C motif;40;66

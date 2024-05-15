@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0008519;F:ammonium transmembrane transporter activity
+GO:0072488;P:ammonium transmembrane transport
+GO:0019740;P:nitrogen utilization

@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005801;C:cis-Golgi network
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005794;C:Golgi apparatus
+GO:0005797;C:Golgi medial cisterna
+GO:0015085;F:calcium ion transmembrane transporter activity
+GO:0015369;F:calcium:proton antiporter activity
+GO:0005384;F:manganese ion transmembrane transporter activity
+GO:0010486;F:manganese:proton antiporter activity
+GO:0070588;P:calcium ion transmembrane transport
+GO:0032468;P:Golgi calcium ion homeostasis
+GO:0032472;P:Golgi calcium ion transport
+GO:0006874;P:intracellular calcium ion homeostasis
+GO:0030026;P:intracellular manganese ion homeostasis
+GO:0071421;P:manganese ion transmembrane transport

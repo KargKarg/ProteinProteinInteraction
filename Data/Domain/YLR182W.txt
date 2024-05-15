@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;ANK 1;318;346
+REPEAT;ANK 2;347;383
+REPEAT;ANK 3;384;469
+REPEAT;ANK 4;470;498
+REPEAT;ANK 5;499;514
+REGION;Disordered;108;150
+REGION;Disordered;169;212
+REGION;Disordered;266;288
+REGION;Disordered;512;540

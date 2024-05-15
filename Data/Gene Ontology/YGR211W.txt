@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0044183;F:protein folding chaperone
+GO:0008270;F:zinc ion binding
+GO:0000086;P:G2/M transition of mitotic cell cycle
+GO:0006457;P:protein folding
+GO:0009749;P:response to glucose

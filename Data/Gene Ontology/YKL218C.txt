@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005524;F:ATP binding
+GO:0008721;F:D-serine ammonia-lyase activity
+GO:0003941;F:L-serine ammonia-lyase activity
+GO:0000287;F:magnesium ion binding
+GO:0030170;F:pyridoxal phosphate binding
+GO:0030378;F:serine racemase activity
+GO:0030848;F:threo-3-hydroxyaspartate ammonia-lyase activity
+GO:0018114;F:threonine racemase activity
+GO:0006520;P:amino acid metabolic process
+GO:0042219;P:cellular modified amino acid catabolic process

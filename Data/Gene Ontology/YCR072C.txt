@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0110136;P:protein-RNA complex remodeling
+GO:0000027;P:ribosomal large subunit assembly

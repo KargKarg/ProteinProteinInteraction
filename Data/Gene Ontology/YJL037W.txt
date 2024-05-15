@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0030476;P:ascospore wall assembly

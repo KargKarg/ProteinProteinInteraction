@@ -1,0 +1,25 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0017053;C:transcription repressor complex
+GO:0072380;C:TRC complex
+GO:0005524;F:ATP binding
+GO:0001671;F:ATPase activator activity
+GO:0030544;F:Hsp70 protein binding
+GO:0046872;F:metal ion binding
+GO:0051087;F:protein-folding chaperone binding
+GO:0051082;F:unfolded protein binding
+GO:0006458;P:'de novo' protein folding
+GO:0051131;P:chaperone-mediated protein complex assembly
+GO:0045892;P:negative regulation of DNA-templated transcription
+GO:0042026;P:protein refolding
+GO:0045047;P:protein targeting to ER
+GO:0006626;P:protein targeting to mitochondrion
+GO:0015031;P:protein transport
+GO:0009408;P:response to heat
+GO:0070482;P:response to oxygen levels
+GO:0035719;P:tRNA import into nucleus
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0006511;P:ubiquitin-dependent protein catabolic process

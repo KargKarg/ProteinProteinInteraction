@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0030915;C:Smc5-Smc6 complex
+GO:0140588;P:chromatin looping
+GO:0006281;P:DNA repair
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0016925;P:protein sumoylation
+GO:0032204;P:regulation of telomere maintenance

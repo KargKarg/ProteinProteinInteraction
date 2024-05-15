@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;May be involved in recognition of long-chain fatty acids in GPI;235;255

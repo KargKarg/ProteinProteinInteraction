@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005776;C:autophagosome
+GO:0030659;C:cytoplasmic vesicle membrane
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000139;C:Golgi membrane
+GO:0031966;C:mitochondrial membrane
+GO:0005739;C:mitochondrion
+GO:0061908;C:phagophore
+GO:0000407;C:phagophore assembly site
+GO:0034045;C:phagophore assembly site membrane
+GO:0017128;F:phospholipid scramblase activity
+GO:0000045;P:autophagosome assembly
+GO:0006914;P:autophagy
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0000423;P:mitophagy
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0034497;P:protein localization to phagophore assembly site
+GO:0061709;P:reticulophagy

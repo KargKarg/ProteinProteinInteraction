@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005886;C:plasma membrane
+GO:0050661;F:NADP binding
+GO:0004616;F:phosphogluconate dehydrogenase (decarboxylating) activity
+GO:0046177;P:D-gluconate catabolic process
+GO:0009051;P:pentose-phosphate shunt, oxidative branch

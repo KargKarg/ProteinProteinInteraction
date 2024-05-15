@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005782;C:peroxisomal matrix
+GO:0004165;F:delta(3)-delta(2)-enoyl-CoA isomerase activity
+GO:0051750;F:delta(3,5)-delta(2,4)-dienoyl-CoA isomerase activity
+GO:0006635;P:fatty acid beta-oxidation

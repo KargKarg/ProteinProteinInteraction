@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005934;C:cellular bud tip
+GO:0015934;C:large ribosomal subunit
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0101031;C:protein folding chaperone complex
+GO:0003730;F:mRNA 3'-UTR binding
+GO:0048027;F:mRNA 5'-UTR binding
+GO:0003729;F:mRNA binding
+GO:0000900;F:mRNA regulatory element binding translation repressor activity
+GO:0017148;P:negative regulation of translation
+GO:0050821;P:protein stabilization
+GO:0006417;P:regulation of translation

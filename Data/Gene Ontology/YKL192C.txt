@@ -1,0 +1,9 @@
+GO id;GO term
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:0099128;C:mitochondrial iron-sulfur cluster assembly complex
+GO:0005739;C:mitochondrion
+GO:0070469;C:respirasome
+GO:0000035;F:acyl binding
+GO:0000036;F:acyl carrier activity
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0009107;P:lipoate biosynthetic process

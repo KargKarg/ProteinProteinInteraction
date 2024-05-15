@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0016282;C:eukaryotic 43S preinitiation complex
+GO:0033290;C:eukaryotic 48S preinitiation complex
+GO:0005852;C:eukaryotic translation initiation factor 3 complex
+GO:0071540;C:eukaryotic translation initiation factor 3 complex, eIF3e
+GO:0071541;C:eukaryotic translation initiation factor 3 complex, eIF3m
+GO:0000131;C:incipient cellular bud site
+GO:0043614;C:multi-eIF complex
+GO:0003729;F:mRNA binding
+GO:0003743;F:translation initiation factor activity
+GO:0001732;P:formation of cytoplasmic translation initiation complex
+GO:0002188;P:translation reinitiation
+GO:0006413;P:translational initiation

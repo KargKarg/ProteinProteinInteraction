@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PNPLA;282;483
+REGION;Disordered;51;120
+REGION;Disordered;657;683
+REGION;Disordered;713;777
+REGION;Disordered;874;910
+MOTIF;GXGXXG;286;291
+MOTIF;GXSXG;313;317
+ACT_SITE;Nucleophile;315;315
+ACT_SITE;Proton acceptor;470;470

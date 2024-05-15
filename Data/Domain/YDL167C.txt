@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;RRM;226;322
+ZN_FING;RanBP2-type 1;355;384
+ZN_FING;RanBP2-type 2;581;610
+REGION;Disordered;389;415
+REGION;Disordered;511;561
+REGION;Disordered;622;661

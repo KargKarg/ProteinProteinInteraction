@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Mediates dimerization;919;1349
+REGION;Disordered;1214;1245
+REGION;Required for binding to tRNA;1228;1246

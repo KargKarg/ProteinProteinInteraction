@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0003690;F:double-stranded DNA binding
+GO:0003723;F:RNA binding
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0022618;P:protein-RNA complex assembly
+GO:0006368;P:transcription elongation by RNA polymerase II

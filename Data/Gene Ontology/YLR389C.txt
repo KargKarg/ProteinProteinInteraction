@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0046872;F:metal ion binding
+GO:0004222;F:metalloendopeptidase activity
+GO:0043171;P:peptide catabolic process
+GO:0071432;P:peptide mating pheromone maturation involved in positive regulation of conjugation with cellular fusion
+GO:0051603;P:proteolysis involved in protein catabolic process
+GO:0019236;P:response to pheromone

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0005732;C:sno(s)RNA-containing ribonucleoprotein complex
+GO:0003723;F:RNA binding
+GO:0000493;P:box H/ACA snoRNP assembly
+GO:0001522;P:pseudouridine synthesis
+GO:0042254;P:ribosome biogenesis
+GO:0006364;P:rRNA processing

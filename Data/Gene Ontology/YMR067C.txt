@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0012506;C:vesicle membrane
+GO:0044877;F:protein-containing complex binding
+GO:0006886;P:intracellular protein transport
+GO:0030435;P:sporulation resulting in formation of a cellular spore
+GO:0030433;P:ubiquitin-dependent ERAD pathway

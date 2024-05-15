@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005823;C:central plaque of spindle pole body
+GO:0005637;C:nuclear inner membrane
+GO:0005816;C:spindle pole body
+GO:0008289;F:lipid binding
+GO:0030474;P:spindle pole body duplication
+GO:0070631;P:spindle pole body localization

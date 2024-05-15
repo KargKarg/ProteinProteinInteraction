@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005740;C:mitochondrial envelope
+GO:0031966;C:mitochondrial membrane
+GO:0005739;C:mitochondrion
+GO:0003848;F:2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity
+GO:0005524;F:ATP binding
+GO:0004150;F:dihydroneopterin aldolase activity
+GO:0004156;F:dihydropteroate synthase activity
+GO:0016301;F:kinase activity
+GO:0046872;F:metal ion binding
+GO:0046656;P:folic acid biosynthetic process
+GO:0016310;P:phosphorylation
+GO:0046654;P:tetrahydrofolate biosynthetic process

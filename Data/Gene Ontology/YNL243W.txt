@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0030136;C:clathrin-coated vesicle
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0051015;F:actin filament binding
+GO:0035615;F:clathrin adaptor activity
+GO:0032051;F:clathrin light chain binding
+GO:0043325;F:phosphatidylinositol-3,4-bisphosphate binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0000147;P:actin cortical patch assembly
+GO:0007015;P:actin filament organization
+GO:0048268;P:clathrin coat assembly
+GO:0006897;P:endocytosis
+GO:0034316;P:negative regulation of Arp2/3 complex-mediated actin nucleation

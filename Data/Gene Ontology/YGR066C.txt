@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0034657;C:GID complex
+GO:0005773;C:vacuole
+GO:0045721;P:negative regulation of gluconeogenesis
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0030163;P:protein catabolic process
+GO:0007039;P:protein catabolic process in the vacuole
+GO:0006623;P:protein targeting to vacuole
+GO:0006970;P:response to osmotic stress
+GO:0042594;P:response to starvation

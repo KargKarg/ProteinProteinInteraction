@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0031901;C:early endosome membrane
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0031683;F:G-protein beta/gamma-subunit complex binding
+GO:0016409;F:palmitoyltransferase activity
+GO:0019706;F:protein-cysteine S-palmitoyltransferase activity
+GO:0090029;P:negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion
+GO:0018345;P:protein palmitoylation
+GO:0006612;P:protein targeting to membrane
+GO:0030100;P:regulation of endocytosis

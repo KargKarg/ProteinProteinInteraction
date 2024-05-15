@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0031210;F:phosphatidylcholine binding
+GO:0035091;F:phosphatidylinositol binding

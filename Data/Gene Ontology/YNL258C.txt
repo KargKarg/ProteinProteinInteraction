@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0070939;C:Dsl1/NZR complex
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005634;C:nucleus
+GO:1990423;C:RZZ complex
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0032581;P:ER-dependent peroxisome organization
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0015031;P:protein transport
+GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Nucleophile;91;91
+ACT_SITE;Charge relay system;197;197
+ACT_SITE;Charge relay system;199;199
+BINDING;;58;60
+BINDING;;120;120
+BINDING;;151;152

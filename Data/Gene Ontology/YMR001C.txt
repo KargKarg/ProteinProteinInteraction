@@ -1,0 +1,27 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0000922;C:spindle pole
+GO:0005816;C:spindle pole body
+GO:0005524;F:ATP binding
+GO:0019237;F:centromeric DNA binding
+GO:0051219;F:phosphoprotein binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0044877;F:protein-containing complex binding
+GO:0051301;P:cell division
+GO:0010458;P:exit from mitosis
+GO:0090306;P:meiotic spindle assembly
+GO:0007052;P:mitotic spindle organization
+GO:1904750;P:negative regulation of protein localization to nucleolus
+GO:0016310;P:phosphorylation
+GO:0010696;P:positive regulation of mitotic spindle pole body separation
+GO:0110083;P:positive regulation of protein localization to cell division site involved in mitotic actomyosin contractile ring assembly
+GO:0035025;P:positive regulation of Rho protein signal transduction
+GO:1903353;P:regulation of nucleus organization
+GO:1902542;P:regulation of protein localization to mitotic spindle pole body
+GO:0000712;P:resolution of meiotic recombination intermediates
+GO:0070194;P:synaptonemal complex disassembly

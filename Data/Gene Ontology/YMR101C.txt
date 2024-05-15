@@ -1,0 +1,9 @@
+GO id;GO term
+GO:1904423;C:dehydrodolichyl diphosphate synthase complex
+GO:0005783;C:endoplasmic reticulum
+GO:0005811;C:lipid droplet
+GO:0045547;F:dehydrodolichyl diphosphate synthase activity
+GO:0002094;F:polyprenyltransferase activity
+GO:0004659;F:prenyltransferase activity
+GO:0019408;P:dolichol biosynthetic process
+GO:0006486;P:protein glycosylation

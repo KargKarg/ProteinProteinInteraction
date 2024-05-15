@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0045025;C:mitochondrial degradosome
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0000932;C:P-body
+GO:0000175;F:3'-5'-RNA exonuclease activity
+GO:0008859;F:exoribonuclease II activity
+GO:0003723;F:RNA binding
+GO:0000957;P:mitochondrial RNA catabolic process
+GO:0006402;P:mRNA catabolic process

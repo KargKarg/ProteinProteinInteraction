@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0030437;P:ascospore formation
+GO:0006312;P:mitotic recombination

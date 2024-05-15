@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005619;C:ascospore wall
+GO:0005633;C:ascus lipid droplet
+GO:0005737;C:cytoplasm
+GO:0005811;C:lipid droplet
+GO:0005628;C:prospore membrane
+GO:0030476;P:ascospore wall assembly

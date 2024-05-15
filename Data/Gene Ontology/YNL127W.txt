@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0090443;C:FAR/SIN/STRIPAK complex
+GO:0000138;C:Golgi trans cisterna
+GO:0071444;P:cellular response to pheromone
+GO:0007010;P:cytoskeleton organization
+GO:0031573;P:mitotic intra-S DNA damage checkpoint signaling
+GO:0016239;P:positive regulation of macroautophagy
+GO:0000321;P:re-entry into mitotic cell cycle after pheromone arrest
+GO:0051726;P:regulation of cell cycle

@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0008999;F:peptide-alanine-alpha-N-acetyltransferase activity
+GO:1990189;F:peptide-serine-alpha-N-acetyltransferase activity

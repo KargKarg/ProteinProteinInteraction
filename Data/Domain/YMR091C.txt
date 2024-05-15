@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;97
+REGION;Functional region; able to complement all NPL6 null allele phenotypes;248;435

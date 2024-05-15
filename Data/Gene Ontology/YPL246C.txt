@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0034399;C:nuclear periphery
+GO:0004252;F:serine-type endopeptidase activity
+GO:0006508;P:proteolysis

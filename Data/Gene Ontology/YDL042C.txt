@@ -1,0 +1,28 @@
+GO id;GO term
+GO:0005677;C:chromatin silencing complex
+GO:0000781;C:chromosome, telomeric region
+GO:0000792;C:heterochromatin
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030869;C:RENT complex
+GO:0046872;F:metal ion binding
+GO:0070403;F:NAD+ binding
+GO:0017136;F:NAD-dependent histone deacetylase activity
+GO:0032041;F:NAD-dependent histone H3K14 deacetylase activity
+GO:0046969;F:NAD-dependent histone H3K9 deacetylase activity
+GO:0046970;F:NAD-dependent histone H4K16 deacetylase activity
+GO:0016740;F:transferase activity
+GO:0006325;P:chromatin organization
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0097695;P:establishment of protein-containing complex localization to telomere
+GO:0031507;P:heterochromatin formation
+GO:1904524;P:negative regulation of DNA amplification
+GO:0045910;P:negative regulation of DNA recombination
+GO:0008156;P:negative regulation of DNA replication
+GO:0000183;P:rDNA heterochromatin formation
+GO:0097752;P:regulation of DNA stability
+GO:0031047;P:regulatory ncRNA-mediated gene silencing
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0007062;P:sister chromatid cohesion
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0034398;P:telomere tethering at nuclear periphery

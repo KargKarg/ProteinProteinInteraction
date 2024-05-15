@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SMC hinge;527;641
+MOTIF;Nuclear localization signal;1057;1061
+BINDING;;33;40

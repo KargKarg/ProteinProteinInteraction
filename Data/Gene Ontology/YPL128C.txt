@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005634;C:nucleus
+GO:0043035;F:chromatin insulator sequence binding
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0003691;F:double-stranded telomeric DNA binding
+GO:0042803;F:protein homodimerization activity
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0007049;P:cell cycle
+GO:0032211;P:negative regulation of telomere maintenance via telomerase
+GO:0001015;P:snoRNA transcription by RNA polymerase II
+GO:0010833;P:telomere maintenance via telomere lengthening

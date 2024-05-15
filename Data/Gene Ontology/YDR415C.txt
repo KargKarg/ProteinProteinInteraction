@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0004177;F:aminopeptidase activity
+GO:0046872;F:metal ion binding
+GO:0008235;F:metalloexopeptidase activity
+GO:0006508;P:proteolysis

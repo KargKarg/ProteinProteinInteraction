@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000235;C:astral microtubule
+GO:0005737;C:cytoplasm
+GO:0005882;C:intermediate filament
+GO:0000776;C:kinetochore
+GO:0072686;C:mitotic spindle
+GO:0005634;C:nucleus
+GO:0000164;C:protein phosphatase type 1 complex
+GO:0005876;C:spindle microtubule
+GO:0000922;C:spindle pole
+GO:0005816;C:spindle pole body
+GO:0008017;F:microtubule binding
+GO:0005200;F:structural constituent of cytoskeleton
+GO:1902426;P:deactivation of mitotic spindle assembly checkpoint
+GO:0045104;P:intermediate filament cytoskeleton organization
+GO:0000070;P:mitotic sister chromatid segregation
+GO:0007052;P:mitotic spindle organization
+GO:0034501;P:protein localization to kinetochore

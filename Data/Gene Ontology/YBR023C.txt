@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0030428;C:cell septum
+GO:0005935;C:cellular bud neck
+GO:0045009;C:chitosome
+GO:0005737;C:cytoplasm
+GO:0030659;C:cytoplasmic vesicle membrane
+GO:0005783;C:endoplasmic reticulum
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0005628;C:prospore membrane
+GO:0004100;F:chitin synthase activity
+GO:0030476;P:ascospore wall assembly
+GO:0006038;P:cell wall chitin biosynthetic process
+GO:0034221;P:fungal-type cell wall chitin biosynthetic process
+GO:0097271;P:protein localization to bud neck

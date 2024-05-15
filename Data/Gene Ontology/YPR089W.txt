@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus
+GO:0051020;F:GTPase binding

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0005096;F:GTPase activator activity
+GO:0071444;P:cellular response to pheromone
+GO:0035556;P:intracellular signal transduction
+GO:0009968;P:negative regulation of signal transduction
+GO:0007165;P:signal transduction

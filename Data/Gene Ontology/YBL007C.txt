@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:1990964;C:actin cytoskeleton-regulatory complex
+GO:0005938;C:cell cortex
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0010008;C:endosome membrane
+GO:0043332;C:mating projection tip
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0140224;C:SLAC complex
+GO:0003779;F:actin binding
+GO:0140312;F:cargo adaptor activity
+GO:0042802;F:identical protein binding
+GO:0043130;F:ubiquitin binding
+GO:0000147;P:actin cortical patch assembly
+GO:0071555;P:cell wall organization
+GO:0006897;P:endocytosis
+GO:0034316;P:negative regulation of Arp2/3 complex-mediated actin nucleation
+GO:0030833;P:regulation of actin filament polymerization
+GO:0034315;P:regulation of Arp2/3 complex-mediated actin nucleation

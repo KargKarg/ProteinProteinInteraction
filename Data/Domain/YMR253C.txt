@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;EamA 1;78;215
+DOMAIN;EamA 2;253;379
+REGION;Disordered;20;51

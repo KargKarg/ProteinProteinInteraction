@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0034399;C:nuclear periphery
+GO:0043596;C:nuclear replication fork
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0010997;F:anaphase-promoting complex binding
+GO:0006281;P:DNA repair
+GO:0006260;P:DNA replication
+GO:0000076;P:DNA replication checkpoint signaling
+GO:0043570;P:maintenance of DNA repeat elements
+GO:0033314;P:mitotic DNA replication checkpoint signaling
+GO:0007095;P:mitotic G2 DNA damage checkpoint signaling
+GO:0031573;P:mitotic intra-S DNA damage checkpoint signaling
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0033262;P:regulation of nuclear cell cycle DNA replication
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0000723;P:telomere maintenance

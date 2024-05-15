@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0034039;F:8-oxo-7,8-dihydroguanine DNA N-glycosylase activity
+GO:0140078;F:class I DNA-(apurinic or apyrimidinic site) endonuclease activity
+GO:0003684;F:damaged DNA binding
+GO:0008534;F:oxidized purine nucleobase lesion DNA N-glycosylase activity
+GO:0006285;P:base-excision repair, AP site formation
+GO:0006281;P:DNA repair
+GO:0070987;P:error-free translesion synthesis
+GO:0006289;P:nucleotide-excision repair
+GO:0007004;P:telomere maintenance via telomerase

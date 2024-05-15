@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;561;587
+MOTIF;PAL;477;479
+ACT_SITE;;366;366
+ACT_SITE;;411;411

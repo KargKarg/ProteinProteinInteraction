@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;t-SNARE coiled-coil homology;132;194
+REGION;Interaction with VPS51;1;106

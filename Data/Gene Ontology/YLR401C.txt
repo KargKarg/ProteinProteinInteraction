@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0034399;C:nuclear periphery
+GO:0005634;C:nucleus
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0046872;F:metal ion binding
+GO:0003729;F:mRNA binding
+GO:0017150;F:tRNA dihydrouridine synthase activity
+GO:0102265;F:tRNA-dihydrouridine47 synthase activity
+GO:0006397;P:mRNA processing
+GO:0006400;P:tRNA modification

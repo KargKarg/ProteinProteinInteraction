@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000139;C:Golgi membrane
+GO:0005096;F:GTPase activator activity
+GO:0046872;F:metal ion binding
+GO:0030437;P:ascospore formation
+GO:0032012;P:regulation of ARF protein signal transduction
+GO:0030100;P:regulation of endocytosis

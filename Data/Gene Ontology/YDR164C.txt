@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005886;C:plasma membrane
+GO:0000149;F:SNARE binding
+GO:0019905;F:syntaxin binding
+GO:0006887;P:exocytosis
+GO:0006886;P:intracellular protein transport
+GO:0031340;P:positive regulation of vesicle fusion
+GO:0006904;P:vesicle docking involved in exocytosis
+GO:0016192;P:vesicle-mediated transport

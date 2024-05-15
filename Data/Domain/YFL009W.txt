@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;F-box;272;319
+REPEAT;WD 1;380;408
+REPEAT;WD 2;420;449
+REPEAT;WD 3;461;493
+REPEAT;WD 4;528;556
+REPEAT;WD 5;568;598
+REPEAT;WD 6;630;658
+REPEAT;WD 7;669;698
+REGION;Disordered;39;80
+MOTIF;Nuclear localization signal;82;85

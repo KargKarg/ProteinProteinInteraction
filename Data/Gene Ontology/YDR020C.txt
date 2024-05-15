@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0043771;F:cytidine kinase activity
+GO:0004849;F:uridine kinase activity
+GO:0044211;P:CTP salvage
+GO:0016310;P:phosphorylation
+GO:0044206;P:UMP salvage

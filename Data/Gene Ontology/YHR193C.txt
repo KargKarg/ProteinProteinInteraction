@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005854;C:nascent polypeptide-associated complex
+GO:0005634;C:nucleus
+GO:0070300;F:phosphatidic acid binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0051082;F:unfolded protein binding
+GO:0051083;P:'de novo' cotranslational protein folding
+GO:0006613;P:cotranslational protein targeting to membrane
+GO:0006612;P:protein targeting to membrane
+GO:0015031;P:protein transport

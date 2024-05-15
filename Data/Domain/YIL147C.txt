@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Histidine kinase;573;928
+DOMAIN;Response regulatory;1089;1210
+REGION;Disordered;414;433
+REGION;Disordered;444;500
+REGION;Disordered;960;1016
+REGION;Disordered;1040;1081
+BINDING;;1094;1094
+BINDING;;1095;1095
+BINDING;;1144;1144
+BINDING;;1195;1195

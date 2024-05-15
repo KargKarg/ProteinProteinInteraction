@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SAP;278;312
+ZN_FING;RING-type;28;66
+ZN_FING;UBZ4-type;187;215
+REGION;Disordered;222;254
+REGION;Disordered;407;487
+BINDING;;190;190
+BINDING;;193;193
+BINDING;;206;206
+BINDING;;210;210

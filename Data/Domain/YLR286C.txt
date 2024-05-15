@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;GH18;27;311
+REGION;Disordered;329;358
+REGION;Disordered;461;484
+REGION;Chitin-binding, high affinity;481;562
+ACT_SITE;Proton donor;157;157

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005665;C:RNA polymerase II, core complex
+GO:0003677;F:DNA binding
+GO:0046983;F:protein dimerization activity
+GO:0001055;F:RNA polymerase II activity
+GO:0001172;P:RNA-templated transcription
+GO:0006369;P:termination of RNA polymerase II transcription
+GO:0006366;P:transcription by RNA polymerase II
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter

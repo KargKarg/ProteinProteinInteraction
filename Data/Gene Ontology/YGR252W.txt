@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0140671;C:ADA complex
+GO:0000775;C:chromosome, centromeric region
+GO:0005829;C:cytosol
+GO:0000123;C:histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0000124;C:SAGA complex
+GO:0046695;C:SLIK (SAGA-like) complex
+GO:0004402;F:histone acetyltransferase activity
+GO:0140068;F:histone crotonyltransferase activity
+GO:0010484;F:histone H3 acetyltransferase activity
+GO:0070577;F:lysine-acetylated histone binding
+GO:0061733;F:peptide-lysine-N-acetyltransferase activity
+GO:0003712;F:transcription coregulator activity
+GO:0006325;P:chromatin organization
+GO:0006338;P:chromatin remodeling
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

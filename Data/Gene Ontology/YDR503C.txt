@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0000139;C:Golgi membrane
+GO:0016020;C:membrane
+GO:0000810;F:diacylglycerol diphosphate phosphatase activity
+GO:0008195;F:phosphatidate phosphatase activity
+GO:0006644;P:phospholipid metabolic process

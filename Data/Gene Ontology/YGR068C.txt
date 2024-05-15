@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005886;C:plasma membrane
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0031625;F:ubiquitin protein ligase binding
+GO:0070086;P:ubiquitin-dependent endocytosis

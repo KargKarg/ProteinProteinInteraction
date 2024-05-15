@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0097632;C:extrinsic component of phagophore assembly site membrane
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0000407;C:phagophore assembly site
+GO:0019778;F:Atg12 activating enzyme activity
+GO:0019779;F:Atg8 activating enzyme activity
+GO:0042802;F:identical protein binding
+GO:0006914;P:autophagy
+GO:0000422;P:autophagy of mitochondrion
+GO:0006501;P:C-terminal protein lipidation
+GO:0006995;P:cellular response to nitrogen starvation
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0016236;P:macroautophagy
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0032446;P:protein modification by small protein conjugation
+GO:0015031;P:protein transport

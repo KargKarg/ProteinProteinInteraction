@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0000144;C:cellular bud neck septin ring
+GO:0000324;C:fungal-type vacuole
+GO:0000131;C:incipient cellular bud site
+GO:0005886;C:plasma membrane
+GO:0005509;F:calcium ion binding
+GO:0007120;P:axial cellular bud site selection

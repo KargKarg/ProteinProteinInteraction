@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0003904;F:deoxyribodipyrimidine photo-lyase activity
+GO:0003677;F:DNA binding
+GO:0071949;F:FAD binding
+GO:0003729;F:mRNA binding
+GO:0032922;P:circadian regulation of gene expression
+GO:0043153;P:entrainment of circadian clock by photoperiod
+GO:0000719;P:photoreactive repair

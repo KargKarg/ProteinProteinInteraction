@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0004014;F:adenosylmethionine decarboxylase activity
+GO:0015940;P:pantothenate biosynthetic process
+GO:0008295;P:spermidine biosynthetic process
+GO:0006597;P:spermine biosynthetic process

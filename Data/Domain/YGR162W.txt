@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MIF4G;607;850
+REGION;Disordered;1;77
+REGION;Disordered;115;389
+REGION;Interaction with PAB1;188;299
+REGION;Disordered;481;575
+REGION;Disordered;870;952

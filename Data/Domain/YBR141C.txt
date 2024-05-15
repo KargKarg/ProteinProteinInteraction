@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;180;180
+BINDING;;201;201

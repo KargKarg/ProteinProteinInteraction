@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0033721;F:aldehyde dehydrogenase (NADP+) activity
+GO:0016616;F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:1901426;P:response to furfural

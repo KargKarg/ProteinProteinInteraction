@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Rhodanese;339;438
+ACT_SITE;Glycyl thioester intermediate; for adenylyltransferase activity;225;225
+ACT_SITE;Cysteine persulfide intermediate; for sulfurtransferase activity;397;397
+BINDING;;77;77
+BINDING;;98;98
+BINDING;;105;109
+BINDING;;122;122
+BINDING;;166;167
+BINDING;;208;208
+BINDING;;211;211
+BINDING;;286;286
+BINDING;;289;289

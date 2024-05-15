@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0140224;C:SLAC complex
+GO:0003779;F:actin binding
+GO:0071933;F:Arp2/3 complex binding
+GO:0031267;F:small GTPase binding
+GO:0051666;P:actin cortical patch localization
+GO:0007015;P:actin filament organization
+GO:0030041;P:actin filament polymerization
+GO:0045010;P:actin nucleation
+GO:0032233;P:positive regulation of actin filament bundle assembly
+GO:2000601;P:positive regulation of Arp2/3 complex-mediated actin nucleation
+GO:0030833;P:regulation of actin filament polymerization
+GO:0034315;P:regulation of Arp2/3 complex-mediated actin nucleation

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0030126;C:COPI vesicle coat
+GO:0000139;C:Golgi membrane
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0051645;P:Golgi localization
+GO:0015031;P:protein transport
+GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

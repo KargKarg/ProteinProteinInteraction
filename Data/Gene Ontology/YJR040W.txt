@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0034707;C:chloride channel complex
+GO:0005769;C:early endosome
+GO:0005783;C:endoplasmic reticulum
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0000324;C:fungal-type vacuole
+GO:0005794;C:Golgi apparatus
+GO:0005797;C:Golgi medial cisterna
+GO:0000139;C:Golgi membrane
+GO:0005886;C:plasma membrane
+GO:0005247;F:voltage-gated chloride channel activity
+GO:0006878;P:intracellular copper ion homeostasis
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0034756;P:regulation of iron ion transport

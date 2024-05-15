@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;Fork-head;108;199
+REGION;Disordered;33;80
+REGION;Disordered;224;246
+REGION;Disordered;401;448
+REGION;Disordered;536;564

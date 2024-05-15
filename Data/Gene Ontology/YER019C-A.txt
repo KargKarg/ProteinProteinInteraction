@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0016020;C:membrane
+GO:0005637;C:nuclear inner membrane
+GO:0005784;C:Sec61 translocon complex
+GO:0071261;C:Ssh1 translocon complex
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0031204;P:post-translational protein targeting to membrane, translocation
+GO:0006614;P:SRP-dependent cotranslational protein targeting to membrane
+GO:0006616;P:SRP-dependent cotranslational protein targeting to membrane, translocation

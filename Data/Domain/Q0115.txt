@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Cytochrome b;1;169
+REGION;Maturase;170;517

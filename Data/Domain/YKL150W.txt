@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FAD-binding FR-type;51;155
+BINDING;;158;193
+SITE;Cleavage; by IMP1;41;42

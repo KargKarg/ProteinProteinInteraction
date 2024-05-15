@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;C-terminal-extended nuclear localization signal;277;362

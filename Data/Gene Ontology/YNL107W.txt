@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0035267;C:NuA4 histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0000812;C:Swr1 complex
+GO:0042393;F:histone binding
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0006351;P:DNA-templated transcription
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0031509;P:subtelomeric heterochromatin formation

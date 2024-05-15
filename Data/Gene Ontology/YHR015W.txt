@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005628;C:prospore membrane
+GO:1990904;C:ribonucleoprotein complex
+GO:0003730;F:mRNA 3'-UTR binding
+GO:0008143;F:poly(A) binding
+GO:0008266;F:poly(U) RNA binding
+GO:0003723;F:RNA binding
+GO:0010609;P:mRNA localization resulting in post-transcriptional regulation of gene expression
+GO:0016071;P:mRNA metabolic process
+GO:0006417;P:regulation of translation

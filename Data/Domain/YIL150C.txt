@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Zinc finger-like;309;335
+REGION;Sufficient for nuclear localization;435;512
+REGION;Disordered;451;473
+REGION;Sufficient for nuclear localization;453;553
+REGION;Disordered;548;571
+MOTIF;Bipartite nuclear localization signal;435;451
+MOTIF;Bipartite nuclear localization signal;512;527

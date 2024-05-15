@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004359;F:glutaminase activity
+GO:0000107;F:imidazoleglycerol-phosphate synthase activity
+GO:0016833;F:oxo-acid-lyase activity
+GO:0006541;P:glutamine metabolic process
+GO:0000105;P:histidine biosynthetic process

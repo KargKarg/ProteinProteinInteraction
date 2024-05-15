@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005730;C:nucleolus
+GO:0005527;F:macrolide binding
+GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
+GO:0051598;P:meiotic recombination checkpoint signaling
+GO:0006334;P:nucleosome assembly

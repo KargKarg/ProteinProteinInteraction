@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0007049;P:cell cycle
+GO:0015031;P:protein transport
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0000055;P:ribosomal large subunit export from nucleus
+GO:0007089;P:traversing start control point of mitotic cell cycle

@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0044877;F:protein-containing complex binding
+GO:1901006;P:ubiquinone-6 biosynthetic process

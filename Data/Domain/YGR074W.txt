@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Sm;2;101
+REGION;Disordered;118;146
+MOTIF;Nuclear localization signal;128;144

@@ -1,0 +1,30 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0017053;C:transcription repressor complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140662;F:ATP-dependent protein folding chaperone
+GO:0031072;F:heat shock protein binding
+GO:0044183;F:protein folding chaperone
+GO:0000049;F:tRNA binding
+GO:0051082;F:unfolded protein binding
+GO:0051085;P:chaperone cofactor-dependent protein refolding
+GO:0072318;P:clathrin coat disassembly
+GO:0002181;P:cytoplasmic translation
+GO:0072671;P:mitochondria-associated ubiquitin-dependent protein catabolic process
+GO:0045892;P:negative regulation of DNA-templated transcription
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0006457;P:protein folding
+GO:0006606;P:protein import into nucleus
+GO:0000209;P:protein polyubiquitination
+GO:0042026;P:protein refolding
+GO:0006626;P:protein targeting to mitochondrion
+GO:0070482;P:response to oxygen levels
+GO:0006616;P:SRP-dependent cotranslational protein targeting to membrane, translocation
+GO:0035617;P:stress granule disassembly

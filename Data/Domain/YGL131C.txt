@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;BAH;121;258
+DOMAIN;SANT;555;606
+ZN_FING;PHD-type 1;317;369
+ZN_FING;PHD-type 2;1038;1097
+ZN_FING;RING-type; degenerate;1041;1095
+ZN_FING;C2HC pre-PHD-type;1105;1153
+ZN_FING;PHD-type 3; degenerate;1177;1231
+REGION;Disordered;40;62

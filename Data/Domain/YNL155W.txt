@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;AN1-type;12;58
+REGION;Ubiquitin-like;170;266
+BINDING;;18;18
+BINDING;;21;21
+BINDING;;31;31
+BINDING;;34;34
+BINDING;;39;39
+BINDING;;42;42
+BINDING;;48;48
+BINDING;;50;50

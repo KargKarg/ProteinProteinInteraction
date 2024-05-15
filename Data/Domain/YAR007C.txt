@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;OB;197;284
+ZN_FING;C4-type;486;508

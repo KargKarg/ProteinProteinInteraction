@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005811;C:lipid droplet
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0004467;F:long-chain fatty acid-CoA ligase activity
+GO:0031957;F:very long-chain fatty acid-CoA ligase activity
+GO:0001676;P:long-chain fatty acid metabolic process
+GO:0035336;P:long-chain fatty-acyl-CoA metabolic process

@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0006813;P:potassium ion transport
+GO:1902600;P:proton transmembrane transport

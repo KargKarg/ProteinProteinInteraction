@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005746;C:mitochondrial respirasome
+GO:0005751;C:mitochondrial respiratory chain complex IV
+GO:0005739;C:mitochondrion

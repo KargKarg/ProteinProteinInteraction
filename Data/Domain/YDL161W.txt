@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;ENTH;11;143
+DOMAIN;UIM 1;165;184
+DOMAIN;UIM 2;189;208
+REGION;Disordered;142;195
+REGION;Disordered;292;350
+REGION;Disordered;384;405
+REGION;Disordered;418;454
+REGION;Clathrin-binding;447;454

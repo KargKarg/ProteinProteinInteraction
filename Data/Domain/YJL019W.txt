@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SUN;427;616
+REGION;Disordered;1;23
+REGION;Disordered;82;111
+REGION;Interaction with CDC31;171;682
+REGION;Interaction with JEM1;431;650
+REGION;Disordered;641;682
+BINDING;;187;194

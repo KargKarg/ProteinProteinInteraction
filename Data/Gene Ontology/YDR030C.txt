@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0031464;C:Cul4A-RING E3 ubiquitin ligase complex
+GO:0000109;C:nucleotide-excision repair complex
+GO:0005634;C:nucleus
+GO:0006281;P:DNA repair
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0000209;P:protein polyubiquitination
+GO:0006283;P:transcription-coupled nucleotide-excision repair

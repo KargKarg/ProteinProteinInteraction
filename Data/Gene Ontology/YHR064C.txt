@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005844;C:polysome
+GO:0101031;C:protein folding chaperone complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140662;F:ATP-dependent protein folding chaperone
+GO:0031072;F:heat shock protein binding
+GO:0044183;F:protein folding chaperone
+GO:0051082;F:unfolded protein binding
+GO:0051083;P:'de novo' cotranslational protein folding
+GO:0051085;P:chaperone cofactor-dependent protein refolding
+GO:0002181;P:cytoplasmic translation
+GO:0006457;P:protein folding
+GO:0042026;P:protein refolding
+GO:0006450;P:regulation of translational fidelity
+GO:0006364;P:rRNA processing
+GO:0006452;P:translational frameshifting

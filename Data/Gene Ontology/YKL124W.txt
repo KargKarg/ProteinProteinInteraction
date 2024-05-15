@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0010008;C:endosome membrane
+GO:0000324;C:fungal-type vacuole
+GO:0005774;C:vacuolar membrane
+GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+GO:0016192;P:vesicle-mediated transport

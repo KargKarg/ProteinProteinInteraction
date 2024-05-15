@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005737;C:cytoplasm
+GO:0033565;C:ESCRT-0 complex
+GO:0005634;C:nucleus
+GO:0034316;P:negative regulation of Arp2/3 complex-mediated actin nucleation
+GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

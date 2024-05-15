@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
+GO:0016765;F:transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0102522;F:tRNA 4-demethylwyosine alpha-amino-alpha-carboxypropyltransferase activity
+GO:0008175;F:tRNA methyltransferase activity
+GO:0030488;P:tRNA methylation
+GO:0006400;P:tRNA modification
+GO:0031591;P:wybutosine biosynthetic process

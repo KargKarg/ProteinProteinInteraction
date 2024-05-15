@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0005774;C:vacuolar membrane
+GO:0005773;C:vacuole
+GO:1903826;P:L-arginine transmembrane transport
+GO:0015819;P:lysine transport
+GO:0051453;P:regulation of intracellular pH

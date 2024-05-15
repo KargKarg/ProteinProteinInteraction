@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0015039;F:NADPH-adrenodoxin reductase activity
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0006744;P:ubiquinone biosynthetic process

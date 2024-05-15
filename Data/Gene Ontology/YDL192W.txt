@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005794;C:Golgi apparatus
+GO:0005886;C:plasma membrane
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006893;P:Golgi to plasma membrane transport
+GO:0048193;P:Golgi vesicle transport
+GO:0006886;P:intracellular protein transport
+GO:0016236;P:macroautophagy
+GO:0016192;P:vesicle-mediated transport

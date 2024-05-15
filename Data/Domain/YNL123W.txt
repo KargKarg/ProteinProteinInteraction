@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PDZ 1;300;378
+DOMAIN;PDZ 2;779;854
+REGION;Disordered;1;43
+REGION;Serine protease;83;273
+ACT_SITE;Charge relay system;121;121
+ACT_SITE;Charge relay system;152;152
+ACT_SITE;Charge relay system;235;235

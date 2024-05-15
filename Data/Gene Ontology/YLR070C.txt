@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0046526;F:D-xylulose reductase activity
+GO:0003939;F:L-iditol 2-dehydrogenase activity
+GO:0008270;F:zinc ion binding
+GO:0042732;P:D-xylose metabolic process
+GO:0019569;P:L-arabinose catabolic process to xylulose 5-phosphate
+GO:0006062;P:sorbitol catabolic process
+GO:0005999;P:xylulose biosynthetic process

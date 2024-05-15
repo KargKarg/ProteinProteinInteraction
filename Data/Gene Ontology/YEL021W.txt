@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0004590;F:orotidine-5'-phosphate decarboxylase activity
+GO:0006207;P:'de novo' pyrimidine nucleobase biosynthetic process
+GO:0044205;P:'de novo' UMP biosynthetic process
+GO:0006222;P:UMP biosynthetic process

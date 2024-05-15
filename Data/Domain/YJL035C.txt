@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CMP/dCMP-type deaminase;1;119
+ACT_SITE;Proton donor;56;56
+BINDING;;54;54
+BINDING;;88;88
+BINDING;;91;91

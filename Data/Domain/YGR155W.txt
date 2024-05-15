@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CBS;373;432
+BINDING;;84;84
+BINDING;;196;200
+BINDING;;289;289

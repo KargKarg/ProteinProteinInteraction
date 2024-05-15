@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0005697;C:telomerase holoenzyme complex
+GO:0003723;F:RNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0070034;F:telomerase RNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0071919;P:G-quadruplex DNA formation
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:0032210;P:regulation of telomere maintenance via telomerase
+GO:0000723;P:telomere maintenance
+GO:0007004;P:telomere maintenance via telomerase

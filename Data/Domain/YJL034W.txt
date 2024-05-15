@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Nucleotide-binding (NBD);146;300
+REGION;Substrate-binding (SBD);420;520
+REGION;Disordered;652;682
+MOTIF;Prevents secretion from ER;679;682
+BINDING;;58;61
+BINDING;;117;117
+BINDING;;247;249
+BINDING;;313;320
+BINDING;;384;387

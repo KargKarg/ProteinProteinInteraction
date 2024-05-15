@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005655;C:nucleolar ribonuclease P complex
+GO:0046872;F:metal ion binding
+GO:0004526;F:ribonuclease P activity
+GO:0034965;P:intronic box C/D RNA processing
+GO:0001682;P:tRNA 5'-leader removal
+GO:0008033;P:tRNA processing

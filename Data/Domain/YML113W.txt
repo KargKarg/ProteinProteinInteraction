@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;8;12
+REPEAT;2;14;18
+REPEAT;3;26;30
+DNA_BIND;;1;36
+REGION;Disordered;1;127
+REGION;3 X 5 AA repeats of G-R-K-P-G;8;30
+REGION;Disordered;219;248

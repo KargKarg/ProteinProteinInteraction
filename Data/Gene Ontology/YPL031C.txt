@@ -1,0 +1,36 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000307;C:cyclin-dependent protein kinase holoenzyme complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:1990860;C:Pho85-Pho80 CDK-cyclin complex
+GO:0005524;F:ATP binding
+GO:0004693;F:cyclin-dependent protein serine/threonine kinase activity
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0044843;P:cell cycle G1/S phase transition
+GO:0006974;P:DNA damage response
+GO:0030952;P:establishment or maintenance of cytoskeleton polarity
+GO:0031505;P:fungal-type cell wall organization
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:0055088;P:lipid homeostasis
+GO:0001676;P:long-chain fatty acid metabolic process
+GO:0050849;P:negative regulation of calcium-mediated signaling
+GO:0045719;P:negative regulation of glycogen biosynthetic process
+GO:0016242;P:negative regulation of macroautophagy
+GO:0045936;P:negative regulation of phosphate metabolic process
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0016310;P:phosphorylation
+GO:0016239;P:positive regulation of macroautophagy
+GO:0071073;P:positive regulation of phospholipid biosynthetic process
+GO:0051726;P:regulation of cell cycle
+GO:1901987;P:regulation of cell cycle phase transition
+GO:0051302;P:regulation of cell division
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0032878;P:regulation of establishment or maintenance of cell polarity
+GO:0005979;P:regulation of glycogen biosynthetic process
+GO:0019216;P:regulation of lipid metabolic process
+GO:0046822;P:regulation of nucleocytoplasmic transport
+GO:0032880;P:regulation of protein localization
+GO:0031647;P:regulation of protein stability
+GO:0006357;P:regulation of transcription by RNA polymerase II

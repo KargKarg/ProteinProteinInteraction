@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0051213;F:dioxygenase activity
+GO:0046872;F:metal ion binding
+GO:0045329;P:carnitine biosynthetic process
+GO:0007005;P:mitochondrion organization

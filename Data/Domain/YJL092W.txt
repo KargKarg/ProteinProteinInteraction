@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;UvrD-like helicase ATP-binding;14;316
+DOMAIN;UvrD-like helicase C-terminal;317;654
+REGION;Leucine-zipper;222;243
+REGION;Disordered;676;704
+REGION;Disordered;865;896
+REGION;Disordered;909;973
+REGION;Disordered;994;1024
+BINDING;;38;43
+BINDING;;314;314

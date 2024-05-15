@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005768;C:endosome
+GO:0004869;F:cysteine-type endopeptidase inhibitor activity
+GO:0004857;F:enzyme inhibitor activity
+GO:0010992;P:ubiquitin recycling

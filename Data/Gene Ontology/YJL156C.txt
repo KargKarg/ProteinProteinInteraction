@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0004252;F:serine-type endopeptidase activity
+GO:0016540;P:protein autoprocessing
+GO:0016485;P:protein processing
+GO:0043200;P:response to amino acid

@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;C-terminal short (CTS) helix;153;164
+ACT_SITE;Charge relay system;44;44
+ACT_SITE;Charge relay system;83;83
+ACT_SITE;Charge relay system;109;109

@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:1990221;C:L-cysteine desulfurase complex
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0031071;F:cysteine desulfurase activity
+GO:0051536;F:iron-sulfur cluster binding
+GO:0046872;F:metal ion binding
+GO:0030170;F:pyridoxal phosphate binding
+GO:0044571;P:[2Fe-2S] cluster assembly
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0070903;P:mitochondrial tRNA thio-modification
+GO:0034227;P:tRNA thio-modification
+GO:0002098;P:tRNA wobble uridine modification

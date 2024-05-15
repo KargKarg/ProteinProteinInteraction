@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005811;C:lipid droplet
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0102566;F:1-acyl dihydroxyacetone phosphate reductase activity
+GO:0000140;F:acylglycerone-phosphate reductase activity
+GO:0004806;F:triglyceride lipase activity
+GO:0006654;P:phosphatidic acid biosynthetic process
+GO:0019433;P:triglyceride catabolic process

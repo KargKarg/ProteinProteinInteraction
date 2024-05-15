@@ -1,0 +1,29 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0035649;C:Nrd1 complex
+GO:0016604;C:nuclear body
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0005657;C:replication fork
+GO:0032040;C:small-subunit processome
+GO:0043139;F:5'-3' DNA helicase activity
+GO:0033678;F:5'-3' DNA/RNA helicase activity
+GO:0005524;F:ATP binding
+GO:0016787;F:hydrolase activity
+GO:0003729;F:mRNA binding
+GO:0019904;F:protein domain specific binding
+GO:0003723;F:RNA binding
+GO:0001147;F:transcription termination site sequence-specific DNA binding
+GO:0045454;P:cell redox homeostasis
+GO:0045005;P:DNA-templated DNA replication maintenance of fidelity
+GO:0006353;P:DNA-templated transcription termination
+GO:0030490;P:maturation of SSU-rRNA
+GO:0031124;P:mRNA 3'-end processing
+GO:0060257;P:negative regulation of flocculation
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0006364;P:rRNA processing
+GO:0031126;P:sno(s)RNA 3'-end processing
+GO:0016180;P:snRNA processing
+GO:0006369;P:termination of RNA polymerase II transcription
+GO:0006283;P:transcription-coupled nucleotide-excision repair
+GO:0008033;P:tRNA processing

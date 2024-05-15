@@ -1,0 +1,2 @@
+Structure type;Structure begin;Structure end
+TURN;628;630

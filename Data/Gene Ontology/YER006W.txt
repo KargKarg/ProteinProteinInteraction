@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0015031;P:protein transport
+GO:0000055;P:ribosomal large subunit export from nucleus

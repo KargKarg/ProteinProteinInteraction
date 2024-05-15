@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion

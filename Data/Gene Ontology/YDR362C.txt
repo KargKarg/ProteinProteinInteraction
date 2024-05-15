@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0000127;C:transcription factor TFIIIC complex
+GO:0003677;F:DNA binding
+GO:0000995;F:RNA polymerase III general transcription initiation factor activity
+GO:0042791;P:5S class rRNA transcription by RNA polymerase III
+GO:0006383;P:transcription by RNA polymerase III
+GO:0006384;P:transcription initiation at RNA polymerase III promoter

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0031593;F:polyubiquitin modification-dependent protein binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0072665;P:protein localization to vacuole
+GO:0030474;P:spindle pole body duplication
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0006511;P:ubiquitin-dependent protein catabolic process

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0009986;C:cell surface
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005576;C:extracellular region
+GO:0005758;C:mitochondrial intermembrane space
+GO:0046557;F:glucan endo-1,6-beta-glucosidase activity
+GO:0009251;P:glucan catabolic process

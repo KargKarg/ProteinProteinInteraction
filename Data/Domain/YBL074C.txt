@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Leucine-zipper;261;282
+REGION;Disordered;331;355

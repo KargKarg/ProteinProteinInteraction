@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005933;C:cellular bud
+GO:0005829;C:cytosol
+GO:0005886;C:plasma membrane
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0019901;F:protein kinase binding
+GO:0007015;P:actin filament organization
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0045921;P:positive regulation of exocytosis
+GO:0090338;P:positive regulation of formin-nucleated actin cable assembly
+GO:0007165;P:signal transduction
+GO:0007264;P:small GTPase mediated signal transduction

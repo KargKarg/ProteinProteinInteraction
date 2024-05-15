@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;BIR 1;20;117
+REPEAT;BIR 2;153;241
+REGION;Disordered;375;419
+REGION;Disordered;541;645
+REGION;Disordered;661;685
+REGION;Disordered;798;839
+BINDING;;208;208
+BINDING;;211;211
+BINDING;;228;228
+BINDING;;237;237

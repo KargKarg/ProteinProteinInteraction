@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Dynamin-type G;26;336
+DOMAIN;GED;618;704
+REGION;G1 motif;36;43
+REGION;G2 motif;62;64
+REGION;Disordered;76;122
+REGION;G3 motif;178;181
+REGION;G4 motif;247;250
+REGION;G5 motif;277;280
+BINDING;;36;43
+BINDING;;178;182
+BINDING;;247;250

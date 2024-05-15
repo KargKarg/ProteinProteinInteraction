@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0120097;C:glycosylphosphatidylinositol-mannosyltransferase II complex
+GO:0031501;C:mannosyltransferase complex
+GO:0005635;C:nuclear envelope
+GO:0000030;F:mannosyltransferase activity
+GO:0031505;P:fungal-type cell wall organization
+GO:0006506;P:GPI anchor biosynthetic process
+GO:0035268;P:protein mannosylation

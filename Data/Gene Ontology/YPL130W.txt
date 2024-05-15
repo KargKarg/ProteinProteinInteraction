@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0005628;C:prospore membrane
+GO:0098552;C:side of membrane
+GO:0051321;P:meiotic cell cycle
+GO:0070583;P:spore membrane bending pathway

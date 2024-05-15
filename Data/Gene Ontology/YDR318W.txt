@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000817;C:COMA complex
+GO:0000776;C:kinetochore
+GO:0008608;P:attachment of spindle microtubules to kinetochore
+GO:0051301;P:cell division
+GO:0034508;P:centromere complex assembly
+GO:0034087;P:establishment of mitotic sister chromatid cohesion
+GO:1905262;P:negative regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination
+GO:0071459;P:protein localization to chromosome, centromeric region

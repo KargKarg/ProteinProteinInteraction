@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Proton acceptor;301;301
+BINDING;;132;132
+BINDING;;264;268
+BINDING;;300;300
+BINDING;;304;304
+BINDING;;323;323
+SITE;Transition state stabilizer;386;386

@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Leucine-zipper;267;299
+REGION;Disordered;342;381
+REGION;Disordered;416;451
+REGION;Disordered;481;620
+REGION;DNA-binding;632;785

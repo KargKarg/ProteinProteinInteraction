@@ -1,0 +1,9 @@
+Structure type;Structure begin;Structure end
+STRAND;29;31
+STRAND;32;34
+STRAND;37;40
+STRAND;41;44
+STRAND;46;48
+STRAND;49;51
+STRAND;54;58
+STRAND;65;67

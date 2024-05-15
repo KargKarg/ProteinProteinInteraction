@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Schiff-base intermediate with substrate;210;210
+ACT_SITE;Schiff-base intermediate with substrate;263;263
+BINDING;;133;133
+BINDING;;135;135
+BINDING;;143;143
+BINDING;;220;220
+BINDING;;232;232
+BINDING;;290;290
+BINDING;;329;329

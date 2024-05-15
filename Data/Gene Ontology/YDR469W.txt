@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005634;C:nucleus
+GO:0048188;C:Set1C/COMPASS complex
+GO:0031509;P:subtelomeric heterochromatin formation

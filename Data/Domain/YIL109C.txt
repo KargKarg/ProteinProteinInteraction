@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;24;50
+REGION;Zinc finger-like;231;256
+BINDING;;231;231
+BINDING;;234;234
+BINDING;;253;253
+BINDING;;256;256

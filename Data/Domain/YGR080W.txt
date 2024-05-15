@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;ADF-H 1;5;132
+DOMAIN;ADF-H 2;173;300
+REGION;Disordered;301;332

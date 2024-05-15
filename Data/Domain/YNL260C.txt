@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;deca-GX3 motif; required for interaction with YAE1 and the CIA complex;17;53

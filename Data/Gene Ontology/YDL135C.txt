@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005829;C:cytosol
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0005096;F:GTPase activator activity
+GO:0005094;F:Rho GDP-dissociation inhibitor activity
+GO:0007015;P:actin filament organization
+GO:0032889;P:regulation of vacuole fusion, non-autophagic
+GO:0007266;P:Rho protein signal transduction

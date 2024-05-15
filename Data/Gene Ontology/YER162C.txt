@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0000111;C:nucleotide-excision repair factor 2 complex
+GO:0005634;C:nucleus
+GO:0071942;C:XPC complex
+GO:0003684;F:damaged DNA binding
+GO:1990165;F:single-strand break-containing DNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0006265;P:DNA topological change
+GO:0006298;P:mismatch repair
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0006289;P:nucleotide-excision repair
+GO:0000715;P:nucleotide-excision repair, DNA damage recognition
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process

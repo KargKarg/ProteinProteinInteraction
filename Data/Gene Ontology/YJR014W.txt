@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:1990904;C:ribonucleoprotein complex
+GO:0005840;C:ribosome
+GO:0003729;F:mRNA binding
+GO:0003743;F:translation initiation factor activity
+GO:0001731;P:formation of translation preinitiation complex
+GO:0002188;P:translation reinitiation

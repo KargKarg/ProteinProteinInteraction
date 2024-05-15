@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0016020;C:membrane
+GO:0005785;C:signal recognition particle receptor complex
+GO:0016887;F:ATP hydrolysis activity
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0005047;F:signal recognition particle binding
+GO:0045047;P:protein targeting to ER
+GO:0006617;P:SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition

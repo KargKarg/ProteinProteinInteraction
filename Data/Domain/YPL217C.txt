@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Bms1-type G;68;233
+REGION;Disordered;1;39
+REGION;G1;76;83
+REGION;G2;104;108
+REGION;G3;119;122
+REGION;G4;172;175
+REGION;G5;207;216
+REGION;Disordered;427;494
+REGION;Disordered;639;709
+REGION;Disordered;1123;1183
+BINDING;;76;83

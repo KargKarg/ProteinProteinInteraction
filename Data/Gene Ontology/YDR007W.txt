@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004640;F:phosphoribosylanthranilate isomerase activity
+GO:0000162;P:tryptophan biosynthetic process

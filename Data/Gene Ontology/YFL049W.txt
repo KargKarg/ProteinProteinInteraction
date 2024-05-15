@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0016586;C:RSC-type complex
+GO:0016514;C:SWI/SNF complex
+GO:0031490;F:chromatin DNA binding
+GO:0006338;P:chromatin remodeling
+GO:0006357;P:regulation of transcription by RNA polymerase II

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000110;C:nucleotide-excision repair factor 1 complex
+GO:0005634;C:nucleus
+GO:0003684;F:damaged DNA binding
+GO:0008270;F:zinc ion binding
+GO:0006284;P:base-excision repair
+GO:1901255;P:nucleotide-excision repair involved in interstrand cross-link repair
+GO:0000715;P:nucleotide-excision repair, DNA damage recognition
+GO:0070914;P:UV-damage excision repair

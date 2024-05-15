@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0000466;P:maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042273;P:ribosomal large subunit biogenesis

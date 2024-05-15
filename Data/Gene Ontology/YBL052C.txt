@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0033100;C:NuA3 histone acetyltransferase complex
+GO:1990467;C:NuA3a histone acetyltransferase complex
+GO:1990468;C:NuA3b histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0004402;F:histone acetyltransferase activity
+GO:0046872;F:metal ion binding
+GO:0003712;F:transcription coregulator activity
+GO:0006351;P:DNA-templated transcription
+GO:0045892;P:negative regulation of DNA-templated transcription
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation

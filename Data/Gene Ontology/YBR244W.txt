@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005743;C:mitochondrial inner membrane
+GO:0005741;C:mitochondrial outer membrane
+GO:0005634;C:nucleus
+GO:0004602;F:glutathione peroxidase activity
+GO:0047066;F:phospholipid-hydroperoxide glutathione peroxidase activity
+GO:0140824;F:thioredoxin-dependent peroxiredoxin activity
+GO:0034599;P:cellular response to oxidative stress

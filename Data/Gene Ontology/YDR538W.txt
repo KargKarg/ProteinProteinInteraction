@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0016831;F:carboxy-lyase activity
+GO:0106141;F:flavin prenyltransferase activity
+GO:0003729;F:mRNA binding
+GO:0019439;P:aromatic compound catabolic process
+GO:0034599;P:cellular response to oxidative stress
+GO:0046281;P:cinnamic acid catabolic process

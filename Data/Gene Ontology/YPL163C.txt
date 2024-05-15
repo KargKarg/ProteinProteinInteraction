@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole

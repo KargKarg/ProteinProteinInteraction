@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Fibronectin type-III;40;141
+REGION;Disordered;152;173
+REGION;Disordered;488;600
+REGION;Disordered;875;956

@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0004519;F:endonuclease activity
+GO:0004535;F:poly(A)-specific ribonuclease activity

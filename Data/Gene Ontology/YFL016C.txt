@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0001671;F:ATPase activator activity
+GO:0031072;F:heat shock protein binding
+GO:0046872;F:metal ion binding
+GO:0051082;F:unfolded protein binding
+GO:0006458;P:'de novo' protein folding
+GO:0051085;P:chaperone cofactor-dependent protein refolding
+GO:0000002;P:mitochondrial genome maintenance
+GO:0006515;P:protein quality control for misfolded or incompletely synthesized proteins
+GO:0042026;P:protein refolding
+GO:0009408;P:response to heat

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0008324;F:monoatomic cation transmembrane transporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:0042910;F:xenobiotic transmembrane transporter activity
+GO:0060003;P:copper ion export
+GO:1990573;P:potassium ion import across plasma membrane
+GO:0055085;P:transmembrane transport

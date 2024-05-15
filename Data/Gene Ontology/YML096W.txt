@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004066;F:asparagine synthase (glutamine-hydrolyzing) activity
+GO:0006529;P:asparagine biosynthetic process
+GO:0006541;P:glutamine metabolic process

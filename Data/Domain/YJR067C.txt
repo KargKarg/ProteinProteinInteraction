@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;deca-GX3 motif; required for interaction with LTO1;34;74

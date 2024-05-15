@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0004056;F:argininosuccinate lyase activity
+GO:0042450;P:arginine biosynthetic process via ornithine

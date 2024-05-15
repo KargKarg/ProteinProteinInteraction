@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0031463;C:Cul3-RING ubiquitin ligase complex
+GO:0005737;C:cytoplasm
+GO:0000113;C:nucleotide-excision repair factor 4 complex
+GO:0070911;P:global genome nucleotide-excision repair
+GO:0000715;P:nucleotide-excision repair, DNA damage recognition
+GO:0008104;P:protein localization
+GO:0009411;P:response to UV
+GO:0006511;P:ubiquitin-dependent protein catabolic process

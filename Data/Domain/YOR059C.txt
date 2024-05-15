@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Lipase-specific GXSXG motif;88;92
+ACT_SITE;Charge relay system;90;90

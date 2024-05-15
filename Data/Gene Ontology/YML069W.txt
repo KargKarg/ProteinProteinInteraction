@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0035101;C:FACT complex
+GO:0031298;C:replication fork protection complex
+GO:0003677;F:DNA binding
+GO:0006325;P:chromatin organization
+GO:0006281;P:DNA repair
+GO:0006261;P:DNA-templated DNA replication
+GO:0034728;P:nucleosome organization
+GO:0045899;P:positive regulation of RNA polymerase II transcription preinitiation complex assembly
+GO:1902275;P:regulation of chromatin organization

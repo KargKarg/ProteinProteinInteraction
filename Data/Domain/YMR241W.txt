@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;Solcar 1;18;100
+REPEAT;Solcar 2;107;199
+REPEAT;Solcar 3;217;301
+DNA_BIND;;246;259

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005782;C:peroxisomal matrix
+GO:0005777;C:peroxisome
+GO:0047617;F:acyl-CoA hydrolase activity
+GO:0052689;F:carboxylic ester hydrolase activity
+GO:0102991;F:myristoyl-CoA hydrolase activity
+GO:0016290;F:palmitoyl-CoA hydrolase activity
+GO:0006637;P:acyl-CoA metabolic process
+GO:0006635;P:fatty acid beta-oxidation
+GO:0009062;P:fatty acid catabolic process
+GO:0019395;P:fatty acid oxidation

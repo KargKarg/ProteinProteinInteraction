@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000775;C:chromosome, centromeric region
+GO:0005737;C:cytoplasm
+GO:0031261;C:DNA replication preinitiation complex
+GO:0005783;C:endoplasmic reticulum
+GO:0005635;C:nuclear envelope
+GO:0005634;C:nucleus
+GO:0000922;C:spindle pole
+GO:0007049;P:cell cycle
+GO:0006260;P:DNA replication
+GO:0030174;P:regulation of DNA-templated DNA replication initiation

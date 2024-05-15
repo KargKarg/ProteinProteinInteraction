@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0031965;C:nuclear membrane
+GO:0042175;C:nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0005634;C:nucleus
+GO:0005844;C:polysome
+GO:0001965;F:G-protein alpha-subunit binding
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0043577;P:chemotropism
+GO:0007059;P:chromosome segregation
+GO:0045141;P:meiotic telomere clustering
+GO:0000280;P:nuclear division
+GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation

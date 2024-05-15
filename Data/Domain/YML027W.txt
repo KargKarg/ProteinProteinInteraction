@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;Homeobox;176;235
+REGION;Disordered;1;57
+REGION;Disordered;87;113
+REGION;Disordered;235;259
+REGION;Disordered;271;385

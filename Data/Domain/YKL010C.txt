@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HECT;1376;1483
+REGION;Disordered;1;117
+REGION;K-box;1007;1081
+ACT_SITE;Glycyl thioester intermediate;1450;1450

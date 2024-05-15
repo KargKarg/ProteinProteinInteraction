@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Rtt109-type HAT;2;404
+REGION;Interaction with VPS75;128;170
+REGION;Interaction with ASF1;419;433
+ACT_SITE;Proton donor/acceptor;288;288
+BINDING;;88;90
+BINDING;;97;101
+BINDING;;192;192
+BINDING;;196;196
+BINDING;;211;213
+BINDING;;221;221

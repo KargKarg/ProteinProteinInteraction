@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PX;1;124
+DOMAIN;t-SNARE coiled-coil homology;250;312

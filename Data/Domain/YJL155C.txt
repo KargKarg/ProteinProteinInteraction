@@ -1,0 +1,29 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;6-phosphofructo-2-kinase;1;223
+REGION;Fructose-2,6-bisphosphatase;224;452
+ACT_SITE;;104;104
+ACT_SITE;Tele-phosphohistidine intermediate;232;232
+ACT_SITE;Proton donor/acceptor;302;302
+BINDING;;20;28
+BINDING;;53;53
+BINDING;;78;78
+BINDING;;106;106
+BINDING;;112;112
+BINDING;;143;148
+BINDING;;169;169
+BINDING;;173;173
+BINDING;;231;231
+BINDING;;238;238
+BINDING;;244;244
+BINDING;;313;313
+BINDING;;324;327
+BINDING;;327;327
+BINDING;;331;331
+BINDING;;342;342
+BINDING;;368;372
+BINDING;;368;368
+BINDING;;372;372
+BINDING;;404;404
+SITE;Transition state stabilizer;231;231
+SITE;Transition state stabilizer;238;238
+SITE;Transition state stabilizer;367;367

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;C2;316;444
+DOMAIN;Ras-GAP;505;721
+REGION;Disordered;1027;1104

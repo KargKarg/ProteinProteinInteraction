@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0003855;F:3-dehydroquinate dehydratase activity
+GO:0003856;F:3-dehydroquinate synthase activity
+GO:0003866;F:3-phosphoshikimate 1-carboxyvinyltransferase activity
+GO:0005524;F:ATP binding
+GO:0046872;F:metal ion binding
+GO:0004764;F:shikimate 3-dehydrogenase (NADP+) activity
+GO:0004765;F:shikimate kinase activity
+GO:0008652;P:amino acid biosynthetic process
+GO:0009073;P:aromatic amino acid family biosynthetic process
+GO:0009423;P:chorismate biosynthetic process
+GO:0016310;P:phosphorylation

@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;264;279
+REPEAT;2;322;337
+DNA_BIND;Copper-fist;1;40
+REGION;Disordered;128;198
+REGION;Disordered;216;242
+REGION;2 X 16 AA repeat of C-X-C-X(4)-C-X-C-X-X-C-X-X-H;264;337
+BINDING;;11;11
+BINDING;;14;14
+BINDING;;23;23
+BINDING;;25;25

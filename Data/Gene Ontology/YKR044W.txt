@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030134;C:COPII-coated ER to Golgi transport vesicle
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005793;C:endoplasmic reticulum-Golgi intermediate compartment
+GO:0000324;C:fungal-type vacuole
+GO:0000139;C:Golgi membrane
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005537;F:mannose binding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport

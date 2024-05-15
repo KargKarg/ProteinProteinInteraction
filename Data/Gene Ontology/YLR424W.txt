@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0071008;C:U2-type post-mRNA release spliceosomal complex
+GO:0003676;F:nucleic acid binding
+GO:0000349;P:generation of catalytic spliceosome for first transesterification step
+GO:1904876;P:negative regulation of DNA ligase activity
+GO:2001033;P:negative regulation of double-strand break repair via nonhomologous end joining
+GO:0032091;P:negative regulation of protein binding
+GO:0031333;P:negative regulation of protein-containing complex assembly
+GO:0000390;P:spliceosomal complex disassembly

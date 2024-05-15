@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Ferric oxidoreductase;280;414
+DOMAIN;FAD-binding FR-type;415;534
+BINDING;axial binding residue;316;316
+BINDING;axial binding residue;330;330
+BINDING;axial binding residue;386;386
+BINDING;axial binding residue;400;400
+BINDING;;479;485
+BINDING;;526;529
+BINDING;;677;678

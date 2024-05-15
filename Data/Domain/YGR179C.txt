@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;37
+REGION;Disordered;59;122
+REGION;CTF19-MCM21 binding motif;317;340
+REGION;Interaction with NKP1-NKP2;353;400
+REGION;Disordered;379;406

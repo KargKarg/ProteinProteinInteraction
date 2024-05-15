@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Phosphodiesterase;76;438
+ACT_SITE;Nucleophile;127;127

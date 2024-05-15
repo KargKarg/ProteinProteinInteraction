@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0030663;C:COPI-coated vesicle membrane
+GO:0005783;C:endoplasmic reticulum
+GO:0005794;C:Golgi apparatus
+GO:0005796;C:Golgi lumen
+GO:0051604;P:protein maturation
+GO:0006605;P:protein targeting

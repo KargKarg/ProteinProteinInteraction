@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;93;93
+BINDING;;97;97
+BINDING;axial binding residue;156;156

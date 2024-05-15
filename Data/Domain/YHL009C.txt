@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;bZIP;144;207
+REGION;Disordered;114;150
+REGION;Basic motif;147;168
+REGION;Leucine-zipper;172;207

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0097550;C:transcription preinitiation complex
+GO:0046872;F:metal ion binding
+GO:0000993;F:RNA polymerase II complex binding
+GO:0001139;F:RNA polymerase II complex recruiting activity
+GO:0016251;F:RNA polymerase II general transcription initiation factor activity
+GO:0017025;F:TBP-class protein binding
+GO:2000679;P:positive regulation of transcription regulatory region DNA binding
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0006367;P:transcription initiation at RNA polymerase II promoter
+GO:0001113;P:transcription open complex formation at RNA polymerase II promoter
+GO:0001174;P:transcriptional start site selection at RNA polymerase II promoter

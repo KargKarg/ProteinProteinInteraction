@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0004045;F:aminoacyl-tRNA hydrolase activity
+GO:0032543;P:mitochondrial translation

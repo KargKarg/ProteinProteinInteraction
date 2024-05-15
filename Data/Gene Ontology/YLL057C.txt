@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0046872;F:metal ion binding
+GO:0000907;F:sulfonate dioxygenase activity
+GO:0046306;P:alkanesulfonate catabolic process
+GO:0044273;P:sulfur compound catabolic process

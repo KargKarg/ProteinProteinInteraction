@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0004450;F:isocitrate dehydrogenase (NADP+) activity
+GO:0000287;F:magnesium ion binding
+GO:0051287;F:NAD binding
+GO:0006097;P:glyoxylate cycle
+GO:0006102;P:isocitrate metabolic process
+GO:0006739;P:NADP metabolic process
+GO:0006099;P:tricarboxylic acid cycle

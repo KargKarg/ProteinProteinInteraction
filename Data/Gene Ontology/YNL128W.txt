@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0042995;C:cell projection
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0016314;F:phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0008138;F:protein tyrosine/serine/threonine phosphatase activity
+GO:0030476;P:ascospore wall assembly
+GO:0048870;P:cell motility
+GO:0043491;P:phosphatidylinositol 3-kinase/protein kinase B signal transduction
+GO:0046856;P:phosphatidylinositol dephosphorylation
+GO:0051896;P:regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction

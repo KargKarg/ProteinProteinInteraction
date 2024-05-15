@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0005634;C:nucleus
+GO:0001965;F:G-protein alpha-subunit binding
+GO:0005092;F:GDP-dissociation inhibitor activity
+GO:0005080;F:protein kinase C binding
+GO:0043022;F:ribosome binding
+GO:0045182;F:translation regulator activity
+GO:0002181;P:cytoplasmic translation
+GO:0007186;P:G protein-coupled receptor signaling pathway
+GO:0061157;P:mRNA destabilization
+GO:0010629;P:negative regulation of gene expression
+GO:1902660;P:negative regulation of glucose mediated signaling pathway
+GO:0017148;P:negative regulation of translation
+GO:2001125;P:negative regulation of translational frameshifting
+GO:0001934;P:positive regulation of protein phosphorylation
+GO:0072344;P:rescue of stalled ribosome
+GO:1990116;P:ribosome-associated ubiquitin-dependent protein catabolic process

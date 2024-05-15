@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0015513;F:high-affinity secondary active nitrite transmembrane transporter activity
+GO:0140299;F:small molecule sensor activity
+GO:0006821;P:chloride transport
+GO:0015707;P:nitrite transport
+GO:2001225;P:regulation of chloride transport

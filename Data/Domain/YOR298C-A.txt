@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HTH cro/C1-type;85;139
+DNA_BIND;H-T-H motif;96;115
+REGION;Disordered;1;29
+REGION;Essential for TBP-binding;41;119
+REGION;Disordered;78;98

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0004370;F:glycerol kinase activity
+GO:0019563;P:glycerol catabolic process
+GO:0006071;P:glycerol metabolic process
+GO:0046167;P:glycerol-3-phosphate biosynthetic process
+GO:0016310;P:phosphorylation
+GO:0006641;P:triglyceride metabolic process

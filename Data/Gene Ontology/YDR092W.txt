@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005634;C:nucleus
+GO:0031371;C:ubiquitin conjugating enzyme complex
+GO:0005524;F:ATP binding
+GO:0061631;F:ubiquitin conjugating enzyme activity
+GO:0010994;P:free ubiquitin chain polymerization
+GO:0006301;P:postreplication repair
+GO:0070534;P:protein K63-linked ubiquitination
+GO:0000209;P:protein polyubiquitination
+GO:0044395;P:protein targeting to vacuolar membrane

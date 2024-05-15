@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005951;C:carbamoyl-phosphate synthase complex
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0004070;F:aspartate carbamoyltransferase activity
+GO:0005524;F:ATP binding
+GO:0004087;F:carbamoyl-phosphate synthase (ammonia) activity
+GO:0004088;F:carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+GO:0004151;F:dihydroorotase activity
+GO:0046872;F:metal ion binding
+GO:0006207;P:'de novo' pyrimidine nucleobase biosynthetic process
+GO:0006526;P:arginine biosynthetic process
+GO:0019240;P:citrulline biosynthetic process
+GO:0006221;P:pyrimidine nucleotide biosynthetic process
+GO:0006228;P:UTP biosynthetic process

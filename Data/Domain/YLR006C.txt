@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Response regulatory;505;647
+REGION;Disordered;73;114
+REGION;Disordered;340;362
+REGION;Disordered;448;468
+REGION;Disordered;672;712

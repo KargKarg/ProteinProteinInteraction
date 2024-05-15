@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Exonuclease;121;273
+REGION;Disordered;1;34

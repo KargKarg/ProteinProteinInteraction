@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0016236;P:macroautophagy
+GO:0033615;P:mitochondrial proton-transporting ATP synthase complex assembly

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;DHHC;78;128
+ACT_SITE;S-palmitoyl cysteine intermediate;108;108

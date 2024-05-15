@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;278;303
+MOTIF;HXXXXD motif;82;87

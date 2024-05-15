@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005794;C:Golgi apparatus
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0000822;F:inositol hexakisphosphate binding
+GO:0015114;F:phosphate ion transmembrane transporter activity
+GO:0016036;P:cellular response to phosphate starvation
+GO:0006817;P:phosphate ion transport
+GO:0007165;P:signal transduction

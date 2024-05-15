@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;mRNA cap 0 methyltransferase;141;424
+REGION;Disordered;1;50
+BINDING;;150;151
+BINDING;;154;154
+BINDING;;172;172
+BINDING;;194;194
+BINDING;;223;223
+BINDING;;249;249
+BINDING;;254;254
+SITE;mRNA cap binding;175;175
+SITE;mRNA cap binding;181;181
+SITE;mRNA cap binding;206;206
+SITE;mRNA cap binding;253;253
+SITE;mRNA cap binding;347;347
+SITE;mRNA cap binding;416;416

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:1990429;C:peroxisomal importomer complex
+GO:0005778;C:peroxisomal membrane
+GO:0008320;F:protein transmembrane transporter activity
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0016560;P:protein import into peroxisome matrix, docking

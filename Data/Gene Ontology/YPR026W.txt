@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0030287;C:cell wall-bounded periplasmic space
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0000328;C:fungal-type vacuole lumen
+GO:0016020;C:membrane
+GO:0004555;F:alpha,alpha-trehalase activity
+GO:0030246;F:carbohydrate binding
+GO:0015976;P:carbon utilization
+GO:0005993;P:trehalose catabolic process

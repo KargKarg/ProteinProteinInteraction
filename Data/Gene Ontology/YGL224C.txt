@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0008252;F:nucleotidase activity
+GO:0009166;P:nucleotide catabolic process
+GO:0006206;P:pyrimidine nucleobase metabolic process

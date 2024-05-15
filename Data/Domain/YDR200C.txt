@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FHA;185;257
+REGION;Disordered;1;89
+REGION;Disordered;539;561

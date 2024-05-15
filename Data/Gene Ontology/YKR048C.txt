@@ -1,0 +1,25 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0032174;C:cellular bud neck septin collar
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:1990317;C:Gin4 complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0030332;F:cyclin binding
+GO:0003677;F:DNA binding
+GO:0008047;F:enzyme activator activity
+GO:0042393;F:histone binding
+GO:0042802;F:identical protein binding
+GO:0051082;F:unfolded protein binding
+GO:0007117;P:budding cell bud growth
+GO:0006607;P:NLS-bearing protein import into nucleus
+GO:0006334;P:nucleosome assembly
+GO:0006337;P:nucleosome disassembly
+GO:2000617;P:positive regulation of histone H3-K9 acetylation
+GO:0031116;P:positive regulation of microtubule polymerization
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0098841;P:protein localization to cell division site after cytokinesis
+GO:0042274;P:ribosomal small subunit biogenesis
+GO:0000921;P:septin ring assembly
+GO:0000920;P:septum digestion after cytokinesis

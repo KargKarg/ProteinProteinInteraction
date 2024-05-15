@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Phosphatase tensin-type;33;255
+ACT_SITE;Phosphocysteine intermediate;193;193

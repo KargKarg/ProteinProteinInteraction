@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1495;1521
+REGION;Disordered;1632;1679
+MOTIF;Bipartite nuclear localization signal 1;417;433
+MOTIF;Bipartite nuclear localization signal 2;639;655
+MOTIF;Bipartite nuclear localization signal 3;1433;1449

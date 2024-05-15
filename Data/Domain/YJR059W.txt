@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;255;562
+REGION;Disordered;28;100
+REGION;Disordered;117;177
+REGION;Disordered;585;795
+ACT_SITE;Proton acceptor;388;388
+BINDING;;261;269
+BINDING;;285;285

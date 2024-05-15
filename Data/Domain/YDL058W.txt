@@ -1,0 +1,21 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;ARM 1;45;89
+REPEAT;ARM 2;127;170
+REPEAT;ARM 3;173;213
+REPEAT;ARM 4;215;260
+REPEAT;ARM 5;261;312
+REPEAT;ARM 6;314;362
+REPEAT;ARM 7;363;429
+REPEAT;ARM 8;431;512
+REPEAT;ARM 9;543;584
+REPEAT;ARM 10;586;630
+REGION;Globular head;1;724
+REGION;Disordered;452;484
+REGION;Charged (hyper-hydrophilic);465;487
+REGION;Dispensable for the protein function;991;1790
+REGION;Disordered;1185;1221
+REGION;Disordered;1326;1351
+REGION;Disordered;1485;1547
+REGION;Disordered;1645;1667
+REGION;Disordered;1722;1742
+REGION;Disordered;1762;1790

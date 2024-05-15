@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Bromo 1;165;237
+DOMAIN;Bromo 2;332;404
+DOMAIN;NET;518;598
+REGION;Disordered;1;69
+REGION;Disordered;85;150
+REGION;Disordered;283;304
+REGION;Disordered;424;447
+REGION;Disordered;486;523
+REGION;Disordered;594;636
+REGION;Disordered;649;686

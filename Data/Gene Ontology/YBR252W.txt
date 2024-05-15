@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0035870;F:dITP diphosphatase activity
+GO:0004170;F:dUTP diphosphatase activity
+GO:0000287;F:magnesium ion binding
+GO:0035863;P:dITP catabolic process
+GO:0006226;P:dUMP biosynthetic process
+GO:0046081;P:dUTP catabolic process
+GO:0009213;P:pyrimidine deoxyribonucleoside triphosphate catabolic process

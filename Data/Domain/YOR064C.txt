@@ -1,0 +1,14 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;PHD-type; degenerate;155;204
+BINDING;;158;158
+BINDING;;160;160
+BINDING;;171;171
+BINDING;;176;176
+BINDING;;182;182
+BINDING;;185;185
+BINDING;;198;198
+BINDING;;202;202
+SITE;Histone H3K4me3 binding;157;157
+SITE;Histone H3K4me3 binding;168;168
+SITE;Histone H3K4me3 binding;172;172
+SITE;Histone H3K4me3 binding;180;180

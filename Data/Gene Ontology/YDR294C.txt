@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0032541;C:cortical endoplasmic reticulum
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0097038;C:perinuclear endoplasmic reticulum
+GO:0042802;F:identical protein binding
+GO:0030170;F:pyridoxal phosphate binding
+GO:0008117;F:sphinganine-1-phosphate aldolase activity
+GO:0019722;P:calcium-mediated signaling
+GO:0019752;P:carboxylic acid metabolic process
+GO:0009267;P:cellular response to starvation
+GO:0030149;P:sphingolipid catabolic process
+GO:0006665;P:sphingolipid metabolic process

@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005737;C:cytoplasm
+GO:0032126;C:eisosome
+GO:0036286;C:eisosome filament
+GO:0005811;C:lipid droplet
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0008289;F:lipid binding
+GO:0070941;P:eisosome assembly
+GO:0006897;P:endocytosis
+GO:0008104;P:protein localization
+GO:0097446;P:protein localization to eisosome filament

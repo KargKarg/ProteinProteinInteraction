@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005778;C:peroxisomal membrane
+GO:0007031;P:peroxisome organization

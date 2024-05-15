@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Nudix hydrolase;75;214
+MOTIF;Nudix box;116;137
+BINDING;in other chain;46;46
+BINDING;;64;65
+BINDING;;69;69
+BINDING;in other chain;103;103
+BINDING;;115;115
+BINDING;in other chain;117;117
+BINDING;;131;131
+BINDING;;131;131
+BINDING;;135;135
+BINDING;;135;135
+BINDING;in other chain;152;152
+BINDING;;185;185

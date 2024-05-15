@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PDEase;182;526
+ACT_SITE;Proton donor;265;265
+BINDING;;269;269
+BINDING;;302;302
+BINDING;;303;303
+BINDING;;303;303
+BINDING;;400;400

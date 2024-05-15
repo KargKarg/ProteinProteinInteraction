@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0034399;C:nuclear periphery
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0042802;F:identical protein binding
+GO:0003729;F:mRNA binding
+GO:0000280;P:nuclear division
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0006364;P:rRNA processing

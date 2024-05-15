@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0006611;P:protein export from nucleus
+GO:0016567;P:protein ubiquitination

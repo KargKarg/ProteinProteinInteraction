@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0035267;C:NuA4 histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0006325;P:chromatin organization
+GO:0006281;P:DNA repair
+GO:0006351;P:DNA-templated transcription
+GO:0065003;P:protein-containing complex assembly

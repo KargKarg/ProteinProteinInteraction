@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0043295;F:glutathione binding
+GO:0004364;F:glutathione transferase activity
+GO:0006749;P:glutathione metabolic process

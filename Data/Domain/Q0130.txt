@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+SITE;Reversibly protonated during proton transport;59;59

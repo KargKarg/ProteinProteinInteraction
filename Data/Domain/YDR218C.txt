@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Septin-type G;28;342
+REGION;G1 motif;38;45
+REGION;G3 motif;121;124
+REGION;G4 motif;203;206
+REGION;Disordered;360;385
+BINDING;;38;45
+BINDING;;124;124
+BINDING;;204;212
+BINDING;;291;291

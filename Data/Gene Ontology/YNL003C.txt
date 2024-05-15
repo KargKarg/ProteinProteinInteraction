@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0000095;F:S-adenosyl-L-methionine transmembrane transporter activity
+GO:0015805;P:S-adenosyl-L-methionine transport

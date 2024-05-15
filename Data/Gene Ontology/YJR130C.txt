@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003962;F:cystathionine gamma-synthase activity
+GO:0102028;F:cystathionine gamma-synthase activity (acts on O-phosphohomoserine)
+GO:0030170;F:pyridoxal phosphate binding
+GO:0009086;P:methionine biosynthetic process
+GO:0006790;P:sulfur compound metabolic process
+GO:0019346;P:transsulfuration

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0030010;P:establishment of cell polarity
+GO:1903338;P:regulation of cell wall organization or biogenesis
+GO:0019236;P:response to pheromone
+GO:0007266;P:Rho protein signal transduction

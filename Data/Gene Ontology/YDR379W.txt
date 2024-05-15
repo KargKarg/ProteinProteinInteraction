@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0032177;C:cellular bud neck split septin rings
+GO:0005737;C:cytoplasm
+GO:0005096;F:GTPase activator activity
+GO:0042802;F:identical protein binding
+GO:0046872;F:metal ion binding
+GO:0031106;P:septin ring organization
+GO:0007264;P:small GTPase mediated signal transduction

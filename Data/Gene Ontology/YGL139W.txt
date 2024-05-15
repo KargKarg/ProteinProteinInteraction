@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005739;C:mitochondrion
+GO:0015230;F:FAD transmembrane transporter activity
+GO:0015883;P:FAD transport
+GO:0009272;P:fungal-type cell wall biogenesis
+GO:0030148;P:sphingolipid biosynthetic process
+GO:0055085;P:transmembrane transport

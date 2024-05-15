@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;197;243
+MOTIF;ATG8-binding;242;245

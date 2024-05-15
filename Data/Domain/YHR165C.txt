@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MPN;2182;2311
+REGION;Disordered;1;60
+REGION;SNU114/CWC21 interacting domain (SCwid);253;543
+REGION;Reverse transcriptase homology domain;885;1375
+REGION;Linker;1376;1649
+REGION;Important for branch point selection;1585;1598
+REGION;Restriction endonuclease homology domain;1653;1824
+REGION;RNase H homology domain;1839;2092

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0071014;C:post-mRNA release spliceosomal complex
+GO:0008047;F:enzyme activator activity
+GO:0061632;F:RNA lariat debranching enzyme activator activity
+GO:0000398;P:mRNA splicing, via spliceosome

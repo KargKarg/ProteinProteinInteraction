@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;GBD/FH3;174;696
+DOMAIN;FH1;1053;1337
+DOMAIN;FH2;1348;1766
+DOMAIN;DAD;1792;1826
+REGION;Disordered;1;152
+REGION;Disordered;230;258
+REGION;Disordered;263;282
+REGION;Disordered;287;306
+REGION;Disordered;312;337
+REGION;Disordered;990;1014
+REGION;Disordered;1040;1094
+REGION;Disordered;1149;1330
+REGION;Disordered;1768;1797
+REGION;Disordered;1809;1844
+REGION;Disordered;1872;1899

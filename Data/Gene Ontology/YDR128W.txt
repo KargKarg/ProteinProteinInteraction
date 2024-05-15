@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0035859;C:Seh1-associated complex
+GO:0005774;C:vacuolar membrane
+GO:0035591;F:signaling adaptor activity
+GO:0034198;P:cellular response to amino acid starvation
+GO:1904263;P:positive regulation of TORC1 signaling
+GO:0015031;P:protein transport
+GO:1903432;P:regulation of TORC1 signaling

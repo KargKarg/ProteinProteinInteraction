@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;J;59;127
+REPEAT;CXXCXGXG motif;230;237
+REPEAT;CXXCXGXG motif;247;254
+REPEAT;CXXCXGXG motif;269;276
+REPEAT;CXXCXGXG motif;285;292
+ZN_FING;CR-type;217;297

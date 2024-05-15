@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0004325;F:ferrochelatase activity
+GO:0043115;F:precorrin-2 dehydrogenase activity
+GO:0051266;F:sirohydrochlorin ferrochelatase activity
+GO:0019354;P:siroheme biosynthetic process
+GO:0000103;P:sulfate assimilation

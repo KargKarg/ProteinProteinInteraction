@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000324;C:fungal-type vacuole
+GO:0016787;F:hydrolase activity
+GO:0009166;P:nucleotide catabolic process

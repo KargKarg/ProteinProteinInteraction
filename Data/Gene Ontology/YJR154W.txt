@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0048244;F:phytanoyl-CoA dioxygenase activity
+GO:0001561;P:fatty acid alpha-oxidation

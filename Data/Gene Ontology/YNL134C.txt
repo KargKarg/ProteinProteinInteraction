@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
+GO:0016651;F:oxidoreductase activity, acting on NAD(P)H
+GO:1901426;P:response to furfural

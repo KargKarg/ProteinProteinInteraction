@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005769;C:early endosome
+GO:0030139;C:endocytic vesicle
+GO:0012505;C:endomembrane system
+GO:0005770;C:late endosome
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0006623;P:protein targeting to vacuole
+GO:0007165;P:signal transduction

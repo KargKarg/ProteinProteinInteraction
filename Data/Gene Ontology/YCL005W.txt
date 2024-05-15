@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0005739;C:mitochondrion
+GO:0140042;P:lipid droplet formation
+GO:0034389;P:lipid droplet organization
+GO:0090155;P:negative regulation of sphingolipid biosynthetic process
+GO:1990044;P:protein localization to lipid droplet
+GO:0019216;P:regulation of lipid metabolic process

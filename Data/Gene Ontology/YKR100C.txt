@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005933;C:cellular bud
+GO:0033101;C:cellular bud membrane
+GO:0005934;C:cellular bud tip
+GO:0000131;C:incipient cellular bud site
+GO:0031505;P:fungal-type cell wall organization

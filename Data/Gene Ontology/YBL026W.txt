@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0071013;C:catalytic step 2 spliceosome
+GO:0005737;C:cytoplasm
+GO:1990726;C:Lsm1-7-Pat1 complex
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0000932;C:P-body
+GO:0071011;C:precatalytic spliceosome
+GO:0005732;C:sno(s)RNA-containing ribonucleoprotein complex
+GO:0005681;C:spliceosomal complex
+GO:0071001;C:U4/U6 snRNP
+GO:0046540;C:U4/U6 x U5 tri-snRNP complex
+GO:0005688;C:U6 snRNP
+GO:0003723;F:RNA binding
+GO:0000290;P:deadenylation-dependent decapping of nuclear-transcribed mRNA
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0006364;P:rRNA processing
+GO:0008033;P:tRNA processing

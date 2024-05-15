@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;DBINO;476;601
+DOMAIN;Helicase ATP-binding;718;890
+DOMAIN;Helicase C-terminal;1303;1467
+REGION;Disordered;137;311
+REGION;Disordered;393;452
+REGION;Disordered;1456;1489
+MOTIF;DEAQ box;841;844
+BINDING;;731;738

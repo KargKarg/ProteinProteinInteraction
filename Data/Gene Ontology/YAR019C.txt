@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0000922;C:spindle pole
+GO:0005816;C:spindle pole body
+GO:0005524;F:ATP binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0051229;P:meiotic spindle disassembly
+GO:0000281;P:mitotic cytokinesis
+GO:1904750;P:negative regulation of protein localization to nucleolus
+GO:0016310;P:phosphorylation
+GO:1903024;P:positive regulation of ascospore-type prospore membrane formation
+GO:0007096;P:regulation of exit from mitosis

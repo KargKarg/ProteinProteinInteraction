@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005886;C:plasma membrane
+GO:0003937;F:IMP cyclohydrolase activity
+GO:0004643;F:phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+GO:0006189;P:'de novo' IMP biosynthetic process
+GO:0006164;P:purine nucleotide biosynthetic process

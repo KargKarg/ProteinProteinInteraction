@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0032040;C:small-subunit processome
+GO:0030490;P:maturation of SSU-rRNA
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042274;P:ribosomal small subunit biogenesis
+GO:0006364;P:rRNA processing

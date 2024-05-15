@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0048312;P:intracellular distribution of mitochondria

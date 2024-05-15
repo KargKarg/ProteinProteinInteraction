@@ -1,0 +1,25 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0035267;C:NuA4 histone acetyltransferase complex
+GO:0000786;C:nucleosome
+GO:0005634;C:nucleus
+GO:0032777;C:piccolo histone acetyltransferase complex
+GO:0004402;F:histone acetyltransferase activity
+GO:0140068;F:histone crotonyltransferase activity
+GO:0010485;F:histone H4 acetyltransferase activity
+GO:0046972;F:histone H4K16 acetyltransferase activity
+GO:0106226;F:peptide 2-hydroxyisobutyryltransferase activity
+GO:0034212;F:peptide N-acetyltransferase activity
+GO:0061733;F:peptide-lysine-N-acetyltransferase activity
+GO:0003712;F:transcription coregulator activity
+GO:0006281;P:DNA repair
+GO:0006351;P:DNA-templated transcription
+GO:0006354;P:DNA-templated transcription elongation
+GO:0045892;P:negative regulation of DNA-templated transcription
+GO:0016239;P:positive regulation of macroautophagy
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0010867;P:positive regulation of triglyceride biosynthetic process
+GO:0000183;P:rDNA heterochromatin formation
+GO:0051726;P:regulation of cell cycle
+GO:0006357;P:regulation of transcription by RNA polymerase II

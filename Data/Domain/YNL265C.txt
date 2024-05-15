@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;190;283
+REGION;Interaction with VPS4;251;298
+MOTIF;MIT-interacting motif;286;296

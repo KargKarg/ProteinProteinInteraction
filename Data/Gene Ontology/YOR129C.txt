@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0005886;C:plasma membrane
+GO:0051666;P:actin cortical patch localization
+GO:0000282;P:cellular bud site selection

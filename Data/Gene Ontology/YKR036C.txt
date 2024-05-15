@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0030014;C:CCR4-NOT complex
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0000266;P:mitochondrial fission
+GO:0016559;P:peroxisome fission
+GO:0006357;P:regulation of transcription by RNA polymerase II

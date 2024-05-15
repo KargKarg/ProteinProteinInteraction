@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0010008;C:endosome membrane
+GO:0000139;C:Golgi membrane
+GO:0034399;C:nuclear periphery
+GO:0005886;C:plasma membrane
+GO:0031931;C:TORC1 complex
+GO:0031932;C:TORC2 complex
+GO:0005774;C:vacuolar membrane
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0031505;P:fungal-type cell wall organization
+GO:0031930;P:mitochondria-nucleus signaling pathway
+GO:0032956;P:regulation of actin cytoskeleton organization
+GO:0051726;P:regulation of cell cycle
+GO:0001558;P:regulation of cell growth
+GO:0007584;P:response to nutrient
+GO:0007165;P:signal transduction
+GO:0031929;P:TOR signaling

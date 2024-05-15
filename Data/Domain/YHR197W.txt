@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with IPI3;2;233
+REGION;Interaction with MDN1;663;763
+REGION;Disordered;722;763

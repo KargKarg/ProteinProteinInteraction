@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0000250;F:lanosterol synthase activity
+GO:0006696;P:ergosterol biosynthetic process
+GO:0016104;P:triterpenoid biosynthetic process

@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;84
+ACT_SITE;4-aspartylphosphate intermediate;378;378
+BINDING;;634;634
+BINDING;;638;638

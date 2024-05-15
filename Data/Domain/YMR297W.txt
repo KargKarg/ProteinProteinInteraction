@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Vacuolar targeting signal;24;27
+ACT_SITE;;257;257
+ACT_SITE;;449;449
+ACT_SITE;;508;508
+BINDING;;452;452
+BINDING;;509;509

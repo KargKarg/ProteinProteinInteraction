@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000118;C:histone deacetylase complex
+GO:0005634;C:nucleus
+GO:0070210;C:Rpd3L-Expanded complex
+GO:0004407;F:histone deacetylase activity
+GO:0033558;F:protein lysine deacetylase activity
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

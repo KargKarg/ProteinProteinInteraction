@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:1990527;C:Tec1p-Ste12p-Dig1p complex
+GO:0005667;C:transcription regulator complex
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0003700;F:DNA-binding transcription factor activity
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045893;P:positive regulation of DNA-templated transcription
+GO:2000222;P:positive regulation of pseudohyphal growth
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0007124;P:pseudohyphal growth
+GO:0010570;P:regulation of filamentous growth
+GO:0006357;P:regulation of transcription by RNA polymerase II

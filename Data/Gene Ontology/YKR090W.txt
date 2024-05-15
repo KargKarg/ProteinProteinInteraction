@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005933;C:cellular bud
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0030427;C:site of polarized growth
+GO:0046872;F:metal ion binding
+GO:0005094;F:Rho GDP-dissociation inhibitor activity
+GO:0030011;P:maintenance of cell polarity
+GO:0035023;P:regulation of Rho protein signal transduction

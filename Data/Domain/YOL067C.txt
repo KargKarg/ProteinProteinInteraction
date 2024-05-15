@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;bHLH;11;96
+REGION;Disordered;1;24
+REGION;Disordered;52;82
+REGION;Disordered;147;177

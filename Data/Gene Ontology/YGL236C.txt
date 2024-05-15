@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0070899;P:mitochondrial tRNA wobble uridine modification
+GO:0030488;P:tRNA methylation

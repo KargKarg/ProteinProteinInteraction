@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000164;C:protein phosphatase type 1 complex
+GO:0005773;C:vacuole
+GO:0019888;F:protein phosphatase regulator activity
+GO:0042149;P:cellular response to glucose starvation
+GO:0007039;P:protein catabolic process in the vacuole
+GO:1904547;P:regulation of cellular response to glucose starvation
+GO:0006986;P:response to unfolded protein

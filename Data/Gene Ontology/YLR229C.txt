@@ -1,0 +1,32 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0000329;C:fungal-type vacuole membrane
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0031965;C:nuclear membrane
+GO:0005886;C:plasma membrane
+GO:0005940;C:septin ring
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0019901;F:protein kinase binding
+GO:0007015;P:actin filament organization
+GO:0007118;P:budding cell apical bud growth
+GO:0007119;P:budding cell isotropic bud growth
+GO:0032488;P:Cdc42 protein signal transduction
+GO:0007049;P:cell cycle
+GO:0000747;P:conjugation with cellular fusion
+GO:0006897;P:endocytosis
+GO:0030010;P:establishment of cell polarity
+GO:0007163;P:establishment or maintenance of cell polarity
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion
+GO:0045921;P:positive regulation of exocytosis
+GO:2000222;P:positive regulation of pseudohyphal growth
+GO:0022604;P:regulation of cell morphogenesis
+GO:0007096;P:regulation of exit from mitosis
+GO:0060178;P:regulation of exocyst localization
+GO:0032889;P:regulation of vacuole fusion, non-autophagic
+GO:0007266;P:Rho protein signal transduction
+GO:0031106;P:septin ring organization

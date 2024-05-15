@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0000002;P:mitochondrial genome maintenance
+GO:0007005;P:mitochondrion organization

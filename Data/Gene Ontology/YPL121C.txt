@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0032798;C:Swi5-Sfr1 complex
+GO:0000707;P:meiotic DNA recombinase assembly
+GO:0007131;P:reciprocal meiotic recombination
+GO:0030435;P:sporulation resulting in formation of a cellular spore

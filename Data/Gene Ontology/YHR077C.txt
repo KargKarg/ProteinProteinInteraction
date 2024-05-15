@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0035145;C:exon-exon junction complex
+GO:0005844;C:polysome
+GO:0003723;F:RNA binding
+GO:0071026;P:cytoplasmic RNA surveillance
+GO:0006310;P:DNA recombination
+GO:0070478;P:nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay

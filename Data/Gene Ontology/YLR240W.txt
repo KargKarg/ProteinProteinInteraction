@@ -1,0 +1,29 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0000139;C:Golgi membrane
+GO:0016020;C:membrane
+GO:0071561;C:nucleus-vacuole junction
+GO:0005777;C:peroxisome
+GO:0000407;C:phagophore assembly site
+GO:0034045;C:phagophore assembly site membrane
+GO:0034271;C:phosphatidylinositol 3-kinase complex, class III, type I
+GO:0034272;C:phosphatidylinositol 3-kinase complex, class III, type II
+GO:0016303;F:1-phosphatidylinositol-3-kinase activity
+GO:0005524;F:ATP binding
+GO:0004672;F:protein kinase activity
+GO:0000045;P:autophagosome assembly
+GO:0006914;P:autophagy
+GO:0006897;P:endocytosis
+GO:0045324;P:late endosome to vacuole transport
+GO:0016236;P:macroautophagy
+GO:0000425;P:pexophagy
+GO:0046854;P:phosphatidylinositol phosphate biosynthetic process
+GO:0036092;P:phosphatidylinositol-3-phosphate biosynthetic process
+GO:0048015;P:phosphatidylinositol-mediated signaling
+GO:0016310;P:phosphorylation
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0015031;P:protein transport

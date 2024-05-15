@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0003756;F:protein disulfide isomerase activity
+GO:0015035;F:protein-disulfide reductase activity
+GO:0006457;P:protein folding

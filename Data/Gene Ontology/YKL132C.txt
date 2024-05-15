@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0016881;F:acid-amino acid ligase activity
+GO:0005524;F:ATP binding
+GO:0008841;F:dihydrofolate synthase activity
+GO:0046872;F:metal ion binding
+GO:0004326;F:tetrahydrofolylpolyglutamate synthase activity
+GO:0009396;P:folic acid-containing compound biosynthetic process
+GO:0006730;P:one-carbon metabolic process

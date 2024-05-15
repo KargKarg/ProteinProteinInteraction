@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0016020;C:membrane
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0017050;F:D-erythro-sphingosine kinase activity
+GO:0008481;F:sphinganine kinase activity
+GO:0019722;P:calcium-mediated signaling
+GO:0016310;P:phosphorylation
+GO:0009408;P:response to heat
+GO:0006665;P:sphingolipid metabolic process
+GO:0046512;P:sphingosine biosynthetic process

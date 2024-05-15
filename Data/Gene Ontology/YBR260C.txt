@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005933;C:cellular bud
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0005628;C:prospore membrane
+GO:0005096;F:GTPase activator activity
+GO:0042802;F:identical protein binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0005546;F:phosphatidylinositol-4,5-bisphosphate binding
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0010314;F:phosphatidylinositol-5-phosphate binding
+GO:0010447;P:response to acidic pH
+GO:0006970;P:response to osmotic stress
+GO:0007165;P:signal transduction

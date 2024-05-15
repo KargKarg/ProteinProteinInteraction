@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0071555;P:cell wall organization
+GO:0006033;P:chitin localization
+GO:0016192;P:vesicle-mediated transport

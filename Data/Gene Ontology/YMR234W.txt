@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000287;F:magnesium ion binding
+GO:0003676;F:nucleic acid binding
+GO:0004523;F:RNA-DNA hybrid ribonuclease activity
+GO:0043137;P:DNA replication, removal of RNA primer
+GO:0006401;P:RNA catabolic process

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005643;C:nuclear pore
+GO:0044611;C:nuclear pore inner ring
+GO:0017056;F:structural constituent of nuclear pore
+GO:0031990;P:mRNA export from nucleus in response to heat stress
+GO:0006999;P:nuclear pore organization
+GO:0006913;P:nucleocytoplasmic transport
+GO:0006606;P:protein import into nucleus
+GO:0006405;P:RNA export from nucleus

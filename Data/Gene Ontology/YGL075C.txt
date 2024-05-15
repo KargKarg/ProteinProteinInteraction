@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0034993;C:meiotic nuclear membrane microtubule tethering complex
+GO:0016020;C:membrane
+GO:0106084;C:mitotic nuclear membrane microtubule tethering complex
+GO:0005635;C:nuclear envelope
+GO:0005640;C:nuclear outer membrane
+GO:0005816;C:spindle pole body
+GO:0140444;F:cytoskeleton-nuclear membrane anchor activity
+GO:0000741;P:karyogamy
+GO:1990608;P:mitotic spindle pole body localization
+GO:0071988;P:protein localization to spindle pole body
+GO:0030474;P:spindle pole body duplication

@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0051082;F:unfolded protein binding
+GO:0033615;P:mitochondrial proton-transporting ATP synthase complex assembly
+GO:0007005;P:mitochondrion organization

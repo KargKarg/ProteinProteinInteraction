@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0016020;C:membrane
+GO:0005634;C:nucleus
+GO:0008157;F:protein phosphatase 1 binding
+GO:0030866;P:cortical actin cytoskeleton organization
+GO:0006897;P:endocytosis
+GO:2000370;P:positive regulation of clathrin-dependent endocytosis
+GO:0009306;P:protein secretion

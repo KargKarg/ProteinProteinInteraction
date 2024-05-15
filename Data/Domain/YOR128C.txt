@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;ATP-grasp;110;298
+BINDING;;138;193

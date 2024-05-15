@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005952;C:cAMP-dependent protein kinase complex
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0030552;F:cAMP binding
+GO:0004862;F:cAMP-dependent protein kinase inhibitor activity
+GO:0042802;F:identical protein binding
+GO:0034236;F:protein kinase A catalytic subunit binding
+GO:0046580;P:negative regulation of Ras protein signal transduction
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0097271;P:protein localization to bud neck
+GO:0010603;P:regulation of cytoplasmic mRNA processing body assembly
+GO:0001932;P:regulation of protein phosphorylation

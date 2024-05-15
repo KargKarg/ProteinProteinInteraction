@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0005628;C:prospore membrane
+GO:0005096;F:GTPase activator activity
+GO:0007120;P:axial cellular bud site selection
+GO:0007121;P:bipolar cellular bud site selection
+GO:0007163;P:establishment or maintenance of cell polarity
+GO:0030447;P:filamentous growth
+GO:0036267;P:invasive filamentous growth
+GO:0031578;P:mitotic spindle orientation checkpoint signaling

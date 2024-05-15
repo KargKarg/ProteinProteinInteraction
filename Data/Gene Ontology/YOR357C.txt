@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0031901;C:early endosome membrane
+GO:0005768;C:endosome
+GO:0000329;C:fungal-type vacuole membrane
+GO:0000139;C:Golgi membrane
+GO:0032994;C:protein-lipid complex
+GO:0030904;C:retromer complex
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0032456;P:endocytic recycling
+GO:0034499;P:late endosome to Golgi transport
+GO:0008104;P:protein localization
+GO:0015031;P:protein transport

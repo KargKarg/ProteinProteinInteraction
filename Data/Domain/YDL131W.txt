@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Pyruvate carboxyltransferase;37;290
+REGION;Disordered;1;27
+ACT_SITE;Proton acceptor;323;323
+BINDING;;45;45
+BINDING;;46;46
+BINDING;;105;105
+BINDING;;165;165
+BINDING;;199;199
+BINDING;;226;226
+BINDING;;228;228

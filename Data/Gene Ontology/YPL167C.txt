@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0016035;C:zeta DNA polymerase complex
+GO:0051539;F:4 iron, 4 sulfur cluster binding
+GO:0003677;F:DNA binding
+GO:0003887;F:DNA-directed DNA polymerase activity
+GO:0046872;F:metal ion binding
+GO:0000166;F:nucleotide binding
+GO:0006260;P:DNA replication
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0070987;P:error-free translesion synthesis
+GO:0042276;P:error-prone translesion synthesis

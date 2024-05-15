@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0070761;C:pre-snoRNP complex
+GO:0046872;F:metal ion binding
+GO:0030515;F:snoRNA binding
+GO:0000492;P:box C/D snoRNP assembly
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042254;P:ribosome biogenesis
+GO:0016074;P:sno(s)RNA metabolic process
+GO:0048254;P:snoRNA localization

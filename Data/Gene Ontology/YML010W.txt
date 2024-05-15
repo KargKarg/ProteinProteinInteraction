@@ -1,0 +1,29 @@
+GO id;GO term
+GO:0005694;C:chromosome
+GO:0032044;C:DSIF complex
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0003729;F:mRNA binding
+GO:0044877;F:protein-containing complex binding
+GO:0001042;F:RNA polymerase I core binding
+GO:0001179;F:RNA polymerase I general transcription initiation factor binding
+GO:0000993;F:RNA polymerase II complex binding
+GO:0019843;F:rRNA binding
+GO:0070990;F:snRNP binding
+GO:0030619;F:U1 snRNA binding
+GO:0030620;F:U2 snRNA binding
+GO:0030621;F:U4 snRNA binding
+GO:0030623;F:U5 snRNA binding
+GO:0017070;F:U6 snRNA binding
+GO:0008298;P:intracellular mRNA localization
+GO:2001208;P:negative regulation of transcription elongation by RNA polymerase I
+GO:0010508;P:positive regulation of autophagy
+GO:2001209;P:positive regulation of transcription elongation by RNA polymerase I
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0006355;P:regulation of DNA-templated transcription
+GO:2000232;P:regulation of rRNA processing
+GO:0090262;P:regulation of transcription-coupled nucleotide-excision repair
+GO:0000245;P:spliceosomal complex assembly
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0140673;P:transcription elongation-coupled chromatin remodeling

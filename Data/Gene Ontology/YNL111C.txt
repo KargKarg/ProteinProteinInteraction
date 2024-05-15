@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0009055;F:electron transfer activity
+GO:0020037;F:heme binding
+GO:0046872;F:metal ion binding
+GO:0016126;P:sterol biosynthetic process

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;;191;216
+REGION;Disordered;26;48

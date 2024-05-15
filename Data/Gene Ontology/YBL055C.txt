@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0008296;F:3'-5'-DNA exonuclease activity
+GO:0004519;F:endonuclease activity
+GO:0046872;F:metal ion binding
+GO:0006309;P:apoptotic DNA fragmentation
+GO:0034599;P:cellular response to oxidative stress

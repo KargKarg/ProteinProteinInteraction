@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Calponin-homology (CH);26;136
+REGION;Disordered;144;168
+REGION;Interaction with SH3 domain of ABP1;151;164

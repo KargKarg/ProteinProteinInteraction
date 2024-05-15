@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;WD 1;79;110
+REPEAT;WD 2;138;169
+REPEAT;WD 3;180;210
+REPEAT;WD 4;226;257
+REGION;Disordered;408;609

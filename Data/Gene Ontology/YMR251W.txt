@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004364;F:glutathione transferase activity
+GO:0006749;P:glutathione metabolic process

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0005634;C:nucleus
+GO:0005940;C:septin ring
+GO:0042802;F:identical protein binding
+GO:0031386;F:protein tag activity
+GO:0044389;F:ubiquitin-like protein ligase binding
+GO:0016925;P:protein sumoylation

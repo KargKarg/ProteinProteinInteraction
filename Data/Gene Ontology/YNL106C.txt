@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0016020;C:membrane
+GO:0043813;F:phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity
+GO:0004438;F:phosphatidylinositol-3-phosphate phosphatase activity
+GO:0004439;F:phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity
+GO:0043812;F:phosphatidylinositol-4-phosphate phosphatase activity
+GO:0006897;P:endocytosis
+GO:0046856;P:phosphatidylinositol dephosphorylation
+GO:0015031;P:protein transport

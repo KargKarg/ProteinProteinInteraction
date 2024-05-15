@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Sufficient for general mitochondrial translation;36;118
+REGION;Sufficient for dosage suppression of COX2 mutation;87;177
+REGION;Disordered;111;144

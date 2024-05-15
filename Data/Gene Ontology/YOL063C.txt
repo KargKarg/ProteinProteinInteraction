@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0070651;P:nonfunctional rRNA decay

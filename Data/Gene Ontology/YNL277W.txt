@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004414;F:homoserine O-acetyltransferase activity
+GO:0009092;P:homoserine metabolic process
+GO:0009086;P:methionine biosynthetic process
+GO:0000096;P:sulfur amino acid metabolic process

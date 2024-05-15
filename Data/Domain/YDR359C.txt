@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HSA;346;425
+DOMAIN;Myb-like;642;704
+REGION;Disordered;1;31
+REGION;Disordered;115;143
+REGION;Disordered;157;207
+REGION;Disordered;414;440
+REGION;Disordered;768;792
+REGION;Disordered;822;872
+REGION;Disordered;913;982

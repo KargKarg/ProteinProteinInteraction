@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0016020;C:membrane

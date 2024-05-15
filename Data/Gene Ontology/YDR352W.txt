@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0015174;F:basic amino acid transmembrane transporter activity
+GO:0034488;P:basic amino acid transmembrane export from vacuole

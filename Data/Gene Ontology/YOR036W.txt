@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0012505;C:endomembrane system
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0031201;C:SNARE complex
+GO:0005484;F:SNAP receptor activity
+GO:0000149;F:SNARE binding
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0006895;P:Golgi to endosome transport
+GO:0006896;P:Golgi to vacuole transport
+GO:0048210;P:Golgi vesicle fusion to target membrane
+GO:0006886;P:intracellular protein transport
+GO:0016236;P:macroautophagy
+GO:0000011;P:vacuole inheritance
+GO:0048278;P:vesicle docking
+GO:0006906;P:vesicle fusion

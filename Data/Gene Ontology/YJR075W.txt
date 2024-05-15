@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0000136;C:mannan polymerase complex
+GO:0000009;F:alpha-1,6-mannosyltransferase activity
+GO:0000032;P:cell wall mannoprotein biosynthetic process
+GO:0006487;P:protein N-linked glycosylation
+GO:0006080;P:substituted mannan metabolic process

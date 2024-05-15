@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0004609;F:phosphatidylserine decarboxylase activity
+GO:0006122;P:mitochondrial electron transport, ubiquinol to cytochrome c
+GO:0006656;P:phosphatidylcholine biosynthetic process
+GO:0006646;P:phosphatidylethanolamine biosynthetic process
+GO:0010636;P:positive regulation of mitochondrial fusion
+GO:0010954;P:positive regulation of protein processing
+GO:0016540;P:protein autoprocessing

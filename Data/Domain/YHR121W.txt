@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Sm;1;68
+DOMAIN;AD;82;179

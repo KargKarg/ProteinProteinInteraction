@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0006974;P:DNA damage response

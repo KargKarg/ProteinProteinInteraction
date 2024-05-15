@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0000775;C:chromosome, centromeric region
+GO:0031390;C:Ctf18 RFC-like complex
+GO:0006260;P:DNA replication
+GO:0035753;P:maintenance of DNA trinucleotide repeats
+GO:0034088;P:maintenance of mitotic sister chromatid cohesion
+GO:0007064;P:mitotic sister chromatid cohesion

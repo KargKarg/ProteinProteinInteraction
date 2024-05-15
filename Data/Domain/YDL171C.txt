@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-2;54;455
+ACT_SITE;For GATase activity;54;54
+BINDING;;1132;1189
+BINDING;;1185;1185
+BINDING;;1191;1191
+BINDING;;1196;1196
+BINDING;;1928;1942

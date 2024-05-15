@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005637;C:nuclear inner membrane
+GO:0004671;F:protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity
+GO:0006481;P:C-terminal protein methylation
+GO:0007323;P:peptide pheromone maturation
+GO:0019236;P:response to pheromone

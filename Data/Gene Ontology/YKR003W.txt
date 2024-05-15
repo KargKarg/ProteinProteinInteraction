@@ -1,0 +1,27 @@
+GO id;GO term
+GO:0032541;C:cortical endoplasmic reticulum
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0008289;F:lipid binding
+GO:0070300;F:phosphatidic acid binding
+GO:0043325;F:phosphatidylinositol-3,4-bisphosphate binding
+GO:0080025;F:phosphatidylinositol-3,5-bisphosphate binding
+GO:0070273;F:phosphatidylinositol-4-phosphate binding
+GO:0010314;F:phosphatidylinositol-5-phosphate binding
+GO:0001786;F:phosphatidylserine binding
+GO:0005548;F:phospholipid transporter activity
+GO:0032934;F:sterol binding
+GO:0120015;F:sterol transfer activity
+GO:0015248;F:sterol transporter activity
+GO:0006897;P:endocytosis
+GO:0006887;P:exocytosis
+GO:0030011;P:maintenance of cell polarity
+GO:0015914;P:phospholipid transport
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0055092;P:sterol homeostasis
+GO:0016125;P:sterol metabolic process
+GO:0015918;P:sterol transport

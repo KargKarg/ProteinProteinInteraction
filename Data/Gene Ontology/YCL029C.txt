@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0051286;C:cell tip
+GO:0000776;C:kinetochore
+GO:0043332;C:mating projection tip
+GO:0005875;C:microtubule associated complex
+GO:0035371;C:microtubule plus-end
+GO:0005819;C:spindle
+GO:0005876;C:spindle microtubule
+GO:0005816;C:spindle pole body
+GO:0008017;F:microtubule binding
+GO:0030543;P:2-micrometer plasmid partitioning
+GO:0051301;P:cell division
+GO:0000132;P:establishment of mitotic spindle orientation
+GO:0000742;P:karyogamy involved in conjugation with cellular fusion
+GO:0000022;P:mitotic spindle elongation
+GO:0031115;P:negative regulation of microtubule polymerization
+GO:0000743;P:nuclear migration involved in conjugation with cellular fusion

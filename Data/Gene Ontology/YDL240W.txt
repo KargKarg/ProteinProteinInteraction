@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005739;C:mitochondrion
+GO:0030427;C:site of polarized growth
+GO:0005096;F:GTPase activator activity
+GO:0046872;F:metal ion binding
+GO:0030036;P:actin cytoskeleton organization
+GO:0000755;P:cytogamy
+GO:0090038;P:negative regulation of protein kinase C signaling
+GO:0035024;P:negative regulation of Rho protein signal transduction
+GO:0090334;P:regulation of cell wall (1->3)-beta-D-glucan biosynthetic process
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0007165;P:signal transduction
+GO:0030435;P:sporulation resulting in formation of a cellular spore

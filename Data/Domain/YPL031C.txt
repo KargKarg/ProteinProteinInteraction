@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;7;297
+ACT_SITE;Proton acceptor;133;133
+BINDING;;13;21
+BINDING;;36;36
+SITE;Not phosphorylated;166;166
+SITE;Not phosphorylated;167;167

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0052675;F:3-methylbutanol:NADP oxidoreductase activity
+GO:0008106;F:alcohol dehydrogenase (NADP+) activity
+GO:0045551;F:cinnamyl-alcohol dehydrogenase activity
+GO:0033833;F:hydroxymethylfurfural reductase (NADH) activity
+GO:0033845;F:hydroxymethylfurfural reductase (NADPH) activity
+GO:0008270;F:zinc ion binding
+GO:0006066;P:alcohol metabolic process
+GO:0006081;P:cellular aldehyde metabolic process
+GO:0033859;P:furaldehyde metabolic process

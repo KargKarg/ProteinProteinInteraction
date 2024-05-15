@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0016282;C:eukaryotic 43S preinitiation complex
+GO:0033290;C:eukaryotic 48S preinitiation complex
+GO:0003725;F:double-stranded RNA binding
+GO:0019901;F:protein kinase binding
+GO:0043024;F:ribosomal small subunit binding
+GO:0003743;F:translation initiation factor activity
+GO:0031369;F:translation initiation factor binding
+GO:0001732;P:formation of cytoplasmic translation initiation complex
+GO:0001677;P:formation of translation initiation ternary complex
+GO:0001731;P:formation of translation preinitiation complex
+GO:0002188;P:translation reinitiation
+GO:0006413;P:translational initiation

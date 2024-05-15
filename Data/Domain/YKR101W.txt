@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Sufficient for interaction with SIR4;322;654
+REGION;ORC interacting region (OIR);449;587

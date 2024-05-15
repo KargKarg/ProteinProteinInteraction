@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SMP-LTD;164;367
+DOMAIN;C2 1;358;481
+DOMAIN;C2 2;504;628
+DOMAIN;C2 3;632;749
+DOMAIN;C2 4;962;1086
+REGION;Disordered;1;27

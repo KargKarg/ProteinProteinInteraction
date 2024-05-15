@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0003723;F:RNA binding
+GO:0032543;P:mitochondrial translation
+GO:0006397;P:mRNA processing

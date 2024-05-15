@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0070096;P:mitochondrial outer membrane translocase complex assembly
+GO:0045040;P:protein insertion into mitochondrial outer membrane

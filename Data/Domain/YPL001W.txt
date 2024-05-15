@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;N-acetyltransferase;135;303
+REGION;Interaction with histone H4 N-terminus;42;44
+REGION;Interaction with histone H4 N-terminus;194;196
+REGION;Interaction with HAT2;197;205
+ACT_SITE;Proton donor/acceptor;255;255
+BINDING;;220;222
+BINDING;;227;233
+BINDING;;258;258
+BINDING;;267;267
+SITE;Interaction with histone H4 N-terminus;174;174

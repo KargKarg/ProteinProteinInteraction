@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0098552;C:side of membrane
+GO:0008496;F:mannan endo-1,6-alpha-mannosidase activity
+GO:0007117;P:budding cell bud growth
+GO:0016052;P:carbohydrate catabolic process
+GO:0071555;P:cell wall organization
+GO:0009272;P:fungal-type cell wall biogenesis
+GO:0007124;P:pseudohyphal growth

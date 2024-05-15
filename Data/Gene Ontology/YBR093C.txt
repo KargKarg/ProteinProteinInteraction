@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0003993;F:acid phosphatase activity
+GO:0047429;F:nucleoside triphosphate diphosphatase activity
+GO:0017111;F:ribonucleoside triphosphate phosphatase activity
+GO:0016036;P:cellular response to phosphate starvation
+GO:0006796;P:phosphate-containing compound metabolic process
+GO:0008361;P:regulation of cell size

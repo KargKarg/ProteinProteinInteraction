@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0016020;C:membrane
+GO:0015124;F:allantoate transmembrane transporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:0055085;P:transmembrane transport

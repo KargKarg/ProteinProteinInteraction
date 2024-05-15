@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;A.T hook;356;364
+REGION;Disordered;47;275
+REGION;Disordered;335;374

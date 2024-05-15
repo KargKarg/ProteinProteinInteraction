@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0000776;C:kinetochore
+GO:0005876;C:spindle microtubule
+GO:0000922;C:spindle pole
+GO:0005816;C:spindle pole body
+GO:0008017;F:microtubule binding
+GO:0061863;F:microtubule plus end polymerase
+GO:0051010;F:microtubule plus-end binding
+GO:0030951;P:establishment or maintenance of microtubule cytoskeleton polarity
+GO:0046785;P:microtubule polymerization
+GO:1990758;P:mitotic sister chromatid biorientation
+GO:0007052;P:mitotic spindle organization
+GO:0140273;P:repair of mitotic kinetochore microtubule attachment defect

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005886;C:plasma membrane
+GO:0031932;C:TORC2 complex
+GO:0005774;C:vacuolar membrane
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0031505;P:fungal-type cell wall organization
+GO:0001558;P:regulation of cell growth
+GO:0030148;P:sphingolipid biosynthetic process
+GO:0031929;P:TOR signaling
+GO:0038203;P:TORC2 signaling

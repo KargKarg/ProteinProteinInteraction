@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:1990871;C:Vma12-Vma22 assembly complex
+GO:0051082;F:unfolded protein binding
+GO:0007035;P:vacuolar acidification
+GO:0070072;P:vacuolar proton-transporting V-type ATPase complex assembly

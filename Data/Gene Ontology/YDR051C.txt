@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003993;F:acid phosphatase activity
+GO:0016791;F:phosphatase activity
+GO:0032366;P:intracellular sterol transport

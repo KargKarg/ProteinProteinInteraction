@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0000810;F:diacylglycerol diphosphate phosphatase activity
+GO:0042802;F:identical protein binding
+GO:0008195;F:phosphatidate phosphatase activity
+GO:0006644;P:phospholipid metabolic process

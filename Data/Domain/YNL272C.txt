@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Required for proper polarized localization of the protein;451;508
+REGION;Disordered;538;759

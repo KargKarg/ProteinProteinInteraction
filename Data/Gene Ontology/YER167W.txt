@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:0010628;P:positive regulation of gene expression
+GO:0051726;P:regulation of cell cycle

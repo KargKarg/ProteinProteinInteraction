@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SEC7;824;1010
+REGION;Disordered;1;220
+REGION;Disordered;771;814
+REGION;Disordered;1708;1803

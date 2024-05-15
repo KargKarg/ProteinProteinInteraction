@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane

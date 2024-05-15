@@ -1,0 +1,14 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;221;225
+REPEAT;2;226;230
+REPEAT;3;232;236
+REPEAT;4;246;250
+REGION;Disordered;219;257
+REGION;4 X 5 AA repeats of [DE]-[DE]-[DE]-K-K; highly charged region;221;259
+REGION;Disordered;675;705
+MOTIF;TPR repeat-binding;701;705
+BINDING;;37;37
+BINDING;;79;79
+BINDING;;98;98
+BINDING;;124;124
+BINDING;;376;376

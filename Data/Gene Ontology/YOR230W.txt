@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0033698;C:Rpd3L complex
+GO:0070210;C:Rpd3L-Expanded complex
+GO:0042393;F:histone binding
+GO:0003714;F:transcription corepressor activity
+GO:0006338;P:chromatin remodeling
+GO:0051457;P:maintenance of protein location in nucleus
+GO:0051321;P:meiotic cell cycle
+GO:0061186;P:negative regulation of silent mating-type cassette heterochromatin formation
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006606;P:protein import into nucleus
+GO:0006355;P:regulation of DNA-templated transcription

@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0000228;C:nuclear chromosome
+GO:0106069;C:synapsis initiation complex
+GO:0000795;C:synaptonemal complex
+GO:0003682;F:chromatin binding
+GO:0019789;F:SUMO transferase activity
+GO:0006281;P:DNA repair
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0035825;P:homologous recombination
+GO:0016925;P:protein sumoylation
+GO:0007131;P:reciprocal meiotic recombination
+GO:0090173;P:regulation of synaptonemal complex assembly
+GO:0007130;P:synaptonemal complex assembly

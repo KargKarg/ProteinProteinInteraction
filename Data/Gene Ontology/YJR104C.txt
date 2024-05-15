@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:1902693;C:superoxide dismutase complex
+GO:0005507;F:copper ion binding
+GO:0004784;F:superoxide dismutase activity
+GO:0031505;P:fungal-type cell wall organization
+GO:0006878;P:intracellular copper ion homeostasis
+GO:0006882;P:intracellular zinc ion homeostasis
+GO:1901856;P:negative regulation of cellular respiration
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0015680;P:protein maturation by copper ion transfer
+GO:0050821;P:protein stabilization
+GO:0019430;P:removal of superoxide radicals
+GO:0006801;P:superoxide metabolic process

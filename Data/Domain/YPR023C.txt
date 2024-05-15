@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Tudor-knot;13;98
+DOMAIN;MRG;216;399
+REGION;Disordered;39;65
+REGION;Disordered;117;210

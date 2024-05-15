@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005621;C:cellular bud scar
+GO:0005934;C:cellular bud tip
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0007120;P:axial cellular bud site selection
+GO:0007121;P:bipolar cellular bud site selection
+GO:0008104;P:protein localization

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;SUMO-like region 1;169;287
+REPEAT;SUMO-like region 2;380;456
+REGION;Disordered;1;154

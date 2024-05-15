@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016020;C:membrane
+GO:0030145;F:manganese ion binding
+GO:0070006;F:metalloaminopeptidase activity
+GO:0008233;F:peptidase activity
+GO:0006508;P:proteolysis

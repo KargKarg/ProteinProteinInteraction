@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000112;C:nucleotide-excision repair factor 3 complex
+GO:0000439;C:transcription factor TFIIH core complex
+GO:0005675;C:transcription factor TFIIH holo complex
+GO:0001671;F:ATPase activator activity
+GO:0003690;F:double-stranded DNA binding
+GO:0006289;P:nucleotide-excision repair
+GO:0006366;P:transcription by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0019005;C:SCF ubiquitin ligase complex
+GO:0008053;P:mitochondrial fusion
+GO:0007005;P:mitochondrion organization
+GO:0016567;P:protein ubiquitination
+GO:0051603;P:proteolysis involved in protein catabolic process
+GO:0010793;P:regulation of mRNA export from nucleus
+GO:0031146;P:SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+GO:0006511;P:ubiquitin-dependent protein catabolic process

@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus

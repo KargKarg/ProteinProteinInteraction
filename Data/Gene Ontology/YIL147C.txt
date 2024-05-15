@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0009927;F:histidine phosphotransfer kinase activity
+GO:0046872;F:metal ion binding
+GO:0005034;F:osmosensor activity
+GO:0000155;F:phosphorelay sensor kinase activity
+GO:0004673;F:protein histidine kinase activity
+GO:0007234;P:osmosensory signaling via phosphorelay pathway

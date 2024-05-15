@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;BRO1;4;400
+REGION;Disordered;703;734
+REGION;Disordered;763;844

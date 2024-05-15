@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;383;672
+REGION;Disordered;53;93
+REGION;Disordered;228;312
+MOTIF;KEN box;116;118
+MOTIF;D box;150;158
+BINDING;;389;397
+BINDING;;430;430

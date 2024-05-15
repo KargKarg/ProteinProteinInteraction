@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005634;C:nucleus
+GO:0034973;C:Sid2-Mob1 complex
+GO:0005816;C:spindle pole body
+GO:0005524;F:ATP binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0003723;F:RNA binding
+GO:0010458;P:exit from mitosis
+GO:0035556;P:intracellular signal transduction
+GO:0000280;P:nuclear division
+GO:0016310;P:phosphorylation
+GO:0032465;P:regulation of cytokinesis
+GO:1901900;P:regulation of protein localization to cell division site
+GO:0007035;P:vacuolar acidification

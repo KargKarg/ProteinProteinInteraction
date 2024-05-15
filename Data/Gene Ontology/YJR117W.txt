@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005741;C:mitochondrial outer membrane
+GO:0005637;C:nuclear inner membrane
+GO:0046872;F:metal ion binding
+GO:0004222;F:metalloendopeptidase activity
+GO:0071586;P:CAAX-box protein processing
+GO:0071712;P:ER-associated misfolded protein catabolic process
+GO:0120236;P:negative regulation of post-translational protein targeting to membrane, translocation
+GO:0071432;P:peptide mating pheromone maturation involved in positive regulation of conjugation with cellular fusion
+GO:0016485;P:protein processing
+GO:0019236;P:response to pheromone

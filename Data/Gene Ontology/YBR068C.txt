@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0015171;F:amino acid transmembrane transporter activity
+GO:0015192;F:L-phenylalanine transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:0006865;P:amino acid transport
+GO:0098713;P:leucine import across plasma membrane
+GO:0055085;P:transmembrane transport

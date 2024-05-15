@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;WAC;23;131
+DOMAIN;DDT;375;435
+REGION;Disordered;271;301

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005634;C:nucleus
+GO:0009349;C:riboflavin synthase complex
+GO:0000906;F:6,7-dimethyl-8-ribityllumazine synthase activity
+GO:0009231;P:riboflavin biosynthetic process

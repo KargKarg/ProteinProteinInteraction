@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0015124;F:allantoate transmembrane transporter activity
+GO:0071916;F:dipeptide transmembrane transporter activity
+GO:0015719;P:allantoate transport
+GO:0042938;P:dipeptide transport
+GO:0042939;P:tripeptide transport

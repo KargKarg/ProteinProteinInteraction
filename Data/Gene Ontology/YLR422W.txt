@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0031267;F:small GTPase binding
+GO:0000422;P:autophagy of mitochondrion
+GO:0035556;P:intracellular signal transduction
+GO:0007264;P:small GTPase mediated signal transduction

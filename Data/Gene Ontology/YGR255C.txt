@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0031314;C:extrinsic component of mitochondrial inner membrane
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0008681;F:2-octaprenyl-6-methoxyphenol hydroxylase activity
+GO:0106364;F:4-hydroxy-3-all-trans-hexaprenylbenzoate oxygenase activity
+GO:0071949;F:FAD binding
+GO:0016787;F:hydrolase activity
+GO:0016491;F:oxidoreductase activity
+GO:0016709;F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0016712;F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0006744;P:ubiquinone biosynthetic process

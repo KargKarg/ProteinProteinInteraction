@@ -1,0 +1,14 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Topo IB-type catalytic;364;769
+REGION;Disordered;1;132
+REGION;Interaction with DNA;357;358
+REGION;Interaction with DNA;420;425
+REGION;Interaction with DNA;512;514
+ACT_SITE;O-(3'-phospho-DNA)-tyrosine intermediate;727;727
+SITE;Interaction with DNA;296;296
+SITE;Interaction with DNA;344;344
+SITE;Interaction with DNA;375;375
+SITE;Interaction with DNA;432;432
+SITE;Interaction with DNA;458;458
+SITE;Interaction with DNA;501;501
+SITE;Interaction with DNA;558;558

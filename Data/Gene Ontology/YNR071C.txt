@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0004034;F:aldose 1-epimerase activity
+GO:0030246;F:carbohydrate binding
+GO:0033499;P:galactose catabolic process via UDP-galactose
+GO:0006006;P:glucose metabolic process

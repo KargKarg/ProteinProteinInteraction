@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0070823;C:HDA1 complex
+GO:0000118;C:histone deacetylase complex
+GO:0003682;F:chromatin binding
+GO:0004407;F:histone deacetylase activity
+GO:0042802;F:identical protein binding
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0010621;P:negative regulation of transcription by transcription factor localization
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

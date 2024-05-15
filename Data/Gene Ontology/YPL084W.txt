@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0035800;F:deubiquitinase activator activity
+GO:1904669;P:ATP export
+GO:0070676;P:intralumenal vesicle formation
+GO:0072671;P:mitochondria-associated ubiquitin-dependent protein catabolic process
+GO:1903003;P:positive regulation of protein deubiquitination
+GO:0016579;P:protein deubiquitination
+GO:0036010;P:protein localization to endosome
+GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+GO:0006511;P:ubiquitin-dependent protein catabolic process
+GO:0007034;P:vacuolar transport

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005886;C:plasma membrane
+GO:0019003;F:GDP binding
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0042147;P:retrograde transport, endosome to Golgi
+GO:0007264;P:small GTPase mediated signal transduction

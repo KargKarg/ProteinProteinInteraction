@@ -1,0 +1,18 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;PIR1/2/3 1;64;82
+REPEAT;PIR1/2/3 2;83;101
+REPEAT;PIR1/2/3 3;102;125
+REPEAT;PIR1/2/3 4;126;144
+REPEAT;PIR1/2/3 5;145;163
+REPEAT;PIR1/2/3 6;164;182
+REPEAT;PIR1/2/3 7;183;201
+REPEAT;PIR1/2/3 8;202;220
+SITE;Cleavage; by KEX2;63;64
+SITE;Covalent attachment to cell wall glycan;74;74
+SITE;Covalent attachment to cell wall glycan;93;93
+SITE;Covalent attachment to cell wall glycan;112;112
+SITE;Covalent attachment to cell wall glycan;136;136
+SITE;Covalent attachment to cell wall glycan;155;155
+SITE;Covalent attachment to cell wall glycan;174;174
+SITE;Covalent attachment to cell wall glycan;193;193
+SITE;Covalent attachment to cell wall glycan;212;212

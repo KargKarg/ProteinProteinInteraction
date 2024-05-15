@@ -1,0 +1,3 @@
+Structure type;Structure begin;Structure end
+HELIX;1004;1007
+TURN;1008;1010

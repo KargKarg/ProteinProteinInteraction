@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005524;F:ATP binding
+GO:0004371;F:glycerone kinase activity
+GO:0050354;F:triokinase activity
+GO:0019588;P:anaerobic glycerol catabolic process
+GO:0019563;P:glycerol catabolic process
+GO:0061610;P:glycerol to glycerone phosphate metabolic process
+GO:0016310;P:phosphorylation

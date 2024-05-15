@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0017018;F:myosin phosphatase activity
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0008138;F:protein tyrosine/serine/threonine phosphatase activity
+GO:0016311;P:dephosphorylation
+GO:0033260;P:nuclear DNA replication

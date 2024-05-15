@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000139;C:Golgi membrane
+GO:0031201;C:SNARE complex
+GO:0005774;C:vacuolar membrane
+GO:0000149;F:SNARE binding
+GO:0051082;F:unfolded protein binding
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0006895;P:Golgi to endosome transport
+GO:0006896;P:Golgi to vacuole transport
+GO:0048210;P:Golgi vesicle fusion to target membrane
+GO:0006886;P:intracellular protein transport
+GO:0035543;P:positive regulation of SNARE complex assembly
+GO:0006623;P:protein targeting to vacuole
+GO:0007035;P:vacuolar acidification
+GO:0000011;P:vacuole inheritance
+GO:0007033;P:vacuole organization
+GO:0016192;P:vesicle-mediated transport

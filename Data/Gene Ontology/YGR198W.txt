@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0072659;P:protein localization to plasma membrane
+GO:0006623;P:protein targeting to vacuole
+GO:0006898;P:receptor-mediated endocytosis

@@ -1,0 +1,28 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0070775;C:H3 histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0010484;F:histone H3 acetyltransferase activity
+GO:0036408;F:histone H3K14 acetyltransferase activity
+GO:0043994;F:histone H3K23 acetyltransferase activity
+GO:0044017;F:histone H3K27 acetyltransferase activity
+GO:0032931;F:histone H3K56 acetyltransferase activity
+GO:0043992;F:histone H3K9 acetyltransferase activity
+GO:0061733;F:peptide-lysine-N-acetyltransferase activity
+GO:0006974;P:DNA damage response
+GO:0140889;P:DNA replication-dependent chromatin disassembly
+GO:0043966;P:histone H3 acetylation
+GO:0044154;P:histone H3-K14 acetylation
+GO:0043972;P:histone H3-K23 acetylation
+GO:0043974;P:histone H3-K27 acetylation
+GO:0097043;P:histone H3-K56 acetylation
+GO:0043970;P:histone H3-K9 acetylation
+GO:0043007;P:maintenance of rDNA
+GO:0006334;P:nucleosome assembly
+GO:0018394;P:peptidyl-lysine acetylation
+GO:0006473;P:protein acetylation
+GO:2001032;P:regulation of double-strand break repair via nonhomologous end joining
+GO:0010468;P:regulation of gene expression
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:1990414;P:replication-born double-strand break repair via sister chromatid exchange
+GO:0010526;P:retrotransposon silencing

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000324;C:fungal-type vacuole
+GO:0005794;C:Golgi apparatus
+GO:0031501;C:mannosyltransferase complex
+GO:0030234;F:enzyme regulator activity
+GO:0006688;P:glycosphingolipid biosynthetic process
+GO:0006874;P:intracellular calcium ion homeostasis
+GO:0006676;P:mannosyl diphosphorylinositol ceramide metabolic process

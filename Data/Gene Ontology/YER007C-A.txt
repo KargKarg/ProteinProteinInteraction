@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0003723;F:RNA binding
+GO:0001731;P:formation of translation preinitiation complex
+GO:0042254;P:ribosome biogenesis

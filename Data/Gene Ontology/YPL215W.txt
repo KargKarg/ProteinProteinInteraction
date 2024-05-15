@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0061671;C:Cbp3p-Cbp6 complex
+GO:0031966;C:mitochondrial membrane
+GO:0005761;C:mitochondrial ribosome
+GO:0005739;C:mitochondrion
+GO:0003729;F:mRNA binding
+GO:0043022;F:ribosome binding
+GO:0034551;P:mitochondrial respiratory chain complex III assembly
+GO:0070131;P:positive regulation of mitochondrial translation
+GO:0050821;P:protein stabilization

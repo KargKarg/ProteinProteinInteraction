@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0070939;C:Dsl1/NZR complex
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0006914;P:autophagy
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0015031;P:protein transport
+GO:0060628;P:regulation of ER to Golgi vesicle-mediated transport
+GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;Matrin-type;373;409
+REGION;Interaction with substrate tRNA;46;49
+REGION;Interaction with substrate tRNA;170;174
+REGION;Core aggregation region;199;207
+REGION;Interaction with isopentenylpyrophosphate transferase;210;232
+REGION;Interaction with substrate tRNA;256;258
+REGION;Interaction with substrate tRNA;284;302
+BINDING;;21;28
+BINDING;;23;28
+BINDING;;375;375
+BINDING;;378;378
+BINDING;;397;397
+BINDING;;403;403
+SITE;Interaction with substrate tRNA;112;112
+SITE;Interaction with substrate tRNA;193;193

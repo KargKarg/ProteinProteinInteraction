@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0032174;C:cellular bud neck septin collar
+GO:0032177;C:cellular bud neck split septin rings
+GO:0005621;C:cellular bud scar
+GO:0005634;C:nucleus
+GO:0007120;P:axial cellular bud site selection
+GO:0045184;P:establishment of protein localization
+GO:0140014;P:mitotic nuclear division

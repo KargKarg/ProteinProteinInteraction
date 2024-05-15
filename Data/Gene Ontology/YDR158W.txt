@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0004073;F:aspartate-semialdehyde dehydrogenase activity
+GO:0051287;F:NAD binding
+GO:0050661;F:NADP binding
+GO:0046983;F:protein dimerization activity
+GO:0009090;P:homoserine biosynthetic process
+GO:0009097;P:isoleucine biosynthetic process
+GO:0009089;P:lysine biosynthetic process via diaminopimelate
+GO:0009086;P:methionine biosynthetic process
+GO:0009088;P:threonine biosynthetic process

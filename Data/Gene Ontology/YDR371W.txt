@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005576;C:extracellular region
+GO:0008061;F:chitin binding
+GO:0004568;F:chitinase activity
+GO:0006032;P:chitin catabolic process
+GO:0000272;P:polysaccharide catabolic process
+GO:0030435;P:sporulation resulting in formation of a cellular spore

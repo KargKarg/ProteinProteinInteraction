@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0031901;C:early endosome membrane
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0005802;C:trans-Golgi network
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0006897;P:endocytosis
+GO:0006895;P:Golgi to endosome transport
+GO:0006623;P:protein targeting to vacuole
+GO:0015031;P:protein transport
+GO:0042147;P:retrograde transport, endosome to Golgi
+GO:0098629;P:trans-Golgi network membrane organization

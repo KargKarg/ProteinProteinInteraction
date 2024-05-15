@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;'HIGH' region;94;104
+MOTIF;'KMSKS' region;668;672
+BINDING;;671;671

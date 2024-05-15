@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005672;C:transcription factor TFIIA complex
+GO:0000979;F:RNA polymerase II core promoter sequence-specific DNA binding
+GO:0017025;F:TBP-class protein binding
+GO:0003712;F:transcription coregulator activity
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0060261;P:positive regulation of transcription initiation by RNA polymerase II
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0006366;P:transcription by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter

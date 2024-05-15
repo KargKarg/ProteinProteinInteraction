@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0070733;F:AMPylase activity
+GO:0005524;F:ATP binding
+GO:0046872;F:metal ion binding
+GO:0045454;P:cell redox homeostasis
+GO:0018117;P:protein adenylylation

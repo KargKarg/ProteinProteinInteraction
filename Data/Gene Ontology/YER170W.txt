@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005743;C:mitochondrial inner membrane
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0004017;F:adenylate kinase activity
+GO:0005524;F:ATP binding
+GO:0005525;F:GTP binding
+GO:0046899;F:nucleoside triphosphate adenylate kinase activity
+GO:0006172;P:ADP biosynthetic process
+GO:0046033;P:AMP metabolic process
+GO:0046039;P:GTP metabolic process
+GO:0046041;P:ITP metabolic process
+GO:0009142;P:nucleoside triphosphate biosynthetic process
+GO:0009117;P:nucleotide metabolic process
+GO:0016310;P:phosphorylation

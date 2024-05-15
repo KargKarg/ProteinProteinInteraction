@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0033106;C:cis-Golgi network membrane
+GO:0005737;C:cytoplasm
+GO:0070971;C:endoplasmic reticulum exit site
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005634;C:nucleus
+GO:0097001;F:ceramide binding
+GO:0034599;P:cellular response to oxidative stress
+GO:0035621;P:ER to Golgi ceramide transport

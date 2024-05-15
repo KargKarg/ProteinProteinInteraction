@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005621;C:cellular bud scar
+GO:0030134;C:COPII-coated ER to Golgi transport vesicle
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0045121;C:membrane raft
+GO:0005739;C:mitochondrion
+GO:0034399;C:nuclear periphery
+GO:0005886;C:plasma membrane
+GO:0000936;C:primary cell septum
+GO:0098552;C:side of membrane
+GO:0042124;F:1,3-beta-glucanosyltransferase activity
+GO:0030447;P:filamentous growth
+GO:0071970;P:fungal-type cell wall (1->3)-beta-D-glucan biosynthetic process
+GO:0031505;P:fungal-type cell wall organization
+GO:0031507;P:heterochromatin formation
+GO:1905897;P:regulation of response to endoplasmic reticulum stress

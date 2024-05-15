@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0004550;F:nucleoside diphosphate kinase activity
+GO:0004798;F:thymidylate kinase activity
+GO:0009041;F:UMP/dUMP kinase activity
+GO:0006233;P:dTDP biosynthetic process
+GO:0006235;P:dTTP biosynthetic process
+GO:0006227;P:dUDP biosynthetic process
+GO:0016310;P:phosphorylation

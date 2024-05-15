@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0031072;F:heat shock protein binding
+GO:0019901;F:protein kinase binding
+GO:0051087;F:protein-folding chaperone binding
+GO:0051082;F:unfolded protein binding
+GO:0051301;P:cell division
+GO:0000161;P:osmosensory signaling MAPK cascade
+GO:0043410;P:positive regulation of MAPK cascade
+GO:0006457;P:protein folding
+GO:0050821;P:protein stabilization
+GO:0051726;P:regulation of cell cycle
+GO:0030474;P:spindle pole body duplication

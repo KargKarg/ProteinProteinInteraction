@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0035361;C:Cul8-RING ubiquitin ligase complex
+GO:0031261;C:DNA replication preinitiation complex
+GO:0005664;C:nuclear origin of replication recognition complex
+GO:0005656;C:nuclear pre-replicative complex
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0003688;F:DNA replication origin binding
+GO:0006270;P:DNA replication initiation
+GO:0006267;P:pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+GO:0006275;P:regulation of DNA replication
+GO:0030466;P:silent mating-type cassette heterochromatin formation

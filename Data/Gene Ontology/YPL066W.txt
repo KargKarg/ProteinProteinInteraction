@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0000935;C:division septum
+GO:0000917;P:division septum assembly
+GO:0097271;P:protein localization to bud neck

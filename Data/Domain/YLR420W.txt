@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;14;14
+BINDING;;16;16
+BINDING;via carbamate group;98;98
+BINDING;via carbamate group;98;98
+BINDING;;137;137
+BINDING;;180;180
+BINDING;;258;258

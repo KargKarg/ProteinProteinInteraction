@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;DNA- and ATP-binding;1;335
+REGION;Disordered;422;480
+REGION;Interaction with PMS1;501;756

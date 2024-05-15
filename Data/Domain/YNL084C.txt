@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;EH 1;8;98
+DOMAIN;EF-hand 1;40;75
+DOMAIN;EH 2;130;222
+DOMAIN;EF-hand 2;146;164
+REPEAT;1;276;295
+REPEAT;2;315;334
+REGION;Polyphosphoinositide (PIP2)-binding;96;105
+REGION;Disordered;226;265
+REGION;2 X 20 AA approximate repeats;276;334
+BINDING;;53;53
+BINDING;;55;55
+BINDING;;57;57
+BINDING;;59;59
+BINDING;;64;64

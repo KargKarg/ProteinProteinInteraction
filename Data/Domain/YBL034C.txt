@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with microtubules;461;716
+REGION;Disordered;586;605
+REGION;Disordered;648;701
+REGION;Disordered;1089;1180

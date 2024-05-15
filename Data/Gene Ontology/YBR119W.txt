@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000243;C:commitment complex
+GO:0005634;C:nucleus
+GO:0005681;C:spliceosomal complex
+GO:0005685;C:U1 snRNP
+GO:0071004;C:U2-type prespliceosome
+GO:0030619;F:U1 snRNA binding
+GO:0000395;P:mRNA 5'-splice site recognition
+GO:0000398;P:mRNA splicing, via spliceosome

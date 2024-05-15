@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005576;C:extracellular region
+GO:0070726;P:cell wall assembly

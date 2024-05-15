@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MaoC-like;1523;1648
+REGION;Acetyltransferase;1;468
+REGION;Enoyl reductase;480;868
+REGION;Dehydratase;1144;1626
+REGION;Malonyl/palmitoyl transferase;1627;1845
+ACT_SITE;For acetyltransferase activity;274;274
+ACT_SITE;For malonyltransferase activity;1808;1808

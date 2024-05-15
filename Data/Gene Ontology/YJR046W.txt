@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005656;C:nuclear pre-replicative complex
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0003688;F:DNA replication origin binding
+GO:0051301;P:cell division
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:0006267;P:pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+GO:0030174;P:regulation of DNA-templated DNA replication initiation

@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000177;C:cytoplasmic exosome (RNase complex)
+GO:0000178;C:exosome (RNase complex)
+GO:0000176;C:nuclear exosome (RNase complex)
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0003723;F:RNA binding
+GO:0000467;P:exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0006397;P:mRNA processing
+GO:0071035;P:nuclear polyadenylation-dependent rRNA catabolic process
+GO:0071038;P:nuclear polyadenylation-dependent tRNA catabolic process
+GO:0034427;P:nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'
+GO:0070481;P:nuclear-transcribed mRNA catabolic process, non-stop decay
+GO:0006401;P:RNA catabolic process
+GO:0006396;P:RNA processing

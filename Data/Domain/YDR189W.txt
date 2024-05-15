@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;106;142
+REPEAT;2;220;257
+REPEAT;3;436;474
+REPEAT;4;478;514
+REGION;4 X approximate repeats;106;514

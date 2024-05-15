@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;DHFR;7;210
+BINDING;;13;13
+BINDING;;20;26
+BINDING;;34;39
+BINDING;;58;60
+BINDING;;74;74
+BINDING;;80;82
+BINDING;;123;130

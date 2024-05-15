@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000139;C:Golgi membrane
+GO:0017119;C:Golgi transport complex
+GO:0042802;F:identical protein binding
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0006891;P:intra-Golgi vesicle-mediated transport
+GO:0015031;P:protein transport
+GO:0000301;P:retrograde transport, vesicle recycling within Golgi

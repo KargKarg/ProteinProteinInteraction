@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000121;F:glycerol-1-phosphatase activity
+GO:0043136;F:glycerol-3-phosphatase activity
+GO:0000287;F:magnesium ion binding
+GO:0110130;F:ribitol-5-phosphatase activity
+GO:0050286;F:sorbitol-6-phosphatase activity
+GO:0052646;P:alditol phosphate metabolic process
+GO:0016311;P:dephosphorylation
+GO:0006564;P:L-serine biosynthetic process

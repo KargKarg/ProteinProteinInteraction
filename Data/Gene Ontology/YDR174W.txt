@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0033553;C:rDNA heterochromatin
+GO:0032040;C:small-subunit processome
+GO:0008301;F:DNA binding, bending
+GO:0003690;F:double-stranded DNA binding
+GO:0000400;F:four-way junction DNA binding
+GO:0006338;P:chromatin remodeling
+GO:0030261;P:chromosome condensation
+GO:0051276;P:chromosome organization
+GO:0006265;P:DNA topological change
+GO:0044804;P:nucleophagy
+GO:2001034;P:positive regulation of double-strand break repair via nonhomologous end joining
+GO:0070550;P:rDNA chromatin condensation
+GO:0060962;P:regulation of ribosomal protein gene transcription by RNA polymerase II
+GO:0006356;P:regulation of transcription by RNA polymerase I
+GO:0001174;P:transcriptional start site selection at RNA polymerase II promoter

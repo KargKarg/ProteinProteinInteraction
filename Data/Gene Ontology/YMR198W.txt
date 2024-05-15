@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005881;C:cytoplasmic microtubule
+GO:0005871;C:kinesin complex
+GO:0005634;C:nucleus
+GO:0005819;C:spindle
+GO:0005816;C:spindle pole body
+GO:0008093;F:cytoskeletal anchor activity
+GO:0008017;F:microtubule binding
+GO:0003777;F:microtubule motor activity
+GO:0000742;P:karyogamy involved in conjugation with cellular fusion
+GO:0051321;P:meiotic cell cycle
+GO:1903562;P:microtubule bundle formation involved in mitotic spindle midzone assembly
+GO:0000743;P:nuclear migration involved in conjugation with cellular fusion
+GO:0060236;P:regulation of mitotic spindle organization

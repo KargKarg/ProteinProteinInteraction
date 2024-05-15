@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;F-BAR;2;441
+DOMAIN;DEP;218;298
+DOMAIN;Rho-GAP;475;704

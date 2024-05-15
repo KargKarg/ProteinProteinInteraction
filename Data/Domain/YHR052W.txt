@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;29
+REGION;Required for interaction with CDC4;310;376
+REGION;Disordered;356;376

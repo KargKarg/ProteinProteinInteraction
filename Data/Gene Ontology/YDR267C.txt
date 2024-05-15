@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0097361;C:CIA complex
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0097428;P:protein maturation by iron-sulfur cluster transfer
+GO:0002098;P:tRNA wobble uridine modification

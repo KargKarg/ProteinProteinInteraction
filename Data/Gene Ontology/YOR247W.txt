@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0009986;C:cell surface
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0031505;P:fungal-type cell wall organization
+GO:0006139;P:nucleobase-containing compound metabolic process

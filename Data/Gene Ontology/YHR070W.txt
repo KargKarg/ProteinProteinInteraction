@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0052906;F:tRNA (guanine(37)-N1)-methyltransferase activity
+GO:0070901;P:mitochondrial tRNA methylation
+GO:0006400;P:tRNA modification
+GO:0002939;P:tRNA N1-guanine methylation

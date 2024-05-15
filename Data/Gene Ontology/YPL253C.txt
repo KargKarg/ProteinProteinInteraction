@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005871;C:kinesin complex
+GO:0005634;C:nucleus
+GO:0005816;C:spindle pole body
+GO:0008093;F:cytoskeletal anchor activity
+GO:0008017;F:microtubule binding
+GO:0007017;P:microtubule-based process
+GO:0007064;P:mitotic sister chromatid cohesion

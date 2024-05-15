@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;N-terminal SAM-like domain;1;158
+REGION;Disordered;137;170
+REGION;Linker;159;242
+REGION;Fe-S binding site A;252;268
+REGION;Fe-S binding site B;311;325
+MOTIF;Cx2C motif 1;311;314
+MOTIF;Cx2C motif 2;322;325
+BINDING;;252;252
+BINDING;;263;263
+BINDING;;266;266
+BINDING;;268;268
+BINDING;;311;311
+BINDING;;314;314
+BINDING;;322;322
+BINDING;;325;325

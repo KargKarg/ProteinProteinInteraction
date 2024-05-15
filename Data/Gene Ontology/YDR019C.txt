@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005960;C:glycine cleavage complex
+GO:0005739;C:mitochondrion
+GO:0004047;F:aminomethyltransferase activity
+GO:0008483;F:transaminase activity
+GO:0006546;P:glycine catabolic process
+GO:0006544;P:glycine metabolic process
+GO:0006730;P:one-carbon metabolic process

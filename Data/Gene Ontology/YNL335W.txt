@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0018820;F:cyanamide hydratase activity
+GO:0018890;P:cyanamide metabolic process

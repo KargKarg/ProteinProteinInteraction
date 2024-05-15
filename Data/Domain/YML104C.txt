@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PXA;85;273
+DOMAIN;PX;782;905

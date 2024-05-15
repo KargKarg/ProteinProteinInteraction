@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0016272;C:prefoldin complex
+GO:0051087;F:protein-folding chaperone binding
+GO:0015631;F:tubulin binding
+GO:0051082;F:unfolded protein binding
+GO:0051131;P:chaperone-mediated protein complex assembly
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0006457;P:protein folding
+GO:0007021;P:tubulin complex assembly

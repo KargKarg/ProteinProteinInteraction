@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005783;C:endoplasmic reticulum
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0005635;C:nuclear envelope
+GO:0008061;F:chitin binding
+GO:0004568;F:chitinase activity
+GO:0008843;F:endochitinase activity
+GO:0071555;P:cell wall organization
+GO:0006032;P:chitin catabolic process
+GO:0000272;P:polysaccharide catabolic process
+GO:0000920;P:septum digestion after cytokinesis

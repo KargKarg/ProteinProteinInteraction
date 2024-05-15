@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;OTU;109;229
+ZN_FING;C2H2-type;270;294
+REGION;UBX-like;4;80
+REGION;Cys-loop;114;120
+REGION;Variable-loop;169;179
+REGION;His-loop;218;222
+REGION;S2 site;243;248
+ACT_SITE;;117;117
+ACT_SITE;Nucleophile;120;120
+ACT_SITE;;222;222
+ACT_SITE;;294;294
+BINDING;;221;221

@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005680;C:anaphase-promoting complex
+GO:0010997;F:anaphase-promoting complex binding
+GO:1990757;F:ubiquitin ligase activator activity
+GO:0031145;P:anaphase-promoting complex-dependent catabolic process
+GO:0030437;P:ascospore formation
+GO:0030476;P:ascospore wall assembly
+GO:0051301;P:cell division
+GO:0007127;P:meiosis I
+GO:0045132;P:meiotic chromosome segregation
+GO:0044778;P:meiotic DNA integrity checkpoint signaling
+GO:1905786;P:positive regulation of anaphase-promoting complex-dependent catabolic process
+GO:1903024;P:positive regulation of ascospore-type prospore membrane formation
+GO:0045732;P:positive regulation of protein catabolic process
+GO:0031398;P:positive regulation of protein ubiquitination
+GO:0016567;P:protein ubiquitination
+GO:0051445;P:regulation of meiotic cell cycle
+GO:0007130;P:synaptonemal complex assembly

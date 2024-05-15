@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0071467;P:cellular response to pH
+GO:0016485;P:protein processing
+GO:0007124;P:pseudohyphal growth

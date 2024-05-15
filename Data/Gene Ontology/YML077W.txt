@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005783;C:endoplasmic reticulum
+GO:0000407;C:phagophore assembly site
+GO:0030008;C:TRAPP complex
+GO:1990070;C:TRAPPI protein complex
+GO:1990071;C:TRAPPII protein complex
+GO:1990072;C:TRAPPIII protein complex
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006891;P:intra-Golgi vesicle-mediated transport
+GO:0016236;P:macroautophagy
+GO:0042147;P:retrograde transport, endosome to Golgi

@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with VSP24;1;103
+REGION;Interaction with VSP4;104;204
+REGION;Interaction with VTA1;176;204
+REGION;Disordered;185;204

@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0005576;C:extracellular region

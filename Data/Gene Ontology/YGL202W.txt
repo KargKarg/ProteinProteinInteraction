@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0047536;F:2-aminoadipate transaminase activity
+GO:0008793;F:aromatic-amino-acid:2-oxoglutarate aminotransferase activity
+GO:0080130;F:L-phenylalanine:2-oxoglutarate aminotransferase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0009074;P:aromatic amino acid family catabolic process
+GO:0009072;P:aromatic amino acid metabolic process
+GO:0019509;P:L-methionine salvage from methylthioadenosine
+GO:0009094;P:L-phenylalanine biosynthetic process
+GO:0019878;P:lysine biosynthetic process via aminoadipic acid
+GO:0006571;P:tyrosine biosynthetic process

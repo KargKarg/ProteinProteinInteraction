@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005628;C:prospore membrane
+GO:0000164;C:protein phosphatase type 1 complex
+GO:0008157;F:protein phosphatase 1 binding
+GO:0019888;F:protein phosphatase regulator activity
+GO:0030476;P:ascospore wall assembly

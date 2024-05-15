@@ -1,0 +1,17 @@
+GO id;GO term
+GO:1903754;C:cortical microtubule plus-end
+GO:0005881;C:cytoplasmic microtubule
+GO:0005871;C:kinesin complex
+GO:0005874;C:microtubule
+GO:0005739;C:mitochondrion
+GO:0005816;C:spindle pole body
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0008017;F:microtubule binding
+GO:0003777;F:microtubule motor activity
+GO:0008574;F:plus-end-directed microtubule motor activity
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0007018;P:microtubule-based movement
+GO:0007026;P:negative regulation of microtubule depolymerization
+GO:0030473;P:nuclear migration along microtubule

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0042175;C:nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0004582;F:dolichyl-phosphate beta-D-mannosyltransferase activity
+GO:0046872;F:metal ion binding
+GO:0019348;P:dolichol metabolic process
+GO:0006488;P:dolichol-linked oligosaccharide biosynthetic process
+GO:0006506;P:GPI anchor biosynthetic process
+GO:0035269;P:protein O-linked mannosylation

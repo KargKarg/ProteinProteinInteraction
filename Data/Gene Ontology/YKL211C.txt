@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005950;C:anthranilate synthase complex
+GO:0005737;C:cytoplasm
+GO:0004049;F:anthranilate synthase activity
+GO:0004425;F:indole-3-glycerol-phosphate synthase activity
+GO:0006541;P:glutamine metabolic process
+GO:0000162;P:tryptophan biosynthetic process

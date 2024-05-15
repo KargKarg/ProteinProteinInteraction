@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Proton acceptor;119;119
+ACT_SITE;Tryptophan radical intermediate;258;258
+BINDING;axial binding residue;242;242
+SITE;Transition state stabilizer;115;115

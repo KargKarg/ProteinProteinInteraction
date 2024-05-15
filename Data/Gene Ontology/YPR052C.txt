@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005694;C:chromosome
+GO:0005634;C:nucleus
+GO:0032993;C:protein-DNA complex
+GO:0008301;F:DNA binding, bending
+GO:0032407;F:MutSalpha complex binding
+GO:0003676;F:nucleic acid binding
+GO:0031491;F:nucleosome binding
+GO:0006325;P:chromatin organization
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0001195;P:maintenance of transcriptional fidelity during transcription elongation by RNA polymerase III
+GO:0043392;P:negative regulation of DNA binding
+GO:0065004;P:protein-DNA complex assembly
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0070898;P:RNA polymerase III preinitiation complex assembly

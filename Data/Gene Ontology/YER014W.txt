@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0004729;F:oxygen-dependent protoporphyrinogen oxidase activity
+GO:0006783;P:heme biosynthetic process
+GO:0006782;P:protoporphyrinogen IX biosynthetic process

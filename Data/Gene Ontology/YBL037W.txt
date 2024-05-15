@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0030122;C:AP-2 adaptor complex
+GO:0005935;C:cellular bud neck
+GO:0035615;F:clathrin adaptor activity
+GO:0072583;P:clathrin-dependent endocytosis
+GO:0006886;P:intracellular protein transport

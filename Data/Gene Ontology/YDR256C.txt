@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005782;C:peroxisomal matrix
+GO:0005777;C:peroxisome
+GO:0004096;F:catalase activity
+GO:0020037;F:heme binding
+GO:0046872;F:metal ion binding
+GO:0042744;P:hydrogen peroxide catabolic process
+GO:0042542;P:response to hydrogen peroxide
+GO:0000302;P:response to reactive oxygen species

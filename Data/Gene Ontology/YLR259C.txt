@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005743;C:mitochondrial inner membrane
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005759;C:mitochondrial matrix
+GO:0042645;C:mitochondrial nucleoid
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140662;F:ATP-dependent protein folding chaperone
+GO:0003688;F:DNA replication origin binding
+GO:0051087;F:protein-folding chaperone binding
+GO:0003697;F:single-stranded DNA binding
+GO:0051082;F:unfolded protein binding
+GO:0006458;P:'de novo' protein folding
+GO:0051131;P:chaperone-mediated protein complex assembly
+GO:0034514;P:mitochondrial unfolded protein response
+GO:0006457;P:protein folding
+GO:0045041;P:protein import into mitochondrial intermembrane space
+GO:0051604;P:protein maturation
+GO:0042026;P:protein refolding
+GO:0050821;P:protein stabilization

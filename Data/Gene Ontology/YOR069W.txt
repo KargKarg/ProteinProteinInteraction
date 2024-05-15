@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0012505;C:endomembrane system
+GO:0005768;C:endosome
+GO:0010008;C:endosome membrane
+GO:0000139;C:Golgi membrane
+GO:0030904;C:retromer complex
+GO:0030905;C:retromer, tubulation complex
+GO:0035091;F:phosphatidylinositol binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0032456;P:endocytic recycling
+GO:0045053;P:protein retention in Golgi apparatus
+GO:0015031;P:protein transport
+GO:0042147;P:retrograde transport, endosome to Golgi

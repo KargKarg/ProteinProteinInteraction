@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;CCCFC; essential for catalytic activity, may be the site of iron coordination;195;199
+ACT_SITE;;66;66
+BINDING;;115;118

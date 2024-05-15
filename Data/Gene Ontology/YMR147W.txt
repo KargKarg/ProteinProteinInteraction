@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0071944;C:cell periphery

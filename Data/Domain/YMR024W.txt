@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;RNase III;139;205
+DOMAIN;DRBM;302;372

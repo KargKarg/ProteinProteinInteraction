@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Ras-GAP;1701;1890
+REGION;Disordered;392;554
+REGION;Disordered;867;898
+REGION;Disordered;912;935
+REGION;Disordered;952;980

@@ -1,0 +1,33 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0022626;C:cytosolic ribosome
+GO:0015934;C:large ribosomal subunit
+GO:0005634;C:nucleus
+GO:0042788;C:polysomal ribosome
+GO:0015935;C:small ribosomal subunit
+GO:0005524;F:ATP binding
+GO:0003725;F:double-stranded RNA binding
+GO:0004694;F:eukaryotic translation initiation factor 2alpha kinase activity
+GO:0042803;F:protein homodimerization activity
+GO:0004672;F:protein kinase activity
+GO:0004860;F:protein kinase inhibitor activity
+GO:0043621;F:protein self-association
+GO:0106310;F:protein serine kinase activity
+GO:0043023;F:ribosomal large subunit binding
+GO:0043022;F:ribosome binding
+GO:0031369;F:translation initiation factor binding
+GO:0000049;F:tRNA binding
+GO:0034198;P:cellular response to amino acid starvation
+GO:0071232;P:cellular response to histidine
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0140469;P:GCN2-mediated signaling
+GO:0035556;P:intracellular signal transduction
+GO:1990625;P:negative regulation of cytoplasmic translational initiation in response to stress
+GO:1903833;P:positive regulation of cellular response to amino acid starvation
+GO:0071264;P:positive regulation of translational initiation in response to starvation
+GO:0046777;P:protein autophosphorylation
+GO:0006468;P:protein phosphorylation
+GO:1990611;P:regulation of cytoplasmic translational initiation in response to stress
+GO:0006446;P:regulation of translational initiation
+GO:0006412;P:translation

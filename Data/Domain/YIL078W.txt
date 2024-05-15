@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;TGS;69;135
+REGION;Disordered;1;41

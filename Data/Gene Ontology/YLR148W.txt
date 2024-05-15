@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0033263;C:CORVET complex
+GO:0005829;C:cytosol
+GO:0031901;C:early endosome membrane
+GO:0005768;C:endosome
+GO:0000329;C:fungal-type vacuole membrane
+GO:0030897;C:HOPS complex
+GO:0046872;F:metal ion binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0007032;P:endosome organization
+GO:0006895;P:Golgi to endosome transport
+GO:0006886;P:intracellular protein transport
+GO:0045324;P:late endosome to vacuole transport
+GO:0048284;P:organelle fusion
+GO:0035542;P:regulation of SNARE complex assembly
+GO:0032889;P:regulation of vacuole fusion, non-autophagic
+GO:0042144;P:vacuole fusion, non-autophagic
+GO:0007033;P:vacuole organization
+GO:0006904;P:vesicle docking involved in exocytosis
+GO:0099022;P:vesicle tethering

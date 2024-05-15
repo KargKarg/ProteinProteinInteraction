@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0000502;C:proteasome complex
+GO:0019774;C:proteasome core complex, beta-subunit complex
+GO:0010498;P:proteasomal protein catabolic process
+GO:0010499;P:proteasomal ubiquitin-independent protein catabolic process
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process

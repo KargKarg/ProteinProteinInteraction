@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004777;F:succinate-semialdehyde dehydrogenase (NAD+) activity
+GO:0036243;F:succinate-semialdehyde dehydrogenase (NADP+) activity
+GO:0009013;F:succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+GO:0034599;P:cellular response to oxidative stress
+GO:0009450;P:gamma-aminobutyric acid catabolic process
+GO:0006540;P:glutamate decarboxylation to succinate

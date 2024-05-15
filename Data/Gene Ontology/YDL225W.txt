@@ -1,0 +1,27 @@
+GO id;GO term
+GO:0005619;C:ascospore wall
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0000144;C:cellular bud neck septin ring
+GO:0005829;C:cytosol
+GO:1990317;C:Gin4 complex
+GO:0043332;C:mating projection tip
+GO:0015630;C:microtubule cytoskeleton
+GO:0005628;C:prospore membrane
+GO:0031105;C:septin complex
+GO:0005940;C:septin ring
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0060090;F:molecular adaptor activity
+GO:0005200;F:structural constituent of cytoskeleton
+GO:0000915;P:actomyosin contractile ring assembly
+GO:0032186;P:cellular bud neck septin ring organization
+GO:0061640;P:cytoskeleton-dependent cytokinesis
+GO:0000917;P:division septum assembly
+GO:0061163;P:endoplasmic reticulum polarization
+GO:0010458;P:exit from mitosis
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:1903475;P:mitotic actomyosin contractile ring assembly
+GO:0097271;P:protein localization to bud neck
+GO:0000921;P:septin ring assembly
+GO:0000920;P:septum digestion after cytokinesis

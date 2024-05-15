@@ -1,0 +1,33 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0000142;C:cellular bud neck contractile ring
+GO:0000144;C:cellular bud neck septin ring
+GO:0005737;C:cytoplasm
+GO:0044697;C:HICS complex
+GO:0016020;C:membrane
+GO:0120155;C:MIH complex
+GO:0120104;C:mitotic actomyosin contractile ring, proximal layer
+GO:0005886;C:plasma membrane
+GO:0030427;C:site of polarized growth
+GO:0051015;F:actin filament binding
+GO:0008092;F:cytoskeletal protein binding
+GO:0042802;F:identical protein binding
+GO:0032038;F:myosin II heavy chain binding
+GO:0005543;F:phospholipid binding
+GO:0044877;F:protein-containing complex binding
+GO:0051017;P:actin filament bundle assembly
+GO:0007010;P:cytoskeleton organization
+GO:1903475;P:mitotic actomyosin contractile ring assembly
+GO:1902404;P:mitotic actomyosin contractile ring contraction
+GO:0000281;P:mitotic cytokinesis
+GO:1902410;P:mitotic cytokinetic process
+GO:0051126;P:negative regulation of actin nucleation
+GO:0090339;P:negative regulation of formin-nucleated actin cable assembly
+GO:0031671;P:primary cell septum biogenesis
+GO:0072741;P:protein localization to cell division site
+GO:0031991;P:regulation of actomyosin contractile ring contraction
+GO:1903338;P:regulation of cell wall organization or biogenesis
+GO:0032465;P:regulation of cytokinesis
+GO:1903471;P:regulation of mitotic actomyosin contractile ring contraction

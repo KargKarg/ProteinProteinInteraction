@@ -1,0 +1,11 @@
+GO id;GO term
+GO:1904949;C:ATPase complex
+GO:0005829;C:cytosol
+GO:0005778;C:peroxisomal membrane
+GO:0005777;C:peroxisome
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140318;F:protein transporter activity
+GO:0016558;P:protein import into peroxisome matrix
+GO:0016562;P:protein import into peroxisome matrix, receptor recycling
+GO:0043335;P:protein unfolding

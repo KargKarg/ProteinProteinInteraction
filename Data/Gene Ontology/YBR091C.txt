@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0042719;C:mitochondrial intermembrane space protein transporter complex
+GO:0005739;C:mitochondrion
+GO:0042721;C:TIM22 mitochondrial import inner membrane insertion complex
+GO:0046872;F:metal ion binding
+GO:0005543;F:phospholipid binding
+GO:0045039;P:protein insertion into mitochondrial inner membrane
+GO:0071806;P:protein transmembrane transport

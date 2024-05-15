@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0008559;F:ABC-type xenobiotic transporter activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0030003;P:intracellular monoatomic cation homeostasis
+GO:1990961;P:xenobiotic detoxification by transmembrane export across the plasma membrane

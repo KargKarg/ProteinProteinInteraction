@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000506;C:glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+GO:0005635;C:nuclear envelope
+GO:0017176;F:phosphatidylinositol N-acetylglucosaminyltransferase activity
+GO:0031505;P:fungal-type cell wall organization
+GO:0006506;P:GPI anchor biosynthetic process

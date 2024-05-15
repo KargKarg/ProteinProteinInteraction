@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0070469;C:respirasome
+GO:0009055;F:electron transfer activity
+GO:0020037;F:heme binding
+GO:0046872;F:metal ion binding
+GO:0006123;P:mitochondrial electron transport, cytochrome c to oxygen
+GO:0006122;P:mitochondrial electron transport, ubiquinol to cytochrome c

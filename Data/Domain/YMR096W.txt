@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Schiff-base intermediate with D-ribose 5-phosphate;80;80
+BINDING;;23;23
+BINDING;;152;152
+BINDING;;164;164
+BINDING;;214;214
+BINDING;;235;236

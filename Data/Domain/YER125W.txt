@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;C2;1;105
+DOMAIN;WW 1;229;262
+DOMAIN;WW 2;331;364
+DOMAIN;WW 3;387;420
+DOMAIN;HECT;705;809
+REGION;Disordered;99;122
+REGION;Disordered;139;240
+REGION;Disordered;257;298
+ACT_SITE;Glycyl thioester intermediate;777;777

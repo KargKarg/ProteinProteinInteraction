@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0016586;C:RSC-type complex
+GO:0003682;F:chromatin binding
+GO:0006338;P:chromatin remodeling
+GO:0007059;P:chromosome segregation
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0006337;P:nucleosome disassembly
+GO:0006276;P:plasmid maintenance
+GO:0042173;P:regulation of sporulation resulting in formation of a cellular spore
+GO:0007062;P:sister chromatid cohesion
+GO:0030435;P:sporulation resulting in formation of a cellular spore
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0070914;P:UV-damage excision repair

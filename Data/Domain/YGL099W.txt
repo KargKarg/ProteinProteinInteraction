@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CP-type G;188;394
+REGION;Disordered;1;26
+REGION;Disordered;607;640
+BINDING;;236;239
+BINDING;;343;350
+BINDING;;387;390

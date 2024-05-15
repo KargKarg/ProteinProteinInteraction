@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0031942;C:i-AAA complex
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0051787;F:misfolded protein binding
+GO:0030163;P:protein catabolic process
+GO:0045041;P:protein import into mitochondrial intermembrane space
+GO:0006515;P:protein quality control for misfolded or incompletely synthesized proteins

@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0006623;P:protein targeting to vacuole

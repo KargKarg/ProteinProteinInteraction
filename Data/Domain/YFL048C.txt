@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;L-type lectin-like;36;254
+REGION;Mediates the interactions with COPI and COPII coat complexes;430;433
+MOTIF;Di-lysine motif;441;445

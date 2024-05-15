@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0032541;C:cortical endoplasmic reticulum
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005797;C:Golgi medial cisterna
+GO:0000139;C:Golgi membrane
+GO:0072517;C:host cell viral assembly compartment
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0035339;C:SPOTS complex
+GO:0052629;F:phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity
+GO:0004438;F:phosphatidylinositol-3-phosphate phosphatase activity
+GO:0043812;F:phosphatidylinositol-4-phosphate phosphatase activity
+GO:0090156;P:intracellular sphingolipid homeostasis
+GO:0046856;P:phosphatidylinositol dephosphorylation

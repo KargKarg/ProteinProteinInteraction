@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005737;C:cytoplasm
+GO:0005576;C:extracellular region
+GO:0000324;C:fungal-type vacuole
+GO:0005739;C:mitochondrion
+GO:0004564;F:beta-fructofuranosidase activity
+GO:0051670;F:inulinase activity
+GO:0004575;F:sucrose alpha-glucosidase activity
+GO:0010147;P:fructan catabolic process
+GO:1902927;P:inulin catabolic process
+GO:0034484;P:raffinose catabolic process
+GO:0005987;P:sucrose catabolic process

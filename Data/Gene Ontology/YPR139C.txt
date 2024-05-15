@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0003841;F:1-acylglycerol-3-phosphate O-acyltransferase activity
+GO:0042171;F:lysophosphatidic acid acyltransferase activity
+GO:0035356;P:intracellular triglyceride homeostasis
+GO:0034389;P:lipid droplet organization
+GO:0006629;P:lipid metabolic process
+GO:0006623;P:protein targeting to vacuole

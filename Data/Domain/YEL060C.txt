@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Inhibitor I9;182;278
+DOMAIN;Peptidase S8;289;614
+REGION;Disordered;35;155
+ACT_SITE;Charge relay system;325;325
+ACT_SITE;Charge relay system;357;357
+ACT_SITE;Charge relay system;519;519

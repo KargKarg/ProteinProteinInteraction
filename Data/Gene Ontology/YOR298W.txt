@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0012505;C:endomembrane system
+GO:0005783;C:endoplasmic reticulum
+GO:0016020;C:membrane
+GO:0016746;F:acyltransferase activity
+GO:0030476;P:ascospore wall assembly
+GO:0036149;P:phosphatidylinositol acyl-chain remodeling
+GO:0008654;P:phospholipid biosynthetic process

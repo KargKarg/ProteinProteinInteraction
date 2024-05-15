@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Lipoyl-binding;73;148
+REPEAT;1;185;190
+REPEAT;2;191;196
+REPEAT;3;197;202
+REPEAT;4; approximate;204;209
+REGION;Disordered;144;237
+REGION;4 X 6 AA approximate tandem repeats of A-[SP]-K-K-E-[AV];185;209
+ACT_SITE;;435;435
+ACT_SITE;;439;439

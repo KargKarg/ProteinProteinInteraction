@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CS;182;277
+DOMAIN;SGS;312;395
+REGION;Disordered;137;175
+REGION;Disordered;373;395

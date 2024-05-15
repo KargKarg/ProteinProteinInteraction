@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0005506;F:iron ion binding
+GO:0043024;F:ribosomal small subunit binding
+GO:0003743;F:translation initiation factor activity
+GO:0045727;P:positive regulation of translation
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0000054;P:ribosomal subunit export from nucleus
+GO:0032790;P:ribosome disassembly
+GO:0006364;P:rRNA processing
+GO:0006413;P:translational initiation
+GO:0006415;P:translational termination

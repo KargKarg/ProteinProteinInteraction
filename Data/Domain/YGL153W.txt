@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;276;341
+MOTIF;SH3-binding;86;94

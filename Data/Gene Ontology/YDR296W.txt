@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005762;C:mitochondrial large ribosomal subunit
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0000150;F:DNA strand exchange activity
+GO:0003697;F:single-stranded DNA binding
+GO:0003735;F:structural constituent of ribosome
+GO:0034599;P:cellular response to oxidative stress
+GO:0006310;P:DNA recombination
+GO:0000002;P:mitochondrial genome maintenance
+GO:0032543;P:mitochondrial translation
+GO:0090297;P:positive regulation of mitochondrial DNA replication
+GO:0006355;P:regulation of DNA-templated transcription

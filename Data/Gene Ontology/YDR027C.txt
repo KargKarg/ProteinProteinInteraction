@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0010008;C:endosome membrane
+GO:0000938;C:GARP complex
+GO:0005794;C:Golgi apparatus
+GO:0031966;C:mitochondrial membrane
+GO:0005739;C:mitochondrion
+GO:0019905;F:syntaxin binding
+GO:0030476;P:ascospore wall assembly
+GO:0006896;P:Golgi to vacuole transport
+GO:0090156;P:intracellular sphingolipid homeostasis
+GO:0006623;P:protein targeting to vacuole
+GO:0015031;P:protein transport
+GO:0042147;P:retrograde transport, endosome to Golgi

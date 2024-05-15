@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0048476;C:Holliday junction resolvase complex
+GO:0005634;C:nucleus
+GO:0048257;F:3'-flap endonuclease activity
+GO:0008821;F:crossover junction DNA endonuclease activity
+GO:0003677;F:DNA binding
+GO:0004857;F:enzyme inhibitor activity
+GO:0046872;F:metal ion binding
+GO:0006308;P:DNA catabolic process
+GO:0006974;P:DNA damage response
+GO:0006265;P:DNA topological change
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:0031573;P:mitotic intra-S DNA damage checkpoint signaling
+GO:0007131;P:reciprocal meiotic recombination
+GO:0000712;P:resolution of meiotic recombination intermediates

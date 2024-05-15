@@ -1,0 +1,5 @@
+Structure type;Structure begin;Structure end
+HELIX;4;11
+HELIX;18;43
+TURN;44;47
+HELIX;49;55

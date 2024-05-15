@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0071561;C:nucleus-vacuole junction
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:1990854;P:vacuole-ER tethering

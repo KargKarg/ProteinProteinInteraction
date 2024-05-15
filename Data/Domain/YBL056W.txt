@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PPM-type phosphatase;23;293
+REGION;Disordered;354;383
+REGION;Disordered;427;468
+BINDING;;62;62
+BINDING;;62;62
+BINDING;;63;63
+BINDING;;234;234
+BINDING;;284;284

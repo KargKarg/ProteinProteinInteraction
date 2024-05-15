@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;44;65
+ACT_SITE;;170;170
+ACT_SITE;Proton acceptor;239;239
+BINDING;;168;168
+BINDING;;205;205
+BINDING;;205;205
+BINDING;;240;240
+BINDING;;268;268
+BINDING;;547;547

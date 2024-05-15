@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with YPT1;106;112
+REGION;Interaction with YPT1;234;259

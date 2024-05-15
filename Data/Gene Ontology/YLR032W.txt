@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0008094;F:ATP-dependent activity, acting on DNA
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0000400;F:four-way junction DNA binding
+GO:0009378;F:four-way junction helicase activity
+GO:0016818;F:hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+GO:0000403;F:Y-form DNA binding
+GO:0008270;F:zinc ion binding
+GO:0006281;P:DNA repair
+GO:0006302;P:double-strand break repair
+GO:0042275;P:error-free postreplication DNA repair
+GO:0070987;P:error-free translesion synthesis
+GO:0042276;P:error-prone translesion synthesis
+GO:0010994;P:free ubiquitin chain polymerization
+GO:0006301;P:postreplication repair
+GO:0000209;P:protein polyubiquitination

@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with target base in tRNA;122;124
+REGION;Interaction with tRNA;179;181
+REGION;Interaction with tRNA;354;355
+ACT_SITE;Nucleophile;127;127
+ACT_SITE;Cysteine persulfide intermediate;229;229
+BINDING;;32;39
+BINDING;;58;58
+BINDING;;154;154
+SITE;Interaction with tRNA;155;155
+SITE;Interaction with tRNA;281;281
+SITE;Interaction with tRNA;391;391

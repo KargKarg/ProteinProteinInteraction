@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0008184;F:glycogen phosphorylase activity
+GO:0102250;F:linear malto-oligosaccharide phosphorylase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0102499;F:SHG alpha-glucan phosphorylase activity
+GO:0005980;P:glycogen catabolic process

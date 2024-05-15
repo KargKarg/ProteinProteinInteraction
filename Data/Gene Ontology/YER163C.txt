@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003839;F:gamma-glutamylcyclotransferase activity
+GO:0061928;F:glutathione specific gamma-glutamylcyclotransferase activity
+GO:0006751;P:glutathione catabolic process

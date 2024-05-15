@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;LIM zinc-binding 1;556;612
+DOMAIN;LIM zinc-binding 2;621;672
+REGION;Disordered;24;192
+REGION;Disordered;222;258
+REGION;Disordered;279;341
+REGION;Disordered;514;537

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0008266;F:poly(U) RNA binding
+GO:0044877;F:protein-containing complex binding
+GO:0000467;P:exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0071031;P:nuclear mRNA surveillance of mRNA 3'-end processing
+GO:0071030;P:nuclear mRNA surveillance of spliceosomal pre-mRNA splicing
+GO:0071039;P:nuclear polyadenylation-dependent CUT catabolic process
+GO:0071035;P:nuclear polyadenylation-dependent rRNA catabolic process

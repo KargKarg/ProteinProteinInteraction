@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005770;C:late endosome
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0005802;C:trans-Golgi network
+GO:0005774;C:vacuolar membrane
+GO:0015086;F:cadmium ion transmembrane transporter activity
+GO:0022890;F:inorganic cation transmembrane transporter activity
+GO:0005384;F:manganese ion transmembrane transporter activity
+GO:0046872;F:metal ion binding
+GO:0006824;P:cobalt ion transport
+GO:0006877;P:intracellular cobalt ion homeostasis
+GO:0030026;P:intracellular manganese ion homeostasis
+GO:0006826;P:iron ion transport
+GO:0006828;P:manganese ion transport

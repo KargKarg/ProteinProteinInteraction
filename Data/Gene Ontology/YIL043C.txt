@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0090560;F:2-(3-amino-3-carboxypropyl)histidine synthase activity
+GO:0004128;F:cytochrome-b5 reductase activity, acting on NAD(P)H
+GO:0003954;F:NADH dehydrogenase activity
+GO:0017183;P:protein histidyl modification to diphthamide
+GO:0002926;P:tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation

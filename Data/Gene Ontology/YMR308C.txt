@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0061608;F:nuclear import signal receptor activity
+GO:0008139;F:nuclear localization sequence binding
+GO:0006406;P:mRNA export from nucleus
+GO:0006606;P:protein import into nucleus
+GO:0007088;P:regulation of mitotic nuclear division
+GO:0060188;P:regulation of protein desumoylation

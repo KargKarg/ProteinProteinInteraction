@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SAM;24;108
+DOMAIN;Ras-associating;233;327
+REGION;Disordered;151;250

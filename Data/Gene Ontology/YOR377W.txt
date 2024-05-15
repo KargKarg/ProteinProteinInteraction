@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0047617;F:acyl-CoA hydrolase activity
+GO:0004026;F:alcohol O-acetyltransferase activity
+GO:0008080;F:N-acetyltransferase activity
+GO:1901089;P:acetate ester metabolic process involved in fermentation

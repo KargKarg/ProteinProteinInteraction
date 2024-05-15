@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0070628;F:proteasome binding
+GO:0043248;P:proteasome assembly

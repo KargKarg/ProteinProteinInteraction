@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0042597;C:periplasmic space
+GO:0042132;F:fructose 1,6-bisphosphate 1-phosphatase activity
+GO:0046872;F:metal ion binding
+GO:0030388;P:fructose 1,6-bisphosphate metabolic process
+GO:0006002;P:fructose 6-phosphate metabolic process
+GO:0006000;P:fructose metabolic process
+GO:0006094;P:gluconeogenesis
+GO:0072593;P:reactive oxygen species metabolic process
+GO:0005986;P:sucrose biosynthetic process

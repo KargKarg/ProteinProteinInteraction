@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0032040;C:small-subunit processome
+GO:0070180;F:large ribosomal subunit rRNA binding
+GO:0030490;P:maturation of SSU-rRNA
+GO:0000956;P:nuclear-transcribed mRNA catabolic process
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0000055;P:ribosomal large subunit export from nucleus
+GO:0006364;P:rRNA processing

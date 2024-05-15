@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:1903425;F:fluoride transmembrane transporter activity
+GO:1903424;P:fluoride transmembrane transport

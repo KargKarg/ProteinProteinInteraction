@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000307;C:cyclin-dependent protein kinase holoenzyme complex
+GO:0000131;C:incipient cellular bud site
+GO:0005634;C:nucleus
+GO:0016538;F:cyclin-dependent protein serine/threonine kinase regulator activity
+GO:0019901;F:protein kinase binding
+GO:0051301;P:cell division
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:0051726;P:regulation of cell cycle
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0032878;P:regulation of establishment or maintenance of cell polarity
+GO:0006357;P:regulation of transcription by RNA polymerase II

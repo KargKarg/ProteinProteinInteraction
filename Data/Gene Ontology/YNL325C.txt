@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0034399;C:nuclear periphery
+GO:0070772;C:PAS complex
+GO:0043813;F:phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity
+GO:1903100;P:1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate metabolic process
+GO:0046856;P:phosphatidylinositol dephosphorylation
+GO:0010511;P:regulation of phosphatidylinositol biosynthetic process

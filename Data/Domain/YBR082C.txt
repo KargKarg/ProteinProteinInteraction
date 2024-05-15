@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;UBC core;2;148
+REGION;Disordered;1;22
+ACT_SITE;Glycyl thioester intermediate;86;86

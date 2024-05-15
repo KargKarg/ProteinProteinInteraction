@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000113;C:nucleotide-excision repair factor 4 complex
+GO:0005634;C:nucleus
+GO:0003688;F:DNA replication origin binding
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0044374;F:sequence-specific DNA binding, bending
+GO:0006338;P:chromatin remodeling
+GO:0006261;P:DNA-templated DNA replication
+GO:0070911;P:global genome nucleotide-excision repair
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0030466;P:silent mating-type cassette heterochromatin formation

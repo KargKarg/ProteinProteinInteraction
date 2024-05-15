@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0030121;C:AP-1 adaptor complex
+GO:0005829;C:cytosol
+GO:0000139;C:Golgi membrane
+GO:0035615;F:clathrin adaptor activity
+GO:0030276;F:clathrin binding
+GO:0006896;P:Golgi to vacuole transport
+GO:0006886;P:intracellular protein transport
+GO:0048203;P:vesicle targeting, trans-Golgi to endosome

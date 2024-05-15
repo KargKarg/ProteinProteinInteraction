@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SEC7;405;620
+DOMAIN;PH;844;1074
+REGION;Disordered;17;39
+REGION;Disordered;113;158
+REGION;Disordered;311;405
+REGION;Disordered;954;1022
+REGION;Disordered;1178;1198

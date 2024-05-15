@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005835;C:fatty acid synthase complex
+GO:0005739;C:mitochondrion
+GO:0004316;F:3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity
+GO:0004315;F:3-oxoacyl-[acyl-carrier-protein] synthase activity
+GO:0004312;F:fatty acid synthase activity
+GO:0004321;F:fatty-acyl-CoA synthase activity
+GO:0008897;F:holo-[acyl-carrier-protein] synthase activity
+GO:0000287;F:magnesium ion binding
+GO:0042759;P:long-chain fatty acid biosynthetic process

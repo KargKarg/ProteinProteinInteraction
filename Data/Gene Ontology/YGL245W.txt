@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0017102;C:methionyl glutamyl tRNA synthetase complex
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0004818;F:glutamate-tRNA ligase activity
+GO:0003729;F:mRNA binding
+GO:0006424;P:glutamyl-tRNA aminoacylation
+GO:0006431;P:methionyl-tRNA aminoacylation

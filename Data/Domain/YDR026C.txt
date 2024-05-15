@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Myb-like 1;273;339
+DOMAIN;HTH myb-type;340;391
+DOMAIN;Myb-like 2;392;486
+DOMAIN;Myb-like 3;493;549
+DNA_BIND;H-T-H motif;367;389
+REGION;Disordered;1;21
+REGION;Disordered;37;68
+REGION;Disordered;100;138

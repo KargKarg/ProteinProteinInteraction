@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;R3H;733;796
+ZN_FING;RING-type; degenerate;68;118
+ZN_FING;NF-X1-type 1;159;177
+ZN_FING;NF-X1-type 2;216;235
+ZN_FING;NF-X1-type 3;362;382
+ZN_FING;NF-X1-type 4;468;487
+ZN_FING;NF-X1-type 5;586;606

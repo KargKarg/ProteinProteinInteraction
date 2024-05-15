@@ -1,0 +1,46 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0032174;C:cellular bud neck septin collar
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0000776;C:kinetochore
+GO:0001400;C:mating projection base
+GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0000164;C:protein phosphatase type 1 complex
+GO:0005816;C:spindle pole body
+GO:0046872;F:metal ion binding
+GO:0017018;F:myosin phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0030437;P:ascospore formation
+GO:0000282;P:cellular bud site selection
+GO:0051276;P:chromosome organization
+GO:0007059;P:chromosome segregation
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0000076;P:DNA replication checkpoint signaling
+GO:0034221;P:fungal-type cell wall chitin biosynthetic process
+GO:0005977;P:glycogen metabolic process
+GO:0006873;P:intracellular monoatomic ion homeostasis
+GO:0051321;P:meiotic cell cycle
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0006378;P:mRNA polyadenylation
+GO:0030837;P:negative regulation of actin filament polymerization
+GO:2000370;P:positive regulation of clathrin-dependent endocytosis
+GO:1903501;P:positive regulation of mitotic actomyosin contractile ring assembly
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0034501;P:protein localization to kinetochore
+GO:0007116;P:regulation of cell budding
+GO:0051726;P:regulation of cell cycle
+GO:0008360;P:regulation of cell shape
+GO:1904547;P:regulation of cellular response to glucose starvation
+GO:0005979;P:regulation of glycogen biosynthetic process
+GO:0070873;P:regulation of glycogen metabolic process
+GO:0007346;P:regulation of mitotic cell cycle
+GO:1901901;P:regulation of protein localization to cell division site involved in cytokinesis
+GO:0031297;P:replication fork processing
+GO:0009408;P:response to heat
+GO:0006986;P:response to unfolded protein
+GO:0000723;P:telomere maintenance
+GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled

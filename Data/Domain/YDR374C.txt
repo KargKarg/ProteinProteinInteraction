@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;YTH;155;290
+BINDING;;161;163
+BINDING;;207;207
+BINDING;;231;231

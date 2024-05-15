@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Histone deacetylase;19;331
+REGION;Disordered;388;433
+MOTIF;ESA1-RPD3 motif;320;340
+ACT_SITE;;151;151

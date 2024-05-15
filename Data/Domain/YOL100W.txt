@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;179;443
+REGION;PIF-pocket;210;255
+REGION;Disordered;494;652
+REGION;Disordered;805;833
+REGION;Disordered;970;1017
+ACT_SITE;Proton acceptor;303;303
+BINDING;;189;191
+BINDING;;208;208
+BINDING;;258;260
+BINDING;;264;264
+BINDING;;307;307
+BINDING;;321;321

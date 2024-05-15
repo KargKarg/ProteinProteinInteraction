@@ -1,0 +1,23 @@
+GO id;GO term
+GO:0032545;C:CURI complex
+GO:0005829;C:cytosol
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0005956;C:protein kinase CK2 complex
+GO:0032040;C:small-subunit processome
+GO:0034456;C:UTP-C complex
+GO:0005524;F:ATP binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0006974;P:DNA damage response
+GO:0007535;P:donor selection
+GO:0030490;P:maturation of SSU-rRNA
+GO:0042790;P:nucleolar large rRNA transcription by RNA polymerase I
+GO:0016310;P:phosphorylation
+GO:0051726;P:regulation of cell cycle
+GO:0060962;P:regulation of ribosomal protein gene transcription by RNA polymerase II
+GO:0006356;P:regulation of transcription by RNA polymerase I
+GO:0006359;P:regulation of transcription by RNA polymerase III
+GO:0000028;P:ribosomal small subunit assembly

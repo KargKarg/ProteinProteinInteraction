@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005825;C:half bridge of spindle pole body
+GO:0044732;C:mitotic spindle pole body
+GO:0005635;C:nuclear envelope
+GO:0070390;C:transcription export complex 2
+GO:0005509;F:calcium ion binding
+GO:0042802;F:identical protein binding
+GO:0008017;F:microtubule binding
+GO:0051301;P:cell division
+GO:0048193;P:Golgi vesicle transport
+GO:0006406;P:mRNA export from nucleus
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0030474;P:spindle pole body duplication

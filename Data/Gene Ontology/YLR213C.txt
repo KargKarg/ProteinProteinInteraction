@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005619;C:ascospore wall
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0016757;F:glycosyltransferase activity
+GO:0016810;F:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0004553;F:hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:0030476;P:ascospore wall assembly
+GO:0005975;P:carbohydrate metabolic process
+GO:0006037;P:cell wall chitin metabolic process
+GO:0031505;P:fungal-type cell wall organization

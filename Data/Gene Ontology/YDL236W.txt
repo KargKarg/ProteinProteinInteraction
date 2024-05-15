@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004035;F:alkaline phosphatase activity
+GO:0016791;F:phosphatase activity
+GO:0008967;F:phosphoglycolate phosphatase activity
+GO:0004721;F:phosphoprotein phosphatase activity
+GO:0005975;P:carbohydrate metabolic process

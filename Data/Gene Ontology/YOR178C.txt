@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000164;C:protein phosphatase type 1 complex
+GO:2001069;F:glycogen binding
+GO:0031072;F:heat shock protein binding
+GO:0008157;F:protein phosphatase 1 binding
+GO:0019888;F:protein phosphatase regulator activity
+GO:0005978;P:glycogen biosynthetic process
+GO:0005977;P:glycogen metabolic process
+GO:0051321;P:meiotic cell cycle
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0005979;P:regulation of glycogen biosynthetic process
+GO:0009408;P:response to heat

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0008023;C:transcription elongation factor complex
+GO:0046872;F:metal ion binding
+GO:0000993;F:RNA polymerase II complex binding
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0045815;P:transcription initiation-coupled chromatin remodeling

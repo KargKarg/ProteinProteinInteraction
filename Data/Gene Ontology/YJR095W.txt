@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005469;F:succinate:fumarate antiporter activity
+GO:0015741;P:fumarate transport
+GO:0015744;P:succinate transport

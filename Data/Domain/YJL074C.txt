@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SMC hinge;535;651
+REGION;Disordered;1078;1097
+BINDING;;32;39

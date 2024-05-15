@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0003688;F:DNA replication origin binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0004712;F:protein serine/threonine/tyrosine kinase activity
+GO:0004713;F:protein tyrosine kinase activity
+GO:0009202;P:deoxyribonucleoside triphosphate biosynthetic process
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0006281;P:DNA repair
+GO:0006270;P:DNA replication initiation
+GO:0051598;P:meiotic recombination checkpoint signaling
+GO:2000002;P:negative regulation of DNA damage checkpoint
+GO:0042326;P:negative regulation of phosphorylation
+GO:0016310;P:phosphorylation
+GO:0008104;P:protein localization
+GO:0006282;P:regulation of DNA repair

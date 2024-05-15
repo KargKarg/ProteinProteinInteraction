@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0061672;C:glutathione hydrolase complex
+GO:0034399;C:nuclear periphery
+GO:0005634;C:nucleus
+GO:0016805;F:dipeptidase activity
+GO:0042802;F:identical protein binding
+GO:0046872;F:metal ion binding
+GO:0008237;F:metallopeptidase activity
+GO:0008242;F:omega peptidase activity
+GO:0008233;F:peptidase activity
+GO:0006751;P:glutathione catabolic process
+GO:0006508;P:proteolysis

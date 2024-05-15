@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0005802;C:trans-Golgi network
+GO:0005774;C:vacuolar membrane
+GO:0004177;F:aminopeptidase activity
+GO:0008239;F:dipeptidyl-peptidase activity
+GO:0008236;F:serine-type peptidase activity
+GO:0007323;P:peptide pheromone maturation
+GO:0006508;P:proteolysis
+GO:0019236;P:response to pheromone

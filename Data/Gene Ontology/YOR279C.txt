@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000118;C:histone deacetylase complex
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0032298;P:positive regulation of DNA-templated DNA replication initiation
+GO:0030174;P:regulation of DNA-templated DNA replication initiation
+GO:0043937;P:regulation of sporulation
+GO:0006357;P:regulation of transcription by RNA polymerase II

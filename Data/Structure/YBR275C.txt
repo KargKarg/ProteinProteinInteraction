@@ -1,0 +1,5 @@
+Structure type;Structure begin;Structure end
+HELIX;1859;1861
+HELIX;1866;1876
+HELIX;1880;1885
+HELIX;1888;1907

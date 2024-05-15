@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0005886;C:plasma membrane

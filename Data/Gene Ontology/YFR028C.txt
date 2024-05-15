@@ -1,0 +1,26 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0072686;C:mitotic spindle
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030869;C:RENT complex
+GO:0000922;C:spindle pole
+GO:0005816;C:spindle pole body
+GO:0004721;F:phosphoprotein phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0008138;F:protein tyrosine/serine/threonine phosphatase activity
+GO:0000422;P:autophagy of mitochondrion
+GO:0051301;P:cell division
+GO:0071470;P:cellular response to osmotic stress
+GO:0007059;P:chromosome segregation
+GO:0016311;P:dephosphorylation
+GO:0051229;P:meiotic spindle disassembly
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0000278;P:mitotic cell cycle
+GO:2000786;P:positive regulation of autophagosome assembly
+GO:0032467;P:positive regulation of cytokinesis
+GO:1903501;P:positive regulation of mitotic actomyosin contractile ring assembly
+GO:0000183;P:rDNA heterochromatin formation
+GO:0007096;P:regulation of exit from mitosis

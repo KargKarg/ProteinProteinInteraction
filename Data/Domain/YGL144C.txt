@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Charge relay system;269;269

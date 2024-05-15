@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-1;16;233
+REGION;PABB component;304;787
+ACT_SITE;;112;112
+ACT_SITE;;207;207
+ACT_SITE;;209;209

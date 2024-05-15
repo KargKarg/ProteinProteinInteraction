@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0004252;F:serine-type endopeptidase activity
+GO:0008236;F:serine-type peptidase activity
+GO:0006915;P:apoptotic process
+GO:0044255;P:cellular lipid metabolic process
+GO:0034605;P:cellular response to heat
+GO:0030163;P:protein catabolic process
+GO:0120174;P:stress-induced homeostatically regulated protein degradation pathway

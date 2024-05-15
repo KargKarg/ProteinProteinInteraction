@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0033116;C:endoplasmic reticulum-Golgi intermediate compartment membrane
+GO:0012507;C:ER to Golgi transport vesicle membrane
+GO:0070072;P:vacuolar proton-transporting V-type ATPase complex assembly

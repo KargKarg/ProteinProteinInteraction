@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0070310;C:ATR-ATRIP complex
+GO:0005737;C:cytoplasm
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0003684;F:damaged DNA binding
+GO:0006325;P:chromatin organization
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0006281;P:DNA repair
+GO:0045184;P:establishment of protein localization
+GO:0006139;P:nucleobase-containing compound metabolic process
+GO:2000779;P:regulation of double-strand break repair
+GO:0007004;P:telomere maintenance via telomerase

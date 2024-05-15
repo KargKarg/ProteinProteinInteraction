@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0031463;C:Cul3-RING ubiquitin ligase complex
+GO:0005737;C:cytoplasm
+GO:0070449;C:elongin complex
+GO:0005634;C:nucleus
+GO:0006289;P:nucleotide-excision repair
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0006511;P:ubiquitin-dependent protein catabolic process

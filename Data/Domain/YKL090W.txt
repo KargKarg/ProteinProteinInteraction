@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CUE 1;8;51
+DOMAIN;CUE 2;55;98
+DOMAIN;Smr;347;443

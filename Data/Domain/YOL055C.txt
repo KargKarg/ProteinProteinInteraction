@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Nucleophile;468;468
+ACT_SITE;Proton donor;540;540
+BINDING;;64;64
+SITE;Increases nucleophilicity of active site Cys;379;379

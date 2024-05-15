@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0043565;F:sequence-specific DNA binding
+GO:0000256;P:allantoin catabolic process
+GO:0001080;P:nitrogen catabolite activation of transcription from RNA polymerase II promoter

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030134;C:COPII-coated ER to Golgi transport vesicle
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000139;C:Golgi membrane
+GO:0097020;F:COPII receptor activity
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0031505;P:fungal-type cell wall organization
+GO:0045053;P:protein retention in Golgi apparatus
+GO:0015031;P:protein transport

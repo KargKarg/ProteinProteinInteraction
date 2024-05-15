@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005935;C:cellular bud neck
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0008047;F:enzyme activator activity
+GO:0005543;F:phospholipid binding
+GO:0007015;P:actin filament organization
+GO:0045010;P:actin nucleation
+GO:0006897;P:endocytosis
+GO:0030833;P:regulation of actin filament polymerization
+GO:0009651;P:response to salt stress

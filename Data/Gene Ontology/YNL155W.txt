@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0070628;F:proteasome binding
+GO:0008270;F:zinc ion binding
+GO:0071243;P:cellular response to arsenic-containing substance
+GO:1903843;P:cellular response to arsenite ion
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0035617;P:stress granule disassembly

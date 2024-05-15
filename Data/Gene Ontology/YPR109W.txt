@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0044695;C:Dsc E3 ubiquitin ligase complex
+GO:0005783;C:endoplasmic reticulum
+GO:0010008;C:endosome membrane
+GO:0000139;C:Golgi membrane
+GO:0007049;P:cell cycle
+GO:0031503;P:protein-containing complex localization

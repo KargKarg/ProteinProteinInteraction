@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005740;C:mitochondrial envelope
+GO:0005739;C:mitochondrion
+GO:0000964;P:mitochondrial RNA 5'-end processing

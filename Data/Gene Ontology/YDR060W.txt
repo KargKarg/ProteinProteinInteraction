@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0030690;C:Noc1p-Noc2p complex
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0042802;F:identical protein binding
+GO:0003729;F:mRNA binding
+GO:0000027;P:ribosomal large subunit assembly
+GO:0042273;P:ribosomal large subunit biogenesis

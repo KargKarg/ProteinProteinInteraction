@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0009986;C:cell surface
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0005743;C:mitochondrial inner membrane
+GO:0005741;C:mitochondrial outer membrane
+GO:0016798;F:hydrolase activity, acting on glycosyl bonds
+GO:0000422;P:autophagy of mitochondrion
+GO:0000917;P:division septum assembly
+GO:0009272;P:fungal-type cell wall biogenesis
+GO:0031505;P:fungal-type cell wall organization
+GO:0000272;P:polysaccharide catabolic process

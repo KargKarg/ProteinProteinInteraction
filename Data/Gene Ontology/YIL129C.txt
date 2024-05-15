@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005933;C:cellular bud
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005739;C:mitochondrion
+GO:0030427;C:site of polarized growth
+GO:0007118;P:budding cell apical bud growth
+GO:0007114;P:cell budding
+GO:0000902;P:cell morphogenesis

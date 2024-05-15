@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;415;459
+ACT_SITE;N6-GMP-lysine intermediate;70;70

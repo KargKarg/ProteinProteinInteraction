@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005886;C:plasma membrane
+GO:0004177;F:aminopeptidase activity
+GO:0008239;F:dipeptidyl-peptidase activity
+GO:0004252;F:serine-type endopeptidase activity
+GO:0016485;P:protein processing
+GO:0006508;P:proteolysis

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Myotubularin phosphatase;155;637
+REGION;Disordered;647;672
+ACT_SITE;Phosphocysteine intermediate;397;397

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;WD 1;101;140
+REPEAT;WD 2;142;180
+REPEAT;WD 3;206;244
+REPEAT;WD 4;285;325
+REPEAT;WD 5;327;366
+REPEAT;WD 6;373;413
+REPEAT;WD 7;424;460
+REGION;Ubiquitin-like (UBL) domain;8;89
+REGION;Sufficient for interaction with ERB1 and association with 66S pre-ribosomes;99;460

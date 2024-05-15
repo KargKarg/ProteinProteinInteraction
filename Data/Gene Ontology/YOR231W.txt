@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0005524;F:ATP binding
+GO:0004708;F:MAP kinase kinase activity
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0004713;F:protein tyrosine kinase activity
+GO:0000196;P:cell wall integrity MAPK cascade
+GO:0000425;P:pexophagy
+GO:0016310;P:phosphorylation
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0007165;P:signal transduction

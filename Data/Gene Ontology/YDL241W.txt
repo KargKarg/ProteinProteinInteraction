@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum

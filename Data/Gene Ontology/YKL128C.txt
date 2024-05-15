@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0016853;F:isomerase activity
+GO:0016791;F:phosphatase activity

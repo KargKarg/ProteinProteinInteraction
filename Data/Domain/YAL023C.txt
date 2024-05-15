@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MIR 1;339;394
+DOMAIN;MIR 2;407;463
+DOMAIN;MIR 3;471;529
+REGION;Disordered;1;50

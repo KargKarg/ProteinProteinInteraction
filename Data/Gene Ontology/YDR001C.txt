@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004555;F:alpha,alpha-trehalase activity
+GO:0005509;F:calcium ion binding
+GO:0015927;F:trehalase activity
+GO:0071465;P:cellular response to desiccation
+GO:0005993;P:trehalose catabolic process

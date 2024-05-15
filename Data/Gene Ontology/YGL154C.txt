@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0008897;F:holo-[acyl-carrier-protein] synthase activity
+GO:0000287;F:magnesium ion binding
+GO:0019878;P:lysine biosynthetic process via aminoadipic acid

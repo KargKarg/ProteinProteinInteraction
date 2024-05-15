@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0043596;C:nuclear replication fork
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0003677;F:DNA binding
+GO:0006281;P:DNA repair
+GO:0006260;P:DNA replication
+GO:0000076;P:DNA replication checkpoint signaling
+GO:0043570;P:maintenance of DNA repeat elements
+GO:0051321;P:meiotic cell cycle
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0043111;P:replication fork arrest

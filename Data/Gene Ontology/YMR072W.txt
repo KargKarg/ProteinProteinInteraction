@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000262;C:mitochondrial chromosome
+GO:0042645;C:mitochondrial nucleoid
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0008301;F:DNA binding, bending
+GO:0090139;P:mitochondrial chromosome packaging
+GO:0000002;P:mitochondrial genome maintenance
+GO:0000001;P:mitochondrion inheritance

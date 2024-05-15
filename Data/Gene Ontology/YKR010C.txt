@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005730;C:nucleolus
+GO:0019211;F:phosphatase activator activity
+GO:0000182;F:rDNA binding
+GO:0031030;P:negative regulation of septation initiation signaling
+GO:0007000;P:nucleolus organization
+GO:0034503;P:protein localization to nucleolar rDNA repeats
+GO:0070550;P:rDNA chromatin condensation
+GO:0000183;P:rDNA heterochromatin formation

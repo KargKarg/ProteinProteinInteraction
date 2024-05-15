@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0000812;C:Swr1 complex
+GO:0046872;F:metal ion binding
+GO:0031491;F:nucleosome binding
+GO:0006338;P:chromatin remodeling
+GO:0006623;P:protein targeting to vacuole
+GO:0006355;P:regulation of DNA-templated transcription

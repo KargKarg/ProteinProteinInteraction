@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;IPT/TIG;530;610
+REPEAT;ANK 1;719;748
+REPEAT;ANK 2;752;781
+REGION;Disordered;91;114
+REGION;Disordered;344;376
+REGION;Disordered;437;462
+REGION;Disordered;658;687

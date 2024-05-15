@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;4Fe-4S ferredoxin-type;591;620
+BINDING;;65;79
+BINDING;;574;574
+BINDING;;600;600
+BINDING;;603;603
+BINDING;;606;606

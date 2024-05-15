@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005658;C:alpha DNA polymerase:primase complex
+GO:0005635;C:nuclear envelope
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0071897;P:DNA biosynthetic process
+GO:0006270;P:DNA replication initiation
+GO:0016233;P:telomere capping

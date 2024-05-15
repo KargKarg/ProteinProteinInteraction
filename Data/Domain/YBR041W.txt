@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;FACS;501;551
+MOTIF;C-terminal peroxisome targeting signal (PTS1);667;669
+BINDING;;256;267

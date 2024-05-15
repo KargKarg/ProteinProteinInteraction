@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:1904564;C:Nbp35-Cfd1 ATPase complex
+GO:0005634;C:nucleus
+GO:0051539;F:4 iron, 4 sulfur cluster binding
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140663;F:ATP-dependent FeS chaperone activity
+GO:0005506;F:iron ion binding
+GO:0051536;F:iron-sulfur cluster binding
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0002098;P:tRNA wobble uridine modification

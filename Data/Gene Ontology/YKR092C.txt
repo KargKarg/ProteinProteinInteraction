@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0006913;P:nucleocytoplasmic transport

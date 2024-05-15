@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C2H2-type;24;48
+REGION;Disordered;180;199
+REGION;Disordered;211;232

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0008173;F:RNA methyltransferase activity
+GO:0071164;F:RNA trimethylguanosine synthase activity
+GO:0036261;P:7-methylguanosine cap hypermethylation
+GO:0009452;P:7-methylguanosine RNA capping
+GO:0051321;P:meiotic cell cycle
+GO:0017126;P:nucleologenesis
+GO:0032210;P:regulation of telomere maintenance via telomerase
+GO:0001510;P:RNA methylation
+GO:0008033;P:tRNA processing

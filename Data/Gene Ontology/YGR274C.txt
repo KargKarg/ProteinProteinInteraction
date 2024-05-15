@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005669;C:transcription factor TFIID complex
+GO:0003682;F:chromatin binding
+GO:0004402;F:histone acetyltransferase activity
+GO:0060090;F:molecular adaptor activity
+GO:0046982;F:protein heterodimerization activity
+GO:0016251;F:RNA polymerase II general transcription initiation factor activity
+GO:0001091;F:RNA polymerase II general transcription initiation factor binding
+GO:0017025;F:TBP-class protein binding
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0006366;P:transcription by RNA polymerase II

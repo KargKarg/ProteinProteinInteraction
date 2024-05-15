@@ -1,0 +1,34 @@
+GO id;GO term
+GO:1904949;C:ATPase complex
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005768;C:endosome
+GO:1990621;C:ESCRT IV complex
+GO:0016020;C:membrane
+GO:0030496;C:midbody
+GO:0005643;C:nuclear pore
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0042802;F:identical protein binding
+GO:0042803;F:protein homodimerization activity
+GO:0097352;P:autophagosome maturation
+GO:0006914;P:autophagy
+GO:0016197;P:endosomal transport
+GO:0070676;P:intralumenal vesicle formation
+GO:0061764;P:late endosome to lysosome transport via multivesicular body sorting pathway
+GO:0045324;P:late endosome to vacuole transport
+GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0016236;P:macroautophagy
+GO:0090148;P:membrane fission
+GO:0061952;P:midbody abscission
+GO:0036258;P:multivesicular body assembly
+GO:0071985;P:multivesicular body sorting pathway
+GO:0031468;P:nuclear membrane reassembly
+GO:0006997;P:nucleus organization
+GO:0001778;P:plasma membrane repair
+GO:0045053;P:protein retention in Golgi apparatus
+GO:0015031;P:protein transport
+GO:0061709;P:reticulophagy
+GO:0016125;P:sterol metabolic process
+GO:0007033;P:vacuole organization

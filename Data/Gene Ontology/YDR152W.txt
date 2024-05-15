@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005844;C:polysome
+GO:0004860;F:protein kinase inhibitor activity
+GO:0034198;P:cellular response to amino acid starvation
+GO:0002181;P:cytoplasmic translation
+GO:0001933;P:negative regulation of protein phosphorylation
+GO:0031333;P:negative regulation of protein-containing complex assembly
+GO:1903833;P:positive regulation of cellular response to amino acid starvation

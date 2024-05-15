@@ -1,0 +1,26 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0030428;C:cell septum
+GO:0005935;C:cellular bud neck
+GO:0005783;C:endoplasmic reticulum
+GO:0010008;C:endosome membrane
+GO:0005794;C:Golgi apparatus
+GO:0070867;C:mating projection tip membrane
+GO:0005739;C:mitochondrion
+GO:1990531;C:phospholipid-translocating ATPase complex
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0140326;F:ATPase-coupled intramembrane lipid transporter activity
+GO:0140351;F:glycosylceramide flippase activity
+GO:0042802;F:identical protein binding
+GO:0000287;F:magnesium ion binding
+GO:0140345;F:phosphatidylcholine flippase activity
+GO:0090554;F:phosphatidylcholine floppase activity
+GO:0090555;F:phosphatidylethanolamine flippase activity
+GO:0140346;F:phosphatidylserine flippase activity
+GO:0090556;F:phosphatidylserine floppase activity
+GO:0006897;P:endocytosis
+GO:0007163;P:establishment or maintenance of cell polarity
+GO:0006886;P:intracellular protein transport
+GO:0045332;P:phospholipid translocation

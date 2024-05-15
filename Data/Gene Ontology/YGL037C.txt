@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005777;C:peroxisome
+GO:0046872;F:metal ion binding
+GO:0008936;F:nicotinamidase activity
+GO:1904524;P:negative regulation of DNA amplification
+GO:0019358;P:nicotinate nucleotide salvage
+GO:0000183;P:rDNA heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation

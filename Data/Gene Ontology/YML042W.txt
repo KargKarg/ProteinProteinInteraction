@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005777;C:peroxisome
+GO:0004092;F:carnitine O-acetyltransferase activity
+GO:0009437;P:carnitine metabolic process
+GO:0006631;P:fatty acid metabolic process

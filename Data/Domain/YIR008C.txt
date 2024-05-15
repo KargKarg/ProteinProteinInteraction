@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Zinc knuckle motif;123;133
+ACT_SITE;;46;46
+ACT_SITE;;111;111
+ACT_SITE;;113;113

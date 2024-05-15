@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005739;C:mitochondrion
+GO:0010181;F:FMN binding
+GO:0016156;F:fumarate reductase (NADH) activity
+GO:0046443;P:FAD metabolic process
+GO:0034975;P:protein folding in endoplasmic reticulum

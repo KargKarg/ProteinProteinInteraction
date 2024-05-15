@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005768;C:endosome
+GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0008104;P:protein localization
+GO:0015031;P:protein transport

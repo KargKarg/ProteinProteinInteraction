@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0051537;F:2 iron, 2 sulfur cluster binding
+GO:0001671;F:ATPase activator activity
+GO:0008198;F:ferrous iron binding
+GO:0005506;F:iron ion binding
+GO:0008270;F:zinc ion binding
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0002098;P:tRNA wobble uridine modification

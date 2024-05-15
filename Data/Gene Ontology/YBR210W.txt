@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0030134;C:COPII-coated ER to Golgi transport vesicle
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport

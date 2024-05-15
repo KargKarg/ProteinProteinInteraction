@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005811;C:lipid droplet
+GO:0016020;C:membrane
+GO:0004771;F:sterol esterase activity
+GO:0044255;P:cellular lipid metabolic process
+GO:0016042;P:lipid catabolic process
+GO:0016125;P:sterol metabolic process

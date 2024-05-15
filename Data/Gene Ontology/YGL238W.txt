@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005635;C:nuclear envelope
+GO:0032991;C:protein-containing complex
+GO:0005049;F:nuclear export signal receptor activity
+GO:0031267;F:small GTPase binding
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0046827;P:positive regulation of protein export from nucleus
+GO:0006611;P:protein export from nucleus
+GO:0006606;P:protein import into nucleus
+GO:0061015;P:snRNA import into nucleus

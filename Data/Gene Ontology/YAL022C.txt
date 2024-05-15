@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005886;C:plasma membrane
+GO:0034257;F:nicotinamide riboside transmembrane transporter activity
+GO:0015205;F:nucleobase transmembrane transporter activity
+GO:0005337;F:nucleoside transmembrane transporter activity
+GO:0034258;P:nicotinamide riboside transport
+GO:0015851;P:nucleobase transport
+GO:0015858;P:nucleoside transport
+GO:0055085;P:transmembrane transport

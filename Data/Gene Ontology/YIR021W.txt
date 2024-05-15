@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:1990904;C:ribonucleoprotein complex
+GO:0000402;F:crossed form four-way junction DNA binding
+GO:0004520;F:DNA endonuclease activity
+GO:0070336;F:flap-structured DNA binding
+GO:0003723;F:RNA binding
+GO:0000403;F:Y-form DNA binding
+GO:0000372;P:Group I intron splicing
+GO:0000002;P:mitochondrial genome maintenance
+GO:0000963;P:mitochondrial RNA processing
+GO:0006397;P:mRNA processing

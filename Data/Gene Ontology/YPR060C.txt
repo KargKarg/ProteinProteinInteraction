@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004106;F:chorismate mutase activity
+GO:0120284;F:tryptophan binding
+GO:0072545;F:tyrosine binding
+GO:0009073;P:aromatic amino acid family biosynthetic process
+GO:0046417;P:chorismate metabolic process
+GO:0009094;P:L-phenylalanine biosynthetic process
+GO:0006571;P:tyrosine biosynthetic process

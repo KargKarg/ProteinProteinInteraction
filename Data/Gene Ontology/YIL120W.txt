@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0015562;F:efflux transmembrane transporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:0030476;P:ascospore wall assembly
+GO:0055085;P:transmembrane transport

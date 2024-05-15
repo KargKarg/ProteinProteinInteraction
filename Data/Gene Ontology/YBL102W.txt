@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000139;C:Golgi membrane
+GO:0000138;C:Golgi trans cisterna
+GO:0015031;P:protein transport
+GO:0042147;P:retrograde transport, endosome to Golgi

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0015171;F:amino acid transmembrane transporter activity
+GO:0005291;F:high-affinity L-histidine transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:0015817;P:histidine transport
+GO:0006828;P:manganese ion transport

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005739;C:mitochondrion
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0051087;F:protein-folding chaperone binding
+GO:0043022;F:ribosome binding
+GO:0006999;P:nuclear pore organization
+GO:0006457;P:protein folding

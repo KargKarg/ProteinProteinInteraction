@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Required for function but dispensable for interaction with DPH2 and DPH3;1;60
+REGION;Disordered;1;29
+REGION;Required for function but dispensable for interaction with DPH2 and DPH3;366;425
+BINDING;;133;133
+BINDING;;239;239
+BINDING;;368;368

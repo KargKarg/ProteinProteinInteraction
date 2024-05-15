@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0051539;F:4 iron, 4 sulfur cluster binding
+GO:0010181;F:FMN binding
+GO:0046872;F:metal ion binding
+GO:0102521;F:tRNA-4-demethylwyosine synthase activity
+GO:0031591;P:wybutosine biosynthetic process

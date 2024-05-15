@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Fatty acid hydroxylase;187;311
+MOTIF;Histidine box-1;200;204
+MOTIF;Histidine box-2;213;217
+MOTIF;Histidine box-3;288;292

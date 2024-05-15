@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;Solcar 1;10;103
+REPEAT;Solcar 2;114;206
+REPEAT;Solcar 3;214;300
+REGION;Important for transport activity;241;246
+MOTIF;Nucleotide carrier signature motif;241;246
+BINDING;;85;85
+BINDING;;97;97
+BINDING;;241;241

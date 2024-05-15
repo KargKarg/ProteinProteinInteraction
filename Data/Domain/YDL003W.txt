@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;325;356
+SITE;Cleavage; by ESP1;180;181
+SITE;Cleavage; by ESP1;268;269

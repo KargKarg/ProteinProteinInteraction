@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;ERCC4;821;901
+REGION;Disordered;1;47
+REGION;Disordered;1063;1100

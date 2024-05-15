@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0061617;C:MICOS complex
+GO:0044284;C:mitochondrial crista junction
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0042407;P:cristae formation

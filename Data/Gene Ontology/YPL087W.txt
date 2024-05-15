@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0071633;F:dihydroceramidase activity
+GO:0070774;F:phytoceramidase activity
+GO:0046513;P:ceramide biosynthetic process
+GO:0046514;P:ceramide catabolic process

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0004048;F:anthranilate phosphoribosyltransferase activity
+GO:0000162;P:tryptophan biosynthetic process

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Toprim;2;156
+DOMAIN;Topo IA-type catalytic;172;635
+ACT_SITE;O-(5'-phospho-DNA)-tyrosine intermediate;356;356

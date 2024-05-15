@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CobW C-terminal;362;428
+MOTIF;psi-PxLVp motif;15;22
+MOTIF;CXCC motif;136;139
+BINDING;;78;85
+BINDING;;136;136
+BINDING;;138;138
+BINDING;;139;143
+BINDING;;139;139
+BINDING;;244;247

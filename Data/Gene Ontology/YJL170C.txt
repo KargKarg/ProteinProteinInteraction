@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0012505;C:endomembrane system
+GO:0005886;C:plasma membrane
+GO:0000747;P:conjugation with cellular fusion

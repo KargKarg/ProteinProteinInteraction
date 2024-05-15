@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Helicase ATP-binding;226;365
+DOMAIN;Helicase C-terminal;390;546
+BINDING;;239;246

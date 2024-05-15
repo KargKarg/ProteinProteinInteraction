@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005768;C:endosome
+GO:0000329;C:fungal-type vacuole membrane
+GO:0035658;C:Mon1-Ccz1 complex
+GO:0032585;C:multivesicular body membrane
+GO:1990624;F:guanyl nucleotide exchange factor inhibitor activity
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0010314;F:phosphatidylinositol-5-phosphate binding
+GO:0001786;F:phosphatidylserine binding
+GO:0097352;P:autophagosome maturation
+GO:0006914;P:autophagy
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0016236;P:macroautophagy
+GO:0044395;P:protein targeting to vacuolar membrane
+GO:0006623;P:protein targeting to vacuole
+GO:0015031;P:protein transport
+GO:0048278;P:vesicle docking

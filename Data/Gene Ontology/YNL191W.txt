@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0061672;C:glutathione hydrolase complex
+GO:0004044;F:amidophosphoribosyltransferase activity
+GO:0008242;F:omega peptidase activity
+GO:0008233;F:peptidase activity
+GO:0006541;P:glutamine metabolic process
+GO:0006751;P:glutathione catabolic process

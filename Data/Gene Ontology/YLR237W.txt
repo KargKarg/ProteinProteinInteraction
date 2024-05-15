@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:1903089;F:5-amino-1-ribofuranosylimidazole-4-carboxamide transmembrane transporter activity
+GO:0015205;F:nucleobase transmembrane transporter activity
+GO:0015234;F:thiamine transmembrane transporter activity
+GO:1903088;P:5-amino-1-ribofuranosylimidazole-4-carboxamide transmembrane transport
+GO:0015851;P:nucleobase transport
+GO:0015888;P:thiamine transport

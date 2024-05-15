@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Nudix hydrolase;101;228
+REGION;Disordered;302;341
+REGION;Disordered;417;465
+REGION;Disordered;501;520
+REGION;Disordered;528;692
+REGION;Disordered;831;867
+MOTIF;Nudix box;134;155
+BINDING;;149;149
+BINDING;;153;153

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;Zn(2)-C6 fungal-type;18;44
+BINDING;;18;18
+BINDING;;18;18
+BINDING;;21;21
+BINDING;;28;28
+BINDING;;34;34
+BINDING;;34;34
+BINDING;;37;37
+BINDING;;44;44

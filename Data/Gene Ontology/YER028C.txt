@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0001227;F:DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0046872;F:metal ion binding
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0000433;P:carbon catabolite repression of transcription from RNA polymerase II promoter by glucose
+GO:0034644;P:cellular response to UV
+GO:0006974;P:DNA damage response
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0000430;P:regulation of transcription from RNA polymerase II promoter by glucose
+GO:0045471;P:response to ethanol

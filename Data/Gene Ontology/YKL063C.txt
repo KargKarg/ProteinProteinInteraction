@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0017150;F:tRNA dihydrouridine synthase activity
+GO:0102266;F:tRNA-dihydrouridine20a synthase activity
+GO:0102267;F:tRNA-dihydrouridine20b synthase activity
+GO:0006397;P:mRNA processing
+GO:0006400;P:tRNA modification

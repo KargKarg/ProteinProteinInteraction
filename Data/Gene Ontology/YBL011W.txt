@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0004366;F:glycerol-3-phosphate O-acyltransferase activity
+GO:0016287;F:glycerone-phosphate O-acyltransferase activity
+GO:0102420;F:sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity
+GO:0016024;P:CDP-diacylglycerol biosynthetic process
+GO:0008654;P:phospholipid biosynthetic process

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Nucleophile;75;75
+ACT_SITE;Proton donor;338;338

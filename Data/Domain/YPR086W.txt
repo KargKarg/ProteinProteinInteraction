@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;136;212
+REPEAT;2;242;318
+ZN_FING;TFIIB-type;20;53
+REGION;Disordered;65;93
+BINDING;;24;24
+BINDING;;27;27
+BINDING;;45;45
+BINDING;;48;48

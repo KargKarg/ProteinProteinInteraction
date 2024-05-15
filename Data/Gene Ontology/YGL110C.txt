@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0022626;C:cytosolic ribosome
+GO:0070530;F:K63-linked polyubiquitin modification-dependent protein binding
+GO:0043130;F:ubiquitin binding
+GO:0072344;P:rescue of stalled ribosome
+GO:0032790;P:ribosome disassembly
+GO:1990116;P:ribosome-associated ubiquitin-dependent protein catabolic process

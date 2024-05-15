@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0005773;C:vacuole
+GO:0003677;F:DNA binding
+GO:0046872;F:metal ion binding
+GO:0007039;P:protein catabolic process in the vacuole
+GO:0015031;P:protein transport

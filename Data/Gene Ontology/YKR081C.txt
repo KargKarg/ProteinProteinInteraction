@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0008097;F:5S rRNA binding
+GO:0008312;F:7S RNA binding
+GO:0019843;F:rRNA binding
+GO:1902626;P:assembly of large subunit precursor of preribosome
+GO:0000466;P:maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000027;P:ribosomal large subunit assembly

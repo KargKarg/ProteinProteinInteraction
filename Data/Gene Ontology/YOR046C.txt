@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0031965;C:nuclear membrane
+GO:0044614;C:nuclear pore cytoplasmic filaments
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0008186;F:ATP-dependent activity, acting on RNA
+GO:0003723;F:RNA binding
+GO:0003724;F:RNA helicase activity
+GO:0006406;P:mRNA export from nucleus
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0015031;P:protein transport
+GO:0006415;P:translational termination
+GO:0006409;P:tRNA export from nucleus

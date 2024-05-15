@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;J;13;82
+REGION;Interaction with ISU1;71;184
+MOTIF;HSP70 binding;48;50

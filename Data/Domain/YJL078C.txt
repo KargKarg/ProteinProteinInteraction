@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SCP;30;144
+REGION;Disordered;262;313
+REGION;Disordered;381;400
+REGION;Disordered;453;494
+REGION;Disordered;579;611
+REGION;Disordered;758;788
+REGION;Disordered;800;830

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0003729;F:mRNA binding
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0000956;P:nuclear-transcribed mRNA catabolic process

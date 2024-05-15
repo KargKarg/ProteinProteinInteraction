@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005773;C:vacuole
+GO:0042149;P:cellular response to glucose starvation
+GO:0007039;P:protein catabolic process in the vacuole

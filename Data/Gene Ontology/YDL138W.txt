@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0005351;F:carbohydrate:proton symporter activity
+GO:0008643;P:carbohydrate transport
+GO:0010255;P:glucose mediated signaling pathway

@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SPX;1;148
+REGION;Important for inositol polyphosphate binding;126;133
+REGION;Disordered;489;512
+ACT_SITE;;458;458
+BINDING;;200;200
+BINDING;;264;264
+BINDING;;266;266
+BINDING;;281;281
+BINDING;;294;294
+BINDING;;359;359
+BINDING;;361;361
+BINDING;;426;426
+SITE;Important for inositol polyphosphate binding;22;22
+SITE;Important for inositol polyphosphate binding;26;26

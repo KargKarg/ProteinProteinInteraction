@@ -1,0 +1,15 @@
+GO id;GO term
+GO:1990389;C:CUE1-UBC7 ubiquitin-conjugating enzyme complex
+GO:0005829;C:cytosol
+GO:0000837;C:Doa10p ubiquitin ligase complex
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000839;C:Hrd1p ubiquitin ligase ERAD-L complex
+GO:0005524;F:ATP binding
+GO:0061631;F:ubiquitin conjugating enzyme activity
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0006325;P:chromatin organization
+GO:0031505;P:fungal-type cell wall organization
+GO:0016567;P:protein ubiquitination
+GO:0046686;P:response to cadmium ion
+GO:0030433;P:ubiquitin-dependent ERAD pathway

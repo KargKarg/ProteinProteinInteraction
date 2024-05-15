@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005576;C:extracellular region
+GO:0000324;C:fungal-type vacuole
+GO:0016018;F:cyclosporin A binding
+GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
+GO:0006457;P:protein folding

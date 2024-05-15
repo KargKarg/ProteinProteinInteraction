@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000307;C:cyclin-dependent protein kinase holoenzyme complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005816;C:spindle pole body
+GO:0016538;F:cyclin-dependent protein serine/threonine kinase regulator activity
+GO:0051301;P:cell division
+GO:0000086;P:G2/M transition of mitotic cell cycle
+GO:0008315;P:G2/MI transition of meiotic cell cycle
+GO:0044772;P:mitotic cell cycle phase transition
+GO:0007052;P:mitotic spindle organization
+GO:0010696;P:positive regulation of mitotic spindle pole body separation
+GO:0060631;P:regulation of meiosis I
+GO:0001932;P:regulation of protein phosphorylation

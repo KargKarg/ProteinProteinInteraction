@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CNH;143;418
+REGION;Disordered;1;100

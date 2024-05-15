@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CUE;65;107
+REGION;Disordered;35;61

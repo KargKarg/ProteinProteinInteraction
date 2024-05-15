@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005801;C:cis-Golgi network
+GO:0033106;C:cis-Golgi network membrane
+GO:0106103;C:COPII vesicles tethering complex
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0044877;F:protein-containing complex binding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0007030;P:Golgi organization
+GO:0009306;P:protein secretion

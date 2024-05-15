@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;PbH1 1;155;185
+REPEAT;PbH1 2;186;207
+REPEAT;PbH1 3;208;228
+REPEAT;PbH1 4;237;258
+REPEAT;PbH1 5;266;288
+ACT_SITE;Proton donor;200;200
+ACT_SITE;;222;222

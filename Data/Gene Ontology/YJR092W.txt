@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000142;C:cellular bud neck contractile ring
+GO:0005621;C:cellular bud scar
+GO:0005525;F:GTP binding
+GO:0007120;P:axial cellular bud site selection
+GO:0097271;P:protein localization to bud neck
+GO:0031106;P:septin ring organization

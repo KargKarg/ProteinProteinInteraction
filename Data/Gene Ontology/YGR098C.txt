@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0072686;C:mitotic spindle
+GO:0044732;C:mitotic spindle pole body
+GO:0005634;C:nucleus
+GO:1990520;C:separase-securin complex
+GO:0005819;C:spindle
+GO:0004197;F:cysteine-type endopeptidase activity
+GO:0006915;P:apoptotic process
+GO:0051307;P:meiotic chromosome separation
+GO:0000070;P:mitotic sister chromatid segregation
+GO:0035308;P:negative regulation of protein dephosphorylation
+GO:1904750;P:negative regulation of protein localization to nucleolus
+GO:0031536;P:positive regulation of exit from mitosis
+GO:1902104;P:positive regulation of metaphase/anaphase transition of meiotic cell cycle
+GO:0006508;P:proteolysis
+GO:0032888;P:regulation of mitotic spindle elongation

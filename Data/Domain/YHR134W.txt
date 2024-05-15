@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;WLM;20;221
+REGION;Disordered;1;22
+REGION;Required and sufficient for binding to DNA;161;208
+MOTIF;SHP box;152;160
+MOTIF;VCP-interaction motif (VIM);209;219
+MOTIF;SUMO interaction motif 1 (SIM);247;254
+MOTIF;SUMO interaction motif 2 (SIM);266;269
+ACT_SITE;;116;116
+BINDING;;115;115
+BINDING;;119;119
+BINDING;;125;125

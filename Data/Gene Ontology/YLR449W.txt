@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0005527;F:macrolide binding
+GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
+GO:0040029;P:epigenetic regulation of gene expression
+GO:0006334;P:nucleosome assembly

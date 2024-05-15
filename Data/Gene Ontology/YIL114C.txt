@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0046930;C:pore complex
+GO:0015288;F:porin activity
+GO:0008308;F:voltage-gated monoatomic anion channel activity
+GO:0045454;P:cell redox homeostasis
+GO:0051027;P:DNA transport

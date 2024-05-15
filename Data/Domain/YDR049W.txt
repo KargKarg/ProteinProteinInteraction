@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;VLRF1;237;394
+REPEAT;ANK 1;470;500
+REPEAT;ANK 2;504;530
+ZN_FING;C2H2-type;72;96
+REGION;Disordered;123;155
+REGION;Disordered;578;632
+ACT_SITE;;295;295

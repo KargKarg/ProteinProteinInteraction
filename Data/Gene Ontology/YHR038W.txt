@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0043023;F:ribosomal large subunit binding
+GO:0003747;F:translation release factor activity
+GO:0032543;P:mitochondrial translation
+GO:0006412;P:translation

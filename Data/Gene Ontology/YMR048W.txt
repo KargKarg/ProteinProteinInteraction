@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0043596;C:nuclear replication fork
+GO:0005634;C:nucleus
+GO:0031298;C:replication fork protection complex
+GO:0003677;F:DNA binding
+GO:0006281;P:DNA repair
+GO:0000076;P:DNA replication checkpoint signaling
+GO:0034087;P:establishment of mitotic sister chromatid cohesion
+GO:0043570;P:maintenance of DNA repeat elements
+GO:0045132;P:meiotic chromosome segregation
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0043111;P:replication fork arrest
+GO:0031297;P:replication fork processing

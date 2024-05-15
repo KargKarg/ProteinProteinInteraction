@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;AB hydrolase-1;30;274
+ACT_SITE;;269;269

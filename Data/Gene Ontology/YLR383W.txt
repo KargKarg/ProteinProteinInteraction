@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0035861;C:site of double-strand break
+GO:0030915;C:Smc5-Smc6 complex
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003684;F:damaged DNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0140588;P:chromatin looping
+GO:0051304;P:chromosome separation
+GO:1990683;P:DNA double-strand break attachment to nuclear envelope
+GO:0006281;P:DNA repair
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0016925;P:protein sumoylation
+GO:0032204;P:regulation of telomere maintenance
+GO:0071139;P:resolution of DNA recombination intermediates

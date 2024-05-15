@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0071986;C:Ragulator complex
+GO:0016237;P:microautophagy
+GO:0032008;P:positive regulation of TOR signaling
+GO:0072665;P:protein localization to vacuole
+GO:0038202;P:TORC1 signaling

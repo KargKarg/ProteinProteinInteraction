@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0004022;F:alcohol dehydrogenase (NAD+) activity
+GO:0046872;F:metal ion binding
+GO:0000947;P:amino acid catabolic process to alcohol via Ehrlich pathway
+GO:0006113;P:fermentation

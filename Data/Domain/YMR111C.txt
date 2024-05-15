@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;11;43
+REGION;Disordered;66;97
+REGION;Homodimerization region;81;140
+REGION;Disordered;190;214
+REGION;Disordered;226;289
+REGION;GCR1 DNA-binding region;296;385
+REGION;Disordered;441;462

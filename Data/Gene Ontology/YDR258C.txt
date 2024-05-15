@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0051787;F:misfolded protein binding
+GO:0034605;P:cellular response to heat
+GO:0000002;P:mitochondrial genome maintenance
+GO:0042026;P:protein refolding
+GO:0050821;P:protein stabilization
+GO:0043335;P:protein unfolding

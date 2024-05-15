@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0003747;F:translation release factor activity
+GO:0032543;P:mitochondrial translation
+GO:0070126;P:mitochondrial translational termination
+GO:0006415;P:translational termination

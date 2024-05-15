@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Proton donor;207;207
+BINDING;;16;16
+BINDING;;18;18
+BINDING;;204;204
+BINDING;;285;285
+BINDING;;286;286
+SITE;Important for catalytic activity;228;228

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0000500;C:RNA polymerase I upstream activating factor complex
+GO:0001181;F:RNA polymerase I general transcription initiation factor activity
+GO:0006325;P:chromatin organization
+GO:0042790;P:nucleolar large rRNA transcription by RNA polymerase I
+GO:0045943;P:positive regulation of transcription by RNA polymerase I

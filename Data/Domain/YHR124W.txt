@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;NDT80;28;335
+REGION;Disordered;324;410
+SITE;Interaction with DNA;58;58
+SITE;Interaction with DNA;111;111
+SITE;Interaction with DNA;177;177
+SITE;Interaction with DNA;208;208
+SITE;Interaction with DNA;254;254
+SITE;Interaction with DNA;326;326

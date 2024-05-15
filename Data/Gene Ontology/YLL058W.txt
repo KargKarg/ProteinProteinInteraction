@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0003962;F:cystathionine gamma-synthase activity
+GO:0102028;F:cystathionine gamma-synthase activity (acts on O-phosphohomoserine)
+GO:0004124;F:cysteine synthase activity
+GO:0003961;F:O-acetylhomoserine aminocarboxypropyltransferase activity
+GO:0051009;F:O-acetylhomoserine sulfhydrylase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0071269;P:L-homocysteine biosynthetic process
+GO:0000103;P:sulfate assimilation
+GO:0006791;P:sulfur utilization
+GO:0019346;P:transsulfuration

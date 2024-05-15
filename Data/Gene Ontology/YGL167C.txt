@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0005886;C:plasma membrane
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0005509;F:calcium ion binding
+GO:0005388;F:P-type calcium transporter activity
+GO:0140613;F:P-type manganese transporter activity
+GO:0070588;P:calcium ion transmembrane transport
+GO:0006816;P:calcium ion transport
+GO:0006874;P:intracellular calcium ion homeostasis
+GO:0030026;P:intracellular manganese ion homeostasis
+GO:0016236;P:macroautophagy
+GO:0006828;P:manganese ion transport

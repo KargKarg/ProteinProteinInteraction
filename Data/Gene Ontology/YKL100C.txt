@@ -1,0 +1,7 @@
+GO id;GO term
+GO:1990578;C:perinuclear endoplasmic reticulum membrane
+GO:0042500;F:aspartic endopeptidase activity, intramembrane cleaving
+GO:0009267;P:cellular response to starvation
+GO:0033619;P:membrane protein proteolysis
+GO:0051603;P:proteolysis involved in protein catabolic process
+GO:0006465;P:signal peptide processing

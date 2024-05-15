@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0070626;F:(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming) activity
+GO:0004018;F:N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity
+GO:0044208;P:'de novo' AMP biosynthetic process
+GO:0006189;P:'de novo' IMP biosynthetic process
+GO:0006164;P:purine nucleotide biosynthetic process

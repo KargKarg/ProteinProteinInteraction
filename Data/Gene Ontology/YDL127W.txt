@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0000307;C:cyclin-dependent protein kinase holoenzyme complex
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0005634;C:nucleus
+GO:0016538;F:cyclin-dependent protein serine/threonine kinase regulator activity
+GO:0019901;F:protein kinase binding
+GO:0044843;P:cell cycle G1/S phase transition
+GO:0051301;P:cell division
+GO:0030952;P:establishment or maintenance of cytoskeleton polarity
+GO:0001676;P:long-chain fatty acid metabolic process
+GO:0051726;P:regulation of cell cycle
+GO:0051302;P:regulation of cell division
+GO:0032878;P:regulation of establishment or maintenance of cell polarity
+GO:0031106;P:septin ring organization

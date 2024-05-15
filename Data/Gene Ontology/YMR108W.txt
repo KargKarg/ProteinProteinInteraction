@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005948;C:acetolactate synthase complex
+GO:0005739;C:mitochondrion
+GO:0003984;F:acetolactate synthase activity
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0000287;F:magnesium ion binding
+GO:0030976;F:thiamine pyrophosphate binding
+GO:0009082;P:branched-chain amino acid biosynthetic process
+GO:0009097;P:isoleucine biosynthetic process
+GO:0009099;P:valine biosynthetic process

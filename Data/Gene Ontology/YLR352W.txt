@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0019005;C:SCF ubiquitin ligase complex
+GO:0016567;P:protein ubiquitination
+GO:0031146;P:SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+GO:0006511;P:ubiquitin-dependent protein catabolic process

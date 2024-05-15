@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Peptidase A1;56;440
+ACT_SITE;;74;74
+ACT_SITE;;321;321

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000974;C:Prp19 complex
+GO:0071006;C:U2-type catalytic step 1 spliceosome
+GO:0071007;C:U2-type catalytic step 2 spliceosome
+GO:0046872;F:metal ion binding
+GO:0036002;F:pre-mRNA binding
+GO:0017070;F:U6 snRNA binding
+GO:0007049;P:cell cycle
+GO:0045292;P:mRNA cis splicing, via spliceosome
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0045787;P:positive regulation of cell cycle
+GO:0033120;P:positive regulation of RNA splicing
+GO:0000387;P:spliceosomal snRNP assembly

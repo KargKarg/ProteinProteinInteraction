@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Monoubiquitin-binding;27;28
+REGION;Monoubiquitin-binding;30;32
+REGION;Monoubiquitin-binding;99;101
+REGION;Disordered;310;361
+SITE;Monoubiquitin-binding;37;37
+SITE;Monoubiquitin-binding;39;39
+SITE;Monoubiquitin-binding;109;109

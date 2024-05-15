@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0033550;F:MAP kinase tyrosine phosphatase activity
+GO:0017017;F:MAP kinase tyrosine/serine/threonine phosphatase activity
+GO:0008330;F:protein tyrosine/threonine phosphatase activity
+GO:0007049;P:cell cycle
+GO:0016311;P:dephosphorylation
+GO:0043409;P:negative regulation of MAPK cascade
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0071701;P:regulation of MAPK export from nucleus

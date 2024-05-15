@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0016843;F:amine-lyase activity
+GO:0003922;F:GMP synthase (glutamine-hydrolyzing) activity
+GO:0036381;F:pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+GO:0006520;P:amino acid metabolic process
+GO:0042823;P:pyridoxal phosphate biosynthetic process
+GO:0008615;P:pyridoxine biosynthetic process
+GO:0009228;P:thiamine biosynthetic process
+GO:0042819;P:vitamin B6 biosynthetic process

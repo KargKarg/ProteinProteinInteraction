@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0071944;C:cell periphery
+GO:0005935;C:cellular bud neck
+GO:0005783;C:endoplasmic reticulum
+GO:0000131;C:incipient cellular bud site
+GO:0005886;C:plasma membrane
+GO:0030427;C:site of polarized growth
+GO:0005774;C:vacuolar membrane
+GO:0003925;F:G protein activity
+GO:0019003;F:GDP binding
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0007120;P:axial cellular bud site selection
+GO:0007121;P:bipolar cellular bud site selection
+GO:0000755;P:cytogamy
+GO:0045184;P:establishment of protein localization
+GO:0032507;P:maintenance of protein location in cell
+GO:0035025;P:positive regulation of Rho protein signal transduction
+GO:2000114;P:regulation of establishment of cell polarity
+GO:0007264;P:small GTPase mediated signal transduction

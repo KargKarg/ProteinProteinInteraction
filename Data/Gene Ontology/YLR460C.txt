@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0016651;F:oxidoreductase activity, acting on NAD(P)H

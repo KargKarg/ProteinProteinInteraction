@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0008094;F:ATP-dependent activity, acting on DNA
+GO:0140664;F:ATP-dependent DNA damage sensor activity
+GO:0042030;F:ATPase inhibitor activity
+GO:0000150;F:DNA strand exchange activity
+GO:0003690;F:double-stranded DNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0070192;P:chromosome organization involved in meiotic cell cycle
+GO:0000730;P:DNA recombinase assembly
+GO:0042148;P:DNA strand invasion
+GO:0051321;P:meiotic cell cycle
+GO:0000709;P:meiotic joint molecule formation
+GO:0006312;P:mitotic recombination
+GO:0007131;P:reciprocal meiotic recombination
+GO:0030435;P:sporulation resulting in formation of a cellular spore
+GO:0007130;P:synaptonemal complex assembly

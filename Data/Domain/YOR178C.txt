@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CBM21;235;360
+REGION;Disordered;1;20
+REGION;Disordered;450;491
+REGION;Disordered;616;671

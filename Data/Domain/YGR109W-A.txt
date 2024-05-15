@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;CCHC-type;265;282
+SITE;Cleavage; by Ty3 protease;207;208
+SITE;Cleavage; by Ty3 protease;233;234

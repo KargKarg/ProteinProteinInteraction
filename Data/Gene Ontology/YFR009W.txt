@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0022626;C:cytosolic ribosome
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0043022;F:ribosome binding
+GO:0031369;F:translation initiation factor binding
+GO:0071232;P:cellular response to histidine
+GO:0042327;P:positive regulation of phosphorylation
+GO:0071264;P:positive regulation of translational initiation in response to starvation
+GO:0006448;P:regulation of translational elongation

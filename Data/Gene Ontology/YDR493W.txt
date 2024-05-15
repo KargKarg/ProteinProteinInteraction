@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0044183;F:protein folding chaperone
+GO:0034551;P:mitochondrial respiratory chain complex III assembly

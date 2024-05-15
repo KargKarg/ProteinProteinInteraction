@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0002161;F:aminoacyl-tRNA editing activity
+GO:0005524;F:ATP binding
+GO:0004822;F:isoleucine-tRNA ligase activity
+GO:0000049;F:tRNA binding
+GO:0006428;P:isoleucyl-tRNA aminoacylation

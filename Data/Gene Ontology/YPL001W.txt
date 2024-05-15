@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0000123;C:histone acetyltransferase complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0004402;F:histone acetyltransferase activity
+GO:0042393;F:histone binding
+GO:0010485;F:histone H4 acetyltransferase activity
+GO:0006281;P:DNA repair
+GO:0031509;P:subtelomeric heterochromatin formation

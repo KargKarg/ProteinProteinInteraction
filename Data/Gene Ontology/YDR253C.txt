@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005667;C:transcription regulator complex
+GO:0000987;F:cis-regulatory region sequence-specific DNA binding
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0046872;F:metal ion binding
+GO:0061629;F:RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0007346;P:regulation of mitotic cell cycle
+GO:0031335;P:regulation of sulfur amino acid metabolic process
+GO:0042762;P:regulation of sulfur metabolic process
+GO:0006357;P:regulation of transcription by RNA polymerase II

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0090730;C:Las1 complex
+GO:0005739;C:mitochondrion
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0004519;F:endonuclease activity
+GO:0000448;P:cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000460;P:maturation of 5.8S rRNA
+GO:0000470;P:maturation of LSU-rRNA

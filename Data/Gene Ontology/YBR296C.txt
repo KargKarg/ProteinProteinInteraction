@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0042802;F:identical protein binding
+GO:0015319;F:sodium:inorganic phosphate symporter activity
+GO:0035435;P:phosphate ion transmembrane transport
+GO:0006817;P:phosphate ion transport
+GO:0055085;P:transmembrane transport

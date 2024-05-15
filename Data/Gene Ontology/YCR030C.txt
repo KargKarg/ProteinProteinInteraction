@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005935;C:cellular bud neck
+GO:0000144;C:cellular bud neck septin ring
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0061645;C:endocytic patch
+GO:0030139;C:endocytic vesicle
+GO:0001400;C:mating projection base
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0005628;C:prospore membrane
+GO:1990252;C:Syp1 complex
+GO:0004857;F:enzyme inhibitor activity
+GO:0042802;F:identical protein binding
+GO:0000147;P:actin cortical patch assembly
+GO:0007117;P:budding cell bud growth
+GO:0007049;P:cell cycle
+GO:0006897;P:endocytosis
+GO:0045807;P:positive regulation of endocytosis
+GO:0032185;P:septin cytoskeleton organization
+GO:0009826;P:unidimensional cell growth

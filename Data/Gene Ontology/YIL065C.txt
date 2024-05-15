@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0005777;C:peroxisome
+GO:0006915;P:apoptotic process
+GO:0000266;P:mitochondrial fission
+GO:0016559;P:peroxisome fission
+GO:0007031;P:peroxisome organization
+GO:0090141;P:positive regulation of mitochondrial fission

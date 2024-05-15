@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Enhancer domain;428;441
+REGION;Linker domain;442;449
+REGION;Autoinhibitory domain;450;485
+REGION;Disordered;455;499

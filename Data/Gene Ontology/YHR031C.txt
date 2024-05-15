@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005739;C:mitochondrion
+GO:0043596;C:nuclear replication fork
+GO:0005657;C:replication fork
+GO:0043139;F:5'-3' DNA helicase activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003678;F:DNA helicase activity
+GO:0051880;F:G-quadruplex DNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0032508;P:DNA duplex unwinding
+GO:0006281;P:DNA repair
+GO:0006260;P:DNA replication
+GO:0044806;P:G-quadruplex DNA unwinding
+GO:0000002;P:mitochondrial genome maintenance
+GO:0097046;P:replication fork progression beyond termination site
+GO:0071932;P:replication fork reversal
+GO:0000723;P:telomere maintenance

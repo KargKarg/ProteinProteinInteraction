@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;uDENN FNIP1/2-type;114;302
+DOMAIN;cDENN FNIP1/2-type;310;712
+DOMAIN;dDENN FNIP1/2-type;718;825
+REGION;Disordered;1;25
+REGION;Disordered;392;411
+REGION;Disordered;423;444
+REGION;Disordered;538;569

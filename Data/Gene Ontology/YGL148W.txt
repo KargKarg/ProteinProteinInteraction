@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0004107;F:chorismate synthase activity
+GO:0010181;F:FMN binding
+GO:0008752;F:FMN reductase (NAD(P)H) activity
+GO:0052873;F:FMN reductase (NADPH) activity
+GO:0042602;F:riboflavin reductase (NADPH) activity
+GO:0008652;P:amino acid biosynthetic process
+GO:0009073;P:aromatic amino acid family biosynthetic process
+GO:0009423;P:chorismate biosynthetic process

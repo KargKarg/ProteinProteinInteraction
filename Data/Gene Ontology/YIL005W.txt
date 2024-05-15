@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0003756;F:protein disulfide isomerase activity
+GO:0019153;F:protein-disulfide reductase (glutathione) activity
+GO:0051082;F:unfolded protein binding
+GO:0006457;P:protein folding
+GO:0006621;P:protein retention in ER lumen
+GO:0030433;P:ubiquitin-dependent ERAD pathway

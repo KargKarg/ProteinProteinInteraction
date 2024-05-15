@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005681;C:spliceosomal complex
+GO:0046540;C:U4/U6 x U5 tri-snRNP complex
+GO:0004843;F:cysteine-type deubiquitinase activity
+GO:0008270;F:zinc ion binding
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0000245;P:spliceosomal complex assembly

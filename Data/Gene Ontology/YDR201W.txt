@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0042729;C:DASH complex
+GO:0072686;C:mitotic spindle
+GO:0005876;C:spindle microtubule
+GO:0008608;P:attachment of spindle microtubules to kinetochore
+GO:0051301;P:cell division
+GO:1990758;P:mitotic sister chromatid biorientation
+GO:0051987;P:positive regulation of attachment of spindle microtubules to kinetochore
+GO:0031116;P:positive regulation of microtubule polymerization
+GO:1990976;P:protein transport along microtubule to mitotic spindle pole body

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0043528;C:tRNA (m2G10) methyltransferase complex
+GO:0160102;F:tRNA (guanine(10)-N2)-methyltransferase activity
+GO:0000049;F:tRNA binding
+GO:0030488;P:tRNA methylation
+GO:0006400;P:tRNA modification

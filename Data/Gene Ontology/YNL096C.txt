@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0005730;C:nucleolus
+GO:0032040;C:small-subunit processome
+GO:0003735;F:structural constituent of ribosome
+GO:0002181;P:cytoplasmic translation
+GO:0042274;P:ribosomal small subunit biogenesis
+GO:0042254;P:ribosome biogenesis
+GO:0006364;P:rRNA processing

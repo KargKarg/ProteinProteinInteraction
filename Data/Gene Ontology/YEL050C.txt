@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005762;C:mitochondrial large ribosomal subunit
+GO:0005739;C:mitochondrion
+GO:0003723;F:RNA binding
+GO:0003735;F:structural constituent of ribosome
+GO:0016740;F:transferase activity
+GO:0032543;P:mitochondrial translation

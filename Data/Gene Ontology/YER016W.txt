@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0005881;C:cytoplasmic microtubule
+GO:0005815;C:microtubule organizing center
+GO:0035371;C:microtubule plus-end
+GO:0072686;C:mitotic spindle
+GO:0051233;C:spindle midzone
+GO:0000922;C:spindle pole
+GO:0051010;F:microtubule plus-end binding
+GO:0030543;P:2-micrometer plasmid partitioning
+GO:0051301;P:cell division
+GO:0007019;P:microtubule depolymerization
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0031578;P:mitotic spindle orientation checkpoint signaling
+GO:0007026;P:negative regulation of microtubule depolymerization
+GO:0030473;P:nuclear migration along microtubule
+GO:0031116;P:positive regulation of microtubule polymerization
+GO:0035372;P:protein localization to microtubule
+GO:1904825;P:protein localization to microtubule plus-end
+GO:0031110;P:regulation of microtubule polymerization or depolymerization
+GO:0051225;P:spindle assembly

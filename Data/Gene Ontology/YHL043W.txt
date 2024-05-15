@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0016020;C:membrane
+GO:0071555;P:cell wall organization

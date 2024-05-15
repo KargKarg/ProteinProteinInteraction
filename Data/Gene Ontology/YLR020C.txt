@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0004771;F:sterol esterase activity
+GO:0000032;P:cell wall mannoprotein biosynthetic process
+GO:0016042;P:lipid catabolic process
+GO:0016125;P:sterol metabolic process

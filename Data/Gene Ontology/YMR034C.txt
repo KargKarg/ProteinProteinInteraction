@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005935;C:cellular bud neck
+GO:0005886;C:plasma membrane
+GO:0008028;F:monocarboxylic acid transmembrane transporter activity
+GO:0006816;P:calcium ion transport
+GO:0051481;P:negative regulation of cytosolic calcium ion concentration

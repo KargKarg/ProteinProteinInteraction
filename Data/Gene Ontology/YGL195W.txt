@@ -1,0 +1,22 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0022626;C:cytosolic ribosome
+GO:0005739;C:mitochondrion
+GO:0042788;C:polysomal ribosome
+GO:0005844;C:polysome
+GO:0043008;F:ATP-dependent protein binding
+GO:0019901;F:protein kinase binding
+GO:0019887;F:protein kinase regulator activity
+GO:0043539;F:protein serine/threonine kinase activator activity
+GO:0043022;F:ribosome binding
+GO:0170011;F:stalled ribosome sensor activity
+GO:0031369;F:translation initiation factor binding
+GO:0034198;P:cellular response to amino acid starvation
+GO:0140469;P:GCN2-mediated signaling
+GO:0033674;P:positive regulation of kinase activity
+GO:0001934;P:positive regulation of protein phosphorylation
+GO:0071264;P:positive regulation of translational initiation in response to starvation
+GO:1990611;P:regulation of cytoplasmic translational initiation in response to stress
+GO:0006417;P:regulation of translation
+GO:0006448;P:regulation of translational elongation
+GO:0072344;P:rescue of stalled ribosome

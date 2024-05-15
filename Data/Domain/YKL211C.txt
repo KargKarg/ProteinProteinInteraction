@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-1;13;207
+REGION;Indole-3-glycerol phosphate synthase;215;484
+ACT_SITE;Nucleophile; for GATase activity;92;92
+ACT_SITE;For GATase activity;181;181
+ACT_SITE;For GATase activity;183;183
+BINDING;;64;66
+BINDING;;96;96
+BINDING;;142;143

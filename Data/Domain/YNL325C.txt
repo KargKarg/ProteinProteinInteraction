@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SAC;166;528
+REGION;Required for vacuolar localization;761;879

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005769;C:early endosome
+GO:0005783;C:endoplasmic reticulum
+GO:0010008;C:endosome membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005770;C:late endosome
+GO:0005802;C:trans-Golgi network
+GO:0015386;F:potassium:proton antiporter activity
+GO:0015385;F:sodium:proton antiporter activity
+GO:0030003;P:intracellular monoatomic cation homeostasis
+GO:0071805;P:potassium ion transmembrane transport
+GO:0035725;P:sodium ion transmembrane transport
+GO:0007035;P:vacuolar acidification

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;83
+REGION;RGG-box;8;83
+REGION;RNA-binding RGG-box;22;42
+REGION;RNA-binding RGG-box;58;75
+REGION;S-adenosyl-L-methionine binding;179;180
+REGION;S-adenosyl-L-methionine binding;198;199
+REGION;S-adenosyl-L-methionine binding;223;224
+REGION;S-adenosyl-L-methionine binding;243;246
+REGION;Helical;281;313

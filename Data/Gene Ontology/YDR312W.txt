@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0019843;F:rRNA binding
+GO:0000027;P:ribosomal large subunit assembly
+GO:0006364;P:rRNA processing

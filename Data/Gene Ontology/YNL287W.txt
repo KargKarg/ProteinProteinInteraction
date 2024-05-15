@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030126;C:COPI vesicle coat
+GO:0005783;C:endoplasmic reticulum
+GO:0005793;C:endoplasmic reticulum-Golgi intermediate compartment
+GO:0005768;C:endosome
+GO:0000139;C:Golgi membrane
+GO:0005198;F:structural molecule activity
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006891;P:intra-Golgi vesicle-mediated transport
+GO:0006886;P:intracellular protein transport
+GO:0009306;P:protein secretion
+GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

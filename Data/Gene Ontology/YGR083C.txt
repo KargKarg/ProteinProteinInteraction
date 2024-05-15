@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005851;C:eukaryotic translation initiation factor 2B complex
+GO:0032045;C:guanyl-nucleotide exchange factor complex
+GO:0030234;F:enzyme regulator activity
+GO:0003743;F:translation initiation factor activity
+GO:0002183;P:cytoplasmic translational initiation
+GO:0006446;P:regulation of translational initiation

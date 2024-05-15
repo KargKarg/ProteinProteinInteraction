@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000243;C:commitment complex
+GO:0016607;C:nuclear speck
+GO:0005634;C:nucleus
+GO:0071004;C:U2-type prespliceosome
+GO:0089701;C:U2AF complex
+GO:0003729;F:mRNA binding
+GO:0008187;F:poly-pyrimidine tract binding
+GO:0030628;F:pre-mRNA 3'-splice site binding
+GO:0045131;F:pre-mRNA branch point binding
+GO:0000348;P:mRNA branch site recognition
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:0000245;P:spliceosomal complex assembly

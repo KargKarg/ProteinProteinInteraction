@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005628;C:prospore membrane
+GO:0032120;P:ascospore-type prospore membrane formation
+GO:0070583;P:spore membrane bending pathway

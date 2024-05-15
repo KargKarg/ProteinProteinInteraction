@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005811;C:lipid droplet

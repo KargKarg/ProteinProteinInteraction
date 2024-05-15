@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;B5;292;370
+REGION;3'-CCA residue in tRNA;86;90
+BINDING;;348;348
+BINDING;;354;354
+BINDING;;357;357
+BINDING;;358;358

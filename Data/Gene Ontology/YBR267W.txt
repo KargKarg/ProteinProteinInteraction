@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0030687;C:preribosome, large subunit precursor
+GO:0043565;F:sequence-specific DNA binding
+GO:0008270;F:zinc ion binding
+GO:0007117;P:budding cell bud growth
+GO:0000278;P:mitotic cell cycle
+GO:0006913;P:nucleocytoplasmic transport
+GO:0042273;P:ribosomal large subunit biogenesis

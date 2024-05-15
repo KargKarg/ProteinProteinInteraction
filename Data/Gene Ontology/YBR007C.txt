@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0005934;C:cellular bud tip
+GO:0010972;P:negative regulation of G2/M transition of mitotic cell cycle

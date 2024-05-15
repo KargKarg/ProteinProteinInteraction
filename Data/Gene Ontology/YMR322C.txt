@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000932;C:P-body
+GO:0019172;F:glyoxalase III activity
+GO:0031669;P:cellular response to nutrient levels
+GO:0019243;P:methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione

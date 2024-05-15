@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0031533;C:mRNA cap methyltransferase complex
+GO:0005634;C:nucleus
+GO:0140818;F:mRNA 5'-phosphatase activity
+GO:0004651;F:polynucleotide 5'-phosphatase activity
+GO:0006370;P:7-methylguanosine mRNA capping
+GO:0098507;P:polynucleotide 5' dephosphorylation

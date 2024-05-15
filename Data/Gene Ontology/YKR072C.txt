@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:1990143;C:CoA-synthesizing protein complex
+GO:0005634;C:nucleus
+GO:0071513;C:phosphopantothenoylcysteine decarboxylase complex
+GO:0003824;F:catalytic activity
+GO:0010181;F:FMN binding
+GO:0042802;F:identical protein binding
+GO:0004865;F:protein serine/threonine phosphatase inhibitor activity
+GO:0015937;P:coenzyme A biosynthetic process
+GO:0007346;P:regulation of mitotic cell cycle
+GO:0009651;P:response to salt stress

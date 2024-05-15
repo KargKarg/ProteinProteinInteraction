@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005874;C:microtubule
+GO:0072686;C:mitotic spindle
+GO:1990023;C:mitotic spindle midzone
+GO:0005880;C:nuclear microtubule
+GO:0005819;C:spindle
+GO:0008017;F:microtubule binding
+GO:0000073;P:initial mitotic spindle pole body separation
+GO:0001578;P:microtubule bundle formation
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0000022;P:mitotic spindle elongation
+GO:0051256;P:mitotic spindle midzone assembly
+GO:0007052;P:mitotic spindle organization
+GO:0000920;P:septum digestion after cytokinesis
+GO:0051255;P:spindle midzone assembly

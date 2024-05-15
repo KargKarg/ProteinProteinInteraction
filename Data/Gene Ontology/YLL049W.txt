@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0015629;C:actin cytoskeleton
+GO:0005869;C:dynactin complex
+GO:0030048;P:actin filament-based movement
+GO:0000132;P:establishment of mitotic spindle orientation

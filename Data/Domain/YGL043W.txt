@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;TFIIS N-terminal;5;79
+DOMAIN;TFIIS central;148;264
+ZN_FING;TFIIS-type;267;307
+REGION;Disordered;78;142
+BINDING;;271;271
+BINDING;;274;274
+BINDING;;299;299
+BINDING;;302;302

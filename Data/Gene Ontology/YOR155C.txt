@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005524;F:ATP binding
+GO:0050483;F:IMP 5'-nucleotidase activity
+GO:0000287;F:magnesium ion binding
+GO:0006190;P:inosine salvage
+GO:0071590;P:nicotinamide riboside biosynthetic process
+GO:0071592;P:nicotinic acid riboside biosynthetic process
+GO:0009117;P:nucleotide metabolic process

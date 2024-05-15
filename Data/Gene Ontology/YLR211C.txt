@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000407;C:phagophore assembly site
+GO:0034045;C:phagophore assembly site membrane
+GO:0034271;C:phosphatidylinositol 3-kinase complex, class III, type I
+GO:0005774;C:vacuolar membrane
+GO:0042802;F:identical protein binding
+GO:0005198;F:structural molecule activity
+GO:0006914;P:autophagy
+GO:0016236;P:macroautophagy
+GO:0046854;P:phosphatidylinositol phosphate biosynthetic process

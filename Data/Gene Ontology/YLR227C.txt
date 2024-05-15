@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0035974;C:meiotic spindle pole body
+GO:0005198;F:structural molecule activity
+GO:0030437;P:ascospore formation
+GO:0051301;P:cell division

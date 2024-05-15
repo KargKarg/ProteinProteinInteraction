@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005829;C:cytosol
+GO:0051015;F:actin filament binding
+GO:0035091;F:phosphatidylinositol binding
+GO:0051666;P:actin cortical patch localization
+GO:0030036;P:actin cytoskeleton organization
+GO:0051017;P:actin filament bundle assembly
+GO:0006897;P:endocytosis

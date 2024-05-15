@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;Matrin-type 1;280;310
+ZN_FING;Matrin-type 2;421;452
+REGION;Disordered;367;388
+REGION;Disordered;488;516

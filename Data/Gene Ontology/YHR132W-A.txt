@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004864;F:protein phosphatase inhibitor activity
+GO:1900152;P:negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:0035308;P:negative regulation of protein dephosphorylation
+GO:1903452;P:positive regulation of G1 to G0 transition
+GO:1901992;P:positive regulation of mitotic cell cycle phase transition

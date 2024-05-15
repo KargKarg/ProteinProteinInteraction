@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0044695;C:Dsc E3 ubiquitin ligase complex
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000328;C:fungal-type vacuole lumen
+GO:0000139;C:Golgi membrane
+GO:0006897;P:endocytosis
+GO:0015031;P:protein transport
+GO:0016567;P:protein ubiquitination
+GO:0006511;P:ubiquitin-dependent protein catabolic process

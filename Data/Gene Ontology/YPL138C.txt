@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0048188;C:Set1C/COMPASS complex
+GO:0003682;F:chromatin binding
+GO:0046872;F:metal ion binding
+GO:0035064;F:methylated histone binding
+GO:0045893;P:positive regulation of DNA-templated transcription
+GO:0006355;P:regulation of DNA-templated transcription
+GO:1903341;P:regulation of meiotic DNA double-strand break formation
+GO:0031509;P:subtelomeric heterochromatin formation

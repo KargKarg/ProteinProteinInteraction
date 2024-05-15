@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Nucleophile;11;11
+ACT_SITE;Proton donor;13;13
+BINDING;;11;11
+BINDING;;12;12
+BINDING;;13;13
+BINDING;;13;13
+BINDING;;74;74
+BINDING;;75;75
+BINDING;;75;75
+BINDING;;141;141

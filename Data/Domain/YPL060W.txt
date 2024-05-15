@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;YGMN;353;356

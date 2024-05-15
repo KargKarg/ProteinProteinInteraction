@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;WW;1;32
+DOMAIN;FF;212;266
+REGION;Disordered;28;49
+REGION;Disordered;144;198
+REGION;Disordered;266;288

@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;24;325
+REGION;Disordered;490;509
+REGION;Required for Cvt trafficking;880;886
+MOTIF;LIR;429;432
+ACT_SITE;Proton acceptor;172;172
+BINDING;;30;38
+BINDING;;54;54

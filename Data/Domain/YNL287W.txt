@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;HEAT 1;258;296
+REPEAT;HEAT 2;337;372
+REPEAT;HEAT 3;373;410
+REPEAT;HEAT 4;412;449
+REPEAT;HEAT 5;524;562
+REGION;Disordered;630;656

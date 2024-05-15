@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;S4 RNA-binding;99;168
+DOMAIN;CMP/dCMP-type deaminase;433;552
+REGION;tRNA pseudouridine synthase;1;432
+REGION;DRAP deaminase;433;591
+ACT_SITE;;211;211
+ACT_SITE;Proton donor;484;484
+BINDING;;482;482
+BINDING;;515;515
+BINDING;;525;525

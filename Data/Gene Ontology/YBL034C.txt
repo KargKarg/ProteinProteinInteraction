@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005881;C:cytoplasmic microtubule
+GO:0000776;C:kinetochore
+GO:0005815;C:microtubule organizing center
+GO:0072686;C:mitotic spindle
+GO:1990023;C:mitotic spindle midzone
+GO:0005634;C:nucleus
+GO:0005827;C:polar microtubule
+GO:0005876;C:spindle microtubule
+GO:0048487;F:beta-tubulin binding
+GO:0043515;F:kinetochore binding
+GO:0008017;F:microtubule binding
+GO:0060172;P:astral microtubule depolymerization
+GO:0008608;P:attachment of spindle microtubules to kinetochore
+GO:0051301;P:cell division
+GO:0090307;P:mitotic spindle assembly

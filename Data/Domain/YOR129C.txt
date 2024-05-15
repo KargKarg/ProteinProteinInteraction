@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;uDENN;28;335
+DOMAIN;cDENN;365;492
+DOMAIN;dDENN;494;640
+REGION;Interaction with active ARF3;25;488
+REGION;Disordered;841;893

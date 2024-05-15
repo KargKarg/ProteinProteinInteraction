@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000329;C:fungal-type vacuole membrane
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0019901;F:protein kinase binding
+GO:0031505;P:fungal-type cell wall organization
+GO:0006886;P:intracellular protein transport
+GO:0008104;P:protein localization
+GO:0009268;P:response to pH

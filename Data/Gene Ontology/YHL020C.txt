@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0034399;C:nuclear periphery
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0070300;F:phosphatidic acid binding
+GO:0003714;F:transcription corepressor activity
+GO:0030968;P:endoplasmic reticulum unfolded protein response
+GO:0071072;P:negative regulation of phospholipid biosynthetic process
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0008654;P:phospholipid biosynthetic process
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

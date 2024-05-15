@@ -1,0 +1,17 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Thiamine-phosphate synthase;1;238
+REGION;Hydroxyethylthiazole kinase;239;540
+ACT_SITE;Proton acceptor; for hydroxyethylthiazole kinase activity;465;465
+BINDING;;43;47
+BINDING;;75;75
+BINDING;;76;76
+BINDING;;95;95
+BINDING;;114;114
+BINDING;;143;145
+BINDING;;146;146
+BINDING;;181;181
+BINDING;;209;210
+BINDING;;290;290
+BINDING;;365;365
+BINDING;;415;415
+BINDING;;462;462

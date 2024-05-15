@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Plastocyanin-like 1;43;146
+DOMAIN;Plastocyanin-like 2;192;301
+DOMAIN;Plastocyanin-like 3;392;514
+BINDING;type 2 copper site;79;79
+BINDING;type 3 copper site;81;81
+BINDING;type 3 copper site;128;128
+BINDING;type 3 copper site;130;130
+BINDING;type 1 copper site;418;418
+BINDING;type 2 copper site;421;421
+BINDING;type 3 copper site;423;423
+BINDING;type 3 copper site;496;496
+BINDING;type 1 copper site;497;497
+BINDING;type 3 copper site;498;498
+BINDING;type 1 copper site;502;502

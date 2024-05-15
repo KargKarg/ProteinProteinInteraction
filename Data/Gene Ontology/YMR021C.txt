@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0000987;F:cis-regulatory region sequence-specific DNA binding
+GO:0005507;F:copper ion binding
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0006878;P:intracellular copper ion homeostasis
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0045732;P:positive regulation of protein catabolic process
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

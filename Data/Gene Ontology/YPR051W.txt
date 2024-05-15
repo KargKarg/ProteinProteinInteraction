@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0031417;C:NatC complex
+GO:0005634;C:nucleus
+GO:0004596;F:peptide alpha-N-acetyltransferase activity
+GO:0006474;P:N-terminal protein amino acid acetylation
+GO:0032880;P:regulation of protein localization

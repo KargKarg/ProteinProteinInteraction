@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0051724;F:NAD transmembrane transporter activity
+GO:1990549;P:mitochondrial NAD transmembrane transport
+GO:0035352;P:NAD transmembrane transport

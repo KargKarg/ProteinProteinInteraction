@@ -1,0 +1,24 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005933;C:cellular bud
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0000131;C:incipient cellular bud site
+GO:0043332;C:mating projection tip
+GO:0005634;C:nucleus
+GO:0005628;C:prospore membrane
+GO:1902554;C:serine/threonine protein kinase complex
+GO:0005524;F:ATP binding
+GO:0042802;F:identical protein binding
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0007118;P:budding cell apical bud growth
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0007163;P:establishment or maintenance of cell polarity
+GO:0035556;P:intracellular signal transduction
+GO:0016310;P:phosphorylation
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0050708;P:regulation of protein secretion
+GO:0000920;P:septum digestion after cytokinesis

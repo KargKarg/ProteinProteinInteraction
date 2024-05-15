@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0071013;C:catalytic step 2 spliceosome
+GO:0005737;C:cytoplasm
+GO:0000974;C:Prp19 complex
+GO:0005681;C:spliceosomal complex
+GO:0000398;P:mRNA splicing, via spliceosome

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0043332;C:mating projection tip
+GO:0005886;C:plasma membrane
+GO:0004888;F:transmembrane signaling receptor activity
+GO:0031505;P:fungal-type cell wall organization
+GO:0036498;P:IRE1-mediated unfolded protein response
+GO:0000425;P:pexophagy
+GO:0010447;P:response to acidic pH
+GO:0006970;P:response to osmotic stress

@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005886;C:plasma membrane
+GO:0000282;P:cellular bud site selection

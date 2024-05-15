@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;36
+REGION;Histone deacetylase;67;396
+ACT_SITE;;206;206

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0017128;F:phospholipid scramblase activity
+GO:0034605;P:cellular response to heat
+GO:0034599;P:cellular response to oxidative stress
+GO:1903147;P:negative regulation of autophagy of mitochondrion
+GO:0017121;P:plasma membrane phospholipid scrambling

@@ -1,0 +1,24 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0016514;C:SWI/SNF complex
+GO:0005524;F:ATP binding
+GO:0008094;F:ATP-dependent activity, acting on DNA
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0003677;F:DNA binding
+GO:0004386;F:helicase activity
+GO:0016787;F:hydrolase activity
+GO:0070577;F:lysine-acetylated histone binding
+GO:0031492;F:nucleosomal DNA binding
+GO:0000182;F:rDNA binding
+GO:0061629;F:RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0035973;P:aggrephagy
+GO:0006338;P:chromatin remodeling
+GO:0042148;P:DNA strand invasion
+GO:0006261;P:DNA-templated DNA replication
+GO:0006302;P:double-strand break repair
+GO:1900189;P:positive regulation of cell adhesion involved in single-species biofilm formation
+GO:2000219;P:positive regulation of invasive growth in response to glucose limitation
+GO:0031496;P:positive regulation of mating type switching
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

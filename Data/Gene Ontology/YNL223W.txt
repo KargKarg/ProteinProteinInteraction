@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0000407;C:phagophore assembly site
+GO:0008234;F:cysteine-type peptidase activity
+GO:0019786;F:protein-phosphatidylethanolamide deconjugating activity
+GO:0000045;P:autophagosome assembly
+GO:0006914;P:autophagy
+GO:0000422;P:autophagy of mitochondrion
+GO:0006501;P:C-terminal protein lipidation
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0051697;P:protein delipidation
+GO:0006612;P:protein targeting to membrane
+GO:0015031;P:protein transport
+GO:0006508;P:proteolysis

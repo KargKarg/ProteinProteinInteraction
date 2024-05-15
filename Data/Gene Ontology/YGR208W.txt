@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0036424;F:L-phosphoserine phosphatase activity
+GO:0000287;F:magnesium ion binding
+GO:0016311;P:dephosphorylation
+GO:0006564;P:L-serine biosynthetic process

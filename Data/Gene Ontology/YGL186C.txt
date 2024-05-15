@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0022857;F:transmembrane transporter activity
+GO:0090482;F:vitamin transmembrane transporter activity
+GO:0051180;P:vitamin transport

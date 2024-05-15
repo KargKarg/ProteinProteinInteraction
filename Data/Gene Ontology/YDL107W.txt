@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005759;C:mitochondrial matrix
+GO:0032979;P:protein insertion into mitochondrial inner membrane from matrix

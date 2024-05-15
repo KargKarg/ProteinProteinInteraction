@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0016282;C:eukaryotic 43S preinitiation complex
+GO:0033290;C:eukaryotic 48S preinitiation complex
+GO:0005850;C:eukaryotic translation initiation factor 2 complex
+GO:0043614;C:multi-eIF complex
+GO:0005840;C:ribosome
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:1990856;F:methionyl-initiator methionine tRNA binding
+GO:0003743;F:translation initiation factor activity
+GO:0031369;F:translation initiation factor binding
+GO:0001731;P:formation of translation preinitiation complex
+GO:0045903;P:positive regulation of translational fidelity
+GO:0006413;P:translational initiation

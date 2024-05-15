@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;G-alpha;40;472
+REGION;G1 motif;43;56
+REGION;Insert; not present in other G-proteins;127;235
+REGION;Disordered;162;199
+REGION;G2 motif;292;300
+REGION;G3 motif;315;324
+REGION;G4 motif;384;391
+REGION;G5 motif;442;447
+BINDING;;48;55
+BINDING;;55;55
+BINDING;;294;300
+BINDING;;300;300
+BINDING;;319;323
+BINDING;;388;391
+BINDING;;444;444

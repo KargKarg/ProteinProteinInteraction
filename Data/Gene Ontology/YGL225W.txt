@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030659;C:cytoplasmic vesicle membrane
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0005739;C:mitochondrion
+GO:0015297;F:antiporter activity
+GO:0005458;F:GDP-mannose transmembrane transporter activity
+GO:0008643;P:carbohydrate transport
+GO:1990570;P:GDP-mannose transmembrane transport

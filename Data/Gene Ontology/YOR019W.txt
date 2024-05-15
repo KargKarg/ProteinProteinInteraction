@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0007049;P:cell cycle

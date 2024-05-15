@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;151
+REGION;Disordered;163;190
+REGION;Disordered;230;267
+REGION;Disordered;385;448
+REGION;Disordered;942;968
+REGION;Disordered;1010;1073
+MOTIF;APM2-interacting WQEMP motif;143;147

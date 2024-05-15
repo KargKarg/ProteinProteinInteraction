@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005741;C:mitochondrial outer membrane
+GO:0005742;C:mitochondrial outer membrane translocase complex
+GO:0005739;C:mitochondrion
+GO:0046930;C:pore complex
+GO:0015288;F:porin activity
+GO:0008320;F:protein transmembrane transporter activity
+GO:0006811;P:monoatomic ion transport
+GO:0030150;P:protein import into mitochondrial matrix
+GO:0045040;P:protein insertion into mitochondrial outer membrane

@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;581;636
+MOTIF;Nuclear localization signal;619;622
+ACT_SITE;Glycyl thioester intermediate;177;177
+BINDING;;28;33
+BINDING;;52;52
+BINDING;;60;63
+BINDING;;76;76
+BINDING;;121;126
+BINDING;;162;162
+BINDING;;165;165
+BINDING;;435;435
+BINDING;;438;438

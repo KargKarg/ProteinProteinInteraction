@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Enables targeting to the endoplasmic reticulum in addition to mitochondria;57;101
+REGION;Required for processing and stability;475;492
+ACT_SITE;Charge relay system; for autoendoproteolytic cleavage activity;210;210
+ACT_SITE;Charge relay system; for autoendoproteolytic cleavage activity;348;348
+ACT_SITE;Charge relay system; for autoendoproteolytic cleavage activity;463;463
+ACT_SITE;Schiff-base intermediate with substrate; via pyruvic acid; for decarboxylase activity;463;463
+SITE;Cleavage (non-hydrolytic); by autocatalysis;462;463

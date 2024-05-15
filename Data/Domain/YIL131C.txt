@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FHA;76;142
+DNA_BIND;Fork-head;302;393

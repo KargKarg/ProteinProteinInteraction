@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0031415;C:NatA complex
+GO:0042802;F:identical protein binding
+GO:1990190;F:peptide-glutamate-alpha-N-acetyltransferase activity
+GO:1990189;F:peptide-serine-alpha-N-acetyltransferase activity
+GO:0006474;P:N-terminal protein amino acid acetylation
+GO:0061606;P:N-terminal protein amino acid propionylation

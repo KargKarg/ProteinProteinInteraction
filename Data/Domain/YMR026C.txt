@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;RING-type; degenerate;334;373
+REGION;Disordered;1;24
+BINDING;;334;334
+BINDING;;337;337
+BINDING;;354;354
+BINDING;;357;357

@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:1990879;C:CST complex
+GO:0000783;C:nuclear telomere cap complex
+GO:0098505;F:G-rich strand telomeric DNA binding
+GO:0042802;F:identical protein binding
+GO:0043047;F:single-stranded telomeric DNA binding
+GO:0010521;F:telomerase inhibitor activity
+GO:0061770;F:translation elongation factor binding
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0032210;P:regulation of telomere maintenance via telomerase
+GO:0071166;P:ribonucleoprotein complex localization
+GO:0016233;P:telomere capping
+GO:0000723;P:telomere maintenance
+GO:0007004;P:telomere maintenance via telomerase

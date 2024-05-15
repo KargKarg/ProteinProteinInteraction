@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C2H2-type 1;346;368
+ZN_FING;C2H2-type 2;374;397
+REGION;Disordered;1;69
+REGION;Prion domain (PrD);98;295
+REGION;Disordered;101;162
+REGION;Disordered;214;267
+REGION;Disordered;421;458

@@ -1,0 +1,14 @@
+GO id;GO term
+GO:1990130;C:GATOR1 complex
+GO:0035859;C:Seh1-associated complex
+GO:0005774;C:vacuolar membrane
+GO:0034198;P:cellular response to amino acid starvation
+GO:0051321;P:meiotic cell cycle
+GO:0051058;P:negative regulation of small GTPase mediated signal transduction
+GO:1904262;P:negative regulation of TORC1 signaling
+GO:0010508;P:positive regulation of autophagy
+GO:0015031;P:protein transport
+GO:0007124;P:pseudohyphal growth
+GO:2000785;P:regulation of autophagosome assembly
+GO:1903432;P:regulation of TORC1 signaling
+GO:0038202;P:TORC1 signaling

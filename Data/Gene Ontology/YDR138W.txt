@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0016593;C:Cdc73/Paf1 complex
+GO:0000781;C:chromosome, telomeric region
+GO:0000446;C:nucleoplasmic THO complex
+GO:0000445;C:THO complex part of transcription export complex
+GO:0000346;C:transcription export complex
+GO:0060090;F:molecular adaptor activity
+GO:0003676;F:nucleic acid binding
+GO:0006310;P:DNA recombination
+GO:0031124;P:mRNA 3'-end processing
+GO:0006406;P:mRNA export from nucleus
+GO:0045943;P:positive regulation of transcription by RNA polymerase I
+GO:2001209;P:positive regulation of transcription elongation by RNA polymerase I
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0006283;P:transcription-coupled nucleotide-excision repair

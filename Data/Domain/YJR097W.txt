@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;J;6;77
+DOMAIN;DPH-type MB;91;164
+BINDING;;113;113
+BINDING;;116;116
+BINDING;;152;152
+BINDING;;155;155

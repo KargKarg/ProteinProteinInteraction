@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0046872;F:metal ion binding

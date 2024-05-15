@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0000124;C:SAGA complex
+GO:0046695;C:SLIK (SAGA-like) complex
+GO:0005669;C:transcription factor TFIID complex
+GO:0003682;F:chromatin binding
+GO:0042802;F:identical protein binding
+GO:0060090;F:molecular adaptor activity
+GO:1990841;F:promoter-specific chromatin binding
+GO:0006325;P:chromatin organization
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0051123;P:RNA polymerase II preinitiation complex assembly
+GO:0006366;P:transcription by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter

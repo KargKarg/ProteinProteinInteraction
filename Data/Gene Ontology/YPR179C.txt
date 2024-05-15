@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0070823;C:HDA1 complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0003677;F:DNA binding
+GO:0006338;P:chromatin remodeling
+GO:0007059;P:chromosome segregation
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0031047;P:regulatory ncRNA-mediated gene silencing

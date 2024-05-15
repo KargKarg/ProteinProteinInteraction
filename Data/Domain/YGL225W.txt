@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;RET2-binding;326;337
+BINDING;;279;291

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005694;C:chromosome
+GO:0005634;C:nucleus
+GO:0008301;F:DNA binding, bending
+GO:0043565;F:sequence-specific DNA binding
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0001195;P:maintenance of transcriptional fidelity during transcription elongation by RNA polymerase III
+GO:0070898;P:RNA polymerase III preinitiation complex assembly
+GO:0006366;P:transcription by RNA polymerase II

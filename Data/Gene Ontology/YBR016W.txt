@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0033101;C:cellular bud membrane
+GO:0070250;C:mating projection membrane
+GO:0005886;C:plasma membrane

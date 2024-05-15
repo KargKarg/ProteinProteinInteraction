@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0016020;C:membrane
+GO:0050613;F:delta14-sterol reductase activity
+GO:0050661;F:NADP binding
+GO:0006696;P:ergosterol biosynthetic process

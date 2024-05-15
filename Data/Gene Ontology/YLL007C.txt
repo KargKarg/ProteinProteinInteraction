@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0007015;P:actin filament organization
+GO:0000422;P:autophagy of mitochondrion
+GO:0048870;P:cell motility
+GO:0035556;P:intracellular signal transduction

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003854;F:3-beta-hydroxy-delta5-steroid dehydrogenase activity
+GO:0052676;F:3-methylbutanol:NAD oxidoreductase activity
+GO:0046568;F:3-methylbutanol:NAD(P) oxidoreductase activity
+GO:0052675;F:3-methylbutanol:NADP oxidoreductase activity
+GO:0043892;F:methylglyoxal reductase (NADPH-dependent) activity
+GO:0016616;F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008204;P:ergosterol metabolic process
+GO:0030447;P:filamentous growth
+GO:0006694;P:steroid biosynthetic process

@@ -1,0 +1,20 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MGS-like;1;147
+ACT_SITE;Proton donor/acceptor; for FAICAR cyclization activity;138;138
+ACT_SITE;Proton acceptor; for AICAR formyltransferase activity;267;267
+BINDING;;35;38
+BINDING;;65;68
+BINDING;;102;103
+BINDING;;126;127
+BINDING;in other chain;206;207
+BINDING;in other chain;267;267
+BINDING;in other chain;315;315
+BINDING;in other chain;338;338
+BINDING;;430;430
+BINDING;;450;450
+BINDING;;451;451
+BINDING;;540;540
+BINDING;;545;545
+BINDING;;564;565
+BINDING;;587;587
+SITE;Transition state stabilizer;266;266

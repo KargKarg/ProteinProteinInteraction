@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000033;F:alpha-1,3-mannosyltransferase activity
+GO:0000009;F:alpha-1,6-mannosyltransferase activity
+GO:0004378;F:GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity
+GO:0102704;F:GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase activity
+GO:0033164;F:glycolipid 1,6-alpha-mannosyltransferase activity
+GO:0006490;P:oligosaccharide-lipid intermediate biosynthetic process
+GO:0006486;P:protein glycosylation

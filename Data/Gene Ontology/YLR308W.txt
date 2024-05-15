@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0042764;C:ascospore-type prospore
+GO:0008061;F:chitin binding
+GO:0004099;F:chitin deacetylase activity
+GO:0050897;F:cobalt ion binding
+GO:0030476;P:ascospore wall assembly
+GO:0006032;P:chitin catabolic process
+GO:0000272;P:polysaccharide catabolic process

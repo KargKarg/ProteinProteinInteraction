@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Myosin N-terminal SH3-like;4;57
+DOMAIN;Myosin motor;71;777
+DOMAIN;IQ 1;781;801
+DOMAIN;IQ 2;804;824
+DOMAIN;IQ 3;829;849
+DOMAIN;IQ 4;876;898
+DOMAIN;IQ 5;899;928
+DOMAIN;Dilute;1164;1419
+REGION;Actin-binding;647;669
+BINDING;;165;172

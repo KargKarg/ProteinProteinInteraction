@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0000026;F:alpha-1,2-mannosyltransferase activity
+GO:0046354;P:mannan biosynthetic process
+GO:0006486;P:protein glycosylation
+GO:0035268;P:protein mannosylation

@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;BRCT;994;1122
+REGION;Disordered;1;40
+REGION;Disordered;280;299
+REGION;Disordered;342;365
+REGION;Disordered;490;512
+REGION;Disordered;636;655
+REGION;Disordered;691;731

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0016020;C:membrane
+GO:0022857;F:transmembrane transporter activity
+GO:0009102;P:biotin biosynthetic process
+GO:0051180;P:vitamin transport

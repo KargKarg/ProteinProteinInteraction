@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0004766;F:spermidine synthase activity
+GO:0016768;F:spermine synthase activity
+GO:0015940;P:pantothenate biosynthetic process
+GO:0008295;P:spermidine biosynthetic process
+GO:0006597;P:spermine biosynthetic process

@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;N-LIP;19;104
+REGION;Disordered;104;183
+REGION;Disordered;300;341
+REGION;Disordered;648;732
+REGION;Disordered;757;780
+REGION;Disordered;807;862
+MOTIF;DXDXT motif;398;402

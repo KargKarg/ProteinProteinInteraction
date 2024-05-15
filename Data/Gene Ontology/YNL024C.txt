@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016279;F:protein-lysine N-methyltransferase activity
+GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
+GO:0032259;P:methylation

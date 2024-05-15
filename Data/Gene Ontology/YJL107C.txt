@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0022857;F:transmembrane transporter activity

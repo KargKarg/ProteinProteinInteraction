@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0034245;C:mitochondrial DNA-directed RNA polymerase complex
+GO:0005759;C:mitochondrial matrix
+GO:0042645;C:mitochondrial nucleoid
+GO:0005739;C:mitochondrion
+GO:0003896;F:DNA primase activity
+GO:0003899;F:DNA-directed 5'-3' RNA polymerase activity
+GO:0001018;F:mitochondrial promoter sequence-specific DNA binding
+GO:0006269;P:DNA replication, synthesis of RNA primer
+GO:0000002;P:mitochondrial genome maintenance
+GO:0006390;P:mitochondrial transcription

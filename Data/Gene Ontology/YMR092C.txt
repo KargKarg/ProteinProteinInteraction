@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0005884;C:actin filament
+GO:0030864;C:cortical actin cytoskeleton
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0005634;C:nucleus
+GO:0003779;F:actin binding
+GO:0051015;F:actin filament binding
+GO:0030042;P:actin filament depolymerization
+GO:0051016;P:barbed-end actin filament capping
+GO:0032466;P:negative regulation of cytokinesis

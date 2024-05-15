@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;F-box;19;63
+REGION;ELC1-binding;1;143
+REGION;Disordered;225;248
+REGION;Disordered;260;279
+REGION;Disordered;291;379
+REGION;Interacts with DEF1;351;379

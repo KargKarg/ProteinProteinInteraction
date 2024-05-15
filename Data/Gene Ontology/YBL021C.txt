@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0016602;C:CCAAT-binding factor complex
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0046982;F:protein heterodimerization activity
+GO:0043565;F:sequence-specific DNA binding
+GO:0000436;P:carbon catabolite activation of transcription from RNA polymerase II promoter
+GO:0006109;P:regulation of carbohydrate metabolic process
+GO:0043457;P:regulation of cellular respiration
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0006357;P:regulation of transcription by RNA polymerase II

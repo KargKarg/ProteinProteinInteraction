@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005730;C:nucleolus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:1990400;F:mitochondrial ribosomal large subunit rRNA binding
+GO:0003724;F:RNA helicase activity
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:1902775;P:mitochondrial large ribosomal subunit assembly
+GO:0016070;P:RNA metabolic process

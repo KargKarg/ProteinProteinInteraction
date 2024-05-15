@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0097361;C:CIA complex
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0006259;P:DNA metabolic process
+GO:0006281;P:DNA repair
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0097428;P:protein maturation by iron-sulfur cluster transfer
+GO:0010033;P:response to organic substance
+GO:0009411;P:response to UV

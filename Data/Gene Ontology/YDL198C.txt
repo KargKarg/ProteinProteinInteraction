@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0001409;F:guanine nucleotide transmembrane transporter activity
+GO:0001408;P:guanine nucleotide transport
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0000002;P:mitochondrial genome maintenance
+GO:0055085;P:transmembrane transport

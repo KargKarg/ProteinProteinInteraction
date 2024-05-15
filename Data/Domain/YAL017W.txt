@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PAS 1;450;518
+DOMAIN;PAS 2;738;807
+DOMAIN;Protein kinase;1096;1354
+REGION;Disordered;20;115
+REGION;Disordered;592;612
+REGION;Disordered;627;660
+REGION;Disordered;948;972
+REGION;Disordered;1021;1066
+ACT_SITE;Proton acceptor;1230;1230
+BINDING;;1102;1110
+BINDING;;1125;1125

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005741;C:mitochondrial outer membrane
+GO:0005782;C:peroxisomal matrix
+GO:0004602;F:glutathione peroxidase activity
+GO:0047066;F:phospholipid-hydroperoxide glutathione peroxidase activity
+GO:0140824;F:thioredoxin-dependent peroxiredoxin activity
+GO:0034599;P:cellular response to oxidative stress
+GO:0007031;P:peroxisome organization

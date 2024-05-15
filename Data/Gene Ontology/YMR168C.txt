@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0031518;C:CBF3 complex
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0019237;F:centromeric DNA binding
+GO:0008301;F:DNA binding, bending
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0042802;F:identical protein binding
+GO:0008270;F:zinc ion binding
+GO:0051382;P:kinetochore assembly
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:0000921;P:septin ring assembly

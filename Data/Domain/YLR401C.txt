@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C3H1-type 1;92;122
+ZN_FING;C3H1-type 2;134;164
+REGION;Disordered;1;31
+REGION;Disordered;59;92
+REGION;Disordered;227;264
+ACT_SITE;Proton donor;386;386
+BINDING;;299;301
+BINDING;;354;354
+BINDING;;426;426
+BINDING;;457;457
+BINDING;;509;511
+BINDING;;534;535

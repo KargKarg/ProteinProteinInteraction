@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HMA;4;68
+BINDING;;15;15
+BINDING;;18;18

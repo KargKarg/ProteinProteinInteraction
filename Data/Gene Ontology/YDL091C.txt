@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030136;C:clathrin-coated vesicle
+GO:0005737;C:cytoplasm
+GO:0044695;C:Dsc E3 ubiquitin ligase complex
+GO:0005783;C:endoplasmic reticulum
+GO:0000139;C:Golgi membrane
+GO:0030276;F:clathrin binding
+GO:0043130;F:ubiquitin binding
+GO:0072583;P:clathrin-dependent endocytosis
+GO:0016567;P:protein ubiquitination
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0006511;P:ubiquitin-dependent protein catabolic process

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000779;C:condensed chromosome, centromeric region
+GO:0000776;C:kinetochore
+GO:0031262;C:Ndc80 complex
+GO:0005634;C:nucleus
+GO:0042802;F:identical protein binding
+GO:0051315;P:attachment of mitotic spindle microtubules to kinetochore
+GO:0051301;P:cell division
+GO:0007059;P:chromosome segregation
+GO:1990758;P:mitotic sister chromatid biorientation
+GO:0034501;P:protein localization to kinetochore

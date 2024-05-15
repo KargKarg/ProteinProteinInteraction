@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;AB hydrolase-1;142;430
+REGION;Disordered;20;41
+MOTIF;GXSXG lipase motif;228;232
+MOTIF;HXXXXD acyl transferase motif;424;429
+ACT_SITE;Nucleophile;230;230
+ACT_SITE;Charge relay system;392;392
+ACT_SITE;Charge relay system;424;424

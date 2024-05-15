@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005635;C:nuclear envelope
+GO:0030435;P:sporulation resulting in formation of a cellular spore
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0006511;P:ubiquitin-dependent protein catabolic process

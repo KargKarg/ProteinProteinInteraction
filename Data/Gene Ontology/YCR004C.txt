@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005737;C:cytoplasm
+GO:0016020;C:membrane
+GO:0045121;C:membrane raft
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0010181;F:FMN binding
+GO:0003955;F:NAD(P)H dehydrogenase (quinone) activity

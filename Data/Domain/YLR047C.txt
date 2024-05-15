@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Ferric oxidoreductase;119;666
+REGION;Disordered;490;516
+BINDING;;320;326
+BINDING;;442;450

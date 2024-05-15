@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SET;938;1055
+DOMAIN;Post-SET;1064;1080
+REGION;Binds SWD2;1;230
+REGION;Disordered;1;46
+REGION;Disordered;54;73
+REGION;Disordered;78;121
+REGION;Binds RNA;230;569
+REGION;Binds SHG1;356;569
+REGION;Disordered;646;729
+REGION;Binds SPP1;762;938
+REGION;Contributes to RNA binding;762;938
+REGION;Required for catalytic activity;762;938
+REGION;Disordered;877;909
+MOTIF;RxxxRR motif;904;909
+BINDING;;1054;1054

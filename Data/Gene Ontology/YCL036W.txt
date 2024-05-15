@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0003676;F:nucleic acid binding

@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1-1;955;958
+REPEAT;2-1;961;964
+REPEAT;2-2;972;974
+REPEAT;3-1;975;978
+REPEAT;3-2;984;986
+REPEAT;1-2;996;999
+REGION;Required for retention in the nucleus;492;529
+REGION;Disordered;561;584
+REGION;Disordered;939;1006
+REGION;2 X 4 AA repeats of S-R-Y-D, N-N-N-Y, Y-S-G-N;955;999

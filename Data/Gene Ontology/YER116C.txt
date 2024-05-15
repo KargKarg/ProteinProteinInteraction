@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0033768;C:SUMO-targeted ubiquitin ligase complex
+GO:0046872;F:metal ion binding
+GO:0140082;F:SUMO-ubiquitin ligase activity
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0006974;P:DNA damage response
+GO:0006281;P:DNA repair
+GO:0016925;P:protein sumoylation
+GO:0016567;P:protein ubiquitination
+GO:0000723;P:telomere maintenance

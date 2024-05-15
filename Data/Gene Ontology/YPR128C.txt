@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005778;C:peroxisomal membrane
+GO:0000295;F:adenine nucleotide transmembrane transporter activity
+GO:0015217;F:ADP transmembrane transporter activity
+GO:0005347;F:ATP transmembrane transporter activity
+GO:0015866;P:ADP transport
+GO:0015867;P:ATP transport
+GO:0006635;P:fatty acid beta-oxidation
+GO:0007031;P:peroxisome organization
+GO:1902600;P:proton transmembrane transport

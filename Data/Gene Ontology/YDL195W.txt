@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0030127;C:COPII vesicle coat
+GO:0005783;C:endoplasmic reticulum
+GO:0070971;C:endoplasmic reticulum exit site
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0043332;C:mating projection tip
+GO:0005198;F:structural molecule activity
+GO:0090114;P:COPII-coated vesicle budding
+GO:0090110;P:COPII-coated vesicle cargo loading
+GO:0007029;P:endoplasmic reticulum organization
+GO:0006886;P:intracellular protein transport
+GO:1902953;P:positive regulation of ER to Golgi vesicle-mediated transport
+GO:0070863;P:positive regulation of protein exit from endoplasmic reticulum

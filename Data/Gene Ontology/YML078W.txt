@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0016018;F:cyclosporin A binding
+GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
+GO:0006915;P:apoptotic process
+GO:0006457;P:protein folding

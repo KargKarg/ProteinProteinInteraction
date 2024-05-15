@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0016020;C:membrane
+GO:0006878;P:intracellular copper ion homeostasis
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0006811;P:monoatomic ion transport
+GO:0072657;P:protein localization to membrane
+GO:0007124;P:pseudohyphal growth
+GO:0007034;P:vacuolar transport

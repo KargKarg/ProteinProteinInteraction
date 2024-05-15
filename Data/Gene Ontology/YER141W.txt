@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0016653;F:oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+GO:0006784;P:heme A biosynthetic process

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004602;F:glutathione peroxidase activity
+GO:0051219;F:phosphoprotein binding
+GO:0003714;F:transcription corepressor activity
+GO:0010621;P:negative regulation of transcription by transcription factor localization
+GO:0042128;P:nitrate assimilation
+GO:0032447;P:protein urmylation
+GO:0006808;P:regulation of nitrogen utilization

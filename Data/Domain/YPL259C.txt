@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MHD;175;473
+REGION;Disordered;240;262

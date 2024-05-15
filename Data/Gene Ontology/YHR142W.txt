@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005628;C:prospore membrane
+GO:0051082;F:unfolded protein binding
+GO:0071555;P:cell wall organization
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0034221;P:fungal-type cell wall chitin biosynthetic process
+GO:0006457;P:protein folding
+GO:0015031;P:protein transport

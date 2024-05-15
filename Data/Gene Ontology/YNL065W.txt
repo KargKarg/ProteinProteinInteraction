@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005737;C:cytoplasm
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0008028;F:monocarboxylic acid transmembrane transporter activity
+GO:0022857;F:transmembrane transporter activity
+GO:0042910;F:xenobiotic transmembrane transporter activity
+GO:0032973;P:amino acid export across plasma membrane
+GO:0015718;P:monocarboxylic acid transport
+GO:0055085;P:transmembrane transport

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005811;C:lipid droplet
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0008126;F:acetylesterase activity
+GO:0047372;F:acylglycerol lipase activity
+GO:0004026;F:alcohol O-acetyltransferase activity
+GO:0034319;F:alcohol O-butanoyltransferase activity
+GO:0017171;F:serine hydrolase activity
+GO:0034338;F:short-chain carboxylesterase activity
+GO:0044255;P:cellular lipid metabolic process
+GO:0051792;P:medium-chain fatty acid biosynthetic process
+GO:0051793;P:medium-chain fatty acid catabolic process

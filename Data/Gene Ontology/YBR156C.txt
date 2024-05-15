@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0032133;C:chromosome passenger complex
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0005828;C:kinetochore microtubule
+GO:0072686;C:mitotic spindle
+GO:0005634;C:nucleus
+GO:0005876;C:spindle microtubule
+GO:0051233;C:spindle midzone
+GO:0030295;F:protein kinase activator activity
+GO:0032147;P:activation of protein kinase activity
+GO:0051316;P:attachment of meiotic spindle microtubules to kinetochore
+GO:0007059;P:chromosome segregation
+GO:0090267;P:positive regulation of mitotic cell cycle spindle assembly checkpoint
+GO:0032465;P:regulation of cytokinesis
+GO:0031134;P:sister chromatid biorientation

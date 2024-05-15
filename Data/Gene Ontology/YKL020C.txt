@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005634;C:nucleus
+GO:0070417;P:cellular response to cold
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0030466;P:silent mating-type cassette heterochromatin formation

@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000142;C:cellular bud neck contractile ring
+GO:0005737;C:cytoplasm
+GO:0000131;C:incipient cellular bud site
+GO:0110085;C:mitotic actomyosin contractile ring
+GO:0032982;C:myosin filament
+GO:0016460;C:myosin II complex
+GO:0051015;F:actin filament binding
+GO:0005524;F:ATP binding
+GO:0000146;F:microfilament motor activity
+GO:0032033;F:myosin II light chain binding
+GO:0032027;F:myosin light chain binding
+GO:1903475;P:mitotic actomyosin contractile ring assembly
+GO:1902404;P:mitotic actomyosin contractile ring contraction
+GO:0031671;P:primary cell septum biogenesis
+GO:1904498;P:protein localization to mitotic actomyosin contractile ring
+GO:0000920;P:septum digestion after cytokinesis

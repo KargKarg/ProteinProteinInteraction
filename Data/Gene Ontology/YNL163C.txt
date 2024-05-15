@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:1990904;C:ribonucleoprotein complex
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0043022;F:ribosome binding
+GO:0042256;P:cytosolic ribosome assembly

@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0031932;C:TORC2 complex
+GO:0038203;P:TORC2 signaling

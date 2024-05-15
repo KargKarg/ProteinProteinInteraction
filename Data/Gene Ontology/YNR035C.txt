@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0030479;C:actin cortical patch
+GO:0015629;C:actin cytoskeleton
+GO:0005885;C:Arp2/3 protein complex
+GO:0005829;C:cytosol
+GO:0051015;F:actin filament binding
+GO:0005516;F:calmodulin binding
+GO:0060090;F:molecular adaptor activity
+GO:0005200;F:structural constituent of cytoskeleton
+GO:0044396;P:actin cortical patch organization
+GO:0030036;P:actin cytoskeleton organization
+GO:0030041;P:actin filament polymerization
+GO:0045010;P:actin nucleation
+GO:0034314;P:Arp2/3 complex-mediated actin nucleation
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0072697;P:protein localization to cell cortex
+GO:0006898;P:receptor-mediated endocytosis

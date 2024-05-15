@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0000159;C:protein phosphatase type 2A complex
+GO:0051721;F:protein phosphatase 2A binding
+GO:0009968;P:negative regulation of signal transduction
+GO:0045943;P:positive regulation of transcription by RNA polymerase I
+GO:0035303;P:regulation of dephosphorylation
+GO:0031929;P:TOR signaling

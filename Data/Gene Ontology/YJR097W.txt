@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0008198;F:ferrous iron binding
+GO:0017183;P:protein histidyl modification to diphthamide

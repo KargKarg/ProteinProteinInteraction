@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0030735;F:carnosine N-methyltransferase activity
+GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
+GO:0035498;P:carnosine metabolic process
+GO:0006479;P:protein methylation

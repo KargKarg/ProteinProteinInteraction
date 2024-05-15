@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0004852;F:uroporphyrinogen-III synthase activity
+GO:0006783;P:heme biosynthetic process
+GO:0006782;P:protoporphyrinogen IX biosynthetic process
+GO:0006780;P:uroporphyrinogen III biosynthetic process

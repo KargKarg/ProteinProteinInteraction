@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0043138;F:3'-5' DNA helicase activity
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003677;F:DNA binding
+GO:0008047;F:enzyme activator activity
+GO:0016853;F:isomerase activity
+GO:0032508;P:DNA duplex unwinding
+GO:0042262;P:DNA protection
+GO:1990986;P:DNA recombinase disassembly
+GO:0006281;P:DNA repair
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0045910;P:negative regulation of DNA recombination
+GO:2000042;P:negative regulation of double-strand break repair via homologous recombination
+GO:0000725;P:recombinational repair

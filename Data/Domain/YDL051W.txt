@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;HTH La-type RNA-binding;23;112
+DOMAIN;RRM;123;216
+REGION;Disordered;222;275
+MOTIF;Nuclear localization signal;240;256

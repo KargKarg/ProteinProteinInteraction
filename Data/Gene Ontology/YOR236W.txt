@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0004146;F:dihydrofolate reductase activity
+GO:0003729;F:mRNA binding
+GO:0050661;F:NADP binding
+GO:0046452;P:dihydrofolate metabolic process
+GO:0046655;P:folic acid metabolic process
+GO:0006545;P:glycine biosynthetic process
+GO:0006730;P:one-carbon metabolic process
+GO:0046654;P:tetrahydrofolate biosynthetic process

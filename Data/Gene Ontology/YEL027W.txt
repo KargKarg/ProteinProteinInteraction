@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0000139;C:Golgi membrane
+GO:0016020;C:membrane
+GO:0033176;C:proton-transporting V-type ATPase complex
+GO:0016471;C:vacuolar proton-transporting V-type ATPase complex
+GO:0000220;C:vacuolar proton-transporting V-type ATPase, V0 domain
+GO:0015078;F:proton transmembrane transporter activity
+GO:0046961;F:proton-transporting ATPase activity, rotational mechanism
+GO:0006897;P:endocytosis
+GO:0048388;P:endosomal lumen acidification
+GO:0061795;P:Golgi lumen acidification
+GO:0006878;P:intracellular copper ion homeostasis
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0006623;P:protein targeting to vacuole
+GO:1902600;P:proton transmembrane transport
+GO:0007035;P:vacuolar acidification
+GO:0007033;P:vacuole organization

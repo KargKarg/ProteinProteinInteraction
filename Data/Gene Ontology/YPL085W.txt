@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0070971;C:endoplasmic reticulum exit site
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0012507;C:ER to Golgi transport vesicle membrane
+GO:0043495;F:protein-membrane adaptor activity
+GO:0048208;P:COPII vesicle coating
+GO:0007030;P:Golgi organization
+GO:0016236;P:macroautophagy
+GO:0070973;P:protein localization to endoplasmic reticulum exit site
+GO:0015031;P:protein transport

@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0016597;F:amino acid binding
+GO:0004070;F:aspartate carbamoyltransferase activity
+GO:0005524;F:ATP binding
+GO:0004087;F:carbamoyl-phosphate synthase (ammonia) activity
+GO:0004088;F:carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+GO:0004151;F:dihydroorotase activity
+GO:0004359;F:glutaminase activity
+GO:0046872;F:metal ion binding
+GO:0006207;P:'de novo' pyrimidine nucleobase biosynthetic process
+GO:0044205;P:'de novo' UMP biosynthetic process
+GO:0019240;P:citrulline biosynthetic process
+GO:0006541;P:glutamine metabolic process
+GO:0045984;P:negative regulation of pyrimidine nucleobase metabolic process
+GO:0006228;P:UTP biosynthetic process

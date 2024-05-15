@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;466;491
+MOTIF;Nuclear localization signal;399;415
+MOTIF;Nuclear export signal;493;502

@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Hexokinase;1;424
+REGION;Hexokinase small subdomain;51;194
+REGION;Hexokinase large subdomain;195;413
+ACT_SITE;;196;196
+BINDING;;152;152

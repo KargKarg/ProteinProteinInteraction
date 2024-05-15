@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MHD;288;546
+REGION;Interaction with DSL1;190;440
+REGION;Disordered;236;287

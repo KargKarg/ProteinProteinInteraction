@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000721;F:(R,R)-butanediol dehydrogenase activity
+GO:0008270;F:zinc ion binding
+GO:0006066;P:alcohol metabolic process
+GO:0034079;P:butanediol biosynthetic process

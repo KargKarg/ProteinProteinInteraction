@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;GH81;73;779
+REGION;Disordered;1;71
+REGION;beta-sandwich subdomain;73;309
+REGION;alpha/beta subdomain;309;400
+REGION;Sufficient for catalytic activity;375;779
+REGION;(alpha/beta)6 barrel subdomain;415;779
+REGION;May provide specificity for triple-helical beta-glucan;678;680
+ACT_SITE;;526;526
+ACT_SITE;;609;609
+ACT_SITE;;613;613
+BINDING;;530;530
+BINDING;;607;607
+BINDING;;609;609
+BINDING;;613;613
+BINDING;;691;691

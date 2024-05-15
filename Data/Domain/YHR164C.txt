@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;29
+REGION;Disordered;77;119
+REGION;Disordered;140;160
+REGION;Disordered;239;270
+REGION;Disordered;283;330
+REGION;Nuclease activity;450;900
+REGION;Helicase activity;901;1522
+BINDING;;519;519
+BINDING;;768;768
+BINDING;;771;771
+BINDING;;777;777
+BINDING;;1074;1081

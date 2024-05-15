@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;N-acetyltransferase;100;255
+DOMAIN;Bromo;344;414
+REGION;Disordered;1;59
+ACT_SITE;Proton donor/acceptor;173;173
+BINDING;;177;179
+BINDING;;184;190
+BINDING;;216;219
+SITE;Important for catalytic activity;173;173

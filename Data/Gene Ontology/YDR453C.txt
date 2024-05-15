@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0051920;F:peroxiredoxin activity
+GO:0008379;F:thioredoxin peroxidase activity
+GO:0045454;P:cell redox homeostasis
+GO:0034599;P:cellular response to oxidative stress
+GO:0042744;P:hydrogen peroxide catabolic process
+GO:0006457;P:protein folding
+GO:0050821;P:protein stabilization
+GO:0006979;P:response to oxidative stress

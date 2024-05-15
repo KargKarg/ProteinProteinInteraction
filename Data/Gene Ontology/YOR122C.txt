@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005856;C:cytoskeleton
+GO:0005829;C:cytosol
+GO:0003785;F:actin monomer binding
+GO:0005546;F:phosphatidylinositol-4,5-bisphosphate binding
+GO:0070064;F:proline-rich region binding
+GO:0046907;P:intracellular transport
+GO:1903475;P:mitotic actomyosin contractile ring assembly
+GO:0090338;P:positive regulation of formin-nucleated actin cable assembly
+GO:0042989;P:sequestering of actin monomers

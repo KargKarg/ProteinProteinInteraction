@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;uDENN;31;185
+DOMAIN;cDENN;211;365
+DOMAIN;dDENN;367;513

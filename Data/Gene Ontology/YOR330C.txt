@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005760;C:gamma DNA polymerase complex
+GO:0005739;C:mitochondrion
+GO:0008408;F:3'-5' exonuclease activity
+GO:0003677;F:DNA binding
+GO:0003887;F:DNA-directed DNA polymerase activity
+GO:0032043;P:mitochondrial DNA catabolic process
+GO:0006264;P:mitochondrial DNA replication
+GO:0000002;P:mitochondrial genome maintenance

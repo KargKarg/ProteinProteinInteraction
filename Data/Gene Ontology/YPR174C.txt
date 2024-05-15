@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005635;C:nuclear envelope
+GO:0031965;C:nuclear membrane
+GO:0034399;C:nuclear periphery
+GO:0005816;C:spindle pole body

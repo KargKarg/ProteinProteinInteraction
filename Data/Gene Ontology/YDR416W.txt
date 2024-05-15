@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0071014;C:post-mRNA release spliceosomal complex
+GO:0000974;C:Prp19 complex
+GO:0071006;C:U2-type catalytic step 1 spliceosome
+GO:0071007;C:U2-type catalytic step 2 spliceosome
+GO:0071008;C:U2-type post-mRNA release spliceosomal complex
+GO:0071004;C:U2-type prespliceosome
+GO:0000349;P:generation of catalytic spliceosome for first transesterification step
+GO:0000398;P:mRNA splicing, via spliceosome

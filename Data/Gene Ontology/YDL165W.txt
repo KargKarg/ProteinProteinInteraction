@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0030015;C:CCR4-NOT core complex
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000290;P:deadenylation-dependent decapping of nuclear-transcribed mRNA
+GO:0031087;P:deadenylation-independent decapping of nuclear-transcribed mRNA
+GO:0000288;P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:0000289;P:nuclear-transcribed mRNA poly(A) tail shortening
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0016567;P:protein ubiquitination
+GO:0051726;P:regulation of cell cycle
+GO:0000749;P:response to pheromone triggering conjugation with cellular fusion
+GO:0006368;P:transcription elongation by RNA polymerase II

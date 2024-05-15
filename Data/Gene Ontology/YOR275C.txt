@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005768;C:endosome
+GO:0005634;C:nucleus
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0071985;P:multivesicular body sorting pathway
+GO:0016485;P:protein processing
+GO:0030435;P:sporulation resulting in formation of a cellular spore

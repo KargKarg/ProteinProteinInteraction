@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003849;F:3-deoxy-7-phosphoheptulonate synthase activity
+GO:0008652;P:amino acid biosynthetic process
+GO:0009073;P:aromatic amino acid family biosynthetic process
+GO:0009423;P:chorismate biosynthetic process

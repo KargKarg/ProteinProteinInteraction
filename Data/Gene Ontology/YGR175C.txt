@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0004506;F:squalene monooxygenase activity
+GO:0006696;P:ergosterol biosynthetic process

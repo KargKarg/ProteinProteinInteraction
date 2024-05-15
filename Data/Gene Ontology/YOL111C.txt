@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0072380;C:TRC complex
+GO:0000753;P:cell morphogenesis involved in conjugation with cellular fusion
+GO:0006620;P:post-translational protein targeting to endoplasmic reticulum membrane
+GO:0045048;P:protein insertion into ER membrane

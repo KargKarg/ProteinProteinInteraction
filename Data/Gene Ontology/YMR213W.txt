@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000974;C:Prp19 complex
+GO:0005681;C:spliceosomal complex
+GO:0071006;C:U2-type catalytic step 1 spliceosome
+GO:0003677;F:DNA binding
+GO:0000350;P:generation of catalytic spliceosome for second transesterification step
+GO:0000398;P:mRNA splicing, via spliceosome

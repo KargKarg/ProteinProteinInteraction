@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005635;C:nuclear envelope
+GO:0005643;C:nuclear pore
+GO:0071786;P:endoplasmic reticulum tubular network organization
+GO:0061024;P:membrane organization
+GO:0051028;P:mRNA transport
+GO:0015031;P:protein transport

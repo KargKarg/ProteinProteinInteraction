@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Clp R;4;150
+REGION;Repeat 1;7;76
+REGION;Repeat 2;88;150
+REGION;NBD1;167;411
+REGION;NBD2;541;731
+REGION;Disordered;883;908
+REGION;Interaction surface for TPR repeats;905;908
+MOTIF;Nuclear localization signal;773;789
+BINDING;;212;219
+BINDING;;614;621

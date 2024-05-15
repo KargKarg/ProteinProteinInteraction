@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0051537;F:2 iron, 2 sulfur cluster binding
+GO:0004160;F:dihydroxy-acid dehydratase activity
+GO:0046872;F:metal ion binding
+GO:0009082;P:branched-chain amino acid biosynthetic process
+GO:0009097;P:isoleucine biosynthetic process
+GO:0009099;P:valine biosynthetic process

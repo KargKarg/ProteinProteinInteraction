@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Endoplasmic reticulum retention signal;214;217
+ACT_SITE;;149;149
+ACT_SITE;;156;156

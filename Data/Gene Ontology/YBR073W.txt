@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0008094;F:ATP-dependent activity, acting on DNA
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0015616;F:DNA translocase activity
+GO:0003690;F:double-stranded DNA binding
+GO:0004386;F:helicase activity
+GO:0032508;P:DNA duplex unwinding
+GO:0032392;P:DNA geometric change
+GO:0006310;P:DNA recombination
+GO:0006281;P:DNA repair
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0030491;P:heteroduplex formation
+GO:0045144;P:meiotic sister chromatid segregation
+GO:0007131;P:reciprocal meiotic recombination

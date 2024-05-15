@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;78
+REGION;Disordered;102;133
+REGION;Disordered;146;165
+REGION;Disordered;267;286
+REGION;Necessary for the normal cellular distribution and bud neck targeting;275;501
+REGION;Disordered;338;366

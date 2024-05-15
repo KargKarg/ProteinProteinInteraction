@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005874;C:microtubule
+GO:0005634;C:nucleus
+GO:0043014;F:alpha-tubulin binding
+GO:0008017;F:microtubule binding
+GO:0007023;P:post-chaperonin tubulin folding pathway
+GO:0006457;P:protein folding

@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PUA;89;170
+DOMAIN;SWIB/MDM2;362;447
+DOMAIN;SUI1;475;547

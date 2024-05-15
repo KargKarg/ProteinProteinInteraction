@@ -1,0 +1,24 @@
+GO id;GO term
+GO:0016587;C:Isw1 complex
+GO:0036436;C:Isw1a complex
+GO:0036437;C:Isw1b complex
+GO:0030874;C:nucleolar chromatin
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0008094;F:ATP-dependent activity, acting on DNA
+GO:0140658;F:ATP-dependent chromatin remodeler activity
+GO:0004386;F:helicase activity
+GO:0016787;F:hydrolase activity
+GO:0031491;F:nucleosome binding
+GO:0000182;F:rDNA binding
+GO:0000976;F:transcription cis-regulatory region binding
+GO:0006338;P:chromatin remodeling
+GO:0006354;P:DNA-templated transcription elongation
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:1902275;P:regulation of chromatin organization
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0001178;P:regulation of transcriptional start site selection at RNA polymerase II promoter
+GO:0009408;P:response to heat
+GO:0007062;P:sister chromatid cohesion
+GO:0006363;P:termination of RNA polymerase I transcription
+GO:0006369;P:termination of RNA polymerase II transcription

@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0090422;F:thiamine pyrophosphate transmembrane transporter activity
+GO:0015234;F:thiamine transmembrane transporter activity
+GO:1990545;P:mitochondrial thiamine pyrophosphate transmembrane transport
+GO:0030974;P:thiamine pyrophosphate transmembrane transport

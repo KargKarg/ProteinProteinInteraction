@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:1904855;F:proteasome regulatory particle binding
+GO:0070682;P:proteasome regulatory particle assembly

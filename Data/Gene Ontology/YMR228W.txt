@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0034245;C:mitochondrial DNA-directed RNA polymerase complex
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0003677;F:DNA binding
+GO:0008168;F:methyltransferase activity
+GO:0034246;F:mitochondrial transcription factor activity
+GO:0003723;F:RNA binding
+GO:0032259;P:methylation
+GO:0006390;P:mitochondrial transcription
+GO:0032786;P:positive regulation of DNA-templated transcription, elongation
+GO:0006391;P:transcription initiation at mitochondrial promoter

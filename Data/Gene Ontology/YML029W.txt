@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000836;C:Hrd1p ubiquitin ligase complex
+GO:0000839;C:Hrd1p ubiquitin ligase ERAD-L complex
+GO:0042802;F:identical protein binding
+GO:0060090;F:molecular adaptor activity
+GO:0000398;P:mRNA splicing, via spliceosome
+GO:1902499;P:positive regulation of protein autoubiquitination
+GO:0030433;P:ubiquitin-dependent ERAD pathway

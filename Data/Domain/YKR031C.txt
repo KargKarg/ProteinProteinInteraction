@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PX;291;487
+DOMAIN;PH;496;664
+DOMAIN;PLD phosphodiesterase 1;791;818
+DOMAIN;PLD phosphodiesterase 2;1091;1118
+REGION;Disordered;1;150
+REGION;Disordered;173;198
+REGION;Disordered;259;289
+REGION;Disordered;384;416
+REGION;Disordered;1430;1465
+ACT_SITE;;796;796
+ACT_SITE;;798;798
+ACT_SITE;;803;803
+ACT_SITE;;1096;1096
+ACT_SITE;;1098;1098
+ACT_SITE;;1103;1103

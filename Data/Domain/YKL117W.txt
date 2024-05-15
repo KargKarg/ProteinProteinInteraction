@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CS;5;108
+REPEAT;;141;156
+REPEAT;;160;174
+REGION;Disordered;169;216

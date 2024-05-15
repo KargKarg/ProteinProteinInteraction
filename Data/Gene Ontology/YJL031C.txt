@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005777;C:peroxisome
+GO:0005968;C:Rab-protein geranylgeranyltransferase complex
+GO:0004663;F:Rab geranylgeranyltransferase activity
+GO:0031267;F:small GTPase binding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0018344;P:protein geranylgeranylation
+GO:0006612;P:protein targeting to membrane

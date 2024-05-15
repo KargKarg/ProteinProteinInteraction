@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0030015;C:CCR4-NOT core complex
+GO:0005829;C:cytosol
+GO:0005854;C:nascent polypeptide-associated complex
+GO:0005634;C:nucleus
+GO:0042788;C:polysomal ribosome
+GO:0051082;F:unfolded protein binding
+GO:0051083;P:'de novo' cotranslational protein folding
+GO:0006613;P:cotranslational protein targeting to membrane
+GO:0015031;P:protein transport

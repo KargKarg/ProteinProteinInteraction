@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005782;C:peroxisomal matrix
+GO:0005777;C:peroxisome
+GO:0051920;F:peroxiredoxin activity

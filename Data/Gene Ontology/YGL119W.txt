@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0016301;F:kinase activity
+GO:0008289;F:lipid binding
+GO:0004672;F:protein kinase activity
+GO:0016310;P:phosphorylation
+GO:0006744;P:ubiquinone biosynthetic process
+GO:1901006;P:ubiquinone-6 biosynthetic process

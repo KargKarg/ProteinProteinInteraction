@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0006078;P:(1->6)-beta-D-glucan biosynthetic process
+GO:0071555;P:cell wall organization
+GO:0009272;P:fungal-type cell wall biogenesis

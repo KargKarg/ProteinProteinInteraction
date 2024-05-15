@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000943;C:retrotransposon nucleocapsid
+GO:0003677;F:DNA binding
+GO:0008270;F:zinc ion binding
+GO:0032197;P:retrotransposition

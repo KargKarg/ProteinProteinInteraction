@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0000812;C:Swr1 complex
+GO:0003682;F:chromatin binding
+GO:0001046;F:core promoter sequence-specific DNA binding
+GO:0070577;F:lysine-acetylated histone binding
+GO:0001094;F:TFIID-class transcription factor complex binding
+GO:0006338;P:chromatin remodeling
+GO:0006281;P:DNA repair
+GO:0031452;P:negative regulation of heterochromatin formation
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0090054;P:regulation of silent mating-type cassette heterochromatin formation
+GO:0009301;P:snRNA transcription
+GO:0030435;P:sporulation resulting in formation of a cellular spore

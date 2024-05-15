@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0001671;F:ATPase activator activity
+GO:0051117;F:ATPase binding
+GO:1902626;P:assembly of large subunit precursor of preribosome
+GO:0032781;P:positive regulation of ATP-dependent activity
+GO:0042273;P:ribosomal large subunit biogenesis

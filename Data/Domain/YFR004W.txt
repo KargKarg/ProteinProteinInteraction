@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MPN;27;162
+REGION;Disordered;1;20
+MOTIF;JAMM motif;109;122
+BINDING;;109;109
+BINDING;;111;111
+BINDING;;122;122

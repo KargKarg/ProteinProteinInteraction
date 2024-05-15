@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005886;C:plasma membrane
+GO:0071555;P:cell wall organization
+GO:0031505;P:fungal-type cell wall organization
+GO:0006506;P:GPI anchor biosynthetic process
+GO:0006505;P:GPI anchor metabolic process

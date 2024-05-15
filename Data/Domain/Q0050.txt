@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Reverse transcriptase;296;577
+REGION;Disordered;162;188

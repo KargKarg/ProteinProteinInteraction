@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0031410;C:cytoplasmic vesicle
+GO:0005829;C:cytosol
+GO:0005794;C:Golgi apparatus
+GO:0000407;C:phagophore assembly site
+GO:1990072;C:TRAPPIII protein complex
+GO:0000045;P:autophagosome assembly
+GO:0071255;P:Cvt vesicle assembly
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0016236;P:macroautophagy
+GO:0051321;P:meiotic cell cycle
+GO:0000425;P:pexophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0034497;P:protein localization to phagophore assembly site
+GO:0030435;P:sporulation resulting in formation of a cellular spore

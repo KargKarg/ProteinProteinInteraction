@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005816;C:spindle pole body
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0044877;F:protein-containing complex binding
+GO:0051301;P:cell division
+GO:0040001;P:establishment of mitotic spindle localization
+GO:0031578;P:mitotic spindle orientation checkpoint signaling
+GO:1904750;P:negative regulation of protein localization to nucleolus
+GO:0031536;P:positive regulation of exit from mitosis
+GO:0140281;P:positive regulation of mitotic division septum assembly
+GO:0023056;P:positive regulation of signaling
+GO:1902542;P:regulation of protein localization to mitotic spindle pole body

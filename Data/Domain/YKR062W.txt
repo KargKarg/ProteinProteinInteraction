@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;TFIIE beta;113;187
+REGION;Disordered;32;105

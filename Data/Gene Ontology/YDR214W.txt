@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0001671;F:ATPase activator activity
+GO:0051087;F:protein-folding chaperone binding
+GO:0006457;P:protein folding

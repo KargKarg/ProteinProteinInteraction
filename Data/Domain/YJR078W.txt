@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;proximal binding residue;331;331

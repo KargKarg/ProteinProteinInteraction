@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0022625;C:cytosolic large ribosomal subunit
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0000502;C:proteasome complex
+GO:0042802;F:identical protein binding
+GO:0070180;F:large ribosomal subunit rRNA binding
+GO:0070628;F:proteasome binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0003723;F:RNA binding
+GO:0019843;F:rRNA binding
+GO:0000466;P:maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000470;P:maturation of LSU-rRNA
+GO:0000463;P:maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0030163;P:protein catabolic process

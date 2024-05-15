@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0008081;F:phosphoric diester hydrolase activity
+GO:0006629;P:lipid metabolic process
+GO:0006796;P:phosphate-containing compound metabolic process

@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;RRM;101;183
+REPEAT;1; approximate;190;210
+REPEAT;2;211;232
+REPEAT;3;233;258
+REPEAT;4;259;284
+REPEAT;5;285;310
+REPEAT;6;311;340
+REPEAT;7; truncated;341;350
+REGION;Disordered;56;98
+REGION;Disordered;185;406
+REGION;7 X approximate tandem repeats;190;350

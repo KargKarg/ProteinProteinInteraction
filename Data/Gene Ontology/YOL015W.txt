@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0070056;C:prospore membrane leading edge

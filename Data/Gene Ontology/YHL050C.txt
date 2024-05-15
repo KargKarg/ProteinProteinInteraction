@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016020;C:membrane
+GO:0005524;F:ATP binding
+GO:0004386;F:helicase activity
+GO:0003676;F:nucleic acid binding

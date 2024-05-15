@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0030139;C:endocytic vesicle
+GO:0005794;C:Golgi apparatus
+GO:0006897;P:endocytosis
+GO:0008104;P:protein localization
+GO:0015031;P:protein transport
+GO:0042147;P:retrograde transport, endosome to Golgi

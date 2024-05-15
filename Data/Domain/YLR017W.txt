@@ -1,0 +1,9 @@
+Domain type;Domaine Description;Domain begin;Domain end
+BINDING;;41;41
+BINDING;;88;89
+BINDING;;121;122
+BINDING;;230;230
+BINDING;;231;231
+BINDING;;254;256
+SITE;Important for substrate specificity;212;212
+SITE;Important for substrate specificity;267;267

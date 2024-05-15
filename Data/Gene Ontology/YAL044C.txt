@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005960;C:glycine cleavage complex
+GO:0005739;C:mitochondrion
+GO:0006546;P:glycine catabolic process
+GO:0019464;P:glycine decarboxylation via glycine cleavage system
+GO:0006730;P:one-carbon metabolic process
+GO:0009249;P:protein lipoylation

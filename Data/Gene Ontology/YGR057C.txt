@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:1990877;C:FNIP-folliculin RagC/D GAP
+GO:0005774;C:vacuolar membrane
+GO:0005096;F:GTPase activator activity
+GO:1904263;P:positive regulation of TORC1 signaling

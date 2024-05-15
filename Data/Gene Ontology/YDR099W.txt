@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0003688;F:DNA replication origin binding
+GO:0050815;F:phosphoserine residue binding
+GO:0030437;P:ascospore formation
+GO:0000077;P:DNA damage checkpoint signaling
+GO:0006270;P:DNA replication initiation
+GO:0034221;P:fungal-type cell wall chitin biosynthetic process
+GO:0043066;P:negative regulation of apoptotic process
+GO:0031397;P:negative regulation of protein ubiquitination
+GO:0006267;P:pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+GO:0007124;P:pseudohyphal growth
+GO:0007265;P:Ras protein signal transduction
+GO:0070873;P:regulation of glycogen metabolic process
+GO:0007165;P:signal transduction
+GO:0001402;P:signal transduction involved in filamentous growth

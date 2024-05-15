@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;ERCC4;351;448
+REGION;Disordered;109;129
+REGION;Interaction with MMS4;527;632
+ACT_SITE;;415;415

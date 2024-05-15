@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Electrophile;95;95
+ACT_SITE;Proton acceptor;165;165
+BINDING;;10;10
+BINDING;;12;12

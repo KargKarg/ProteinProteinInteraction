@@ -1,0 +1,2 @@
+Domain type;Domaine Description;Domain begin;Domain end
+SITE;Cleavage; by KEX2;229;230

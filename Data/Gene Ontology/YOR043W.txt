@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005634;C:nucleus
+GO:1903293;C:phosphatase complex
+GO:0019903;F:protein phosphatase binding
+GO:0003723;F:RNA binding
+GO:0007015;P:actin filament organization
+GO:0007049;P:cell cycle
+GO:0006897;P:endocytosis
+GO:0000423;P:mitophagy
+GO:1904262;P:negative regulation of TORC1 signaling
+GO:1903452;P:positive regulation of G1 to G0 transition
+GO:0010628;P:positive regulation of gene expression
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006470;P:protein dephosphorylation
+GO:0009408;P:response to heat
+GO:0042542;P:response to hydrogen peroxide
+GO:0009651;P:response to salt stress

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0120009;P:intermembrane lipid transfer
+GO:0033108;P:mitochondrial respiratory chain complex assembly
+GO:0007005;P:mitochondrion organization
+GO:0045332;P:phospholipid translocation
+GO:0015914;P:phospholipid transport

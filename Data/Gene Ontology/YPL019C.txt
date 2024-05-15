@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000421;C:autophagosome membrane
+GO:0005938;C:cell cortex
+GO:0031410;C:cytoplasmic vesicle
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0016020;C:membrane
+GO:0033254;C:vacuolar transporter chaperone complex
+GO:0005516;F:calmodulin binding
+GO:0000822;F:inositol hexakisphosphate binding
+GO:0061736;P:engulfment of target by autophagosome
+GO:0030643;P:intracellular phosphate ion homeostasis
+GO:0016237;P:microautophagy
+GO:0006799;P:polyphosphate biosynthetic process
+GO:0006797;P:polyphosphate metabolic process
+GO:0007034;P:vacuolar transport
+GO:0042144;P:vacuole fusion, non-autophagic

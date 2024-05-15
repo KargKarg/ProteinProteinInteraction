@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Required for localization to the plasma membrane;1;50
+REGION;Disordered;20;52
+REGION;Required for localization to the plasma membrane;400;414

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0005665;C:RNA polymerase II, core complex
+GO:0003899;F:DNA-directed 5'-3' RNA polymerase activity
+GO:0003676;F:nucleic acid binding
+GO:0008270;F:zinc ion binding
+GO:0001193;P:maintenance of transcriptional fidelity during transcription elongation by RNA polymerase II
+GO:0001172;P:RNA-templated transcription
+GO:0006366;P:transcription by RNA polymerase II
+GO:0006368;P:transcription elongation by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter
+GO:0006283;P:transcription-coupled nucleotide-excision repair

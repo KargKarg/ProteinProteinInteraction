@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0006325;P:chromatin organization

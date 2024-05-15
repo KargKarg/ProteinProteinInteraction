@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Rho-GAP;520;702
+REGION;Disordered;313;340
+REGION;Disordered;732;785

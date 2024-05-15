@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0062128;C:MutSgamma complex
+GO:0000228;C:nuclear chromosome
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0140664;F:ATP-dependent DNA damage sensor activity
+GO:0030983;F:mismatched DNA binding
+GO:0051026;P:chiasma assembly
+GO:0006298;P:mismatch repair
+GO:0007131;P:reciprocal meiotic recombination

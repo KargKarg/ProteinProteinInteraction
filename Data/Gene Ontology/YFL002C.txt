@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0005730;C:nucleolus
+GO:0005654;C:nucleoplasm
+GO:0030687;C:preribosome, large subunit precursor
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003723;F:RNA binding
+GO:0003724;F:RNA helicase activity
+GO:1902626;P:assembly of large subunit precursor of preribosome
+GO:0000470;P:maturation of LSU-rRNA
+GO:0000027;P:ribosomal large subunit assembly

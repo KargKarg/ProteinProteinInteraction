@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0009277;C:fungal-type cell wall
+GO:0005199;F:structural constituent of cell wall
+GO:0031505;P:fungal-type cell wall organization

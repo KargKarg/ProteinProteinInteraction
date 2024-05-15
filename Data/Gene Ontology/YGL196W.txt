@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0008721;F:D-serine ammonia-lyase activity
+GO:0046872;F:metal ion binding
+GO:0036088;P:D-serine catabolic process
+GO:0070178;P:D-serine metabolic process

@@ -1,0 +1,12 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;;170;259
+REGION;Disordered;1;31
+REGION;Disordered;62;92
+REGION;Disordered;150;170
+REGION;Flexible linker;260;280
+REGION;Disordered;277;309
+REGION;Involved in trimerization;350;403
+REGION;Disordered;447;493
+REGION;Disordered;542;626
+REGION;Disordered;657;765
+REGION;Disordered;778;799

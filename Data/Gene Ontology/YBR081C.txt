@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0000124;C:SAGA complex
+GO:0046695;C:SLIK (SAGA-like) complex
+GO:0046982;F:protein heterodimerization activity
+GO:0005198;F:structural molecule activity
+GO:0006325;P:chromatin organization
+GO:0000747;P:conjugation with cellular fusion
+GO:0065003;P:protein-containing complex assembly
+GO:0006357;P:regulation of transcription by RNA polymerase II

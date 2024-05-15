@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0005874;C:microtubule
+GO:0005739;C:mitochondrion
+GO:0005509;F:calcium ion binding
+GO:0002181;P:cytoplasmic translation
+GO:0010507;P:negative regulation of autophagy
+GO:0007026;P:negative regulation of microtubule depolymerization

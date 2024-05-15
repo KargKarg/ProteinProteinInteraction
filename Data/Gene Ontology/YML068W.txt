@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000151;C:ubiquitin ligase complex
+GO:0031624;F:ubiquitin conjugating enzyme binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0008270;F:zinc ion binding
+GO:0032436;P:positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0085020;P:protein K6-linked ubiquitination
+GO:0000209;P:protein polyubiquitination
+GO:0006449;P:regulation of translational termination
+GO:0072344;P:rescue of stalled ribosome
+GO:0006511;P:ubiquitin-dependent protein catabolic process

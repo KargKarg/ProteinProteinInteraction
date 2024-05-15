@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0120171;C:Cdc24p-Far1p-Gbetagamma complex
+GO:0005938;C:cell cortex
+GO:0005737;C:cytoplasm
+GO:0031680;C:G-protein beta/gamma-subunit complex
+GO:0005834;C:heterotrimeric G-protein complex
+GO:0005937;C:mating projection
+GO:0005886;C:plasma membrane
+GO:0001965;F:G-protein alpha-subunit binding
+GO:0031682;F:G-protein gamma-subunit binding
+GO:0019901;F:protein kinase binding
+GO:0097110;F:scaffold protein binding
+GO:0030159;F:signaling receptor complex adaptor activity
+GO:0031267;F:small GTPase binding
+GO:0043577;P:chemotropism
+GO:0061951;P:establishment of protein localization to plasma membrane
+GO:0007186;P:G protein-coupled receptor signaling pathway
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion
+GO:1903260;P:protein localization to mating projection tip
+GO:0010969;P:regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Protein kinase;55;306
+DOMAIN;UBA;348;389
+REGION;Disordered;1;46
+REGION;Auto-inhibitory domain (AID);313;392
+REGION;Disordered;317;345
+REGION;Disordered;409;434
+ACT_SITE;Proton acceptor;177;177
+BINDING;;61;69
+BINDING;;84;84

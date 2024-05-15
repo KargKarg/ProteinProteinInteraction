@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0008186;F:ATP-dependent activity, acting on RNA
+GO:0003723;F:RNA binding
+GO:0003724;F:RNA helicase activity
+GO:0000464;P:endonucleolytic cleavage in ITS1 upstream of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0006364;P:rRNA processing

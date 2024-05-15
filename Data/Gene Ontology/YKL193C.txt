@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000164;C:protein phosphatase type 1 complex
+GO:0072542;F:protein phosphatase activator activity
+GO:0004865;F:protein serine/threonine phosphatase inhibitor activity
+GO:0051301;P:cell division
+GO:0051276;P:chromosome organization
+GO:0007059;P:chromosome segregation
+GO:0051457;P:maintenance of protein location in nucleus

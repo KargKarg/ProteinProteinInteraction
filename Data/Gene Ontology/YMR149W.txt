@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0008250;C:oligosaccharyltransferase complex
+GO:0006487;P:protein N-linked glycosylation

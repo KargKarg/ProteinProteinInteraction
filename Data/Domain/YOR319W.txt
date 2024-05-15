@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;RRM 1;9;88
+DOMAIN;RRM 2;108;185

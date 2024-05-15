@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0042645;C:mitochondrial nucleoid
+GO:0005739;C:mitochondrion
+GO:0003941;F:L-serine ammonia-lyase activity
+GO:0004794;F:L-threonine ammonia-lyase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0009097;P:isoleucine biosynthetic process
+GO:0006565;P:L-serine catabolic process
+GO:0006567;P:threonine catabolic process

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0043332;C:mating projection tip
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005085;F:guanyl-nucleotide exchange factor activity
+GO:0000747;P:conjugation with cellular fusion
+GO:0000755;P:cytogamy
+GO:0000742;P:karyogamy involved in conjugation with cellular fusion
+GO:0031991;P:regulation of actomyosin contractile ring contraction
+GO:0032955;P:regulation of division septum assembly

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005856;C:cytoskeleton
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0012507;C:ER to Golgi transport vesicle membrane
+GO:0000139;C:Golgi membrane
+GO:0005795;C:Golgi stack
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0048211;P:Golgi vesicle docking
+GO:0006886;P:intracellular protein transport
+GO:0061025;P:membrane fusion
+GO:0035493;P:SNARE complex assembly
+GO:0048280;P:vesicle fusion with Golgi apparatus

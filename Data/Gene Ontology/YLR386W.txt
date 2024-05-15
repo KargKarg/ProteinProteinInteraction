@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0010008;C:endosome membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0070772;C:PAS complex
+GO:0042802;F:identical protein binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:1903100;P:1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate metabolic process
+GO:0006661;P:phosphatidylinositol biosynthetic process
+GO:0042327;P:positive regulation of phosphorylation
+GO:1903778;P:protein localization to vacuolar membrane
+GO:0015031;P:protein transport
+GO:0010511;P:regulation of phosphatidylinositol biosynthetic process

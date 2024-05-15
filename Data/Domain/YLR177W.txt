@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PSP1 C-terminal;472;565
+REGION;Disordered;133;174

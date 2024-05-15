@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Sm;1;80
+DOMAIN;DFDF;193;229
+REGION;Disordered;89;128
+REGION;Disordered;144;239
+REGION;Disordered;275;349
+MOTIF;FFD box;241;257
+MOTIF;TFG box;260;280

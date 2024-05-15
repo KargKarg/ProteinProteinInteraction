@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0010526;P:retrotransposon silencing
+GO:0032196;P:transposition

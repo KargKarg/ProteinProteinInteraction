@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0022627;C:cytosolic small ribosomal subunit
+GO:0003735;F:structural constituent of ribosome
+GO:0008270;F:zinc ion binding
+GO:0002181;P:cytoplasmic translation

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;MPN;8;143
+REGION;Disordered;301;338

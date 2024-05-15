@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;tRNA-binding;205;307
+REGION;Interaction with methionyl-tRNA synthetase MES1;22;46
+REGION;Interaction with glutamyl-tRNA synthetase GUS1;52;61
+REGION;Interaction with glutamyl-tRNA synthetase GUS1;91;121
+REGION;Disordered;133;206

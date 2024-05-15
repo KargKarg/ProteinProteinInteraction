@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;BUB1 N-terminal;67;228
+REGION;Disordered;397;515

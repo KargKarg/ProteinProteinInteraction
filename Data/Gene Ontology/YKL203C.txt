@@ -1,0 +1,26 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0005886;C:plasma membrane
+GO:0031931;C:TORC1 complex
+GO:0031932;C:TORC2 complex
+GO:0004430;F:1-phosphatidylinositol 4-kinase activity
+GO:0005524;F:ATP binding
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0044877;F:protein-containing complex binding
+GO:0007049;P:cell cycle
+GO:0007010;P:cytoskeleton organization
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0010507;P:negative regulation of autophagy
+GO:0016242;P:negative regulation of macroautophagy
+GO:0016310;P:phosphorylation
+GO:0045807;P:positive regulation of endocytosis
+GO:0035025;P:positive regulation of Rho protein signal transduction
+GO:0051726;P:regulation of cell cycle
+GO:0001558;P:regulation of cell growth
+GO:1905356;P:regulation of snRNA pseudouridine synthesis
+GO:0007584;P:response to nutrient
+GO:0042254;P:ribosome biogenesis
+GO:0031929;P:TOR signaling

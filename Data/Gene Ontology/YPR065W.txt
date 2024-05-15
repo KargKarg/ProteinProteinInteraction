@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0000987;F:cis-regulatory region sequence-specific DNA binding
+GO:0008301;F:DNA binding, bending
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0001227;F:DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0003714;F:transcription corepressor activity
+GO:0009653;P:anatomical structure morphogenesis
+GO:0030154;P:cell differentiation
+GO:0071470;P:cellular response to osmotic stress
+GO:0000122;P:negative regulation of transcription by RNA polymerase II

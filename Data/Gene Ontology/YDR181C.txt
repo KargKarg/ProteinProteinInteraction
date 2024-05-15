@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0000781;C:chromosome, telomeric region
+GO:0005634;C:nucleus
+GO:0033255;C:SAS acetyltransferase complex
+GO:0016407;F:acetyltransferase activity
+GO:0004402;F:histone acetyltransferase activity
+GO:0031509;P:subtelomeric heterochromatin formation

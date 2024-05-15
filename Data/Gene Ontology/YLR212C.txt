@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000930;C:gamma-tubulin complex
+GO:0008275;C:gamma-tubulin small complex
+GO:0005822;C:inner plaque of spindle pole body
+GO:0005874;C:microtubule
+GO:0005634;C:nucleus
+GO:0005824;C:outer plaque of spindle pole body
+GO:0005819;C:spindle
+GO:0005816;C:spindle pole body
+GO:0005525;F:GTP binding
+GO:0005200;F:structural constituent of cytoskeleton
+GO:0031122;P:cytoplasmic microtubule organization
+GO:0000212;P:meiotic spindle organization
+GO:0007020;P:microtubule nucleation
+GO:0051417;P:microtubule nucleation by spindle pole body
+GO:0000278;P:mitotic cell cycle
+GO:0000070;P:mitotic sister chromatid segregation
+GO:0007052;P:mitotic spindle organization
+GO:2000767;P:positive regulation of cytoplasmic translation
+GO:0010968;P:regulation of microtubule nucleation

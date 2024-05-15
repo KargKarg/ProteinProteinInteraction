@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005886;C:plasma membrane
+GO:0052851;F:ferric-chelate reductase (NADPH) activity
+GO:0000293;F:ferric-chelate reductase activity
+GO:0046872;F:metal ion binding
+GO:0016175;F:superoxide-generating NAD(P)H oxidase activity
+GO:0015677;P:copper ion import
+GO:0006826;P:iron ion transport
+GO:0033215;P:reductive iron assimilation

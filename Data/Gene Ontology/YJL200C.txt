@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0051539;F:4 iron, 4 sulfur cluster binding
+GO:0003994;F:aconitate hydratase activity
+GO:0046872;F:metal ion binding
+GO:0019878;P:lysine biosynthetic process via aminoadipic acid
+GO:0006099;P:tricarboxylic acid cycle

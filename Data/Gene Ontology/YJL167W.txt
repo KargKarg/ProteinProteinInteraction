@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005773;C:vacuole
+GO:0004161;F:dimethylallyltranstransferase activity
+GO:0004337;F:geranyltranstransferase activity
+GO:0004452;F:isopentenyl-diphosphate delta-isomerase activity
+GO:0046872;F:metal ion binding
+GO:0006696;P:ergosterol biosynthetic process
+GO:0045337;P:farnesyl diphosphate biosynthetic process
+GO:0033384;P:geranyl diphosphate biosynthetic process
+GO:0008299;P:isoprenoid biosynthetic process

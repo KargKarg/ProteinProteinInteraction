@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0071597;C:cellular birth scar
+GO:0005935;C:cellular bud neck
+GO:0032177;C:cellular bud neck split septin rings
+GO:0005621;C:cellular bud scar
+GO:0005737;C:cytoplasm
+GO:0005096;F:GTPase activator activity
+GO:0046872;F:metal ion binding
+GO:0007015;P:actin filament organization
+GO:0007120;P:axial cellular bud site selection
+GO:0007118;P:budding cell apical bud growth
+GO:0007119;P:budding cell isotropic bud growth
+GO:0030010;P:establishment of cell polarity
+GO:0001403;P:invasive growth in response to glucose limitation
+GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion
+GO:2000222;P:positive regulation of pseudohyphal growth
+GO:0031106;P:septin ring organization

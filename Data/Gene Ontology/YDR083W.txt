@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0030686;C:90S preribosome
+GO:0000781;C:chromosome, telomeric region
+GO:0005730;C:nucleolus
+GO:0016433;F:rRNA (adenine) methyltransferase activity
+GO:0106142;F:rRNA (adenine-N1-)-methyltransferase activity
+GO:0042273;P:ribosomal large subunit biogenesis
+GO:0031167;P:rRNA methylation
+GO:0006364;P:rRNA processing

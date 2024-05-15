@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0004314;F:[acyl-carrier-protein] S-malonyltransferase activity
+GO:0006633;P:fatty acid biosynthetic process
+GO:0006631;P:fatty acid metabolic process

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005635;C:nuclear envelope
+GO:0061499;C:outer plaque of mitotic spindle pole body
+GO:0035591;F:signaling adaptor activity
+GO:0030953;P:astral microtubule organization
+GO:0051301;P:cell division
+GO:0051293;P:establishment of spindle localization
+GO:0000073;P:initial mitotic spindle pole body separation
+GO:0045132;P:meiotic chromosome segregation
+GO:0031536;P:positive regulation of exit from mitosis

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0016783;F:sulfurtransferase activity
+GO:0000049;F:tRNA binding
+GO:0061708;F:tRNA-5-taurinomethyluridine 2-sulfurtransferase
+GO:1990799;P:mitochondrial tRNA wobble position uridine thiolation
+GO:0006400;P:tRNA modification
+GO:0002143;P:tRNA wobble position uridine thiolation

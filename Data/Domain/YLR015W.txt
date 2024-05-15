@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;B30.2/SPRY;70;295
+REGION;Disordered;271;290
+REGION;Disordered;398;420
+BINDING;;318;318

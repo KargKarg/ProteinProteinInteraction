@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0000775;C:chromosome, centromeric region
+GO:0008278;C:cohesin complex
+GO:0000794;C:condensed nuclear chromosome
+GO:0005739;C:mitochondrion
+GO:0030892;C:mitotic cohesin complex
+GO:0005634;C:nucleus
+GO:0003682;F:chromatin binding
+GO:0019901;F:protein kinase binding
+GO:0006915;P:apoptotic process
+GO:0051301;P:cell division
+GO:0006974;P:DNA damage response
+GO:0006302;P:double-strand break repair
+GO:0034087;P:establishment of mitotic sister chromatid cohesion
+GO:0007076;P:mitotic chromosome condensation
+GO:0007064;P:mitotic sister chromatid cohesion
+GO:0006473;P:protein acetylation
+GO:1990414;P:replication-born double-strand break repair via sister chromatid exchange

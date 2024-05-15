@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0016514;C:SWI/SNF complex
+GO:0000182;F:rDNA binding
+GO:0006338;P:chromatin remodeling
+GO:0000470;P:maturation of LSU-rRNA
+GO:0006289;P:nucleotide-excision repair
+GO:0045943;P:positive regulation of transcription by RNA polymerase I
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II

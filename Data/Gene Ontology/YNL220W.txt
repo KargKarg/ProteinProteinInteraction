@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0004019;F:adenylosuccinate synthase activity
+GO:0003688;F:DNA replication origin binding
+GO:0005525;F:GTP binding
+GO:0000287;F:magnesium ion binding
+GO:0044208;P:'de novo' AMP biosynthetic process
+GO:0046040;P:IMP metabolic process
+GO:0006164;P:purine nucleotide biosynthetic process

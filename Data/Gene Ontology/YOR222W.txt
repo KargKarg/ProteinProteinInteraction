@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005471;F:ATP:ADP antiporter activity
+GO:0005310;F:dicarboxylic acid transmembrane transporter activity
+GO:0015183;F:L-aspartate transmembrane transporter activity
+GO:0005313;F:L-glutamate transmembrane transporter activity
+GO:0015810;P:aspartate transmembrane transport
+GO:0015813;P:L-glutamate transmembrane transport
+GO:0043490;P:malate-aspartate shuttle
+GO:0140021;P:mitochondrial ADP transmembrane transport
+GO:1990544;P:mitochondrial ATP transmembrane transport
+GO:0006839;P:mitochondrial transport

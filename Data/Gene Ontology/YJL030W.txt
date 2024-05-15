@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0000776;C:kinetochore
+GO:0033597;C:mitotic checkpoint complex
+GO:1990333;C:mitotic checkpoint complex, CDC20-MAD2 subcomplex
+GO:0005654;C:nucleoplasm
+GO:0044877;F:protein-containing complex binding
+GO:0051301;P:cell division
+GO:0044774;P:mitotic DNA integrity checkpoint signaling
+GO:0007094;P:mitotic spindle assembly checkpoint signaling
+GO:1902499;P:positive regulation of protein autoubiquitination

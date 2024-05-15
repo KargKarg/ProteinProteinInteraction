@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PH;1030;1229
+REGION;Disordered;207;270
+REGION;Disordered;1154;1192
+MOTIF;PxP;385;399

@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CAP-Gly;182;225
+REGION;Disordered;234;254

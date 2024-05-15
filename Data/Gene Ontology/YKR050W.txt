@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0140107;F:high-affinity potassium ion transmembrane transporter activity
+GO:0015079;F:potassium ion transmembrane transporter activity
+GO:0030007;P:intracellular potassium ion homeostasis
+GO:1990573;P:potassium ion import across plasma membrane
+GO:0042391;P:regulation of membrane potential

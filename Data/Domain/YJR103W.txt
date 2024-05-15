@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-1;305;564
+ACT_SITE;For GATase activity;404;404
+ACT_SITE;For GATase activity;537;537
+ACT_SITE;For GATase activity;539;539

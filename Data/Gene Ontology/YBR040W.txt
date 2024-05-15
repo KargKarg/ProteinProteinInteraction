@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0043332;C:mating projection tip
+GO:0016020;C:membrane
+GO:0000753;P:cell morphogenesis involved in conjugation with cellular fusion
+GO:0000747;P:conjugation with cellular fusion
+GO:0000755;P:cytogamy

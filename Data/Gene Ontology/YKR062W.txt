@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005673;C:transcription factor TFIIE complex
+GO:0097550;C:transcription preinitiation complex
+GO:0003677;F:DNA binding
+GO:0006366;P:transcription by RNA polymerase II
+GO:0006367;P:transcription initiation at RNA polymerase II promoter

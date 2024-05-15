@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0003862;F:3-isopropylmalate dehydrogenase activity
+GO:0000287;F:magnesium ion binding
+GO:0051287;F:NAD binding
+GO:0006097;P:glyoxylate cycle
+GO:0009098;P:leucine biosynthetic process

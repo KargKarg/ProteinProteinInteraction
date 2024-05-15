@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+MOTIF;Mitochondrial-targeting signal;69;83
+BINDING;;267;274

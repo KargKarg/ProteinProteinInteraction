@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DNA_BIND;RFX-type winged-helix;285;360
+REGION;Disordered;48;92
+REGION;Disordered;111;156
+REGION;Disordered;181;222
+REGION;Disordered;377;461

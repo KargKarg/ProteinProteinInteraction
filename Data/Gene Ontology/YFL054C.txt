@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0015254;F:glycerol channel activity
+GO:0015250;F:water channel activity
+GO:0015793;P:glycerol transmembrane transport
+GO:0055085;P:transmembrane transport
+GO:0006833;P:water transport

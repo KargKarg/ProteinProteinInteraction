@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0035312;F:5'-3' DNA exonuclease activity
+GO:0008409;F:5'-3' exonuclease activity
+GO:0017108;F:5'-flap endonuclease activity
+GO:0003677;F:DNA binding
+GO:0046872;F:metal ion binding
+GO:0000729;P:DNA double-strand break processing
+GO:0006310;P:DNA recombination
+GO:0007534;P:gene conversion at mating-type locus
+GO:0000706;P:meiotic DNA double-strand break processing
+GO:0006298;P:mismatch repair
+GO:0044818;P:mitotic G2/M transition checkpoint
+GO:0000723;P:telomere maintenance
+GO:0031860;P:telomeric 3' overhang formation

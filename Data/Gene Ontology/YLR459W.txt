@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0042765;C:GPI-anchor transamidase complex
+GO:0016255;P:attachment of GPI anchor to protein
+GO:0007049;P:cell cycle
+GO:0051301;P:cell division
+GO:0031505;P:fungal-type cell wall organization

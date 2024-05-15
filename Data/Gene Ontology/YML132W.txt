@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005768;C:endosome
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0006883;P:intracellular sodium ion homeostasis
+GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000776;C:kinetochore
+GO:0033551;C:monopolin complex
+GO:0005634;C:nucleus
+GO:0045143;P:homologous chromosome segregation
+GO:0045132;P:meiotic chromosome segregation
+GO:0010789;P:meiotic sister chromatid cohesion involved in meiosis I
+GO:0051455;P:spindle attachment to meiosis I kinetochore

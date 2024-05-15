@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0046872;F:metal ion binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0034641;P:cellular nitrogen compound metabolic process
+GO:0000209;P:protein polyubiquitination
+GO:0016567;P:protein ubiquitination

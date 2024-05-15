@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005635;C:nuclear envelope
+GO:0046872;F:metal ion binding
+GO:0017018;F:myosin phosphatase activity
+GO:0004721;F:phosphoprotein phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0070262;P:peptidyl-serine dephosphorylation
+GO:0006470;P:protein dephosphorylation
+GO:0010795;P:regulation of ubiquinone biosynthetic process

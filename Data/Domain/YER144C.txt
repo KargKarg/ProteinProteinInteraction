@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Rhodanese;159;283
+DOMAIN;USP;446;804
+REGION;Disordered;359;380
+ACT_SITE;Nucleophile;455;455
+ACT_SITE;Proton acceptor;761;761

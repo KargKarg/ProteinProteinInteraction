@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0010494;C:cytoplasmic stress granule
+GO:0005829;C:cytosol
+GO:0046872;F:metal ion binding
+GO:0004615;F:phosphomannomutase activity
+GO:0009298;P:GDP-mannose biosynthetic process
+GO:0006013;P:mannose metabolic process
+GO:0006487;P:protein N-linked glycosylation

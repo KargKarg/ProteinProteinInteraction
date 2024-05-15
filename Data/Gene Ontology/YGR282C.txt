@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0009986;C:cell surface
+GO:0005576;C:extracellular region
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0008061;F:chitin binding
+GO:0042973;F:glucan endo-1,3-beta-D-glucosidase activity
+GO:0004338;F:glucan exo-1,3-beta-glucosidase activity
+GO:0005975;P:carbohydrate metabolic process
+GO:0071555;P:cell wall organization
+GO:0031505;P:fungal-type cell wall organization

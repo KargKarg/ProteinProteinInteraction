@@ -1,0 +1,15 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Proton acceptor;182;182
+ACT_SITE;Proton donor;189;189
+BINDING;;9;14
+BINDING;;32;34
+BINDING;;74;76
+BINDING;;102;102
+BINDING;in other chain;102;102
+BINDING;in other chain;128;130
+BINDING;in other chain;185;186
+BINDING;in other chain;190;190
+BINDING;in other chain;259;259
+BINDING;in other chain;286;286
+BINDING;;446;446
+BINDING;;452;452

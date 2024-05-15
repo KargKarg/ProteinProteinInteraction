@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0005635;C:nuclear envelope
+GO:0005643;C:nuclear pore
+GO:0044615;C:nuclear pore nuclear basket
+GO:0005654;C:nucleoplasm
+GO:0005816;C:spindle pole body
+GO:0043021;F:ribonucleoprotein complex binding
+GO:0017056;F:structural constituent of nuclear pore
+GO:0006406;P:mRNA export from nucleus
+GO:1901925;P:negative regulation of protein import into nucleus during spindle assembly checkpoint
+GO:0006913;P:nucleocytoplasmic transport
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0000973;P:post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0006606;P:protein import into nucleus
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0051300;P:spindle pole body organization
+GO:0034398;P:telomere tethering at nuclear periphery
+GO:0000972;P:transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery

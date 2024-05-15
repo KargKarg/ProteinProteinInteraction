@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000015;C:phosphopyruvate hydratase complex
+GO:0000287;F:magnesium ion binding
+GO:0004634;F:phosphopyruvate hydratase activity
+GO:0006096;P:glycolytic process

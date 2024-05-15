@@ -1,0 +1,17 @@
+GO id;GO term
+GO:1905348;C:endonuclease complex
+GO:0000110;C:nucleotide-excision repair factor 1 complex
+GO:0005634;C:nucleus
+GO:0003684;F:damaged DNA binding
+GO:0004520;F:DNA endonuclease activity
+GO:0003697;F:single-stranded DNA binding
+GO:0006277;P:DNA amplification
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0000736;P:double-strand break repair via single-strand annealing, removal of nonhomologous ends
+GO:0000710;P:meiotic mismatch repair
+GO:0006312;P:mitotic recombination
+GO:0006289;P:nucleotide-excision repair
+GO:1901255;P:nucleotide-excision repair involved in interstrand cross-link repair
+GO:0000715;P:nucleotide-excision repair, DNA damage recognition
+GO:0000735;P:removal of nonhomologous ends
+GO:0000712;P:resolution of meiotic recombination intermediates

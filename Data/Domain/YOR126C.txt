@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Nucleophile;12;12
+ACT_SITE;Proton donor;187;187
+ACT_SITE;Proton acceptor;190;190
+SITE;Transition state stabilizer;53;53
+SITE;Transition state stabilizer;83;83

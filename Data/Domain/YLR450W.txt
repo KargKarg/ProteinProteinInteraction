@@ -1,0 +1,13 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SSD;188;356
+REGION;Disordered;1018;1045
+ACT_SITE;Charge relay system;710;710
+ACT_SITE;Charge relay system;844;844
+ACT_SITE;Charge relay system;920;920
+ACT_SITE;Proton donor;1016;1016
+BINDING;;716;722
+BINDING;;777;779
+BINDING;;804;812
+BINDING;;873;875
+BINDING;;1015;1016
+BINDING;;1020;1021

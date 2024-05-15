@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005794;C:Golgi apparatus
+GO:0005796;C:Golgi lumen
+GO:0000139;C:Golgi membrane
+GO:0051020;F:GTPase binding
+GO:0031267;F:small GTPase binding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0007030;P:Golgi organization

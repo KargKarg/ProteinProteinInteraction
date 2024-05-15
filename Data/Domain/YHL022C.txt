@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Topo IIA-type catalytic;40;175
+ACT_SITE;O-(5'-phospho-DNA)-tyrosine intermediate;135;135
+BINDING;;233;233
+BINDING;;288;288

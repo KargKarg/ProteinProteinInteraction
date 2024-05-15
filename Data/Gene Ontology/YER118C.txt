@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005933;C:cellular bud
+GO:0005935;C:cellular bud neck
+GO:0005783;C:endoplasmic reticulum
+GO:0044697;C:HICS complex
+GO:0043332;C:mating projection tip
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0005078;F:MAP-kinase scaffold activity
+GO:0005034;F:osmosensor activity
+GO:0030010;P:establishment of cell polarity
+GO:1902410;P:mitotic cytokinetic process
+GO:0007231;P:osmosensory signaling pathway
+GO:0030833;P:regulation of actin filament polymerization
+GO:0001402;P:signal transduction involved in filamentous growth

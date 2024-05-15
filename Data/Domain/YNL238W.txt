@@ -1,0 +1,14 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Peptidase S8;141;453
+DOMAIN;P/Homo B;462;596
+REGION;Disordered;651;671
+REGION;Disordered;756;814
+ACT_SITE;Charge relay system;175;175
+ACT_SITE;Charge relay system;213;213
+ACT_SITE;Charge relay system;385;385
+BINDING;;135;135
+BINDING;;184;184
+BINDING;;227;227
+BINDING;;277;277
+BINDING;;320;320
+BINDING;;350;350

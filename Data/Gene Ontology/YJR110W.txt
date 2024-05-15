@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016020;C:membrane
+GO:0003729;F:mRNA binding
+GO:0004438;F:phosphatidylinositol-3-phosphate phosphatase activity
+GO:0046856;P:phosphatidylinositol dephosphorylation

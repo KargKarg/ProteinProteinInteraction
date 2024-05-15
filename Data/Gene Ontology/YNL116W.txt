@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0032153;C:cell division site
+GO:0032177;C:cellular bud neck split septin rings
+GO:0005934;C:cellular bud tip
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0000151;C:ubiquitin ligase complex
+GO:0046872;F:metal ion binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0032186;P:cellular bud neck septin ring organization
+GO:0000132;P:establishment of mitotic spindle orientation
+GO:0031578;P:mitotic spindle orientation checkpoint signaling
+GO:0051865;P:protein autoubiquitination
+GO:0097271;P:protein localization to bud neck
+GO:0016567;P:protein ubiquitination
+GO:0090337;P:regulation of formin-nucleated actin cable assembly
+GO:0000921;P:septin ring assembly
+GO:0006511;P:ubiquitin-dependent protein catabolic process

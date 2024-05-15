@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with ARC1;36;92
+MOTIF;'HIGH' region;205;215
+MOTIF;'KMSKS' region;525;529
+BINDING;;411;411

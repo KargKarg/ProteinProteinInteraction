@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0000159;C:protein phosphatase type 2A complex
+GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
+GO:0019888;F:protein phosphatase regulator activity
+GO:0008160;F:protein tyrosine phosphatase activator activity
+GO:0006914;P:autophagy
+GO:0006281;P:DNA repair
+GO:0000082;P:G1/S transition of mitotic cell cycle
+GO:0007052;P:mitotic spindle organization
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0031929;P:TOR signaling

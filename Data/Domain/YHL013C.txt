@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;OTU;167;307
+REGION;Disordered;23;46
+REGION;Disordered;96;130

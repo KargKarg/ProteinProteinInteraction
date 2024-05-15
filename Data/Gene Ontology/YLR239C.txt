@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0016874;F:ligase activity
+GO:0033819;F:lipoyl(octanoyl) transferase activity
+GO:0009249;P:protein lipoylation

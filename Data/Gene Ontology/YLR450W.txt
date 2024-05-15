@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005635;C:nuclear envelope
+GO:0034399;C:nuclear periphery
+GO:0005778;C:peroxisomal membrane
+GO:0000502;C:proteasome complex
+GO:0004420;F:hydroxymethylglutaryl-CoA reductase (NADPH) activity
+GO:0015936;P:coenzyme A metabolic process
+GO:0006696;P:ergosterol biosynthetic process
+GO:0008299;P:isoprenoid biosynthetic process

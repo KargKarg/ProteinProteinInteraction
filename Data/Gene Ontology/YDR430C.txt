@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0004176;F:ATP-dependent peptidase activity
+GO:0004222;F:metalloendopeptidase activity
+GO:0008270;F:zinc ion binding
+GO:0016485;P:protein processing
+GO:0051603;P:proteolysis involved in protein catabolic process

@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0022626;C:cytosolic ribosome
+GO:0046872;F:metal ion binding
+GO:0043022;F:ribosome binding
+GO:0070181;F:small ribosomal subunit rRNA binding
+GO:0170011;F:stalled ribosome sensor activity
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0036205;P:histone catabolic process
+GO:0061157;P:mRNA destabilization
+GO:0010629;P:negative regulation of gene expression
+GO:0070651;P:nonfunctional rRNA decay
+GO:0070966;P:nuclear-transcribed mRNA catabolic process, no-go decay
+GO:0070534;P:protein K63-linked ubiquitination
+GO:0016567;P:protein ubiquitination
+GO:0072344;P:rescue of stalled ribosome
+GO:1990116;P:ribosome-associated ubiquitin-dependent protein catabolic process

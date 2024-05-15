@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;C3H1-type;8;37
+REGION;Pseudokinase domain;275;548
+REGION;Knob domain;588;679
+MOTIF;PABPC-interacting motif-2 (PAM-2);143;163
+BINDING;;325;325
+BINDING;;376;383
+BINDING;;430;431

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005730;C:nucleolus
+GO:0030687;C:preribosome, large subunit precursor
+GO:0008097;F:5S rRNA binding
+GO:0003723;F:RNA binding
+GO:0042134;F:rRNA primary transcript binding
+GO:0000464;P:endonucleolytic cleavage in ITS1 upstream of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000465;P:exonucleolytic trimming to generate mature 5'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000027;P:ribosomal large subunit assembly

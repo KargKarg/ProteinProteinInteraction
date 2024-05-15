@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;bHLH;250;306
+REGION;Interaction with PHO80;1;31
+REGION;Disordered;35;71
+REGION;Transcription activation domain;75;99
+REGION;Disordered;138;259
+REGION;Interaction with PHO80;156;200
+REGION;Interaction with PHO2;201;218
+REGION;Involved in oligomerization;203;227
+MOTIF;9aaTAD;75;83
+MOTIF;Nuclear localization signal;140;166

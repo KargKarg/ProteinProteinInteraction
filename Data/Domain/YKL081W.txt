@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;GST N-terminal;2;77
+DOMAIN;GST C-terminal;86;217
+DOMAIN;EF-1-gamma C-terminal;251;412
+REGION;Disordered;216;253

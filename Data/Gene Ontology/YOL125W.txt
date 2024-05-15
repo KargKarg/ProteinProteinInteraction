@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0106050;F:tRNA 2'-O-methyltransferase activity
+GO:0008175;F:tRNA methyltransferase activity
+GO:0030488;P:tRNA methylation
+GO:0002128;P:tRNA nucleoside ribose methylation

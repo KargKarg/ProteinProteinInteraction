@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0008540;C:proteasome regulatory particle, base subcomplex
+GO:0000151;C:ubiquitin ligase complex
+GO:1990303;C:UBR1-RAD6 ubiquitin ligase complex
+GO:1904855;F:proteasome regulatory particle binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0008270;F:zinc ion binding
+GO:0071629;P:cytoplasm protein quality control by the ubiquitin-proteasome system
+GO:0072671;P:mitochondria-associated ubiquitin-dependent protein catabolic process
+GO:0006513;P:protein monoubiquitination
+GO:0000209;P:protein polyubiquitination
+GO:0016567;P:protein ubiquitination
+GO:0090089;P:regulation of dipeptide transport
+GO:1990116;P:ribosome-associated ubiquitin-dependent protein catabolic process
+GO:0120174;P:stress-induced homeostatically regulated protein degradation pathway
+GO:0030433;P:ubiquitin-dependent ERAD pathway
+GO:0071596;P:ubiquitin-dependent protein catabolic process via the N-end rule pathway

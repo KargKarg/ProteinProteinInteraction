@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:1903600;C:glutaminase complex
+GO:0004359;F:glutaminase activity
+GO:0036381;F:pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+GO:0006543;P:glutamine catabolic process
+GO:0042823;P:pyridoxal phosphate biosynthetic process
+GO:0008614;P:pyridoxine metabolic process

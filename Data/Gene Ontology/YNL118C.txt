@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0098562;C:cytoplasmic side of membrane
+GO:0005634;C:nucleus
+GO:0000932;C:P-body
+GO:0098745;C:RNA decapping complex
+GO:0140933;F:5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase activity
+GO:0003682;F:chromatin binding
+GO:0016787;F:hydrolase activity
+GO:0030145;F:manganese ion binding
+GO:0003729;F:mRNA binding
+GO:0000290;P:deadenylation-dependent decapping of nuclear-transcribed mRNA
+GO:0031087;P:deadenylation-independent decapping of nuclear-transcribed mRNA
+GO:0006397;P:mRNA processing
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:0060261;P:positive regulation of transcription initiation by RNA polymerase II
+GO:0034063;P:stress granule assembly

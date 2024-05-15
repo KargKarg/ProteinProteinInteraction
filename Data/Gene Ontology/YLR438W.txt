@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0042802;F:identical protein binding
+GO:0004587;F:ornithine aminotransferase activity
+GO:0030170;F:pyridoxal phosphate binding
+GO:0019544;P:arginine catabolic process to glutamate
+GO:0010121;P:arginine catabolic process to proline via ornithine
+GO:0055129;P:L-proline biosynthetic process
+GO:0006591;P:ornithine metabolic process

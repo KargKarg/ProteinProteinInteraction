@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0010008;C:endosome membrane
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005770;C:late endosome
+GO:0046872;F:metal ion binding
+GO:0032266;F:phosphatidylinositol-3-phosphate binding
+GO:0004842;F:ubiquitin-protein transferase activity
+GO:0045721;P:negative regulation of gluconeogenesis
+GO:0016567;P:protein ubiquitination
+GO:0042176;P:regulation of protein catabolic process
+GO:0031647;P:regulation of protein stability

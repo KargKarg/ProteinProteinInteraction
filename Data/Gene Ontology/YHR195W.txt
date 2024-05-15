@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0016020;C:membrane
+GO:0005635;C:nuclear envelope
+GO:0005640;C:nuclear outer membrane
+GO:0034399;C:nuclear periphery
+GO:0071561;C:nucleus-vacuole junction
+GO:0006629;P:lipid metabolic process
+GO:0071562;P:nucleus-vacuole junction assembly
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0008104;P:protein localization

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
+GO:0005634;C:nucleus
+GO:0036002;F:pre-mRNA binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0008270;F:zinc ion binding
+GO:0006378;P:mRNA polyadenylation
+GO:0000209;P:protein polyubiquitination
+GO:0016567;P:protein ubiquitination
+GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled
+GO:0006511;P:ubiquitin-dependent protein catabolic process

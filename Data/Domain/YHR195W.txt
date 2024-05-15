@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;TSC13-binding;73;125
+REGION;OSH1-binding;139;195
+REGION;Disordered;211;275
+REGION;VAC8-binding;233;321
+REGION;Disordered;299;321

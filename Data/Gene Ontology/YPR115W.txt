@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0016247;F:channel regulator activity
+GO:0007049;P:cell cycle
+GO:0090372;P:positive regulation of glycerol transport

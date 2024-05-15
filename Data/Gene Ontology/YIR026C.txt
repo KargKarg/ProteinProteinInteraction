@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0005634;C:nucleus
+GO:1990275;F:preribosome binding
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0008138;F:protein tyrosine/serine/threonine phosphatase activity
+GO:0030476;P:ascospore wall assembly
+GO:0016311;P:dephosphorylation
+GO:0051321;P:meiotic cell cycle
+GO:2000786;P:positive regulation of autophagosome assembly
+GO:0000027;P:ribosomal large subunit assembly
+GO:0000055;P:ribosomal large subunit export from nucleus

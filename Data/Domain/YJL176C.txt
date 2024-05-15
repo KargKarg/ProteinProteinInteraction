@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SWIRM;305;402
+DOMAIN;SANT;522;573
+REGION;Disordered;1;285
+REGION;Disordered;464;509
+REGION;Leucine-zipper;694;722

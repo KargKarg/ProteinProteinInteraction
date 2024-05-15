@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0031397;P:negative regulation of protein ubiquitination

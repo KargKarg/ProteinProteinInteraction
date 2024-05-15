@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0005697;C:telomerase holoenzyme complex
+GO:0033677;F:DNA/RNA helicase activity
+GO:0003924;F:GTPase activity
+GO:0042162;F:telomeric DNA binding
+GO:0007004;P:telomere maintenance via telomerase

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0090443;C:FAR/SIN/STRIPAK complex
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0017018;F:myosin phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0061509;P:asymmetric protein localization to old mitotic spindle pole body
+GO:0005977;P:glycogen metabolic process

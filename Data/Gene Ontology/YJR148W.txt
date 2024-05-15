@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0004084;F:branched-chain-amino-acid transaminase activity
+GO:0052656;F:L-isoleucine transaminase activity
+GO:0052654;F:L-leucine transaminase activity
+GO:0050048;F:L-leucine:2-oxoglutarate aminotransferase activity
+GO:0052655;F:L-valine transaminase activity
+GO:0009082;P:branched-chain amino acid biosynthetic process
+GO:0009083;P:branched-chain amino acid catabolic process
+GO:0009097;P:isoleucine biosynthetic process
+GO:0019509;P:L-methionine salvage from methylthioadenosine
+GO:0009098;P:leucine biosynthetic process
+GO:0009099;P:valine biosynthetic process

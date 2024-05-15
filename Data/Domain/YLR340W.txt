@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Interaction with P1A-P2B;199;230
+REGION;Interaction with P1B-P2A;231;258
+REGION;Disordered;278;312

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0033588;C:elongator holoenzyme complex
+GO:0005654;C:nucleoplasm
+GO:0005634;C:nucleus
+GO:0042802;F:identical protein binding
+GO:0006417;P:regulation of translation
+GO:0006400;P:tRNA modification
+GO:0002098;P:tRNA wobble uridine modification

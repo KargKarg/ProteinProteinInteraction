@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005634;C:nucleus
+GO:0016586;C:RSC-type complex
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0008270;F:zinc ion binding
+GO:0006338;P:chromatin remodeling
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0006337;P:nucleosome disassembly
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0006368;P:transcription elongation by RNA polymerase II

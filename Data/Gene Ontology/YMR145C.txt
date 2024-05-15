@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005758;C:mitochondrial intermembrane space
+GO:0031966;C:mitochondrial membrane
+GO:0005739;C:mitochondrion
+GO:0050136;F:NADH dehydrogenase (quinone) activity
+GO:0003954;F:NADH dehydrogenase activity
+GO:0019655;P:glycolytic fermentation to ethanol
+GO:0006116;P:NADH oxidation
+GO:0042981;P:regulation of apoptotic process

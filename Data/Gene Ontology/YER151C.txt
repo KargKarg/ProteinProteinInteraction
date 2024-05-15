@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:1990861;C:Ubp3-Bre5 deubiquitination complex
+GO:0004843;F:cysteine-type deubiquitinase activity
+GO:0003729;F:mRNA binding
+GO:1901525;P:negative regulation of mitophagy
+GO:0016579;P:protein deubiquitination
+GO:0045053;P:protein retention in Golgi apparatus
+GO:0006508;P:proteolysis
+GO:0060628;P:regulation of ER to Golgi vesicle-mediated transport
+GO:0047484;P:regulation of response to osmotic stress
+GO:2000156;P:regulation of retrograde vesicle-mediated transport, Golgi to ER
+GO:0034517;P:ribophagy
+GO:0034063;P:stress granule assembly

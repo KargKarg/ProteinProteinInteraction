@@ -1,0 +1,19 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0050546;F:4-hydroxyphenylpyruvate decarboxylase activity
+GO:0047433;F:branched-chain-2-oxoacid decarboxylase activity
+GO:0016831;F:carboxy-lyase activity
+GO:0047434;F:indolepyruvate decarboxylase activity
+GO:0000287;F:magnesium ion binding
+GO:0050177;F:phenylpyruvate decarboxylase activity
+GO:0004737;F:pyruvate decarboxylase activity
+GO:0030976;F:thiamine pyrophosphate binding
+GO:0000949;P:aromatic amino acid family catabolic process to alcohol via Ehrlich pathway
+GO:0000950;P:branched-chain amino acid catabolic process to alcohol via Ehrlich pathway
+GO:0006559;P:L-phenylalanine catabolic process
+GO:0006552;P:leucine catabolic process
+GO:0000951;P:methionine catabolic process to 3-methylthiopropanol
+GO:0006569;P:tryptophan catabolic process
+GO:0006572;P:tyrosine catabolic process

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0015171;F:amino acid transmembrane transporter activity
+GO:0015489;F:putrescine transmembrane transporter activity
+GO:0000095;F:S-adenosyl-L-methionine transmembrane transporter activity
+GO:0015606;F:spermidine transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:0015847;P:putrescine transport
+GO:0015805;P:S-adenosyl-L-methionine transport
+GO:0015848;P:spermidine transport

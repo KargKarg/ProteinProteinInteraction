@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0008374;F:O-acyltransferase activity
+GO:0004806;F:triglyceride lipase activity
+GO:0006629;P:lipid metabolic process

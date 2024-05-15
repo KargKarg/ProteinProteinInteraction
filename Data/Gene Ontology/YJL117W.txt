@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0016020;C:membrane
+GO:0051082;F:unfolded protein binding
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0006817;P:phosphate ion transport
+GO:0006457;P:protein folding
+GO:0010966;P:regulation of phosphate transport

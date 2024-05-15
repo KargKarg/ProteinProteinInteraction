@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;UBA-like;14;51
+DOMAIN;DCUN1;70;266

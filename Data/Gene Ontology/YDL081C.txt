@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0022625;C:cytosolic large ribosomal subunit
+GO:0030295;F:protein kinase activator activity
+GO:0043021;F:ribonucleoprotein complex binding
+GO:0003735;F:structural constituent of ribosome
+GO:0002181;P:cytoplasmic translation
+GO:0006414;P:translational elongation

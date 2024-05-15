@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0034399;C:nuclear periphery
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0006974;P:DNA damage response
+GO:2000001;P:regulation of DNA damage checkpoint

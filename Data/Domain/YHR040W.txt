@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;HIT-type;5;39
+REGION;Disordered;318;366
+BINDING;;5;5
+BINDING;;8;8
+BINDING;;17;17
+BINDING;;20;20
+BINDING;;25;25
+BINDING;;29;29
+BINDING;;33;33
+BINDING;;39;39

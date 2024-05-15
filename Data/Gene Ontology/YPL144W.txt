@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0032991;C:protein-containing complex
+GO:0051131;P:chaperone-mediated protein complex assembly
+GO:0043248;P:proteasome assembly

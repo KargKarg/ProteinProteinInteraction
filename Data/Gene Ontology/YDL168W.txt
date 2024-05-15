@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005739;C:mitochondrion
+GO:0004022;F:alcohol dehydrogenase (NAD+) activity
+GO:0004024;F:alcohol dehydrogenase activity, zinc-dependent
+GO:0033833;F:hydroxymethylfurfural reductase (NADH) activity
+GO:0051903;F:S-(hydroxymethyl)glutathione dehydrogenase activity
+GO:0106322;F:S-(hydroxymethyl)glutathione dehydrogenase NAD activity
+GO:0106321;F:S-(hydroxymethyl)glutathione dehydrogenase NADP activity
+GO:0008270;F:zinc ion binding
+GO:0000947;P:amino acid catabolic process to alcohol via Ehrlich pathway
+GO:0006069;P:ethanol oxidation
+GO:0046294;P:formaldehyde catabolic process
+GO:0033859;P:furaldehyde metabolic process

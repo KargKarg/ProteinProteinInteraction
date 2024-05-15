@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0042802;F:identical protein binding
+GO:0005543;F:phospholipid binding
+GO:0042144;P:vacuole fusion, non-autophagic

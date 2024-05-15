@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0008408;F:3'-5' exonuclease activity
+GO:0003677;F:DNA binding
+GO:0003906;F:DNA-(apurinic or apyrimidinic site) endonuclease activity
+GO:0008311;F:double-stranded DNA 3'-5' DNA exonuclease activity
+GO:0004519;F:endonuclease activity
+GO:0008081;F:phosphoric diester hydrolase activity
+GO:0008270;F:zinc ion binding
+GO:0006284;P:base-excision repair

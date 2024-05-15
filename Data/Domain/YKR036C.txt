@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;WD 1;317;357
+REPEAT;WD 2;360;400
+REPEAT;WD 3;422;461
+REPEAT;WD 4;479;526
+REPEAT;WD 5;527;566
+REPEAT;WD 6;568;603
+REPEAT;WD 7;614;643
+REGION;Required for interaction with FIS1 and MDV1;1;274
+REGION;Sufficient for interaction with FIS1;74;126
+REGION;Disordered;243;262

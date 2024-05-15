@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0097078;C:FAL1-SGD1 complex
+GO:0005730;C:nucleolus
+GO:0005634;C:nucleus
+GO:0032040;C:small-subunit processome
+GO:0003723;F:RNA binding
+GO:0006972;P:hyperosmotic response
+GO:0030490;P:maturation of SSU-rRNA
+GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0042274;P:ribosomal small subunit biogenesis

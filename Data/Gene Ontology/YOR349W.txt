@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0048487;F:beta-tubulin binding
+GO:0005096;F:GTPase activator activity
+GO:0000226;P:microtubule cytoskeleton organization
+GO:0007023;P:post-chaperonin tubulin folding pathway
+GO:0006457;P:protein folding
+GO:0007021;P:tubulin complex assembly

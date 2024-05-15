@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:1990879;C:CST complex
+GO:0043047;F:single-stranded telomeric DNA binding
+GO:0003711;F:transcription elongation factor activity
+GO:0061770;F:translation elongation factor binding
+GO:0032205;P:negative regulation of telomere maintenance
+GO:0032210;P:regulation of telomere maintenance via telomerase
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0016233;P:telomere capping
+GO:0007004;P:telomere maintenance via telomerase

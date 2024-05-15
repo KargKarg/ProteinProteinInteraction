@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0008097;F:5S rRNA binding
+GO:0008312;F:7S RNA binding
+GO:0003729;F:mRNA binding
+GO:0008143;F:poly(A) binding
+GO:0033204;F:ribonuclease P RNA binding
+GO:0000049;F:tRNA binding
+GO:0008270;F:zinc ion binding
+GO:1900364;P:negative regulation of mRNA polyadenylation
+GO:1900152;P:negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0045945;P:positive regulation of transcription by RNA polymerase III
+GO:0043488;P:regulation of mRNA stability

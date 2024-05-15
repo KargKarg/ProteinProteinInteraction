@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CBS 1;591;659
+DOMAIN;CBS 2;688;744
+SITE;Cleavage; by KEX2;136;137
+SITE;Mediates proton transfer from the outer aqueous phase to the interior of the protein; involved in linking H(+) and Cl(-) transport;230;230
+SITE;Mediates proton transfer from the protein to the inner aqueous phase;287;287

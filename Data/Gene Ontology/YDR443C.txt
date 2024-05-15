@@ -1,0 +1,7 @@
+GO id;GO term
+GO:1990508;C:CKM complex
+GO:0016592;C:mediator complex
+GO:0003713;F:transcription coactivator activity
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0000435;P:positive regulation of transcription from RNA polymerase II promoter by galactose

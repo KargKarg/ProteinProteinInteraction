@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SET;26;335
+REGION;Disordered;399;432
+BINDING;;334;334

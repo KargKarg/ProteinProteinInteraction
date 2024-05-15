@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0003723;F:RNA binding
+GO:0000372;P:Group I intron splicing
+GO:0090615;P:mitochondrial mRNA processing

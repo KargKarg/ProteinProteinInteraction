@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0016531;F:copper chaperone activity
+GO:0046872;F:metal ion binding
+GO:0034599;P:cellular response to oxidative stress
+GO:0006825;P:copper ion transport
+GO:0006879;P:intracellular iron ion homeostasis

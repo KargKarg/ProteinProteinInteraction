@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0072546;C:EMC complex
+GO:0005783;C:endoplasmic reticulum
+GO:0000045;P:autophagosome assembly
+GO:0006644;P:phospholipid metabolic process
+GO:0015914;P:phospholipid transport
+GO:0034975;P:protein folding in endoplasmic reticulum
+GO:0045050;P:protein insertion into ER membrane by stop-transfer membrane-anchor sequence

@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;BPL/LPL catalytic;146;330
+BINDING;;188;188
+BINDING;;193;196
+BINDING;;249;249
+BINDING;;249;249

@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0003991;F:acetylglutamate kinase activity
+GO:0005524;F:ATP binding
+GO:0003942;F:N-acetyl-gamma-glutamyl-phosphate reductase activity
+GO:0051287;F:NAD binding
+GO:0070401;F:NADP+ binding
+GO:0046983;F:protein dimerization activity
+GO:0006526;P:arginine biosynthetic process
+GO:0006592;P:ornithine biosynthetic process
+GO:0016310;P:phosphorylation
+GO:0006355;P:regulation of DNA-templated transcription

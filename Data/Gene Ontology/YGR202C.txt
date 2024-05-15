@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0016020;C:membrane
+GO:0042564;C:NLS-dependent protein nuclear import complex
+GO:0005635;C:nuclear envelope
+GO:0005634;C:nucleus
+GO:0004105;F:choline-phosphate cytidylyltransferase activity
+GO:0031210;F:phosphatidylcholine binding
+GO:0006657;P:CDP-choline pathway
+GO:0006656;P:phosphatidylcholine biosynthetic process

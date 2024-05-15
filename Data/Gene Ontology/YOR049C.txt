@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005783;C:endoplasmic reticulum
+GO:0000324;C:fungal-type vacuole
+GO:0016020;C:membrane
+GO:0005886;C:plasma membrane
+GO:0045332;P:phospholipid translocation
+GO:1905329;P:sphingoid long-chain base transport

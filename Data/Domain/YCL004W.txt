@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PLD phosphodiesterase 1;177;203
+DOMAIN;PLD phosphodiesterase 2;419;457
+ACT_SITE;;182;182
+ACT_SITE;;184;184
+ACT_SITE;;189;189
+BINDING;;91;98

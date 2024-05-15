@@ -1,0 +1,3 @@
+GO id;GO term
+GO:0016791;F:phosphatase activity
+GO:0006388;P:tRNA splicing, via endonucleolytic cleavage and ligation

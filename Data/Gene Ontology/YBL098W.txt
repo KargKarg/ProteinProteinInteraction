@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0071949;F:FAD binding
+GO:0050660;F:flavin adenine dinucleotide binding
+GO:0004502;F:kynurenine 3-monooxygenase activity
+GO:0016174;F:NAD(P)H oxidase H2O2-forming activity
+GO:0034354;P:'de novo' NAD biosynthetic process from tryptophan
+GO:0043420;P:anthranilate metabolic process
+GO:0070189;P:kynurenine metabolic process
+GO:0019674;P:NAD metabolic process
+GO:0019805;P:quinolinate biosynthetic process
+GO:0006569;P:tryptophan catabolic process

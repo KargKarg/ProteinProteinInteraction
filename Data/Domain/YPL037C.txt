@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;NAC-A/B;38;103
+REGION;Disordered;19;42
+REGION;Disordered;126;157

@@ -1,0 +1,16 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-1;3;218
+REGION;Cyclase;236;552
+REGION;PRFAR binding;364;365
+REGION;PRFAR binding;402;404
+REGION;PRFAR binding;474;475
+REGION;PRFAR binding;500;501
+REGION;PRFAR binding;523;524
+ACT_SITE;For GATase activity;83;83
+ACT_SITE;For GATase activity;193;193
+ACT_SITE;For GATase activity;195;195
+ACT_SITE;;245;245
+ACT_SITE;;404;404
+BINDING;covalent;83;83
+BINDING;;332;332
+BINDING;;469;469

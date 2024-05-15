@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005643;C:nuclear pore
+GO:0042272;C:nuclear RNA export factor complex
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0015288;F:porin activity
+GO:0003723;F:RNA binding
+GO:0030619;F:U1 snRNA binding
+GO:0030620;F:U2 snRNA binding
+GO:0030621;F:U4 snRNA binding
+GO:0030623;F:U5 snRNA binding
+GO:0017070;F:U6 snRNA binding
+GO:0006406;P:mRNA export from nucleus
+GO:0016973;P:poly(A)+ mRNA export from nucleus
+GO:0000055;P:ribosomal large subunit export from nucleus
+GO:0000056;P:ribosomal small subunit export from nucleus

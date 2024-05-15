@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Radical SAM core;91;381
+DOMAIN;N-acetyltransferase;405;557
+BINDING;;108;108
+BINDING;;118;118
+BINDING;;121;121
+BINDING;;173;173
+BINDING;;485;488
+BINDING;;508;510
+BINDING;;541;541

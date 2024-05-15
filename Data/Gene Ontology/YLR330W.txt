@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0034044;C:exomer complex
+GO:0043332;C:mating projection tip
+GO:0016020;C:membrane
+GO:0005802;C:trans-Golgi network
+GO:0046983;F:protein dimerization activity
+GO:0031267;F:small GTPase binding
+GO:0030476;P:ascospore wall assembly
+GO:0006039;P:cell wall chitin catabolic process
+GO:0000282;P:cellular bud site selection
+GO:0000747;P:conjugation with cellular fusion
+GO:0006893;P:Golgi to plasma membrane transport
+GO:0015031;P:protein transport
+GO:0006355;P:regulation of DNA-templated transcription

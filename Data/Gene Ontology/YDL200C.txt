@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0003677;F:DNA binding
+GO:0003908;F:methylated-DNA-[protein]-cysteine S-methyltransferase activity
+GO:0006307;P:DNA dealkylation involved in DNA repair
+GO:0032259;P:methylation

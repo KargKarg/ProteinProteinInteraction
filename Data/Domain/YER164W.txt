@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Chromo 1;195;257
+DOMAIN;Chromo 2;285;350
+DOMAIN;Helicase ATP-binding;388;562
+DOMAIN;Helicase C-terminal;699;860
+REGION;Disordered;21;176
+REGION;Disordered;974;1007
+REGION;Disordered;1220;1247
+REGION;Disordered;1270;1378
+MOTIF;DEAH box;513;516
+BINDING;;401;408

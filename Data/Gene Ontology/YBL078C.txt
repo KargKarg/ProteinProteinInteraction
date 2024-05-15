@@ -1,0 +1,29 @@
+GO id;GO term
+GO:0005776;C:autophagosome
+GO:0000421;C:autophagosome membrane
+GO:0033110;C:Cvt vesicle membrane
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0000329;C:fungal-type vacuole membrane
+GO:0031966;C:mitochondrial membrane
+GO:0000407;C:phagophore assembly site
+GO:0120095;C:vacuole-isolation membrane contact site
+GO:0008429;F:phosphatidylethanolamine binding
+GO:0031386;F:protein tag activity
+GO:0000045;P:autophagosome assembly
+GO:0006914;P:autophagy
+GO:0000422;P:autophagy of mitochondrion
+GO:0006995;P:cellular response to nitrogen starvation
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
+GO:0016236;P:macroautophagy
+GO:0061025;P:membrane fusion
+GO:0044804;P:nucleophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0034497;P:protein localization to phagophore assembly site
+GO:0071211;P:protein targeting to vacuole involved in autophagy
+GO:0015031;P:protein transport
+GO:0031503;P:protein-containing complex localization
+GO:0016241;P:regulation of macroautophagy
+GO:1905153;P:regulation of membrane invagination
+GO:0061709;P:reticulophagy

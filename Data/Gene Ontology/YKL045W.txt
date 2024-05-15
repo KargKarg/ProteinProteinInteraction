@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005658;C:alpha DNA polymerase:primase complex
+GO:0005635;C:nuclear envelope
+GO:0005634;C:nucleus
+GO:0051539;F:4 iron, 4 sulfur cluster binding
+GO:0003677;F:DNA binding
+GO:0046872;F:metal ion binding
+GO:0006260;P:DNA replication
+GO:0006270;P:DNA replication initiation
+GO:0006269;P:DNA replication, synthesis of RNA primer
+GO:0006302;P:double-strand break repair

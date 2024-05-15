@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;RRN7-type;3;36
+REGION;B-reader;37;66
+REGION;B-linker;67;101
+REGION;N-terminal cyclin fold;102;210
+REGION;C-terminal cyclin fold;211;320
+BINDING;;10;10
+BINDING;;15;15
+BINDING;;29;29
+BINDING;;33;33

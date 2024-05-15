@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;522;597
+REGION;Disordered;610;629
+REGION;Disordered;644;692
+ACT_SITE;Proton donor;125;125

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005750;C:mitochondrial respiratory chain complex III
+GO:0005739;C:mitochondrion
+GO:0009060;P:aerobic respiration
+GO:0045333;P:cellular respiration
+GO:0006122;P:mitochondrial electron transport, ubiquinol to cytochrome c

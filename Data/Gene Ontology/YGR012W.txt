@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0004124;F:cysteine synthase activity
+GO:0006535;P:cysteine biosynthetic process from serine

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:1990904;C:ribonucleoprotein complex
+GO:0003729;F:mRNA binding
+GO:0010468;P:regulation of gene expression
+GO:0051252;P:regulation of RNA metabolic process
+GO:0000723;P:telomere maintenance

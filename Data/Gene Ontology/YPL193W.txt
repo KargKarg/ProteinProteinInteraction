@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005654;C:nucleoplasm
+GO:0000492;P:box C/D snoRNP assembly
+GO:0000027;P:ribosomal large subunit assembly

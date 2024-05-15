@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0031390;C:Ctf18 RFC-like complex
+GO:0003677;F:DNA binding
+GO:0006260;P:DNA replication
+GO:0035753;P:maintenance of DNA trinucleotide repeats
+GO:0007064;P:mitotic sister chromatid cohesion

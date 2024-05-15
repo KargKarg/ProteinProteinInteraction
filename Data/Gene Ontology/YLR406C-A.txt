@@ -1,0 +1,2 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole

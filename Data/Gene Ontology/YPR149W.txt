@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0033101;C:cellular bud membrane
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0070250;C:mating projection membrane
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0005886;C:plasma membrane
+GO:0070941;P:eisosome assembly
+GO:0001933;P:negative regulation of protein phosphorylation
+GO:0007009;P:plasma membrane organization
+GO:0072659;P:protein localization to plasma membrane
+GO:0009306;P:protein secretion
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0061091;P:regulation of phospholipid translocation

@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0005634;C:nucleus
+GO:0042138;P:meiotic DNA double-strand break formation
+GO:0007131;P:reciprocal meiotic recombination

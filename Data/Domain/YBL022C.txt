@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Lon N-terminal;182;480
+DOMAIN;Lon proteolytic;923;1109
+REGION;Disordered;98;176
+REGION;Disordered;282;358
+REGION;Dispensable for catalytic activity;839;892
+REGION;Disordered;844;889
+ACT_SITE;;1015;1015
+ACT_SITE;;1058;1058
+BINDING;;632;639

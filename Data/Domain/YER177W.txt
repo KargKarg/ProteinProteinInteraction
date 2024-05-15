@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;236;267
+SITE;NTH1 binding;136;136
+SITE;NTH1 binding;185;185

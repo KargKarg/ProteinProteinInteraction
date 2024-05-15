@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0000324;C:fungal-type vacuole
+GO:0005886;C:plasma membrane
+GO:0015179;F:L-amino acid transmembrane transporter activity
+GO:0000102;F:L-methionine secondary active transmembrane transporter activity
+GO:0003333;P:amino acid transmembrane transport
+GO:0042883;P:cysteine transport
+GO:1903692;P:methionine import across plasma membrane
+GO:0015821;P:methionine transport
+GO:0000101;P:sulfur amino acid transport

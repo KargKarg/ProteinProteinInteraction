@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0010494;C:cytoplasmic stress granule
+GO:0000932;C:P-body
+GO:0003729;F:mRNA binding
+GO:0003697;F:single-stranded DNA binding
+GO:0003727;F:single-stranded RNA binding
+GO:0045182;F:translation regulator activity
+GO:0008270;F:zinc ion binding
+GO:2000767;P:positive regulation of cytoplasmic translation

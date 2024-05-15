@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005509;F:calcium ion binding
+GO:0032469;P:endoplasmic reticulum calcium ion homeostasis

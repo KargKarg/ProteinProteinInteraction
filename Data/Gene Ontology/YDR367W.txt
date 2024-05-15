@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0070916;C:inositol phosphoceramide synthase complex
+GO:0070917;F:inositol phosphoceramide synthase regulator activity
+GO:0006673;P:inositol phosphoceramide metabolic process
+GO:0030148;P:sphingolipid biosynthetic process

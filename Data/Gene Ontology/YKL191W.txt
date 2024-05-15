@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0032991;C:protein-containing complex
+GO:0090560;F:2-(3-amino-3-carboxypropyl)histidine synthase activity
+GO:0051539;F:4 iron, 4 sulfur cluster binding
+GO:0046872;F:metal ion binding
+GO:0017183;P:protein histidyl modification to diphthamide

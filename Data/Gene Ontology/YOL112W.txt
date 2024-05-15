@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0000131;C:incipient cellular bud site
+GO:0000133;C:polarisome
+GO:0005096;F:GTPase activator activity
+GO:0030010;P:establishment of cell polarity
+GO:0030950;P:establishment or maintenance of actin cytoskeleton polarity
+GO:0006887;P:exocytosis
+GO:0070649;P:formin-nucleated actin cable assembly
+GO:0006903;P:vesicle targeting

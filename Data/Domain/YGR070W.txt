@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;DH;464;651
+DOMAIN;CNH;842;1137
+REGION;Disordered;100;249

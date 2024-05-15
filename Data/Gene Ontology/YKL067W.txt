@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0005524;F:ATP binding
+GO:0046872;F:metal ion binding
+GO:0004550;F:nucleoside diphosphate kinase activity
+GO:0006241;P:CTP biosynthetic process
+GO:0006974;P:DNA damage response
+GO:0006281;P:DNA repair
+GO:0006183;P:GTP biosynthetic process
+GO:0009142;P:nucleoside triphosphate biosynthetic process
+GO:0016310;P:phosphorylation
+GO:0006228;P:UTP biosynthetic process

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0044572;P:[4Fe-4S] cluster assembly
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0106035;P:protein maturation by [4Fe-4S] cluster transfer

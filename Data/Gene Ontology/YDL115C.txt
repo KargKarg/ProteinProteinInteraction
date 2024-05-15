@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0006913;P:nucleocytoplasmic transport
+GO:0006606;P:protein import into nucleus

@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Glutamine amidotransferase type-2;2;186
+DOMAIN;Asparagine synthetase;194;545
+ACT_SITE;For GATase activity;2;2
+BINDING;;49;53
+BINDING;;74;76
+BINDING;;97;97
+BINDING;;233;233
+BINDING;;291;291
+BINDING;;365;366
+SITE;Important for beta-aspartyl-AMP intermediate formation;367;367

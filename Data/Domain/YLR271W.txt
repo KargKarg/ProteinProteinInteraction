@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;G-patch;41;87
+REGION;Disordered;1;40

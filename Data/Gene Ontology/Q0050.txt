@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0003964;F:RNA-directed DNA polymerase activity
+GO:0006315;P:homing of group II introns
+GO:0090615;P:mitochondrial mRNA processing
+GO:0006397;P:mRNA processing
+GO:0006278;P:RNA-templated DNA biosynthetic process

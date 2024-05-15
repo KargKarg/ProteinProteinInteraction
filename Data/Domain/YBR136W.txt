@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FAT;1399;1944
+DOMAIN;PI3K/PI4K catalytic;2049;2352
+DOMAIN;FATC;2336;2368
+REGION;G-loop;2055;2061
+REGION;Binding to the RPA complex;2140;2368
+REGION;Catalytic loop;2221;2229
+REGION;Activation loop;2241;2265

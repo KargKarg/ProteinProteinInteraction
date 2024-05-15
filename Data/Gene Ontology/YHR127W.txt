@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0003676;F:nucleic acid binding
+GO:0000022;P:mitotic spindle elongation

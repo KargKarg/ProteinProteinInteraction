@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0003700;F:DNA-binding transcription factor activity
+GO:0046872;F:metal ion binding
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0071322;P:cellular response to carbohydrate stimulus
+GO:0060237;P:regulation of fungal-type cell wall organization
+GO:0006357;P:regulation of transcription by RNA polymerase II

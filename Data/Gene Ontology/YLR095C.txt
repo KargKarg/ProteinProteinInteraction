@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0016587;C:Isw1 complex
+GO:0036437;C:Isw1b complex
+GO:0006338;P:chromatin remodeling
+GO:0006355;P:regulation of DNA-templated transcription
+GO:0009408;P:response to heat

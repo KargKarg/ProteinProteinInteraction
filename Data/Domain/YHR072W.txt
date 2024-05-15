@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;PFTB 1;125;167
+REPEAT;PFTB 2;615;661
+ACT_SITE;Proton donor;456;456

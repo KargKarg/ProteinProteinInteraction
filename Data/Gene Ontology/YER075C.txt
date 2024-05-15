@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0004725;F:protein tyrosine phosphatase activity
+GO:0051220;P:cytoplasmic sequestering of protein
+GO:0016311;P:dephosphorylation
+GO:0043937;P:regulation of sporulation

@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005739;C:mitochondrion
+GO:0019005;C:SCF ubiquitin ligase complex
+GO:0007005;P:mitochondrion organization
+GO:0031146;P:SCF-dependent proteasomal ubiquitin-dependent protein catabolic process

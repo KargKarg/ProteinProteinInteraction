@@ -1,0 +1,3 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SIS 1;105;244
+DOMAIN;SIS 2;277;422

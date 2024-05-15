@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0004741;F:[pyruvate dehydrogenase (acetyl-transferring)]-phosphatase activity
+GO:0019909;F:[pyruvate dehydrogenase (lipoamide)] phosphatase regulator activity
+GO:0017018;F:myosin phosphatase activity
+GO:0004722;F:protein serine/threonine phosphatase activity
+GO:0000422;P:autophagy of mitochondrion
+GO:0016236;P:macroautophagy
+GO:1901524;P:regulation of mitophagy

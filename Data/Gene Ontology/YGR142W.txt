@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005770;C:late endosome
+GO:0034399;C:nuclear periphery
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0140311;F:protein sequestering activity
+GO:0051087;F:protein-folding chaperone binding
+GO:0000149;F:SNARE binding
+GO:0006865;P:amino acid transport
+GO:0006886;P:intracellular protein transport
+GO:0006457;P:protein folding
+GO:0034504;P:protein localization to nucleus
+GO:0006885;P:regulation of pH
+GO:0042147;P:retrograde transport, endosome to Golgi

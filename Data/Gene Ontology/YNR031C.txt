@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005938;C:cell cortex
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0005829;C:cytosol
+GO:0000131;C:incipient cellular bud site
+GO:0003779;F:actin binding
+GO:0005524;F:ATP binding
+GO:0004709;F:MAP kinase kinase kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0000161;P:osmosensory signaling MAPK cascade
+GO:0007234;P:osmosensory signaling via phosphorelay pathway
+GO:0038066;P:p38MAPK cascade
+GO:0016310;P:phosphorylation
+GO:0032956;P:regulation of actin cytoskeleton organization

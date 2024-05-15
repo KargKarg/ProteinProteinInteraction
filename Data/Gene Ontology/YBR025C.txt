@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0005525;F:GTP binding
+GO:0046872;F:metal ion binding
+GO:0043023;F:ribosomal large subunit binding

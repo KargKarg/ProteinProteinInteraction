@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0097177;F:mitochondrial ribosome binding
+GO:0043022;F:ribosome binding
+GO:0007007;P:inner mitochondrial membrane organization
+GO:0070131;P:positive regulation of mitochondrial translation
+GO:0032979;P:protein insertion into mitochondrial inner membrane from matrix

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0005811;C:lipid droplet
+GO:0005741;C:mitochondrial outer membrane
+GO:0047560;F:3-dehydrosphinganine reductase activity
+GO:0006666;P:3-keto-sphinganine metabolic process
+GO:0030148;P:sphingolipid biosynthetic process

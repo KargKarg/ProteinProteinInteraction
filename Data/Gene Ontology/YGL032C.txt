@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0050839;F:cell adhesion molecule binding
+GO:0000752;P:agglutination involved in conjugation with cellular fusion

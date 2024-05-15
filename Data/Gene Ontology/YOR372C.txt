@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0003713;F:transcription coactivator activity
+GO:0045944;P:positive regulation of transcription by RNA polymerase II

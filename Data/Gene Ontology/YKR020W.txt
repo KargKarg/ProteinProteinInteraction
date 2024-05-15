@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0010008;C:endosome membrane
+GO:0000938;C:GARP complex
+GO:0005794;C:Golgi apparatus
+GO:0007118;P:budding cell apical bud growth
+GO:0090156;P:intracellular sphingolipid homeostasis
+GO:0016239;P:positive regulation of macroautophagy
+GO:0006623;P:protein targeting to vacuole
+GO:0015031;P:protein transport
+GO:0008361;P:regulation of cell size
+GO:0042147;P:retrograde transport, endosome to Golgi
+GO:0016050;P:vesicle organization

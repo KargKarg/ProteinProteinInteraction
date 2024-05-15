@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;N-acetyltransferase;14;161
+BINDING;;98;111
+SITE;Important for catalytic activity;144;144

@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;Sel1-like 1;271;306
+REPEAT;Sel1-like 2;307;342
+REPEAT;Sel1-like 3;343;382
+REPEAT;Sel1-like 4;386;423
+REPEAT;Sel1-like 5;424;460
+REPEAT;Sel1-like 6;461;498
+REPEAT;Sel1-like 7;499;534
+REGION;Disordered;37;67
+REGION;Disordered;90;145
+REGION;Disordered;576;696

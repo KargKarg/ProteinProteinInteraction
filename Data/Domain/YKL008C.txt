@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;TLC;168;384
+REGION;Disordered;1;25
+REGION;Disordered;390;418

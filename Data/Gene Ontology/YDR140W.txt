@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0035657;C:eRF1 methyltransferase complex
+GO:0005634;C:nucleus
+GO:0005840;C:ribosome
+GO:0003676;F:nucleic acid binding
+GO:0008276;F:protein methyltransferase activity
+GO:0102559;F:protein-(glutamine-N5) methyltransferase activity
+GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
+GO:0018364;P:peptidyl-glutamine methylation
+GO:0060566;P:positive regulation of termination of DNA-templated transcription
+GO:0006417;P:regulation of translation

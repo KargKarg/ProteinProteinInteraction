@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0031965;C:nuclear membrane
+GO:0005643;C:nuclear pore
+GO:0044877;F:protein-containing complex binding
+GO:0006406;P:mRNA export from nucleus
+GO:0015031;P:protein transport

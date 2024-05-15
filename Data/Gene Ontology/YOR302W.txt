@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0045182;F:translation regulator activity
+GO:0006417;P:regulation of translation

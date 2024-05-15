@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005886;C:plasma membrane
+GO:0042546;P:cell wall biogenesis
+GO:0071555;P:cell wall organization

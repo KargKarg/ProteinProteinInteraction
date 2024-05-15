@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;N-terminal Ras-GEF;25;157
+DOMAIN;Ras-GEF;1194;1434
+REGION;Disordered;235;256
+REGION;Disordered;338;365
+REGION;Disordered;582;689
+REGION;Disordered;723;747
+REGION;Disordered;851;871

@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Flexible region;83;163
+REGION;Handle region;238;285
+MOTIF;ATG8 interaction motif (AIM);270;273
+ACT_SITE;Glycyl thioester intermediate;234;234
+BINDING;;1;7

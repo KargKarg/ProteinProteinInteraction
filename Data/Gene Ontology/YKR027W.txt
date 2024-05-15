@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0034044;C:exomer complex
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0034221;P:fungal-type cell wall chitin biosynthetic process
+GO:0006893;P:Golgi to plasma membrane transport
+GO:0015031;P:protein transport

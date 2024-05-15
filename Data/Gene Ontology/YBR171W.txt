@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0030867;C:rough endoplasmic reticulum membrane
+GO:0031207;C:Sec62/Sec63 complex
+GO:0071256;C:translocon complex
+GO:0030447;P:filamentous growth
+GO:0031204;P:post-translational protein targeting to membrane, translocation

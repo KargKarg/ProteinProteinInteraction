@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0005096;F:GTPase activator activity
+GO:0031267;F:small GTPase binding
+GO:0006913;P:nucleocytoplasmic transport
+GO:0006606;P:protein import into nucleus
+GO:0000054;P:ribosomal subunit export from nucleus
+GO:0006404;P:RNA import into nucleus
+GO:0006407;P:rRNA export from nucleus
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0006409;P:tRNA export from nucleus

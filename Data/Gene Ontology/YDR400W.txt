@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0070635;F:nicotinamide riboside hydrolase activity
+GO:0070636;F:nicotinic acid riboside hydrolase activity
+GO:0008477;F:purine nucleosidase activity
+GO:0050263;F:ribosylpyrimidine nucleosidase activity
+GO:0045437;F:uridine nucleosidase activity
+GO:0006216;P:cytidine catabolic process
+GO:0034356;P:NAD biosynthesis via nicotinamide riboside salvage pathway
+GO:0019358;P:nicotinate nucleotide salvage
+GO:0006152;P:purine nucleoside catabolic process
+GO:0046135;P:pyrimidine nucleoside catabolic process
+GO:0008655;P:pyrimidine-containing compound salvage
+GO:0006218;P:uridine catabolic process

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
+GO:0005634;C:nucleus
+GO:0003729;F:mRNA binding
+GO:0006378;P:mRNA polyadenylation
+GO:0006397;P:mRNA processing
+GO:0031126;P:sno(s)RNA 3'-end processing
+GO:0030847;P:termination of RNA polymerase II transcription, exosome-dependent
+GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled

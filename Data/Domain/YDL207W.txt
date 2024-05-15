@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;9;39
+REGION;Disordered;151;226
+REGION;Interactions with NUP42, DBP5 and GFD1;257;538
+MOTIF;Bipartite nuclear localization signal 1;154;170
+MOTIF;Bipartite nuclear localization signal 2;272;288

@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0000144;C:cellular bud neck septin ring
+GO:0005737;C:cytoplasm
+GO:0005524;F:ATP binding
+GO:0046872;F:metal ion binding
+GO:0004672;F:protein kinase activity
+GO:0106310;F:protein serine kinase activity
+GO:0004674;F:protein serine/threonine kinase activity
+GO:0007117;P:budding cell bud growth
+GO:0000902;P:cell morphogenesis
+GO:0042149;P:cellular response to glucose starvation
+GO:0035556;P:intracellular signal transduction
+GO:0000281;P:mitotic cytokinesis
+GO:0016310;P:phosphorylation
+GO:1902935;P:protein localization to septin ring
+GO:0007124;P:pseudohyphal growth
+GO:0000921;P:septin ring assembly

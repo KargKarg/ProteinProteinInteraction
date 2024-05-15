@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005788;C:endoplasmic reticulum lumen
+GO:0017177;C:glucosidase II complex
+GO:0070880;P:fungal-type cell wall beta-glucan biosynthetic process
+GO:0006491;P:N-glycan processing
+GO:0000271;P:polysaccharide biosynthetic process

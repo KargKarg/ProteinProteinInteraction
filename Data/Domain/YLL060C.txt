@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;GST N-terminal;17;101
+DOMAIN;GST C-terminal;106;233
+BINDING;;29;29
+BINDING;;58;58
+BINDING;;72;72
+BINDING;;85;86
+BINDING;;133;133

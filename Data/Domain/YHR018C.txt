@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Proton acceptor;162;162
+ACT_SITE;Proton donor;283;283
+BINDING;in chain A;27;27
+BINDING;in chain A;115;115
+BINDING;in chain C;161;161
+BINDING;in chain B;291;291
+BINDING;in chain A;323;323
+BINDING;in chain A;328;328
+BINDING;in chain A;331;331
+SITE;Increases basicity of active site His;296;296

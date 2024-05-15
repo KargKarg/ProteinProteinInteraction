@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0016491;F:oxidoreductase activity
+GO:0018063;P:cytochrome c-heme linkage
+GO:0007006;P:mitochondrial membrane organization

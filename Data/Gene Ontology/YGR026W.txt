@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0005783;C:endoplasmic reticulum
+GO:0005886;C:plasma membrane
+GO:0071786;P:endoplasmic reticulum tubular network organization
+GO:0061024;P:membrane organization

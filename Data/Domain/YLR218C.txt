@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;CHCH;36;77
+MOTIF;Cx9C motif 1;39;49
+MOTIF;Cx9C motif 2;59;69

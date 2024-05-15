@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005737;C:cytoplasm
+GO:0000932;C:P-body
+GO:0005697;C:telomerase holoenzyme complex
+GO:0070034;F:telomerase RNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0006310;P:DNA recombination
+GO:0017148;P:negative regulation of translation
+GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay

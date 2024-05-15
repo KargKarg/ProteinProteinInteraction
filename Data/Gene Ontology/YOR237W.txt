@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005935;C:cellular bud neck
+GO:0005829;C:cytosol
+GO:0000329;C:fungal-type vacuole membrane
+GO:0043231;C:intracellular membrane-bounded organelle
+GO:0016020;C:membrane
+GO:0008289;F:lipid binding
+GO:0008142;F:oxysterol binding
+GO:0120015;F:sterol transfer activity
+GO:0015248;F:sterol transporter activity
+GO:0006897;P:endocytosis
+GO:0006887;P:exocytosis
+GO:0030011;P:maintenance of cell polarity
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:0016126;P:sterol biosynthetic process
+GO:0015918;P:sterol transport

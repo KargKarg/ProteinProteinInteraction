@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005794;C:Golgi apparatus
+GO:0042175;C:nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0005525;F:GTP binding
+GO:0003924;F:GTPase activity
+GO:0043001;P:Golgi to plasma membrane protein transport
+GO:0006886;P:intracellular protein transport
+GO:0034067;P:protein localization to Golgi apparatus
+GO:0034976;P:response to endoplasmic reticulum stress

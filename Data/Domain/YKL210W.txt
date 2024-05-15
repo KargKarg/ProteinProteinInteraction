@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1-1;27;164
+REPEAT;1-2;425;579
+REGION;2 approximate repeats;27;579
+ACT_SITE;Glycyl thioester intermediate;600;600
+BINDING;;444;444
+BINDING;;470;470
+BINDING;;481;481
+BINDING;;494;494
+BINDING;;544;545

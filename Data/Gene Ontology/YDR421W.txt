@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0043565;F:sequence-specific DNA binding
+GO:0008270;F:zinc ion binding
+GO:0009074;P:aromatic amino acid family catabolic process
+GO:0009083;P:branched-chain amino acid catabolic process
+GO:0006559;P:L-phenylalanine catabolic process
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006569;P:tryptophan catabolic process
+GO:0006572;P:tyrosine catabolic process

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0031965;C:nuclear membrane
+GO:0042175;C:nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0051787;F:misfolded protein binding
+GO:0051087;F:protein-folding chaperone binding
+GO:0051082;F:unfolded protein binding
+GO:0000742;P:karyogamy involved in conjugation with cellular fusion
+GO:0034975;P:protein folding in endoplasmic reticulum
+GO:0030433;P:ubiquitin-dependent ERAD pathway

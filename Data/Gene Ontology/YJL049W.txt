@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0009898;C:cytoplasmic side of plasma membrane
+GO:0000815;C:ESCRT III complex
+GO:0005771;C:multivesicular body
+GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
+GO:0006900;P:vesicle budding from membrane

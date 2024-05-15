@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0000794;C:condensed nuclear chromosome
+GO:0000800;C:lateral element
+GO:0005634;C:nucleus
+GO:0000795;C:synaptonemal complex
+GO:0000400;F:four-way junction DNA binding
+GO:0046872;F:metal ion binding
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0035825;P:homologous recombination
+GO:0051598;P:meiotic recombination checkpoint signaling
+GO:0007131;P:reciprocal meiotic recombination
+GO:0007130;P:synaptonemal complex assembly

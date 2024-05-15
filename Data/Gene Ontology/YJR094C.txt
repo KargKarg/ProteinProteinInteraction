@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0005667;C:transcription regulator complex
+GO:0008134;F:transcription factor binding
+GO:0051321;P:meiotic cell cycle
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0007124;P:pseudohyphal growth
+GO:0040020;P:regulation of meiotic nuclear division
+GO:0042173;P:regulation of sporulation resulting in formation of a cellular spore
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0030435;P:sporulation resulting in formation of a cellular spore

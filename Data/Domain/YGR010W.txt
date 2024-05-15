@@ -1,0 +1,14 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;34
+REGION;Disordered;62;102
+BINDING;;167;167
+BINDING;;168;168
+BINDING;in other chain;175;175
+BINDING;in other chain;209;209
+BINDING;;247;247
+BINDING;;282;282
+BINDING;;284;284
+BINDING;;295;295
+BINDING;;314;314
+BINDING;;345;345
+BINDING;in other chain;350;353

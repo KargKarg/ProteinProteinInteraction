@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000785;C:chromatin
+GO:0005737;C:cytoplasm
+GO:0003682;F:chromatin binding
+GO:0003938;F:IMP dehydrogenase activity
+GO:0046872;F:metal ion binding
+GO:0003729;F:mRNA binding
+GO:0000166;F:nucleotide binding
+GO:0006177;P:GMP biosynthetic process
+GO:0006183;P:GTP biosynthetic process

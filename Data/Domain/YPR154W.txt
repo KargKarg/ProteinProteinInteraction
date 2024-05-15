@@ -1,0 +1,4 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;SH3;54;113
+REGION;Disordered;114;189
+MOTIF;PY motif;124;127

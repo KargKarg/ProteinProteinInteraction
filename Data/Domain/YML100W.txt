@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;1;144;150
+REPEAT;2;158;164
+REGION;Disordered;59;86
+REGION;Disordered;129;168
+REGION;2 X 7 AA repeats of R-I-A-S-P-I-Q;144;164
+REGION;Disordered;192;244
+REGION;Disordered;274;297
+REGION;TPS complex domain;320;812
+REGION;Disordered;1000;1027

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000329;C:fungal-type vacuole membrane
+GO:0004035;F:alkaline phosphatase activity
+GO:0047386;F:fructose-2,6-bisphosphate 6-phosphatase activity
+GO:0046872;F:metal ion binding
+GO:0016311;P:dephosphorylation
+GO:0046496;P:nicotinamide nucleotide metabolic process

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0000329;C:fungal-type vacuole membrane
+GO:0005794;C:Golgi apparatus
+GO:0000139;C:Golgi membrane
+GO:0016409;F:palmitoyltransferase activity
+GO:0019706;F:protein-cysteine S-palmitoyltransferase activity
+GO:0018345;P:protein palmitoylation

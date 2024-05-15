@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005739;C:mitochondrion
+GO:0005782;C:peroxisomal matrix
+GO:0004602;F:glutathione peroxidase activity
+GO:0047066;F:phospholipid-hydroperoxide glutathione peroxidase activity
+GO:0140824;F:thioredoxin-dependent peroxiredoxin activity
+GO:0034599;P:cellular response to oxidative stress

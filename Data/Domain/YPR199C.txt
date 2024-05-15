@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;bZIP;22;72
+REGION;Disordered;1;29
+REGION;Basic motif;22;45
+REGION;Leucine-zipper;44;72
+BINDING;covalent;132;132
+BINDING;covalent;137;137
+BINDING;covalent;274;274

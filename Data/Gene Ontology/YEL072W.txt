@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005777;C:peroxisome
+GO:0051321;P:meiotic cell cycle
+GO:0030435;P:sporulation resulting in formation of a cellular spore

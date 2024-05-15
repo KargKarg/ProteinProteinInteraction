@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0031510;C:SUMO activating enzyme complex
+GO:0008641;F:ubiquitin-like modifier activating enzyme activity
+GO:0006974;P:DNA damage response
+GO:0016925;P:protein sumoylation

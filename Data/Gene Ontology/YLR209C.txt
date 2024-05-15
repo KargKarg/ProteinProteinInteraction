@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0047724;F:inosine nucleosidase activity
+GO:0070635;F:nicotinamide riboside hydrolase activity
+GO:0004731;F:purine-nucleoside phosphorylase activity
+GO:0046115;P:guanosine catabolic process
+GO:0006148;P:inosine catabolic process
+GO:0034356;P:NAD biosynthesis via nicotinamide riboside salvage pathway
+GO:0019358;P:nicotinate nucleotide salvage

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:1990429;C:peroxisomal importomer complex
+GO:0005778;C:peroxisomal membrane
+GO:0033328;F:peroxisome membrane targeting sequence binding
+GO:0032581;P:ER-dependent peroxisome organization
+GO:0045033;P:peroxisome inheritance
+GO:0032527;P:protein exit from endoplasmic reticulum
+GO:0045046;P:protein import into peroxisome membrane
+GO:0050821;P:protein stabilization

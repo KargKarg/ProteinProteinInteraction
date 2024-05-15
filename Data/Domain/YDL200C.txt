@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ACT_SITE;Nucleophile; methyl group acceptor;151;151
+BINDING;;120;120
+BINDING;;121;121
+BINDING;;134;134
+BINDING;;157;157

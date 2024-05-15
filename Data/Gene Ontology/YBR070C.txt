@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0098548;C:cytoplasmic side of Golgi membrane
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0031965;C:nuclear membrane
+GO:0042175;C:nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0043541;C:UDP-N-acetylglucosamine transferase complex
+GO:0043495;F:protein-membrane adaptor activity
+GO:0006488;P:dolichol-linked oligosaccharide biosynthetic process

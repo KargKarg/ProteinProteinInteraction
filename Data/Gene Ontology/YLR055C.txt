@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0070545;C:PeBoW complex
+GO:0030687;C:preribosome, large subunit precursor
+GO:0000124;C:SAGA complex
+GO:0017025;F:TBP-class protein binding
+GO:0003712;F:transcription coregulator activity
+GO:0006325;P:chromatin organization
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0042273;P:ribosomal large subunit biogenesis

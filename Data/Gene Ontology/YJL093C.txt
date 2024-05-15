@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0071944;C:cell periphery
+GO:0034702;C:monoatomic ion channel complex
+GO:0005886;C:plasma membrane
+GO:0015271;F:outward rectifier potassium channel activity
+GO:0005267;F:potassium channel activity
+GO:0022841;F:potassium ion leak channel activity
+GO:0005249;F:voltage-gated potassium channel activity
+GO:0030007;P:intracellular potassium ion homeostasis
+GO:0071805;P:potassium ion transmembrane transport
+GO:0030322;P:stabilization of membrane potential

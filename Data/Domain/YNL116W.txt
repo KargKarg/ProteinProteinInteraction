@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;FHA;295;358
+ZN_FING;RING-type;433;477
+REGION;Disordered;1;56
+REGION;Disordered;69;92

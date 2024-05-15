@@ -1,0 +1,6 @@
+GO id;GO term
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0071949;F:FAD binding
+GO:0004657;F:proline dehydrogenase activity
+GO:0010133;P:proline catabolic process to glutamate

@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0016607;C:nuclear speck
+GO:0005634;C:nucleus
+GO:1904855;F:proteasome regulatory particle binding
+GO:0061630;F:ubiquitin protein ligase activity
+GO:0010994;P:free ubiquitin chain polymerization
+GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:0035519;P:protein K29-linked ubiquitination
+GO:0000209;P:protein polyubiquitination
+GO:0006511;P:ubiquitin-dependent protein catabolic process

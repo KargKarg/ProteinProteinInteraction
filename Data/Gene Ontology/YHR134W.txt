@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0000324;C:fungal-type vacuole
+GO:0005635;C:nuclear envelope
+GO:0005634;C:nucleus
+GO:0046872;F:metal ion binding
+GO:0004222;F:metalloendopeptidase activity
+GO:0008237;F:metallopeptidase activity
+GO:0032183;F:SUMO binding
+GO:0061665;F:SUMO ligase activity
+GO:0006281;P:DNA repair
+GO:0036205;P:histone catabolic process
+GO:1990466;P:protein autosumoylation
+GO:0016925;P:protein sumoylation
+GO:0106300;P:protein-DNA covalent cross-linking repair
+GO:0006508;P:proteolysis
+GO:1990414;P:replication-born double-strand break repair via sister chromatid exchange
+GO:0019985;P:translesion synthesis

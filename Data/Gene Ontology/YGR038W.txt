@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005783;C:endoplasmic reticulum
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0035339;C:SPOTS complex
+GO:0006672;P:ceramide metabolic process
+GO:0090156;P:intracellular sphingolipid homeostasis
+GO:0090155;P:negative regulation of sphingolipid biosynthetic process
+GO:0006986;P:response to unfolded protein
+GO:0030148;P:sphingolipid biosynthetic process

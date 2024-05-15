@@ -1,0 +1,14 @@
+GO id;GO term
+GO:0005826;C:actomyosin contractile ring
+GO:1902716;C:cell cortex of growing cell tip
+GO:0005935;C:cellular bud neck
+GO:0005934;C:cellular bud tip
+GO:0000131;C:incipient cellular bud site
+GO:0005937;C:mating projection
+GO:0043332;C:mating projection tip
+GO:0003779;F:actin binding
+GO:0005078;F:MAP-kinase scaffold activity
+GO:0007121;P:bipolar cellular bud site selection
+GO:0036267;P:invasive filamentous growth
+GO:0007124;P:pseudohyphal growth
+GO:0008360;P:regulation of cell shape

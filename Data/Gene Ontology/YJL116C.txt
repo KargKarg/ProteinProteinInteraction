@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0009986;C:cell surface
+GO:0009277;C:fungal-type cell wall
+GO:0000324;C:fungal-type vacuole
+GO:0005739;C:mitochondrion
+GO:0031505;P:fungal-type cell wall organization
+GO:0042776;P:proton motive force-driven mitochondrial ATP synthesis

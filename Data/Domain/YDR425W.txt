@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;PX;98;235
+REGION;Disordered;1;90
+BINDING;;153;153
+BINDING;;155;155
+BINDING;;179;179
+BINDING;;202;202

@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0032473;C:cytoplasmic side of mitochondrial outer membrane
+GO:0009277;C:fungal-type cell wall
+GO:0000932;C:P-body
+GO:0035925;F:mRNA 3'-UTR AU-rich region binding
+GO:0003729;F:mRNA binding
+GO:0051654;P:establishment of mitochondrion localization
+GO:0017148;P:negative regulation of translation
+GO:0000288;P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:0031503;P:protein-containing complex localization

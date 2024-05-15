@@ -1,0 +1,23 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005634;C:nucleus
+GO:0019237;F:centromeric DNA binding
+GO:0003682;F:chromatin binding
+GO:0003688;F:DNA replication origin binding
+GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0001227;F:DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0043565;F:sequence-specific DNA binding
+GO:0006338;P:chromatin remodeling
+GO:0007535;P:donor selection
+GO:0031124;P:mRNA 3'-end processing
+GO:2000221;P:negative regulation of pseudohyphal growth
+GO:0000122;P:negative regulation of transcription by RNA polymerase II
+GO:0034244;P:negative regulation of transcription elongation by RNA polymerase II
+GO:1903468;P:positive regulation of DNA replication initiation
+GO:0032298;P:positive regulation of DNA-templated DNA replication initiation
+GO:0090055;P:positive regulation of silent mating-type cassette heterochromatin formation
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0006357;P:regulation of transcription by RNA polymerase II
+GO:0006369;P:termination of RNA polymerase II transcription

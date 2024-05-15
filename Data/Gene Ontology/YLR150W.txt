@@ -1,0 +1,17 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0048471;C:perinuclear region of cytoplasm
+GO:0003677;F:DNA binding
+GO:0043022;F:ribosome binding
+GO:0003723;F:RNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0061770;F:translation elongation factor binding
+GO:0030371;F:translation repressor activity
+GO:0045142;F:triplex DNA binding
+GO:0043066;P:negative regulation of apoptotic process
+GO:0043558;P:regulation of translational initiation in response to stress
+GO:0141014;P:ribosome hibernation
+GO:0000723;P:telomere maintenance
+GO:0031929;P:TOR signaling
+GO:0006414;P:translational elongation

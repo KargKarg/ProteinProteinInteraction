@@ -1,0 +1,8 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;Ubiquitin-like;259;318
+REGION;Required for ERAD-L function;31;240
+REGION;Important for HRD1 oligomer formation;319;418
+REGION;Interaction with HRD1;345;535
+REGION;Required for ERAD-L function and HRD1 oligomer formation;437;490
+REGION;Interaction with DER1;584;838
+REGION;Disordered;795;838

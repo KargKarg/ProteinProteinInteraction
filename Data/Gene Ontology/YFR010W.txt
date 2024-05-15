@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0000502;C:proteasome complex
+GO:0005838;C:proteasome regulatory particle
+GO:0004843;F:cysteine-type deubiquitinase activity
+GO:0070628;F:proteasome binding
+GO:0072671;P:mitochondria-associated ubiquitin-dependent protein catabolic process
+GO:1901799;P:negative regulation of proteasomal protein catabolic process
+GO:0016579;P:protein deubiquitination
+GO:0061136;P:regulation of proteasomal protein catabolic process
+GO:0032434;P:regulation of proteasomal ubiquitin-dependent protein catabolic process

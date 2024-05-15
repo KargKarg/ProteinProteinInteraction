@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Phosphodiesterase;168;545
+REGION;Disordered;640;670
+REGION;Disordered;686;711
+ACT_SITE;Nucleophile;219;219

@@ -1,0 +1,20 @@
+GO id;GO term
+GO:1990316;C:Atg1/ULK1 kinase complex
+GO:0000407;C:phagophore assembly site
+GO:0034045;C:phagophore assembly site membrane
+GO:0005774;C:vacuolar membrane
+GO:0060090;F:molecular adaptor activity
+GO:0019901;F:protein kinase binding
+GO:0000149;F:SNARE binding
+GO:0000045;P:autophagosome assembly
+GO:0006914;P:autophagy
+GO:0000422;P:autophagy of mitochondrion
+GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
+GO:0000425;P:pexophagy
+GO:0034727;P:piecemeal microautophagy of the nucleus
+GO:2000786;P:positive regulation of autophagosome assembly
+GO:0001934;P:positive regulation of protein phosphorylation
+GO:0034497;P:protein localization to phagophore assembly site
+GO:0015031;P:protein transport
+GO:0031503;P:protein-containing complex localization
+GO:0061709;P:reticulophagy

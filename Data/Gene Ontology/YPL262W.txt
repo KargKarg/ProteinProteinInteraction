@@ -1,0 +1,12 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0045239;C:tricarboxylic acid cycle enzyme complex
+GO:0004333;F:fumarate hydratase activity
+GO:0006974;P:DNA damage response
+GO:0006302;P:double-strand break repair
+GO:0006106;P:fumarate metabolic process
+GO:0006108;P:malate metabolic process
+GO:0006099;P:tricarboxylic acid cycle

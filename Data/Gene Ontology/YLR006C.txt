@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0031435;F:mitogen-activated protein kinase kinase kinase binding
+GO:0000156;F:phosphorelay response regulator activity
+GO:0030295;F:protein kinase activator activity
+GO:0007234;P:osmosensory signaling via phosphorelay pathway
+GO:0032956;P:regulation of actin cytoskeleton organization

@@ -1,0 +1,7 @@
+GO id;GO term
+GO:0000151;C:ubiquitin ligase complex
+GO:0051087;F:protein-folding chaperone binding
+GO:0030674;F:protein-macromolecule adaptor activity
+GO:0007049;P:cell cycle
+GO:0051382;P:kinetochore assembly
+GO:0065003;P:protein-containing complex assembly

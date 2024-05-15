@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0005789;C:endoplasmic reticulum membrane
+GO:0034993;C:meiotic nuclear membrane microtubule tethering complex
+GO:0005640;C:nuclear outer membrane
+GO:0140444;F:cytoskeleton-nuclear membrane anchor activity
+GO:0007129;P:homologous chromosome pairing at meiosis
+GO:0045132;P:meiotic chromosome segregation
+GO:0045141;P:meiotic telomere clustering
+GO:0010520;P:regulation of reciprocal meiotic recombination
+GO:0030435;P:sporulation resulting in formation of a cellular spore

@@ -1,0 +1,5 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;AB hydrolase-1;348;619
+REGION;Disordered;1;35
+REGION;Disordered;225;251
+REGION;Disordered;469;492

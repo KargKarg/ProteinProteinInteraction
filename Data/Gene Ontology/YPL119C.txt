@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005634;C:nucleus
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0033677;F:DNA/RNA helicase activity
+GO:0003729;F:mRNA binding
+GO:0003723;F:RNA binding
+GO:0003724;F:RNA helicase activity
+GO:0003727;F:single-stranded RNA binding
+GO:0003743;F:translation initiation factor activity
+GO:1901195;P:positive regulation of formation of translation preinitiation complex
+GO:0006413;P:translational initiation

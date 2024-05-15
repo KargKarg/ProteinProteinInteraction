@@ -1,0 +1,20 @@
+GO id;GO term
+GO:0000781;C:chromosome, telomeric region
+GO:0043564;C:Ku70:Ku80 complex
+GO:0005635;C:nuclear envelope
+GO:0005524;F:ATP binding
+GO:0016887;F:ATP hydrolysis activity
+GO:0003684;F:damaged DNA binding
+GO:0003678;F:DNA helicase activity
+GO:0070034;F:telomerase RNA binding
+GO:0042162;F:telomeric DNA binding
+GO:0006325;P:chromatin organization
+GO:0000727;P:double-strand break repair via break-induced replication
+GO:0000724;P:double-strand break repair via homologous recombination
+GO:0006303;P:double-strand break repair via nonhomologous end joining
+GO:0097695;P:establishment of protein-containing complex localization to telomere
+GO:0097552;P:mitochondrial double-strand break repair via homologous recombination
+GO:0000725;P:recombinational repair
+GO:0030466;P:silent mating-type cassette heterochromatin formation
+GO:0031509;P:subtelomeric heterochromatin formation
+GO:0000723;P:telomere maintenance

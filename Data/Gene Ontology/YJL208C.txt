@@ -1,0 +1,18 @@
+GO id;GO term
+GO:0005829;C:cytosol
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0004520;F:DNA endonuclease activity
+GO:0004529;F:DNA exonuclease activity
+GO:0046872;F:metal ion binding
+GO:0003676;F:nucleic acid binding
+GO:0004521;F:RNA endonuclease activity
+GO:0004540;F:RNA nuclease activity
+GO:0000014;F:single-stranded DNA endodeoxyribonuclease activity
+GO:0006309;P:apoptotic DNA fragmentation
+GO:0006915;P:apoptotic process
+GO:0051607;P:defense response to virus
+GO:0006308;P:DNA catabolic process
+GO:0006310;P:DNA recombination
+GO:0006401;P:RNA catabolic process

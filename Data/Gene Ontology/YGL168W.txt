@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0016020;C:membrane
+GO:0006260;P:DNA replication
+GO:0016236;P:macroautophagy

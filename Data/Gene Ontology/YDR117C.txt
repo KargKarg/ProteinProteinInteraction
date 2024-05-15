@@ -1,0 +1,5 @@
+GO id;GO term
+GO:0003723;F:RNA binding
+GO:0003743;F:translation initiation factor activity
+GO:0001731;P:formation of translation preinitiation complex
+GO:0006364;P:rRNA processing

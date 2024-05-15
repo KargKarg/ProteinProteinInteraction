@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+ZN_FING;HIT-type; degenerate;8;49
+BINDING;;8;8
+BINDING;;11;11
+BINDING;;28;28
+BINDING;;32;32

@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005730;C:nucleolus
+GO:0036396;C:RNA N6-methyladenosine methyltransferase complex
+GO:0051321;P:meiotic cell cycle
+GO:0080009;P:mRNA methylation
+GO:2000221;P:negative regulation of pseudohyphal growth
+GO:0006279;P:premeiotic DNA replication
+GO:0030435;P:sporulation resulting in formation of a cellular spore

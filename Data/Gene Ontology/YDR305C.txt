@@ -1,0 +1,9 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005739;C:mitochondrion
+GO:0005634;C:nucleus
+GO:0047710;F:bis(5'-adenosyl)-triphosphatase activity
+GO:0016787;F:hydrolase activity
+GO:0000166;F:nucleotide binding
+GO:0017111;F:ribonucleoside triphosphate phosphatase activity
+GO:0009164;P:nucleoside catabolic process

@@ -1,0 +1,10 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;FG 1;2;3
+REPEAT;FG 2;61;62
+REPEAT;FG 3;195;196
+DOMAIN;RRM Nup35-type;265;394
+REPEAT;FG 4;274;275
+REPEAT;FG 5;291;292
+REPEAT;FG 6;523;524
+REGION;Disordered;23;64
+REGION;Disordered;88;144

@@ -1,0 +1,8 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0003730;F:mRNA 3'-UTR binding
+GO:0003729;F:mRNA binding
+GO:1990247;F:N6-methyladenosine-containing RNA reader activity
+GO:0061157;P:mRNA destabilization
+GO:0043488;P:regulation of mRNA stability
+GO:0019220;P:regulation of phosphate metabolic process

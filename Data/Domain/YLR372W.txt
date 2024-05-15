@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;318;345
+MOTIF;HxxHH motif;185;189
+MOTIF;Di-lysine motif 1;308;311
+MOTIF;Di-lysine motif 2;312;315
+MOTIF;Di-lysine motif 3;316;319
+SITE;Determines the chain length of the elongated VLCFA;266;266

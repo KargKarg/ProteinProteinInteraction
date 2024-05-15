@@ -1,0 +1,15 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005741;C:mitochondrial outer membrane
+GO:0005739;C:mitochondrion
+GO:0046930;C:pore complex
+GO:0015288;F:porin activity
+GO:0048039;F:ubiquinone binding
+GO:0008308;F:voltage-gated monoatomic anion channel activity
+GO:0006915;P:apoptotic process
+GO:0045454;P:cell redox homeostasis
+GO:0051027;P:DNA transport
+GO:0007005;P:mitochondrion organization
+GO:0006811;P:monoatomic ion transport
+GO:0042307;P:positive regulation of protein import into nucleus

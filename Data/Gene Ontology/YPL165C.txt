@@ -1,0 +1,4 @@
+GO id;GO term
+GO:0005634;C:nucleus
+GO:0008168;F:methyltransferase activity
+GO:0032259;P:methylation

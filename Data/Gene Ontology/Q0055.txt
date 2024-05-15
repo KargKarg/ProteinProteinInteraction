@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0016020;C:membrane
+GO:0005739;C:mitochondrion
+GO:0004129;F:cytochrome-c oxidase activity
+GO:0020037;F:heme binding
+GO:0003964;F:RNA-directed DNA polymerase activity
+GO:0009060;P:aerobic respiration
+GO:0006315;P:homing of group II introns
+GO:0006314;P:intron homing
+GO:0090615;P:mitochondrial mRNA processing

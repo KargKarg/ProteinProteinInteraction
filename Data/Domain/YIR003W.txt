@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;1;85
+REGION;Disordered;110;522
+REGION;Interaction with SH3 domain of ABP1;383;396
+REGION;Disordered;549;580
+REGION;Disordered;593;679

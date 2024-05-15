@@ -1,0 +1,6 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REGION;Disordered;21;82
+REGION;Disordered;102;127
+REGION;Mispair-binding domain;126;256
+MOTIF;PIP box;4;11
+BINDING;;791;798

@@ -1,0 +1,10 @@
+GO id;GO term
+GO:0005743;C:mitochondrial inner membrane
+GO:0005739;C:mitochondrion
+GO:0005471;F:ATP:ADP antiporter activity
+GO:0042802;F:identical protein binding
+GO:0009061;P:anaerobic respiration
+GO:0015886;P:heme transport
+GO:0140021;P:mitochondrial ADP transmembrane transport
+GO:1990544;P:mitochondrial ATP transmembrane transport
+GO:0055085;P:transmembrane transport

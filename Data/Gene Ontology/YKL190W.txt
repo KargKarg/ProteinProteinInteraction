@@ -1,0 +1,11 @@
+GO id;GO term
+GO:0005955;C:calcineurin complex
+GO:0005509;F:calcium ion binding
+GO:0008597;F:calcium-dependent protein serine/threonine phosphatase regulator activity
+GO:0019902;F:phosphatase binding
+GO:0097720;P:calcineurin-mediated signaling
+GO:0071444;P:cellular response to pheromone
+GO:0031505;P:fungal-type cell wall organization
+GO:0006873;P:intracellular monoatomic ion homeostasis
+GO:0045893;P:positive regulation of DNA-templated transcription
+GO:0022604;P:regulation of cell morphogenesis

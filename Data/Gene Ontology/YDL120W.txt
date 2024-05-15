@@ -1,0 +1,20 @@
+GO id;GO term
+GO:1990229;C:iron-sulfur cluster assembly complex
+GO:0005743;C:mitochondrial inner membrane
+GO:0005758;C:mitochondrial intermembrane space
+GO:0005759;C:mitochondrial matrix
+GO:0005739;C:mitochondrion
+GO:0051537;F:2 iron, 2 sulfur cluster binding
+GO:0008199;F:ferric iron binding
+GO:0008198;F:ferrous iron binding
+GO:0004322;F:ferroxidase activity
+GO:0042802;F:identical protein binding
+GO:0034986;F:iron chaperone activity
+GO:0006749;P:glutathione metabolic process
+GO:0006783;P:heme biosynthetic process
+GO:0006879;P:intracellular iron ion homeostasis
+GO:0006826;P:iron ion transport
+GO:0016226;P:iron-sulfur cluster assembly
+GO:0006121;P:mitochondrial electron transport, succinate to ubiquinone
+GO:0010040;P:response to iron(II) ion
+GO:0006979;P:response to oxidative stress

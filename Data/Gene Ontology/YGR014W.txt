@@ -1,0 +1,13 @@
+GO id;GO term
+GO:0009986;C:cell surface
+GO:0005576;C:extracellular region
+GO:0005886;C:plasma membrane
+GO:0030427;C:site of polarized growth
+GO:0005034;F:osmosensor activity
+GO:0000282;P:cellular bud site selection
+GO:0030010;P:establishment of cell polarity
+GO:0031505;P:fungal-type cell wall organization
+GO:0006972;P:hyperosmotic response
+GO:0007232;P:osmosensory signaling pathway via Sho1 osmosensor
+GO:0006970;P:response to osmotic stress
+GO:0001402;P:signal transduction involved in filamentous growth

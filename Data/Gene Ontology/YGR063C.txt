@@ -1,0 +1,21 @@
+GO id;GO term
+GO:0032044;C:DSIF complex
+GO:0000776;C:kinetochore
+GO:0005634;C:nucleus
+GO:0044877;F:protein-containing complex binding
+GO:0000182;F:rDNA binding
+GO:0000993;F:RNA polymerase II complex binding
+GO:0008270;F:zinc ion binding
+GO:0006370;P:7-methylguanosine mRNA capping
+GO:0006325;P:chromatin organization
+GO:0031507;P:heterochromatin formation
+GO:0008298;P:intracellular mRNA localization
+GO:0010507;P:negative regulation of autophagy
+GO:2001208;P:negative regulation of transcription elongation by RNA polymerase I
+GO:2001209;P:positive regulation of transcription elongation by RNA polymerase I
+GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II
+GO:0006355;P:regulation of DNA-templated transcription
+GO:2000232;P:regulation of rRNA processing
+GO:0034243;P:regulation of transcription elongation by RNA polymerase II
+GO:0090262;P:regulation of transcription-coupled nucleotide-excision repair
+GO:0140673;P:transcription elongation-coupled chromatin remodeling

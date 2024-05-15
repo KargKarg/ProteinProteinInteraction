@@ -1,0 +1,16 @@
+GO id;GO term
+GO:0005737;C:cytoplasm
+GO:0044614;C:nuclear pore cytoplasmic filaments
+GO:0005634;C:nucleus
+GO:0070390;C:transcription export complex 2
+GO:0060090;F:molecular adaptor activity
+GO:0030029;P:actin filament-based process
+GO:0000278;P:mitotic cell cycle
+GO:0031124;P:mRNA 3'-end processing
+GO:0006406;P:mRNA export from nucleus
+GO:0071028;P:nuclear mRNA surveillance
+GO:0045944;P:positive regulation of transcription by RNA polymerase II
+GO:0000973;P:post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0006611;P:protein export from nucleus
+GO:0042274;P:ribosomal small subunit biogenesis
+GO:0006283;P:transcription-coupled nucleotide-excision repair

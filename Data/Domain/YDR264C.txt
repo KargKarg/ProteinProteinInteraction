@@ -1,0 +1,11 @@
+Domain type;Domaine Description;Domain begin;Domain end
+REPEAT;ANK 1;72;102
+REPEAT;ANK 2;108;137
+REPEAT;ANK 3;142;171
+REPEAT;ANK 4;175;204
+REPEAT;ANK 5;213;242
+REPEAT;ANK 6;246;275
+DOMAIN;DHHC;470;520
+REGION;Disordered;1;38
+REGION;Disordered;51;71
+ACT_SITE;S-palmitoyl cysteine intermediate;500;500

@@ -1,0 +1,7 @@
+Domain type;Domaine Description;Domain begin;Domain end
+DOMAIN;F-box;5;51
+DOMAIN;UIM 1;547;566
+DOMAIN;UIM 2;583;602
+DOMAIN;UIM 3;651;668
+REGION;Disordered;564;585
+REGION;Disordered;599;639
