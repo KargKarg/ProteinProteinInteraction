@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Asparaginase/glutaminase;54;378
-ACT_SITE;O-isoaspartyl threonine intermediate;64;64
-BINDING;;110;110
-BINDING;;141;142

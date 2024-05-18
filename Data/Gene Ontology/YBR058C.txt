@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0004843;F:cysteine-type deubiquitinase activity
-GO:0008270;F:zinc ion binding
-GO:0045721;P:negative regulation of gluconeogenesis
-GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process

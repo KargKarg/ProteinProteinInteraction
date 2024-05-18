@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0019005;C:SCF ubiquitin ligase complex
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0030163;P:protein catabolic process
-GO:0016567;P:protein ubiquitination
-GO:0031335;P:regulation of sulfur amino acid metabolic process

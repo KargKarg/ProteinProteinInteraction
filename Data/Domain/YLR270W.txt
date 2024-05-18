@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Histidine triad motif;266;270
-ACT_SITE;Nucleophile;268;268
-BINDING;;171;171
-BINDING;;196;196
-BINDING;;259;270

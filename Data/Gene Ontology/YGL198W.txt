@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005794;C:Golgi apparatus
-GO:0000139;C:Golgi membrane
-GO:0005802;C:trans-Golgi network
-GO:0042802;F:identical protein binding
-GO:0031267;F:small GTPase binding
-GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport

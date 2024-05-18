@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;WD 1;246;285
-REPEAT;WD 2;290;334
-REPEAT;WD 3;463;504
-REPEAT;WD 4;513;554
-REPEAT;WD 5;560;593
-REGION;Disordered;48;128
-REGION;Interaction with UTP21;101;190
-REGION;Disordered;176;200

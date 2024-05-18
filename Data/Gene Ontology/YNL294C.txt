@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005886;C:plasma membrane
-GO:0030437;P:ascospore formation
-GO:0071469;P:cellular response to alkaline pH
-GO:0071467;P:cellular response to pH
-GO:0009272;P:fungal-type cell wall biogenesis
-GO:0001403;P:invasive growth in response to glucose limitation
-GO:0044088;P:regulation of vacuole organization

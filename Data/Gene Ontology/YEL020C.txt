@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005782;C:peroxisomal matrix
-GO:0005777;C:peroxisome
-GO:0016830;F:carbon-carbon lyase activity
-GO:0016831;F:carboxy-lyase activity
-GO:0000287;F:magnesium ion binding
-GO:0030976;F:thiamine pyrophosphate binding
-GO:0001561;P:fatty acid alpha-oxidation

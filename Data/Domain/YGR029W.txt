@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ERV/ALR sulfhydryl oxidase;83;183
-BINDING;;88;95
-BINDING;;99;99
-BINDING;;128;128
-BINDING;;159;171
-BINDING;;182;183

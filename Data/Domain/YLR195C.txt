@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Myristoyl CoA-binding;168;204
-ACT_SITE;Proton acceptor; via carboxylate;455;455
-BINDING;;38;41

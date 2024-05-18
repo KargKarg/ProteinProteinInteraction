@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0006325;P:chromatin organization
-GO:0006279;P:premeiotic DNA replication
-GO:0008361;P:regulation of cell size

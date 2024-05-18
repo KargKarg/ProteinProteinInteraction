@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;;29;29
-ACT_SITE;;32;32
-ACT_SITE;Schiff-base intermediate with substrate; via pyruvic acid;88;88
-ACT_SITE;Proton donor; for catalytic activity;102;102
-ACT_SITE;Proton acceptor; for processing activity;287;287
-ACT_SITE;Proton acceptor; for processing activity;301;301
-SITE;Cleavage (non-hydrolytic); by autolysis;87;88

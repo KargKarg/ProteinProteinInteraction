@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HTH myb-type;404;460
-DNA_BIND;H-T-H motif;431;456
-REGION;Disordered;376;414
-REGION;Disordered;495;562

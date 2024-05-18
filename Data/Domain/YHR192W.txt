@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C4-type; plays a role in ER morphology;223;247
-REGION;Disordered;258;278

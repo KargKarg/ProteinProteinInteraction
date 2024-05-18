@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0016020;C:membrane
-GO:0004848;F:ureidoglycolate hydrolase activity
-GO:0050385;F:ureidoglycolate lyase activity
-GO:0000256;P:allantoin catabolic process
-GO:0006144;P:purine nucleobase metabolic process

@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GST N-terminal;112;196
-DOMAIN;GST C-terminal;205;354
-REGION;Prion domain (PrD);2;89
-REGION;Disordered;22;76
-BINDING;;124;124
-BINDING;;151;151
-BINDING;;164;165
-BINDING;;180;181

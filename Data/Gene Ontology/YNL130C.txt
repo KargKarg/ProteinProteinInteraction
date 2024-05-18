@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005794;C:Golgi apparatus
-GO:0005741;C:mitochondrial outer membrane
-GO:0004142;F:diacylglycerol cholinephosphotransferase activity
-GO:0046872;F:metal ion binding
-GO:0006657;P:CDP-choline pathway

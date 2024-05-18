@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-BINDING;;206;213
-SITE;Required for activity;407;407

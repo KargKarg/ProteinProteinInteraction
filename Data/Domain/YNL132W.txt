@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;N-acetyltransferase;566;706
-REGION;Disordered;433;463
-BINDING;;286;295
-BINDING;;475;475
-BINDING;;638;640
-BINDING;;645;651
-BINDING;;739;739

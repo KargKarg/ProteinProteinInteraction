@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0005886;C:plasma membrane
-GO:0006457;P:protein folding
-GO:0016558;P:protein import into peroxisome matrix

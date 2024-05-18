@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005576;C:extracellular region
-GO:0005773;C:vacuole
-GO:0004451;F:isocitrate lyase activity
-GO:0046872;F:metal ion binding
-GO:0046421;F:methylisocitrate lyase activity
-GO:0006097;P:glyoxylate cycle
-GO:0006099;P:tricarboxylic acid cycle

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0036218;F:dTTP diphosphatase activity
-GO:0047429;F:nucleoside triphosphate diphosphatase activity
-GO:0036221;F:UTP diphosphatase activity
-GO:0009117;P:nucleotide metabolic process

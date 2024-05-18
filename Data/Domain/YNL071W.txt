@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Lipoyl-binding;34;110
-DOMAIN;Peripheral subunit-binding (PSBD);175;212
-REGION;Disordered;122;170
-REGION;Disordered;214;251
-ACT_SITE;;455;455
-ACT_SITE;;459;459

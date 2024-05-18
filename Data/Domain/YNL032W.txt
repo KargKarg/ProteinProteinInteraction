@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Tyrosine-protein phosphatase;121;271
-REGION;Disordered;1;20
-ACT_SITE;Phosphocysteine intermediate;214;214
-SITE;Transition state stabilizer;220;220

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005759;C:mitochondrial matrix
-GO:0106098;C:NAGS/NAGK complex
-GO:0004042;F:acetyl-CoA:L-glutamate N-acetyltransferase activity
-GO:0103045;F:methione N-acyltransferase activity
-GO:0006526;P:arginine biosynthetic process
-GO:0006592;P:ornithine biosynthetic process

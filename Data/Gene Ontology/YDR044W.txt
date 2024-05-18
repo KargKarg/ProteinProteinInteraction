@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0004109;F:coproporphyrinogen oxidase activity
-GO:0042803;F:protein homodimerization activity
-GO:0006783;P:heme biosynthetic process
-GO:0006782;P:protoporphyrinogen IX biosynthetic process

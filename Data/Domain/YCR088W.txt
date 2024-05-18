@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ADF-H;7;136
-REPEAT;1;200;209
-REPEAT;2;436;445
-DOMAIN;SH3;532;592
-REPEAT;3;566;575
-REGION;Disordered;144;541
-REGION;3 X 10 AA approximate repeats (acidic);200;575

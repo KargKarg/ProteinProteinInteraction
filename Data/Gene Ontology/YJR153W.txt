@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005576;C:extracellular region
-GO:0004650;F:polygalacturonase activity
-GO:0071555;P:cell wall organization
-GO:0045490;P:pectin catabolic process

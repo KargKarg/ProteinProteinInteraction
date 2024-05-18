@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;TLDc;74;273
-REGION;Disordered;18;48
-REGION;Disordered;177;197

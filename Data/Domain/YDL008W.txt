@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;RING-type; atypical;52;95

@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ABC transporter 1;144;397
-DOMAIN;ABC transporter 2;836;1084
-REGION;Disordered;1;37
-BINDING;;878;885
-BINDING;;972;979

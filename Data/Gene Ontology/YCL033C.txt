@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0046872;F:metal ion binding
-GO:0033743;F:peptide-methionine (R)-S-oxide reductase activity
-GO:0034599;P:cellular response to oxidative stress
-GO:0030091;P:protein repair

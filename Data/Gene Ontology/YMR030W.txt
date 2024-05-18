@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0009060;P:aerobic respiration
-GO:0006390;P:mitochondrial transcription
-GO:0006366;P:transcription by RNA polymerase II

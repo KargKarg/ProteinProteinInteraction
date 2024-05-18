@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0030532;C:small nuclear ribonucleoprotein complex
-GO:0005681;C:spliceosomal complex
-GO:0017069;F:snRNA binding
-GO:0000245;P:spliceosomal complex assembly
-GO:0000387;P:spliceosomal snRNP assembly

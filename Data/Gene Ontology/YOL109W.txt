@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005741;C:mitochondrial outer membrane
-GO:0005739;C:mitochondrion
-GO:0005886;C:plasma membrane
-GO:0031505;P:fungal-type cell wall organization

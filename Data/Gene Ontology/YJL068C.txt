@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0052689;F:carboxylic ester hydrolase activity
-GO:0046872;F:metal ion binding
-GO:0018738;F:S-formylglutathione hydrolase activity
-GO:0046294;P:formaldehyde catabolic process

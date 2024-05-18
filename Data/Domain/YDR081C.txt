@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HTH CENPB-type;63;138
-REGION;Disordered;510;596
-REGION;Disordered;674;693
-REGION;Disordered;904;925

@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with DID2;1;167
-REGION;Interaction with VSP60;37;68
-REGION;Disordered;187;217
-REGION;Disordered;233;280
-REGION;Dimerization;280;330
-REGION;Interaction with VSP4;290;330

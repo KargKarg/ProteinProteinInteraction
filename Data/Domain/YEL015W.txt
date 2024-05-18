@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Sm;1;63
-DOMAIN;DFDF;93;129
-DOMAIN;YjeF N-terminal;288;527
-REGION;Disordered;64;92

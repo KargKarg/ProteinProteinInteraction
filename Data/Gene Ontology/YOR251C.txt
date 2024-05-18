@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0004792;F:thiosulfate sulfurtransferase activity
-GO:0002143;P:tRNA wobble position uridine thiolation
-GO:0002098;P:tRNA wobble uridine modification

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005794;C:Golgi apparatus
-GO:0031505;P:fungal-type cell wall organization
-GO:0015031;P:protein transport

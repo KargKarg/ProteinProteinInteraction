@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0000328;C:fungal-type vacuole lumen
-GO:0017171;F:serine hydrolase activity
-GO:0004185;F:serine-type carboxypeptidase activity
-GO:0016236;P:macroautophagy
-GO:0046938;P:phytochelatin biosynthetic process
-GO:0031638;P:zymogen activation

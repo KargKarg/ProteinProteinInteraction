@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PPM-type phosphatase;76;342
-BINDING;;109;109
-BINDING;;109;109
-BINDING;;110;110
-BINDING;;265;265

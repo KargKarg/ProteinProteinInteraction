@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0043130;F:ubiquitin binding
-GO:0031624;F:ubiquitin conjugating enzyme binding
-GO:0006914;P:autophagy
-GO:0006511;P:ubiquitin-dependent protein catabolic process

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005770;C:late endosome
-GO:0016491;F:oxidoreductase activity
-GO:0042147;P:retrograde transport, endosome to Golgi

@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;;57;57
-BINDING;;26;33
-BINDING;;245;245
-BINDING;;272;272
-BINDING;;285;285
-BINDING;;288;288
-BINDING;;315;322

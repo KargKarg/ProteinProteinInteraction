@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0032126;C:eisosome
-GO:0016020;C:membrane
-GO:0005739;C:mitochondrion
-GO:0015171;F:amino acid transmembrane transporter activity
-GO:0015174;F:basic amino acid transmembrane transporter activity
-GO:0003333;P:amino acid transmembrane transport
-GO:0015802;P:basic amino acid transport

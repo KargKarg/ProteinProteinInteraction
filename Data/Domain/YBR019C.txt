@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Galactowaldenase;1;357
-REGION;Mutarotase;358;699
-ACT_SITE;For mutarotase activity;537;537
-BINDING;;13;44

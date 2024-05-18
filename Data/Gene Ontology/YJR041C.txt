@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0042273;P:ribosomal large subunit biogenesis
-GO:0042254;P:ribosome biogenesis
-GO:0016072;P:rRNA metabolic process
-GO:0006364;P:rRNA processing

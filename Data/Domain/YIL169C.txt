@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Methyl-accepting transducer;26;253
-REGION;Disordered;98;276

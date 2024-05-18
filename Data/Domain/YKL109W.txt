@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Probably encodes all the information necessary to anchor HAP4 to HAP2/3;1;327
-REGION;Disordered;1;127
-REGION;Activation domain 1;124;300
-REGION;Activation domain 2;359;476
-REGION;Disordered;393;422

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GLUE N-terminal;7;96
-DOMAIN;GLUE C-terminal;255;288
-ZN_FING;RanBP2-type 1; degenerate;114;151
-ZN_FING;RanBP2-type 2;177;205

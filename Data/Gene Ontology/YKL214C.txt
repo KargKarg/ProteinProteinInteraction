@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:1990904;C:ribonucleoprotein complex
-GO:0003677;F:DNA binding
-GO:0003729;F:mRNA binding
-GO:0003723;F:RNA binding
-GO:0016973;P:poly(A)+ mRNA export from nucleus

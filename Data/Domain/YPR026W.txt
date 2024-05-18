@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Required for cell surface targeting;70;131
-ACT_SITE;Proton donor;644;644
-BINDING;;513;514
-BINDING;;711;712

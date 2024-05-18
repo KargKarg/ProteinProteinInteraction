@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C4-type;1095;1110
-BINDING;;1095;1095
-BINDING;;1098;1098
-BINDING;;1107;1107
-BINDING;;1110;1110

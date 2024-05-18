@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;109;134
-REGION;MYO2-binding;110;170
-REGION;Disordered;150;211
-REGION;VAC8-binding;290;380

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0009927;F:histidine phosphotransfer kinase activity
-GO:0043424;F:protein histidine kinase binding
-GO:0016772;F:transferase activity, transferring phosphorus-containing groups
-GO:0007234;P:osmosensory signaling via phosphorelay pathway
-GO:0000160;P:phosphorelay signal transduction system
-GO:0016310;P:phosphorylation

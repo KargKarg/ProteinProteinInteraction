@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:1903293;C:phosphatase complex
-GO:0005886;C:plasma membrane
-GO:0004721;F:phosphoprotein phosphatase activity
-GO:1904262;P:negative regulation of TORC1 signaling
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0006470;P:protein dephosphorylation
-GO:0009651;P:response to salt stress

@@ -1,6 +1,0 @@
-Structure type;Structure begin;Structure end
-HELIX;28;30
-HELIX;35;48
-HELIX;52;62
-HELIX;66;77
-HELIX;82;98

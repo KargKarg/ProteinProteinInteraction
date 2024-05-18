@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0019702;F:protein arginine N5-methyltransferase activity
-GO:0018216;P:peptidyl-arginine methylation

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0003690;F:double-stranded DNA binding
-GO:0046403;F:polynucleotide 3'-phosphatase activity
-GO:0006302;P:double-strand break repair

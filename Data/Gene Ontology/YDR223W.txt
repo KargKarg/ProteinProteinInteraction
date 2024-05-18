@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000785;C:chromatin
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0003712;F:transcription coregulator activity
-GO:0003714;F:transcription corepressor activity
-GO:0010688;P:negative regulation of ribosomal protein gene transcription by RNA polymerase II
-GO:0006357;P:regulation of transcription by RNA polymerase II

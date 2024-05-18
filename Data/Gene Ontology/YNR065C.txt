@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005783;C:endoplasmic reticulum
-GO:0005794;C:Golgi apparatus
-GO:0016020;C:membrane
-GO:0006895;P:Golgi to endosome transport
-GO:0006896;P:Golgi to vacuole transport
-GO:0006623;P:protein targeting to vacuole

@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SEC7;552;706
-REGION;Disordered;262;287

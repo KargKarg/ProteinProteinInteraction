@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PA;255;349
-REGION;Disordered;1;66

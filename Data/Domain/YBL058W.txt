@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SEP;232;297
-DOMAIN;UBX;344;421
-REGION;Disordered;44;167
-REGION;Disordered;299;348

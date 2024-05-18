@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0000215;F:tRNA 2'-phosphotransferase activity
-GO:0006388;P:tRNA splicing, via endonucleolytic cleavage and ligation

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000785;C:chromatin
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
-GO:0032259;P:methylation
-GO:0000723;P:telomere maintenance

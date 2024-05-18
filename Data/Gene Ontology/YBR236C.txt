@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005845;C:mRNA cap binding complex
-GO:0005634;C:nucleus
-GO:0004482;F:mRNA 5'-cap (guanine-N7-)-methyltransferase activity
-GO:0003723;F:RNA binding
-GO:0006370;P:7-methylguanosine mRNA capping

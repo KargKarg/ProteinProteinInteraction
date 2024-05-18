@@ -1,3 +1,0 @@
-Structure type;Structure begin;Structure end
-TURN;24;28
-HELIX;38;57

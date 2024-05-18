@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0022627;C:cytosolic small ribosomal subunit
-GO:0003729;F:mRNA binding
-GO:0003735;F:structural constituent of ribosome
-GO:0002181;P:cytoplasmic translation
-GO:0042255;P:ribosome assembly
-GO:0006407;P:rRNA export from nucleus

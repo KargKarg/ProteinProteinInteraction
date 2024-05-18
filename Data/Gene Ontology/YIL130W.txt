@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
-GO:0043565;F:sequence-specific DNA binding
-GO:0008270;F:zinc ion binding
-GO:0006351;P:DNA-templated transcription
-GO:0045944;P:positive regulation of transcription by RNA polymerase II

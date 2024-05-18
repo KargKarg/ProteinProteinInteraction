@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0003779;F:actin binding
-GO:0030036;P:actin cytoskeleton organization

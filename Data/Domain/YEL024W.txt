@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Rieske;123;214
-REGION;Hinge;90;93
-BINDING;;159;159
-BINDING;;161;161
-BINDING;;178;178
-BINDING;;181;181

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Glutaredoxin;41;143
-BINDING;;58;63
-BINDING;;109;109
-BINDING;;122;123

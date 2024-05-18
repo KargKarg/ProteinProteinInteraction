@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GST C-terminal;197;349
-ACT_SITE;;46;46

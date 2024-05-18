@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;PPR 1;220;254
-REPEAT;PPR 2;397;432
-REPEAT;PPR 3;433;467

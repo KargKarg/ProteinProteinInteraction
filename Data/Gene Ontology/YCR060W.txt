@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0097255;C:R2TP complex
-GO:0051087;F:protein-folding chaperone binding
-GO:0000492;P:box C/D snoRNP assembly
-GO:0006457;P:protein folding
-GO:0050821;P:protein stabilization

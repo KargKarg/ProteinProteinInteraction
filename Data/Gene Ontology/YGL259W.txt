@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0004190;F:aspartic-type endopeptidase activity

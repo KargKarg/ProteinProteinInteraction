@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Confers specificity for binding DNF3;70;332

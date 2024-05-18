@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SWIRM;266;363
-REGION;Disordered;1;22
-REGION;Disordered;186;208

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ketosynthase family 3 (KS3);2;438
-ACT_SITE;For beta-ketoacyl synthase activity;187;187
-ACT_SITE;For beta-ketoacyl synthase activity;322;322
-ACT_SITE;For beta-ketoacyl synthase activity;362;362

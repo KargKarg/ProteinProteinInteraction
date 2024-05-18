@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0009982;F:pseudouridine synthase activity
-GO:0004730;F:pseudouridylate synthase activity
-GO:0003723;F:RNA binding
-GO:0120159;F:rRNA pseudouridine synthase activity
-GO:0000455;P:enzyme-directed rRNA pseudouridine synthesis
-GO:0001522;P:pseudouridine synthesis
-GO:0000154;P:rRNA modification

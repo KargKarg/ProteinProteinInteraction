@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0031518;C:CBF3 complex
-GO:0000776;C:kinetochore
-GO:0008301;F:DNA binding, bending
-GO:0051382;P:kinetochore assembly
-GO:0000921;P:septin ring assembly

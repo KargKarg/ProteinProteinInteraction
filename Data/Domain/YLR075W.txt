@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;1;167;181
-REPEAT;2;200;216
-REGION;2 X 15-17 AA approximate repeats;167;216

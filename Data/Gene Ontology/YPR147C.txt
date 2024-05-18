@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005811;C:lipid droplet
-GO:0016020;C:membrane
-GO:0016788;F:hydrolase activity, acting on ester bonds
-GO:0004806;F:triglyceride lipase activity
-GO:0044255;P:cellular lipid metabolic process
-GO:0019915;P:lipid storage
-GO:0019433;P:triglyceride catabolic process

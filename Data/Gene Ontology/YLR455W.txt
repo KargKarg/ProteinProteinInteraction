@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0033100;C:NuA3 histone acetyltransferase complex
-GO:1990468;C:NuA3b histone acetyltransferase complex
-GO:0005634;C:nucleus
-GO:0003682;F:chromatin binding
-GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II

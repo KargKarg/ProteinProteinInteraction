@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0016020;C:membrane
-GO:0005351;F:carbohydrate:proton symporter activity
-GO:0022857;F:transmembrane transporter activity
-GO:0008643;P:carbohydrate transport
-GO:0055085;P:transmembrane transport

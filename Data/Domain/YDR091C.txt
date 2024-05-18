@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;4Fe-4S ferredoxin-type 1;7;39
-DOMAIN;4Fe-4S ferredoxin-type 2;46;75
-DOMAIN;ABC transporter 1;70;320
-DOMAIN;ABC transporter 2;345;568
-BINDING;;110;117
-BINDING;;385;392

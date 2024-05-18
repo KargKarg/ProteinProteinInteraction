@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;28
-REGION;Disordered;130;193
-REGION;STE50-binding;266;345
-REGION;Disordered;282;360

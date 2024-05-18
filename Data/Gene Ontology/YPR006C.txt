@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0004451;F:isocitrate lyase activity
-GO:0046421;F:methylisocitrate lyase activity
-GO:0019629;P:propionate catabolic process, 2-methylcitrate cycle

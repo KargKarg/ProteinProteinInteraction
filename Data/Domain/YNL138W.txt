@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;C-CAP/cofactor C-like;369;504
-REGION;Adenyl cyclase-binding;1;168
-REGION;Disordered;43;72
-REGION;Disordered;255;304
-REGION;Disordered;326;371
-REGION;Interaction with SH3 domain of ABP1;354;361
-REGION;Dimerization and actin-binding;370;526
-MOTIF;SH3-binding;169;369

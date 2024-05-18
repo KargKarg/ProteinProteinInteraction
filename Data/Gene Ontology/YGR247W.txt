@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005794;C:Golgi apparatus
-GO:0004113;F:2',3'-cyclic-nucleotide 3'-phosphodiesterase activity
-GO:0009187;P:cyclic nucleotide metabolic process

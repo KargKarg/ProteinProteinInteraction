@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;62;83
-REGION;Disordered;498;518
-REGION;Disordered;683;702

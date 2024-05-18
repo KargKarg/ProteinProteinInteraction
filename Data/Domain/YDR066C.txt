@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;RTR1-type;52;123
-BINDING;;75;75
-BINDING;;80;80
-BINDING;;99;99
-BINDING;;103;103

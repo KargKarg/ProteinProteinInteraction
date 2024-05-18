@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Peptidase A1;45;393
-REGION;Disordered;466;505
-ACT_SITE;;63;63
-ACT_SITE;;287;287

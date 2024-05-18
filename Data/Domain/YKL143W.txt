@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;37;63
-REGION;Disordered;284;345
-REGION;Disordered;426;463
-MOTIF;Nuclear export signal;168;179

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0005786;C:signal recognition particle, endoplasmic reticulum targeting
-GO:0008312;F:7S RNA binding
-GO:0030942;F:endoplasmic reticulum signal peptide binding
-GO:0045047;P:protein targeting to ER
-GO:0006617;P:SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition
-GO:0006616;P:SRP-dependent cotranslational protein targeting to membrane, translocation

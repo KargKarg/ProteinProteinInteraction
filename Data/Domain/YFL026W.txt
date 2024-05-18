@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;379;406
-MOTIF;Glycine zipper motif;53;61

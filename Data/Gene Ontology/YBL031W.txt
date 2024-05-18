@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005935;C:cellular bud neck
-GO:0005737;C:cytoplasm
-GO:0015630;C:microtubule cytoskeleton
-GO:0005880;C:nuclear microtubule
-GO:0005819;C:spindle
-GO:0008017;F:microtubule binding
-GO:0051301;P:cell division
-GO:0000022;P:mitotic spindle elongation

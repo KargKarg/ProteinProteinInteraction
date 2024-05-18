@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;PIR1/2/3;65;78
-REGION;Disordered;83;127
-SITE;Cleavage; by KEX2;64;65
-SITE;Covalent attachment to cell wall glycan;74;74

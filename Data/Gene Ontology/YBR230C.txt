@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005741;C:mitochondrial outer membrane
-GO:0005739;C:mitochondrion
-GO:1990593;F:nascent polypeptide-associated complex binding
-GO:0006626;P:protein targeting to mitochondrion
-GO:0033750;P:ribosome localization

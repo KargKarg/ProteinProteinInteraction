@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Hexokinase;12;498
-REGION;Hexokinase small subdomain;74;217
-REGION;Glucose-binding;159;185
-REGION;Hexokinase large subdomain;218;487
-BINDING;;110;110
-BINDING;;487;492

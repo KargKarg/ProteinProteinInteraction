@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PIPK;376;756
-REGION;Disordered;1;100
-REGION;Disordered;116;166
-REGION;Disordered;759;779

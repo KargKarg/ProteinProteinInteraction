@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0009986;C:cell surface
-GO:0005576;C:extracellular region
-GO:0009277;C:fungal-type cell wall
-GO:0000324;C:fungal-type vacuole
-GO:0005178;F:integrin binding
-GO:0008237;F:metallopeptidase activity
-GO:0008270;F:zinc ion binding

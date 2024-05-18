@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005741;C:mitochondrial outer membrane
-GO:0005739;C:mitochondrion
-GO:0051537;F:2 iron, 2 sulfur cluster binding
-GO:0047547;F:2-methylcitrate dehydratase activity
-GO:0019541;P:propionate metabolic process
-GO:0019679;P:propionate metabolic process, methylcitrate cycle

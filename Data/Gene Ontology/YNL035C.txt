@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus

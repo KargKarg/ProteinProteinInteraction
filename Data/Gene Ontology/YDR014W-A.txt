@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000794;C:condensed nuclear chromosome
-GO:0004857;F:enzyme inhibitor activity
-GO:0006310;P:DNA recombination
-GO:0006281;P:DNA repair
-GO:1903873;P:negative regulation of DNA recombinase mediator complex assembly
-GO:0045950;P:negative regulation of mitotic recombination
-GO:0007130;P:synaptonemal complex assembly

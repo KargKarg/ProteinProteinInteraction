@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0070131;P:positive regulation of mitochondrial translation

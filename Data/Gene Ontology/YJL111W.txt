@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005832;C:chaperonin-containing T-complex
-GO:0005737;C:cytoplasm
-GO:0005524;F:ATP binding
-GO:0016887;F:ATP hydrolysis activity
-GO:0140662;F:ATP-dependent protein folding chaperone
-GO:0051082;F:unfolded protein binding
-GO:0051086;P:chaperone mediated protein folding independent of cofactor
-GO:0006457;P:protein folding

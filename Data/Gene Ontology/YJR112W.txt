@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000776;C:kinetochore
-GO:0000444;C:MIS12/MIND type complex
-GO:0005634;C:nucleus
-GO:0000922;C:spindle pole
-GO:0008608;P:attachment of spindle microtubules to kinetochore
-GO:0051301;P:cell division
-GO:0007059;P:chromosome segregation

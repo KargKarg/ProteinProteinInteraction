@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0016020;C:membrane
-GO:0072380;C:TRC complex
-GO:0042802;F:identical protein binding
-GO:0060090;F:molecular adaptor activity
-GO:0006620;P:post-translational protein targeting to endoplasmic reticulum membrane
-GO:0009408;P:response to heat

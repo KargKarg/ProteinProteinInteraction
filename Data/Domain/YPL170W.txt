@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Cytochrome b5 heme-binding;46;145
-REGION;Disordered;18;37

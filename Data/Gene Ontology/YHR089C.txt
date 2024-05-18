@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0031429;C:box H/ACA snoRNP complex
-GO:0005730;C:nucleolus
-GO:0034513;F:box H/ACA snoRNA binding
-GO:0000454;P:snoRNA guided rRNA pseudouridine synthesis
-GO:0031120;P:snRNA pseudouridine synthesis

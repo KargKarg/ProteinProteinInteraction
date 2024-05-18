@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0004040;F:amidase activity
-GO:0043864;F:indoleacetamide hydrolase activity

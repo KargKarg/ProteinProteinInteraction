@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0003877;F:ATP adenylyltransferase activity
-GO:0005524;F:ATP binding
-GO:0008796;F:bis(5'-nucleosyl)-tetraphosphatase activity
-GO:0004780;F:sulfate adenylyltransferase (ADP) activity
-GO:0009164;P:nucleoside catabolic process
-GO:0009165;P:nucleotide biosynthetic process

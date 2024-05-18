@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;v-SNARE coiled-coil homology;167;227
-REGION;Disordered;147;166

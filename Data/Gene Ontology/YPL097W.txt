@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0005524;F:ATP binding
-GO:0003723;F:RNA binding
-GO:0004831;F:tyrosine-tRNA ligase activity
-GO:0070184;P:mitochondrial tyrosyl-tRNA aminoacylation
-GO:0043039;P:tRNA aminoacylation

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004648;F:O-phospho-L-serine:2-oxoglutarate aminotransferase activity
-GO:0030170;F:pyridoxal phosphate binding
-GO:0006564;P:L-serine biosynthetic process
-GO:0009113;P:purine nucleobase biosynthetic process
-GO:0009070;P:serine family amino acid biosynthetic process

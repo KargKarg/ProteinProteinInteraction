@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0046547;F:trans-aconitate 3-methyltransferase activity
-GO:0032259;P:methylation

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004106;F:chorismate mutase activity
-GO:0004664;F:prephenate dehydratase activity
-GO:0009094;P:L-phenylalanine biosynthetic process

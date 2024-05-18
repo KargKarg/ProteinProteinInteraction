@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0032153;C:cell division site
-GO:0071944;C:cell periphery
-GO:0000324;C:fungal-type vacuole
-GO:0035838;C:growing cell tip
-GO:0005886;C:plasma membrane
-GO:0005774;C:vacuolar membrane

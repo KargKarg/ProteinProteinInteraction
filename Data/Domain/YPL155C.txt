@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Kinesin motor;102;493
-REGION;Disordered;1;139
-REGION;Disordered;413;445
-BINDING;;202;209

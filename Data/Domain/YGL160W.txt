@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ferric oxidoreductase;101;219
-DOMAIN;FAD-binding FR-type;250;388
-REGION;Disordered;480;509

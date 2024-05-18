@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0003677;F:DNA binding
-GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
-GO:2001172;P:positive regulation of glycolytic fermentation to ethanol
-GO:0090180;P:positive regulation of thiamine biosynthetic process
-GO:0045944;P:positive regulation of transcription by RNA polymerase II

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with histone H3, histone H4, RAD53 and the RF-C complex;1;155
-REGION;Interaction with HIR1;1;143
-REGION;Disordered;156;279

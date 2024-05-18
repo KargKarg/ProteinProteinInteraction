@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Nop;225;346
-REGION;Disordered;344;370
-SITE;Interaction with U4 snRNA;257;257

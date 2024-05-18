@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0070939;C:Dsl1/NZR complex
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005635;C:nuclear envelope
-GO:0032581;P:ER-dependent peroxisome organization
-GO:0015031;P:protein transport
-GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum
-GO:0016192;P:vesicle-mediated transport

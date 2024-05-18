@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000794;C:condensed nuclear chromosome
-GO:0005634;C:nucleus
-GO:0005524;F:ATP binding
-GO:0061656;F:SUMO conjugating enzyme activity
-GO:0019789;F:SUMO transferase activity
-GO:0051301;P:cell division
-GO:0000022;P:mitotic spindle elongation
-GO:0016925;P:protein sumoylation

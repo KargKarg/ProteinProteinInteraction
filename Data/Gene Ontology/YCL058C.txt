@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005576;C:extracellular region
-GO:0005886;C:plasma membrane
-GO:0007049;P:cell cycle
-GO:0071555;P:cell wall organization
-GO:0006873;P:intracellular monoatomic ion homeostasis
-GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion

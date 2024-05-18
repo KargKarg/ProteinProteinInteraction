@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;AB hydrolase-1;130;435
-MOTIF;HXXXXD motif;428;433

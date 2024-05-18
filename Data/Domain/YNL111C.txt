@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Cytochrome b5 heme-binding;2;78
-BINDING;axial binding residue;37;37
-BINDING;axial binding residue;61;61

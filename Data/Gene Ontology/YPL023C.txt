@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071949;F:FAD binding
-GO:0004489;F:methylenetetrahydrofolate reductase (NAD(P)H) activity
-GO:0106312;F:methylenetetrahydrofolate reductase NADH activity
-GO:0106313;F:methylenetetrahydrofolate reductase NADPH activity
-GO:0009086;P:methionine biosynthetic process
-GO:0035999;P:tetrahydrofolate interconversion

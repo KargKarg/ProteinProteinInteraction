@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0061630;F:ubiquitin protein ligase activity
-GO:0016567;P:protein ubiquitination
-GO:0002098;P:tRNA wobble uridine modification
-GO:0006511;P:ubiquitin-dependent protein catabolic process

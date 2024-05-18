@@ -1,6 +1,0 @@
-GO id;GO term
-GO:1990229;C:iron-sulfur cluster assembly complex
-GO:1990221;C:L-cysteine desulfurase complex
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0016226;P:iron-sulfur cluster assembly

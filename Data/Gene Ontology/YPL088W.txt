@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0047681;F:aryl-alcohol dehydrogenase (NADP+) activity
-GO:0006081;P:cellular aldehyde metabolic process

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DHHC;173;223
-REGION;Disordered;1;21
-ACT_SITE;S-palmitoyl cysteine intermediate;203;203

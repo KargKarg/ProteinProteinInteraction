@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:1990663;F:dihydroorotate dehydrogenase (fumarate) activity
-GO:0004152;F:dihydroorotate dehydrogenase activity
-GO:0006207;P:'de novo' pyrimidine nucleobase biosynthetic process
-GO:0044205;P:'de novo' UMP biosynthetic process

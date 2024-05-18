@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;PHD-type 1;263;313
-ZN_FING;C2HC pre-PHD-type;317;350
-ZN_FING;PHD-type 2;374;439

@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0005777;C:peroxisome

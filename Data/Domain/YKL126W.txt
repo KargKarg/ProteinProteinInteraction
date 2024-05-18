@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Protein kinase;347;602
-DOMAIN;AGC-kinase C-terminal;603;673
-REGION;Disordered;1;117
-ACT_SITE;Proton acceptor;470;470
-BINDING;;353;361
-BINDING;;376;376

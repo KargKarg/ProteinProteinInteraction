@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0045703;F:ketoreductase activity
-GO:0141040;F:very-long-chain 3-oxoacyl-CoA reductase activity
-GO:0030497;P:fatty acid elongation
-GO:0030148;P:sphingolipid biosynthetic process
-GO:0042761;P:very long-chain fatty acid biosynthetic process

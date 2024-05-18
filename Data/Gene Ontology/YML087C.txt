@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0016491;F:oxidoreductase activity

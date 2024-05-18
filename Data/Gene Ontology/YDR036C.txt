@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005763;C:mitochondrial small ribosomal subunit
-GO:0005739;C:mitochondrion
-GO:0003860;F:3-hydroxyisobutyryl-CoA hydrolase activity
-GO:0003735;F:structural constituent of ribosome
-GO:0032543;P:mitochondrial translation
-GO:0006574;P:valine catabolic process

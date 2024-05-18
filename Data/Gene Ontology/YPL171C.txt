@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0010181;F:FMN binding
-GO:0003959;F:NADPH dehydrogenase activity
-GO:0018548;F:pentaerythritol trinitrate reductase activity
-GO:0006915;P:apoptotic process

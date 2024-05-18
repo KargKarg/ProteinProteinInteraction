@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0008696;F:4-amino-4-deoxychorismate lyase activity
-GO:0019752;P:carboxylic acid metabolic process
-GO:0046656;P:folic acid biosynthetic process
-GO:0046654;P:tetrahydrofolate biosynthetic process

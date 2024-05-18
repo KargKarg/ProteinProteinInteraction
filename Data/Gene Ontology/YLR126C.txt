@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0034399;C:nuclear periphery
-GO:0005634;C:nucleus
-GO:0016740;F:transferase activity
-GO:0006541;P:glutamine metabolic process
-GO:0030003;P:intracellular monoatomic cation homeostasis

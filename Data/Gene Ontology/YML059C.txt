@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005811;C:lipid droplet
-GO:0004622;F:lysophospholipase activity
-GO:0102545;F:phosphatidyl phospholipase B activity
-GO:0034638;P:phosphatidylcholine catabolic process
-GO:0071071;P:regulation of phospholipid biosynthetic process

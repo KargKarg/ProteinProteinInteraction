@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005737;C:cytoplasm
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0016020;C:membrane
-GO:0034975;P:protein folding in endoplasmic reticulum

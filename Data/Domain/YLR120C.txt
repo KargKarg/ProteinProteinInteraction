@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Peptidase A1;83;475
-ACT_SITE;;101;101
-ACT_SITE;;371;371
-SITE;Cleavage; by autolysis;128;129
-SITE;Cleavage; by autolysis;144;145

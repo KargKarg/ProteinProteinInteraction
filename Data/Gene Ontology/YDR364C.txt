@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071013;C:catalytic step 2 spliceosome
-GO:0034399;C:nuclear periphery
-GO:0005681;C:spliceosomal complex
-GO:0003729;F:mRNA binding
-GO:0000350;P:generation of catalytic spliceosome for second transesterification step
-GO:0000389;P:mRNA 3'-splice site recognition
-GO:0000348;P:mRNA branch site recognition
-GO:0000398;P:mRNA splicing, via spliceosome

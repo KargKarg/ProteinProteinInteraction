@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;KH;482;556
-REGION;Disordered;727;766

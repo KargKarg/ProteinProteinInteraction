@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Protein kinase;25;272
-REGION;Self association domain;360;702
-REGION;Disordered;554;592
-REGION;Auto-inhibitory domain;751;974
-REGION;Disordered;941;974
-ACT_SITE;Proton acceptor;146;146
-BINDING;;31;39
-BINDING;;54;54

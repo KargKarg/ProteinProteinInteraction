@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0003676;F:nucleic acid binding
-GO:0008270;F:zinc ion binding

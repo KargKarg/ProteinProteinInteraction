@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0008898;F:S-adenosylmethionine-homocysteine S-methyltransferase activity
-GO:0061627;F:S-methylmethionine-homocysteine S-methyltransferase activity
-GO:0008270;F:zinc ion binding
-GO:0009086;P:methionine biosynthetic process
-GO:0032259;P:methylation
-GO:0000096;P:sulfur amino acid metabolic process

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0047536;F:2-aminoadipate transaminase activity
-GO:0016212;F:kynurenine-oxoglutarate transaminase activity
-GO:0030170;F:pyridoxal phosphate binding
-GO:0034276;P:kynurenic acid biosynthetic process
-GO:0097053;P:L-kynurenine catabolic process

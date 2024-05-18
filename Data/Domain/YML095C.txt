@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;;133;153
-REGION;Disordered;20;89
-MOTIF;Nuclear localization signal;17;23

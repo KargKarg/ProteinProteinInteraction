@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0016788;F:hydrolase activity, acting on ester bonds
-GO:0006083;P:acetate metabolic process
-GO:0016042;P:lipid catabolic process

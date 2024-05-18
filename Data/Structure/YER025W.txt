@@ -1,7 +1,0 @@
-Structure type;Structure begin;Structure end
-STRAND;425;436
-STRAND;460;466
-STRAND;469;478
-STRAND;480;493
-STRAND;498;504
-STRAND;506;523

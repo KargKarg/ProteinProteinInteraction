@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005739;C:mitochondrion
-GO:0004408;F:holocytochrome-c synthase activity
-GO:0046872;F:metal ion binding
-GO:0018063;P:cytochrome c-heme linkage

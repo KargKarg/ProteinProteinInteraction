@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0044715;F:8-oxo-dGDP phosphatase activity

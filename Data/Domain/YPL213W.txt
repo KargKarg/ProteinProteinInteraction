@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;LRR 1;53;74
-REPEAT;LRR 2;75;95
-REPEAT;LRR 3;97;118
-DOMAIN;LRRCT;132;170
-REGION;Disordered;167;189

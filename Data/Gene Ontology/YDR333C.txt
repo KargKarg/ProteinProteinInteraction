@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:1990112;C:RQC complex
-GO:0060090;F:molecular adaptor activity
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0072344;P:rescue of stalled ribosome
-GO:1990116;P:ribosome-associated ubiquitin-dependent protein catabolic process

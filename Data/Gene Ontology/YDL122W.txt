@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005783;C:endoplasmic reticulum
-GO:0005634;C:nucleus
-GO:0004843;F:cysteine-type deubiquitinase activity
-GO:0016579;P:protein deubiquitination
-GO:0006508;P:proteolysis

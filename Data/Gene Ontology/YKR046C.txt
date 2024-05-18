@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005811;C:lipid droplet
-GO:0016020;C:membrane
-GO:0009060;P:aerobic respiration

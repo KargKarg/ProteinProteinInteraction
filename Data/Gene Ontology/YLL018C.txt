@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0017101;C:aminoacyl-tRNA synthetase multienzyme complex
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0004815;F:aspartate-tRNA ligase activity
-GO:0005524;F:ATP binding
-GO:0003723;F:RNA binding
-GO:0006422;P:aspartyl-tRNA aminoacylation

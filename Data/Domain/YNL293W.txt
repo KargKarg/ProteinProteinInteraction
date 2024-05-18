@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Rab-GAP TBC;223;456
-REGION;Disordered;26;127

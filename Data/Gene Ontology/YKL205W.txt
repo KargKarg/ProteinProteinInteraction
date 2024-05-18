@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0016363;C:nuclear matrix
-GO:0005643;C:nuclear pore
-GO:0031267;F:small GTPase binding
-GO:0000049;F:tRNA binding
-GO:0006409;P:tRNA export from nucleus
-GO:0071528;P:tRNA re-export from nucleus

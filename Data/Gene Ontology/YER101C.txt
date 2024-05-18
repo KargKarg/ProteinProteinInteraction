@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0016491;F:oxidoreductase activity
-GO:0006612;P:protein targeting to membrane

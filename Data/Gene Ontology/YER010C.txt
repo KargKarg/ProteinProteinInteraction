@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0047443;F:4-hydroxy-4-methyl-2-oxoglutarate aldolase activity
-GO:0046872;F:metal ion binding
-GO:0008948;F:oxaloacetate decarboxylase activity
-GO:0019619;P:3,4-dihydroxybenzoate catabolic process

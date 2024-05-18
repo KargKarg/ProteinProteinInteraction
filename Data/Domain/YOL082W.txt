@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;ATG11-binding;21;28
-REGION;Disordered;126;150
-REGION;AMS1-binding;254;367
-REGION;ATG8-binding;406;415
-MOTIF;WXXL;412;415

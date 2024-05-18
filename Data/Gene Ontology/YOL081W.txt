@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005739;C:mitochondrion
-GO:0005096;F:GTPase activator activity
-GO:0007193;P:adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway
-GO:0046580;P:negative regulation of Ras protein signal transduction

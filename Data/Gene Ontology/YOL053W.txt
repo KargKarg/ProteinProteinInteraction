@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0031966;C:mitochondrial membrane
-GO:0005739;C:mitochondrion

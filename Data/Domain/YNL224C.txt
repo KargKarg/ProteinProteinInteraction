@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;R3H;594;656
-DOMAIN;G-patch;720;767
-REGION;Disordered;1;60
-REGION;Disordered;176;200
-REGION;Disordered;466;493

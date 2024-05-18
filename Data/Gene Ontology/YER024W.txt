@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0004092;F:carnitine O-acetyltransferase activity
-GO:0006066;P:alcohol metabolic process
-GO:0009437;P:carnitine metabolic process
-GO:0006631;P:fatty acid metabolic process

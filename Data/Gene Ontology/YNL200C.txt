@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0046872;F:metal ion binding
-GO:0052856;F:NADHX epimerase activity
-GO:0052857;F:NADPHX epimerase activity
-GO:0000166;F:nucleotide binding
-GO:0046496;P:nicotinamide nucleotide metabolic process

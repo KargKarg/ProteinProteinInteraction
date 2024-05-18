@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005524;F:ATP binding
-GO:0043295;F:glutathione binding
-GO:0004363;F:glutathione synthase activity
-GO:0000287;F:magnesium ion binding
-GO:0042803;F:protein homodimerization activity
-GO:0006750;P:glutathione biosynthetic process

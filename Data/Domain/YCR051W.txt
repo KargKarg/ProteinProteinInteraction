@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;ANK 1;1;29
-REPEAT;ANK 2;36;66
-REPEAT;ANK 3;70;99

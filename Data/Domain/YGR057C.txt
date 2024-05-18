@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;uDENN FLCN/SMCR8-type;48;212

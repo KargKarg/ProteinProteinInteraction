@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0016791;F:phosphatase activity
-GO:0004725;F:protein tyrosine phosphatase activity
-GO:0034599;P:cellular response to oxidative stress

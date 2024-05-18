@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;H-T-H motif;330;356
-REGION;Disordered;1;47
-REGION;Interaction with NBA1;143;362
-REGION;Disordered;364;417

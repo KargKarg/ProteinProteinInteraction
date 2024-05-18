@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005778;C:peroxisomal membrane
-GO:0005777;C:peroxisome
-GO:0005052;F:peroxisome matrix targeting signal-1 binding
-GO:0016558;P:protein import into peroxisome matrix
-GO:0016560;P:protein import into peroxisome matrix, docking

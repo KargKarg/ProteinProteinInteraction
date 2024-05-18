@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0030479;C:actin cortical patch
-GO:0015629;C:actin cytoskeleton
-GO:0110131;C:Aim21-Tda2 complex
-GO:0043332;C:mating projection tip
-GO:0034642;P:mitochondrion migration along actin filament
-GO:0030837;P:negative regulation of actin filament polymerization
-GO:2000813;P:negative regulation of barbed-end actin filament capping

@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0051321;P:meiotic cell cycle
-GO:1904750;P:negative regulation of protein localization to nucleolus

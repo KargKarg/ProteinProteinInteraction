@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005778;C:peroxisomal membrane
-GO:0097027;F:ubiquitin-protein transferase activator activity
-GO:1902499;P:positive regulation of protein autoubiquitination
-GO:0031398;P:positive regulation of protein ubiquitination
-GO:0016562;P:protein import into peroxisome matrix, receptor recycling

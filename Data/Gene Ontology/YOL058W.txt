@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0004055;F:argininosuccinate synthase activity
-GO:0005524;F:ATP binding
-GO:0006526;P:arginine biosynthetic process
-GO:0000053;P:argininosuccinate metabolic process
-GO:0000050;P:urea cycle

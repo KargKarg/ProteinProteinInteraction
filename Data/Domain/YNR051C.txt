@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;NTF2;8;140
-DOMAIN;RRM;418;494
-REGION;Disordered;157;410
-REGION;Disordered;485;515

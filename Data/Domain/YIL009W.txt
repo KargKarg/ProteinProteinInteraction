@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;25
-MOTIF;FACS;527;576
-BINDING;;269;280

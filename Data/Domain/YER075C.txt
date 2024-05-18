@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Rhodanese;111;232
-DOMAIN;Tyrosine-protein phosphatase;502;878
-REGION;Disordered;247;307
-REGION;Disordered;467;487
-REGION;Disordered;672;713
-ACT_SITE;Phosphocysteine intermediate;804;804

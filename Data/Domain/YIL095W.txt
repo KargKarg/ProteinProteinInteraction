@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Protein kinase;22;298
-REGION;Disordered;552;668
-REGION;Disordered;733;761
-REGION;Interaction with SH3 domain of ABP1;743;756
-ACT_SITE;Proton acceptor;158;158
-BINDING;;28;36
-BINDING;;56;56

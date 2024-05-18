@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VPS9;170;312
-DOMAIN;CUE;408;451
-REGION;Disordered;15;54
-MOTIF;GBH motif I;229;237
-MOTIF;GBH motif II;249;257
-MOTIF;GBH motif III;287;295

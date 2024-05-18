@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005794;C:Golgi apparatus
-GO:0000139;C:Golgi membrane
-GO:0004142;F:diacylglycerol cholinephosphotransferase activity
-GO:0004307;F:ethanolaminephosphotransferase activity
-GO:0006656;P:phosphatidylcholine biosynthetic process
-GO:0006646;P:phosphatidylethanolamine biosynthetic process

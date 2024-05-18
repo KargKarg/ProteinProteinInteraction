@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;25;51
-REGION;Basic motif;109;138
-REGION;Leucine-zipper;139;160
-REGION;Disordered;170;201
-REGION;Disordered;305;327
-REGION;Disordered;378;404
-MOTIF;FFAT;200;206

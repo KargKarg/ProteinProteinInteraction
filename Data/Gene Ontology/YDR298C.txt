@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005753;C:mitochondrial proton-transporting ATP synthase complex
-GO:0000274;C:mitochondrial proton-transporting ATP synthase, stator stalk
-GO:0005739;C:mitochondrion
-GO:0045261;C:proton-transporting ATP synthase complex, catalytic core F(1)
-GO:0046933;F:proton-transporting ATP synthase activity, rotational mechanism
-GO:0015986;P:proton motive force-driven ATP synthesis
-GO:0042776;P:proton motive force-driven mitochondrial ATP synthesis

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004038;F:allantoinase activity
-GO:0050897;F:cobalt ion binding
-GO:0008270;F:zinc ion binding
-GO:0009442;P:allantoin assimilation pathway
-GO:0006145;P:purine nucleobase catabolic process

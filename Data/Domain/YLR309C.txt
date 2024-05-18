@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GRIP;861;909
-REGION;Disordered;16;41
-REGION;Disordered;271;314
-REGION;Disordered;814;850

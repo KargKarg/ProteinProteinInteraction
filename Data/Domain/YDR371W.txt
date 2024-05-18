@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GH18;73;472
-ACT_SITE;Proton donor;223;223

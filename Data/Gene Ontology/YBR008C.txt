@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0005886;C:plasma membrane
-GO:0015244;F:fluconazole transmembrane transporter activity
-GO:0042910;F:xenobiotic transmembrane transporter activity
-GO:1990961;P:xenobiotic detoxification by transmembrane export across the plasma membrane

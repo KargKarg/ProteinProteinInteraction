@@ -1,6 +1,0 @@
-GO id;GO term
-GO:1990143;C:CoA-synthesizing protein complex
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004632;F:phosphopantothenate--cysteine ligase activity
-GO:0015937;P:coenzyme A biosynthetic process

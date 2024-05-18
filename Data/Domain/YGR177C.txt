@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Membrane association;19;36
-REGION;Membrane association;515;532
-ACT_SITE;Charge relay system;189;189
-ACT_SITE;Charge relay system;193;193

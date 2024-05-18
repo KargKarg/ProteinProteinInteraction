@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005794;C:Golgi apparatus
-GO:0016020;C:membrane
-GO:0000026;F:alpha-1,2-mannosyltransferase activity
-GO:0000030;F:mannosyltransferase activity
-GO:0000032;P:cell wall mannoprotein biosynthetic process
-GO:0097502;P:mannosylation
-GO:0006487;P:protein N-linked glycosylation

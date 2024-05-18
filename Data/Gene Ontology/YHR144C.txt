@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004132;F:dCMP deaminase activity
-GO:0008270;F:zinc ion binding
-GO:0006231;P:dTMP biosynthetic process
-GO:0006226;P:dUMP biosynthetic process

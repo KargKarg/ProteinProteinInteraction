@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0016657;F:oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor
-GO:0034599;P:cellular response to oxidative stress

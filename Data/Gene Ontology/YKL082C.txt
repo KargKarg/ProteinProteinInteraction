@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0003677;F:DNA binding
-GO:0003723;F:RNA binding
-GO:0042273;P:ribosomal large subunit biogenesis
-GO:0042274;P:ribosomal small subunit biogenesis
-GO:0006364;P:rRNA processing

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0003850;F:2-deoxyglucose-6-phosphatase activity
-GO:0008801;F:beta-phosphoglucomutase activity
-GO:0046872;F:metal ion binding
-GO:0006006;P:glucose metabolic process

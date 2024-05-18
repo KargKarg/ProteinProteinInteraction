@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0106073;F:dolichyl pyrophosphate Glc2Man9GlcNAc2 alpha-1,2-glucosyltransferase activity
-GO:0004583;F:dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase activity
-GO:0006488;P:dolichol-linked oligosaccharide biosynthetic process
-GO:0006487;P:protein N-linked glycosylation

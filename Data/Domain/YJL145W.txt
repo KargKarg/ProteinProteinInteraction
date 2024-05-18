@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CRAL-TRIO;100;266
-BINDING;;128;128
-BINDING;;148;148
-BINDING;;173;173
-BINDING;proximal binding residue;175;175
-BINDING;;209;209

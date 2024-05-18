@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0008143;F:poly(A) binding
-GO:0016071;P:mRNA metabolic process

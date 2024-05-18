@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Rhodanese;37;138
-ACT_SITE;Cysteine persulfide intermediate;98;98

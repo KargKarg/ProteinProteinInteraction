@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005740;C:mitochondrial envelope
-GO:0030163;P:protein catabolic process

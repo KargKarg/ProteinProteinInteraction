@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
-GO:0005634;C:nucleus
-GO:0003723;F:RNA binding
-GO:0006378;P:mRNA polyadenylation
-GO:0006369;P:termination of RNA polymerase II transcription
-GO:0030846;P:termination of RNA polymerase II transcription, poly(A)-coupled

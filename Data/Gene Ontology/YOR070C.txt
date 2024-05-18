@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005794;C:Golgi apparatus
-GO:0005795;C:Golgi stack
-GO:0005739;C:mitochondrion
-GO:0005096;F:GTPase activator activity
-GO:0016192;P:vesicle-mediated transport

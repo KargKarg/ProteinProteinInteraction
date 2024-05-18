@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0033573;C:high-affinity iron permease complex
-GO:0005507;F:copper ion binding
-GO:0004322;F:ferroxidase activity
-GO:0010106;P:cellular response to iron ion starvation
-GO:0051321;P:meiotic cell cycle
-GO:0033215;P:reductive iron assimilation
-GO:0070193;P:synaptonemal complex organization

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0005525;F:GTP binding
-GO:0003924;F:GTPase activity
-GO:0000287;F:magnesium ion binding
-GO:0043022;F:ribosome binding
-GO:0002181;P:cytoplasmic translation

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0046872;F:metal ion binding
-GO:0008235;F:metalloexopeptidase activity
-GO:0006508;P:proteolysis

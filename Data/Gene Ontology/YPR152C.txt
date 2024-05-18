@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0071010;C:prespliceosome
-GO:0005685;C:U1 snRNP
-GO:0071004;C:U2-type prespliceosome
-GO:0003723;F:RNA binding
-GO:0070063;F:RNA polymerase binding
-GO:0003712;F:transcription coregulator activity
-GO:0000398;P:mRNA splicing, via spliceosome

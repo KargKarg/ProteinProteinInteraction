@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;Copper-fist;1;40
-REGION;Binds copper and DNA;1;108
-REGION;Required for transcriptional activation;109;225
-BINDING;;11;11
-BINDING;;14;14
-BINDING;;23;23
-BINDING;;25;25

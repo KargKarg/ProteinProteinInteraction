@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ABC transmembrane type-1 1;311;621
-DOMAIN;ABC transporter;651;892
-DOMAIN;ABC transmembrane type-1 2;961;1218
-REGION;Disordered;410;434
-REGION;Disordered;892;926
-BINDING;;686;693

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CN hydrolase;2;199
-ACT_SITE;Proton acceptor;44;44
-ACT_SITE;Proton donor;135;135
-ACT_SITE;Nucleophile;169;169

@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;The nascent chain stimulates ribosomal stalling during translation by interfering with the conformation of the peptidyl transferase center (PTC), and the translating mRNA by adopting a difficult-to-decode structure at the ribosome decoding center;196;212

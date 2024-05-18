@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0016020;C:membrane
-GO:0005085;F:guanyl-nucleotide exchange factor activity
-GO:0008270;F:zinc ion binding
-GO:0006892;P:post-Golgi vesicle-mediated transport
-GO:0015031;P:protein transport
-GO:0007264;P:small GTPase mediated signal transduction

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0000502;C:proteasome complex
-GO:0008541;C:proteasome regulatory particle, lid subcomplex
-GO:0034515;C:proteasome storage granule
-GO:0043130;F:ubiquitin binding
-GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
-GO:0006511;P:ubiquitin-dependent protein catabolic process

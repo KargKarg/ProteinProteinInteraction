@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0007127;P:meiosis I
-GO:1904750;P:negative regulation of protein localization to nucleolus
-GO:0031536;P:positive regulation of exit from mitosis
-GO:0030435;P:sporulation resulting in formation of a cellular spore

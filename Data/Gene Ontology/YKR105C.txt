@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0005774;C:vacuolar membrane
-GO:0022857;F:transmembrane transporter activity
-GO:1903826;P:L-arginine transmembrane transport
-GO:0055085;P:transmembrane transport

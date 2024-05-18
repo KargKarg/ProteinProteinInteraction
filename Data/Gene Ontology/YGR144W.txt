@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0008198;F:ferrous iron binding
-GO:0016763;F:pentosyltransferase activity
-GO:0000002;P:mitochondrial genome maintenance
-GO:0009228;P:thiamine biosynthetic process
-GO:0052837;P:thiazole biosynthetic process

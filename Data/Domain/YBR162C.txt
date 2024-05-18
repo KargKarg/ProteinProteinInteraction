@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;158;221
-MOTIF;ExDxxE motif;372;377

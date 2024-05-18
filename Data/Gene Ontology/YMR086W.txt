@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005737;C:cytoplasm
-GO:0032126;C:eisosome
-GO:0005886;C:plasma membrane
-GO:0070941;P:eisosome assembly

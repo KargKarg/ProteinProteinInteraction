@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Gly-Pro-Asn (GPN)-loop; involved in dimer interface;69;71
-BINDING;;12;17
-BINDING;;175;178
-SITE;Stabilizes the phosphate intermediate; shared with dimeric partner;71;71

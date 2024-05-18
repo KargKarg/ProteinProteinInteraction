@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;JmjN;118;159
-DOMAIN;ARID;185;279
-DOMAIN;JmjC;476;695
-ZN_FING;PHD-type;1238;1290
-REGION;Disordered;285;312

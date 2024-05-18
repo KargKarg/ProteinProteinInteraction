@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Nucleophile;411;411
-BINDING;;298;298
-BINDING;;300;300
-BINDING;;411;411
-BINDING;;626;626

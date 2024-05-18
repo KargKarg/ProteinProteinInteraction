@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005886;C:plasma membrane
-GO:0030036;P:actin cytoskeleton organization
-GO:0006629;P:lipid metabolic process
-GO:0061093;P:negative regulation of phospholipid translocation
-GO:0007033;P:vacuole organization

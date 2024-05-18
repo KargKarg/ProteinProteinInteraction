@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SANT;668;720
-DOMAIN;HTH myb-type;884;938
-DNA_BIND;H-T-H motif;911;934
-REGION;Disordered;1;219
-REGION;Disordered;264;331
-REGION;Disordered;569;605
-REGION;Disordered;732;796
-REGION;Disordered;1172;1194

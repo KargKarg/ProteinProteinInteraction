@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005886;C:plasma membrane
-GO:0051267;F:CP2 mannose-ethanolamine phosphotransferase activity
-GO:0006506;P:GPI anchor biosynthetic process

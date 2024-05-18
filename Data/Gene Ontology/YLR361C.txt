@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0005524;F:ATP binding
-GO:0016788;F:hydrolase activity, acting on ester bonds
-GO:0004721;F:phosphoprotein phosphatase activity
-GO:0007049;P:cell cycle
-GO:1900102;P:negative regulation of endoplasmic reticulum unfolded protein response
-GO:0007089;P:traversing start control point of mitotic cell cycle

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0008168;F:methyltransferase activity
-GO:0003729;F:mRNA binding
-GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
-GO:0055088;P:lipid homeostasis
-GO:0032259;P:methylation

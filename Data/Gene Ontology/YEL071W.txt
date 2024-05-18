@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0099615;F:(D)-2-hydroxyglutarate-pyruvate transhydrogenase activity
-GO:0004458;F:D-lactate dehydrogenase (cytochrome) activity
-GO:0071949;F:FAD binding
-GO:0030447;P:filamentous growth
-GO:0019249;P:lactate biosynthetic process

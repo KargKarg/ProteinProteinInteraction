@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;GATA-type;310;334
-REGION;Disordered;220;311
-REGION;Disordered;358;383

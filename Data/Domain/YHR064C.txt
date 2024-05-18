@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Peptide-binding domain;400;538
-REGION;Disordered;464;484

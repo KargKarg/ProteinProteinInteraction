@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Microbody targeting signal;513;515
-ACT_SITE;;70;70
-ACT_SITE;;143;143
-BINDING;axial binding residue;355;355

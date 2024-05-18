@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Required for interaction with MMS1;1;50
-REGION;Disordered;755;775

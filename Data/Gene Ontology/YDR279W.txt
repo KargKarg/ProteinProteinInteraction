@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0032299;C:ribonuclease H2 complex
-GO:0006298;P:mismatch repair
-GO:0006401;P:RNA catabolic process

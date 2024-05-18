@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Radical SAM core;81;310
-BINDING;;99;99
-BINDING;;103;103
-BINDING;;106;106
-BINDING;;143;143
-BINDING;;176;176
-BINDING;;236;236
-BINDING;;314;314

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0008073;F:ornithine decarboxylase inhibitor activity
-GO:2001125;P:negative regulation of translational frameshifting
-GO:0061136;P:regulation of proteasomal protein catabolic process

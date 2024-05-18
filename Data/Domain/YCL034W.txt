@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VHS;15;161
-REGION;Disordered;160;184
-REGION;Disordered;296;354

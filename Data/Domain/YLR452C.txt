@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DEP;273;358
-DOMAIN;RGS;420;689
-REGION;Fungal-DR;10;203
-REGION;Disordered;545;586

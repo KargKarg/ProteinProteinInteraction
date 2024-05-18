@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MRH;20;166
-REGION;Disordered;161;194

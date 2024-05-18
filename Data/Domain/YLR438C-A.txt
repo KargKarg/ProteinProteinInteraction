@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Sm;3;82

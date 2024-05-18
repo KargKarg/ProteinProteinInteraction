@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;PIR1/2/3;194;212
-REGION;Disordered;131;196
-SITE;Covalent attachment to cell wall glycan;204;204

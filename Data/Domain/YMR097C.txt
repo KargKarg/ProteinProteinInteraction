@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CP-type G;42;228
-BINDING;;89;92
-BINDING;;160;165
-BINDING;;224;224

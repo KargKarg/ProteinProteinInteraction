@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0034707;C:chloride channel complex
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005254;F:chloride channel activity

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Histone-fold;37;103
-REGION;Disordered;361;382
-REGION;Disordered;459;510

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0010494;C:cytoplasmic stress granule
-GO:0005634;C:nucleus
-GO:0000932;C:P-body
-GO:0048471;C:perinuclear region of cytoplasm
-GO:0003729;F:mRNA binding
-GO:0061158;P:3'-UTR-mediated mRNA destabilization
-GO:0007005;P:mitochondrion organization

@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
-GO:0007131;P:reciprocal meiotic recombination

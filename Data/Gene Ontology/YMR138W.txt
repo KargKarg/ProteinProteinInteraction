@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0015630;C:microtubule cytoskeleton
-GO:0005525;F:GTP binding
-GO:0003924;F:GTPase activity
-GO:0006457;P:protein folding
-GO:0007021;P:tubulin complex assembly

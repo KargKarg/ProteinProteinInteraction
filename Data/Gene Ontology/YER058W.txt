@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0033617;P:mitochondrial cytochrome c oxidase assembly

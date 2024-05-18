@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Pyruvate carboxyltransferase;60;335
-BINDING;;69;69
-BINDING;;274;274
-BINDING;;276;276
-BINDING;;310;310

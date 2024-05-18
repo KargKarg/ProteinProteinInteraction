@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Helicase ATP-binding;222;399
-DOMAIN;Helicase C-terminal;454;605
-REGION;Disordered;696;763
-REGION;Disordered;775;895
-MOTIF;DEAH box;345;348
-BINDING;;235;242

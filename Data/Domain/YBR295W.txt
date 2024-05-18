@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HMA;410;477
-REGION;Metal-responding degradation signal;250;350
-ACT_SITE;4-aspartylphosphate intermediate;903;903
-BINDING;;421;421
-BINDING;;424;424
-BINDING;;1107;1107
-BINDING;;1111;1111

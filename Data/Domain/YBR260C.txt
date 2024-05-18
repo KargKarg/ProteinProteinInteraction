@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;F-BAR;33;295
-DOMAIN;Rho-GAP;472;663
-REGION;Disordered;1;21
-REGION;Disordered;325;439

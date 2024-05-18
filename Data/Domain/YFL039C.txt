@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-SITE;Not methylated;73;73

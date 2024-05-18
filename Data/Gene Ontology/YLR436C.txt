@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005797;C:Golgi medial cisterna
-GO:0000138;C:Golgi trans cisterna
-GO:0016020;C:membrane
-GO:0071555;P:cell wall organization

@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Phosphoserine intermediate;67;67
-BINDING;via phosphate group;67;67
-BINDING;;298;298
-BINDING;;300;300
-BINDING;;302;302
-BINDING;;395;397
-BINDING;;522;526
-BINDING;;531;531

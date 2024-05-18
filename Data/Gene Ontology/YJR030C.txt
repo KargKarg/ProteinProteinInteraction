@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0019320;P:hexose catabolic process

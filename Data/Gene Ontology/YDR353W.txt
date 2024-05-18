@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005739;C:mitochondrion
-GO:0008198;F:ferrous iron binding
-GO:0004791;F:thioredoxin-disulfide reductase (NADP) activity
-GO:0045454;P:cell redox homeostasis
-GO:0034599;P:cellular response to oxidative stress
-GO:0019430;P:removal of superoxide radicals

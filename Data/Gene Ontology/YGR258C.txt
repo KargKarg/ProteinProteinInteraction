@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000112;C:nucleotide-excision repair factor 3 complex
-GO:0005634;C:nucleus
-GO:0004520;F:DNA endonuclease activity
-GO:0046872;F:metal ion binding
-GO:0003697;F:single-stranded DNA binding
-GO:0000014;F:single-stranded DNA endodeoxyribonuclease activity
-GO:0006289;P:nucleotide-excision repair
-GO:0006366;P:transcription by RNA polymerase II

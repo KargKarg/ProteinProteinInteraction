@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;TRAM;163;228
-REGION;Disordered;78;113
-ACT_SITE;Nucleophile;591;591
-ACT_SITE;Proton acceptor;631;631
-BINDING;;461;461
-BINDING;;496;496
-BINDING;;517;517
-BINDING;;564;564

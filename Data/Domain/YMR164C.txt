@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;LisH;51;83
-REGION;Disordered;1;23
-REGION;Disordered;191;220
-REGION;Disordered;268;299
-REGION;Disordered;322;355
-REGION;Disordered;428;454
-REGION;Disordered;587;681

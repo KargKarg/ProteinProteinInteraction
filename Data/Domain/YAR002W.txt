@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;FXF 1;399;401
-REPEAT;FXF 2;427;429
-REPEAT;FXF 3;469;471
-REPEAT;FXF 4;509;511
-REGION;Disordered;44;80
-REGION;Disordered;242;267
-REGION;Disordered;305;329
-REGION;Disordered;347;493

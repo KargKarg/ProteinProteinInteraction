@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0070780;F:dihydrosphingosine-1-phosphate phosphatase activity
-GO:0042392;F:sphingosine-1-phosphate phosphatase activity
-GO:0046839;P:phospholipid dephosphorylation
-GO:0030148;P:sphingolipid biosynthetic process

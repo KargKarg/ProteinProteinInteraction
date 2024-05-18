@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0055105;F:ubiquitin-protein transferase inhibitor activity
-GO:0007049;P:cell cycle
-GO:0051301;P:cell division
-GO:0031397;P:negative regulation of protein ubiquitination

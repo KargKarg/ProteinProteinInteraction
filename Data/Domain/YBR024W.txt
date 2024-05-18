@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Thioredoxin;101;284
-BINDING;;154;154
-BINDING;;158;158
-BINDING;;245;245

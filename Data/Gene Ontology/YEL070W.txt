@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0050086;F:mannitol 2-dehydrogenase activity
-GO:0046029;F:mannitol dehydrogenase activity
-GO:0019594;P:mannitol metabolic process

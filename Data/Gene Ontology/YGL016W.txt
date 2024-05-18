@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005635;C:nuclear envelope
-GO:0005634;C:nucleus
-GO:0061608;F:nuclear import signal receptor activity
-GO:0006606;P:protein import into nucleus
-GO:0008361;P:regulation of cell size

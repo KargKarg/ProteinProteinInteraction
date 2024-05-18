@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0042802;F:identical protein binding
-GO:0008137;F:NADH dehydrogenase (ubiquinone) activity
-GO:0006120;P:mitochondrial electron transport, NADH to ubiquinone
-GO:0006116;P:NADH oxidation
-GO:0043065;P:positive regulation of apoptotic process

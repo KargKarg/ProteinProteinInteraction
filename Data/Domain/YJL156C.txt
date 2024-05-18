@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;113
-REGION;Disordered;128;158
-REGION;Serine protease;459;699
-ACT_SITE;Charge relay system;465;465
-ACT_SITE;Charge relay system;545;545
-ACT_SITE;Charge relay system;640;640

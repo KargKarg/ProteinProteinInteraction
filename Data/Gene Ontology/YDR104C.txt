@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005628;C:prospore membrane
-GO:0043495;F:protein-membrane adaptor activity
-GO:0032120;P:ascospore-type prospore membrane formation
-GO:1902657;P:protein localization to prospore membrane

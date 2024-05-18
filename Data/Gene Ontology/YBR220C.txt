@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0016020;C:membrane
-GO:0008521;F:acetyl-CoA transmembrane transporter activity

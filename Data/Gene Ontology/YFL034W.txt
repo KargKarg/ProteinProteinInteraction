@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0030665;C:clathrin-coated vesicle membrane
-GO:0031901;C:early endosome membrane
-GO:0000139;C:Golgi membrane
-GO:0016020;C:membrane
-GO:0035650;F:AP-1 adaptor complex binding
-GO:0016787;F:hydrolase activity
-GO:0035652;P:clathrin-coated vesicle cargo loading

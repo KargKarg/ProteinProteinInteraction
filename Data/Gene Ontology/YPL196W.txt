@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0006979;P:response to oxidative stress

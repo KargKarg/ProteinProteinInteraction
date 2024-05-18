@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Stem region;25;88
-REGION;Catalytic;89;428
-ACT_SITE;Nucleophile;313;313

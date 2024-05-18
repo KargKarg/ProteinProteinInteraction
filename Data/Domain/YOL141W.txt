@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton donor; for both methylation and methoxycarbonylation activities;88;88
-ACT_SITE;Proton acceptor; for methoxycarbonylation activity;229;229
-BINDING;;38;38
-BINDING;;88;88
-BINDING;;115;115
-BINDING;;146;147
-BINDING;;196;197
-BINDING;;224;224

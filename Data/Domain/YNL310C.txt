@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;DNL-type;64;159
-BINDING;;75;75
-BINDING;;78;78
-BINDING;;100;100
-BINDING;;103;103

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000785;C:chromatin
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:1901857;P:positive regulation of cellular respiration

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Nucleophile;14;14
-ACT_SITE;Transition state stabilizer;20;20
-ACT_SITE;Proton donor;133;133
-SITE;Important for catalytic activity;21;21

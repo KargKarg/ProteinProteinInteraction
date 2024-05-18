@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Protein kinase;135;415
-ACT_SITE;Proton acceptor;280;280
-BINDING;;141;149
-BINDING;;169;169

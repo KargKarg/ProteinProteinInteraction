@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CUE;97;140
-REGION;Disordered;1;102
-REGION;Disordered;142;411
-MOTIF;AIM;373;376

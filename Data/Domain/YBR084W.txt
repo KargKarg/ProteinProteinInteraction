@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Methylenetetrahydrofolate dehydrogenase and cyclohydrolase;35;343
-REGION;Formyltetrahydrofolate synthetase;344;975
-BINDING;;83;87
-BINDING;;130;132
-BINDING;;201;203
-BINDING;;226;226
-BINDING;;301;305
-BINDING;;408;415

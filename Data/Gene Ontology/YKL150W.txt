@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005741;C:mitochondrial outer membrane
-GO:0005739;C:mitochondrion
-GO:0004128;F:cytochrome-b5 reductase activity, acting on NAD(P)H
-GO:0003954;F:NADH dehydrogenase activity
-GO:0034599;P:cellular response to oxidative stress
-GO:0006696;P:ergosterol biosynthetic process

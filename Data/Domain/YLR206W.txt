@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ENTH;11;143
-DOMAIN;UIM 1;175;194
-DOMAIN;UIM 2;206;225
-REGION;Disordered;140;208
-REGION;Disordered;323;351
-REGION;Disordered;356;375
-REGION;Disordered;471;613

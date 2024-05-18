@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton acceptor;121;121
-BINDING;;118;118
-BINDING;;122;122
-BINDING;;199;199

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;Solcar;288;383
-REGION;Binds FZO1;1;294
-REGION;Binds MGM1;312;502

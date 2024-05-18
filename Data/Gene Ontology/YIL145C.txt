@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0005524;F:ATP binding
-GO:0004592;F:pantoate-beta-alanine ligase activity
-GO:0015940;P:pantothenate biosynthetic process

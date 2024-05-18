@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0042131;F:thiamine phosphate phosphatase activity
-GO:0006817;P:phosphate ion transport

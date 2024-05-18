@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;J;23;88
-REPEAT;CXXCXGXG motif;169;176
-REPEAT;CXXCXGXG motif;185;192
-REPEAT;CXXCXGXG motif;211;218
-REPEAT;CXXCXGXG motif;225;232
-ZN_FING;CR-type;156;237
-MOTIF;Cell attachment site;288;290
-MOTIF;Prevents secretion from ER;374;377

@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Biotin carboxylation;632;1075
-DOMAIN;ATP-grasp;751;948
-DOMAIN;Biotinyl-binding;1754;1832
-BINDING;;122;129
-BINDING;;747;747
-BINDING;;830;830
-BINDING;;865;865

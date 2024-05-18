@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0003700;F:DNA-binding transcription factor activity
-GO:0043565;F:sequence-specific DNA binding
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0007124;P:pseudohyphal growth

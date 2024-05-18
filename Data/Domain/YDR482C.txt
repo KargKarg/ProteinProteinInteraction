@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CWF21;65;109
-REGION;Disordered;1;67
-REGION;Interaction with PRP8;53;97
-REGION;Disordered;110;135

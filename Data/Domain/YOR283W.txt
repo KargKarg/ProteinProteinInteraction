@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Tele-phosphohistidine intermediate;24;24
-ACT_SITE;Proton donor/acceptor;102;102
-BINDING;;36;37
-BINDING;;102;105
-SITE;Transition state stabilizer;166;166

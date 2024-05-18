@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0008253;F:5'-nucleotidase activity
-GO:0016791;F:phosphatase activity
-GO:1990738;F:pseudouridine 5'-phosphatase activity
-GO:0106411;F:XMP 5'-nucleosidase activity

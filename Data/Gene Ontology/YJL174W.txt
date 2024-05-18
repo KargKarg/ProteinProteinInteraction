@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005576;C:extracellular region
-GO:0000324;C:fungal-type vacuole
-GO:0006078;P:(1->6)-beta-D-glucan biosynthetic process
-GO:0006077;P:(1->6)-beta-D-glucan metabolic process
-GO:0042546;P:cell wall biogenesis
-GO:0031505;P:fungal-type cell wall organization

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005768;C:endosome
-GO:0010008;C:endosome membrane
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0005774;C:vacuolar membrane
-GO:0015184;F:L-cystine transmembrane transporter activity
-GO:0015293;F:symporter activity
-GO:0015811;P:L-cystine transport

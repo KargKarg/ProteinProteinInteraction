@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0000324;C:fungal-type vacuole
-GO:0016020;C:membrane
-GO:0015116;F:sulfate transmembrane transporter activity
-GO:1901682;F:sulfur compound transmembrane transporter activity
-GO:0008272;P:sulfate transport
-GO:0000316;P:sulfite transport
-GO:0072348;P:sulfur compound transport

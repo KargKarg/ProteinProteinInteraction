@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0061759;F:alpha-ketoglutarate reductase activity
-GO:0042802;F:identical protein binding
-GO:0051287;F:NAD binding
-GO:0004617;F:phosphoglycerate dehydrogenase activity
-GO:0006564;P:L-serine biosynthetic process
-GO:0009070;P:serine family amino acid biosynthetic process

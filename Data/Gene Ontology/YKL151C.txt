@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005524;F:ATP binding
-GO:0047453;F:ATP-dependent NAD(P)H-hydrate dehydratase activity
-GO:0110051;P:metabolite repair
-GO:0046496;P:nicotinamide nucleotide metabolic process

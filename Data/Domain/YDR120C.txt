@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Trm1 methyltransferase;43;489
-REGION;Disordered;91;128
-REGION;Required and sufficient for inner nuclear membrane localization;133;155
-MOTIF;Nuclear localization signal;95;101

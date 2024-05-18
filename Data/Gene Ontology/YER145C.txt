@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0033573;C:high-affinity iron permease complex
-GO:0005886;C:plasma membrane
-GO:0015093;F:ferrous iron transmembrane transporter activity
-GO:0005381;F:iron ion transmembrane transporter activity
-GO:1901684;P:arsenate ion transmembrane transport
-GO:0098706;P:iron ion import across cell outer membrane
-GO:0034755;P:iron ion transmembrane transport

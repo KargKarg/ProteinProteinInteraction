@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1641;1690
-REGION;Disordered;1716;1875
-MOTIF;Required for nuclear localization;1496;1565

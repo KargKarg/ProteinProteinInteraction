@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000775;C:chromosome, centromeric region
-GO:0005634;C:nucleus
-GO:0046872;F:metal ion binding
-GO:0061630;F:ubiquitin protein ligase activity
-GO:0004842;F:ubiquitin-protein transferase activity
-GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
-GO:0006511;P:ubiquitin-dependent protein catabolic process

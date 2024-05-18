@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PLA2c;24;631
-REGION;Required for lipid-binding and function in meiosis;24;67

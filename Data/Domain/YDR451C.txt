@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;Homeobox;173;232
-REGION;Disordered;86;106

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;C2 NT-type;4;199
-REGION;Disordered;262;298
-REGION;Disordered;374;393
-REGION;Disordered;400;452

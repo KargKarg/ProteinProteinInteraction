@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;UvrD-like helicase ATP-binding;5;277
-DOMAIN;UvrD-like helicase C-terminal;278;593
-BINDING;;29;34
-BINDING;;275;275

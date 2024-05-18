@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005783;C:endoplasmic reticulum
-GO:0005886;C:plasma membrane
-GO:0000319;F:sulfite transmembrane transporter activity
-GO:0000316;P:sulfite transport

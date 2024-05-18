@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0015495;F:gamma-aminobutyric acid:proton symporter activity
-GO:0015489;F:putrescine transmembrane transporter activity
-GO:0015812;P:gamma-aminobutyric acid transport
-GO:0015847;P:putrescine transport
-GO:0055085;P:transmembrane transport

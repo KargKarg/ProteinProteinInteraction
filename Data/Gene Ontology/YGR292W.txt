@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0004556;F:alpha-amylase activity
-GO:0033934;F:glucan 1,4-alpha-maltotriohydrolase activity
-GO:0032450;F:maltose alpha-glucosidase activity
-GO:0004574;F:oligo-1,6-glucosidase activity
-GO:0004575;F:sucrose alpha-glucosidase activity
-GO:0000025;P:maltose catabolic process
-GO:0005987;P:sucrose catabolic process

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Inhibitory domain;1;32
-REGION;Disordered;1;21
-REGION;Disordered;33;68

@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0052689;F:carboxylic ester hydrolase activity
-GO:0004301;F:epoxide hydrolase activity
-GO:0097176;P:epoxide metabolic process

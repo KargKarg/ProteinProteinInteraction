@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0008408;F:3'-5' exonuclease activity
-GO:0004527;F:exonuclease activity
-GO:0003676;F:nucleic acid binding
-GO:0000027;P:ribosomal large subunit assembly
-GO:0006364;P:rRNA processing

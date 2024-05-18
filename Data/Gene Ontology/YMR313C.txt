@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005811;C:lipid droplet
-GO:0071618;F:lysophosphatidylethanolamine acyltransferase activity
-GO:0004806;F:triglyceride lipase activity
-GO:0007114;P:cell budding
-GO:0044255;P:cellular lipid metabolic process
-GO:0019433;P:triglyceride catabolic process

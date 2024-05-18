@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;28
-REGION;Disordered;49;95
-REGION;Required for the localization to the prospore membrane;548;572

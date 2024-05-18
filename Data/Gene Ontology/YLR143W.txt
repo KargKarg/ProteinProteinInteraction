@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005524;F:ATP binding
-GO:0017178;F:diphthine-ammonia ligase activity
-GO:0017183;P:protein histidyl modification to diphthamide

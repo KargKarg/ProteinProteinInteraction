@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;23;110
-REGION;Calmodulin-binding;900;927
-MOTIF;Nuclear localization signal;54;59
-MOTIF;Nuclear localization signal;726;731
-MOTIF;Nuclear localization signal;742;747

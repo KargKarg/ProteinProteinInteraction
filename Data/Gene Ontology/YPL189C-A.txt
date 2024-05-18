@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005759;C:mitochondrial matrix
-GO:0033617;P:mitochondrial cytochrome c oxidase assembly

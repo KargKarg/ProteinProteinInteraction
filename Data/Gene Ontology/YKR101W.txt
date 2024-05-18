@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005677;C:chromatin silencing complex
-GO:0000775;C:chromosome, centromeric region
-GO:0003682;F:chromatin binding
-GO:0031507;P:heterochromatin formation
-GO:0030466;P:silent mating-type cassette heterochromatin formation

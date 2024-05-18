@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0046872;F:metal ion binding
-GO:0004518;F:nuclease activity
-GO:0046483;P:heterocycle metabolic process
-GO:1901360;P:organic cyclic compound metabolic process

@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0051723;F:protein methylesterase activity

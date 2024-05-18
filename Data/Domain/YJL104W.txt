@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;J-like;57;113
-REGION;Disordered;115;149

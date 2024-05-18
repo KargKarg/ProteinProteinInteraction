@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;23
-REGION;Disordered;63;90
-REGION;EUC1 interaction domain;201;335

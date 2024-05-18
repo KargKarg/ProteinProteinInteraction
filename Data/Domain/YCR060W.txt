@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;TPR 1;4;37
-REPEAT;TPR 2;39;71

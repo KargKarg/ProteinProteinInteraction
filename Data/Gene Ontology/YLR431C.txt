@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000407;C:phagophore assembly site
-GO:0034045;C:phagophore assembly site membrane
-GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
-GO:0044804;P:nucleophagy
-GO:0016239;P:positive regulation of macroautophagy
-GO:0034497;P:protein localization to phagophore assembly site
-GO:0015031;P:protein transport

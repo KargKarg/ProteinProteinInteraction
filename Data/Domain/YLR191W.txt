@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SH3;306;372
-REGION;Disordered;1;76

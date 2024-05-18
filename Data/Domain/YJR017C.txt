@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;WW;9;43
-DOMAIN;PpiC;57;170
-REGION;Disordered;30;53

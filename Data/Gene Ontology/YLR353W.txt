@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005934;C:cellular bud tip
-GO:0000131;C:incipient cellular bud site
-GO:0005886;C:plasma membrane
-GO:0000282;P:cellular bud site selection
-GO:0007124;P:pseudohyphal growth

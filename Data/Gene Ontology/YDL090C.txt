@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005965;C:protein farnesyltransferase complex
-GO:0004660;F:protein farnesyltransferase activity
-GO:0008270;F:zinc ion binding
-GO:0018343;P:protein farnesylation

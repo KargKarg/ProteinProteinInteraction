@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton donor; shared with dimeric partner;411;411
-BINDING;;247;247
-BINDING;;286;286
-BINDING;;318;321
-BINDING;in other chain;362;363
-BINDING;;412;412
-BINDING;;441;441
-SITE;Stacks against the aromatic ring of pyridoxal phosphate and stabilizes reaction intermediates;244;244

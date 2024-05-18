@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DWNN;5;78
-ZN_FING;CCHC-type;180;197
-REGION;Disordered;355;400

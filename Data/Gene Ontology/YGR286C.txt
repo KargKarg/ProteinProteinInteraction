@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0051537;F:2 iron, 2 sulfur cluster binding
-GO:0051539;F:4 iron, 4 sulfur cluster binding
-GO:0004076;F:biotin synthase activity
-GO:0046872;F:metal ion binding
-GO:0009102;P:biotin biosynthetic process

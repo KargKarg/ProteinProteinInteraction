@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Protein kinase;38;386
-REGION;Disordered;1;24
-ACT_SITE;Proton acceptor;193;193
-BINDING;;44;52
-BINDING;;67;67

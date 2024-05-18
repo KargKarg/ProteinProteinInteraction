@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Required for membrane insertion;215;232
-MOTIF;HXXXXD motif;77;82

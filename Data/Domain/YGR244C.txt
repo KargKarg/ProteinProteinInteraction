@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ATP-grasp;39;284
-BINDING;;76;76
-BINDING;;83;85
-BINDING;;144;144
-BINDING;;236;236
-BINDING;;253;253
-BINDING;;304;304
-BINDING;;361;363

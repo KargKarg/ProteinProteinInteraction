@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:1990816;C:vacuole-mitochondrion membrane contact site
-GO:0015169;F:glycerol-3-phosphate transmembrane transporter activity
-GO:0005315;F:inorganic phosphate transmembrane transporter activity
-GO:0015794;P:glycerol-3-phosphate transmembrane transport
-GO:0006817;P:phosphate ion transport
-GO:0006797;P:polyphosphate metabolic process
-GO:2000185;P:regulation of phosphate transmembrane transport

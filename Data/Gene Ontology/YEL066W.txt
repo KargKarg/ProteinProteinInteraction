@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0047812;F:D-amino-acid N-acetyltransferase activity
-GO:0004402;F:histone acetyltransferase activity
-GO:0008080;F:N-acetyltransferase activity
-GO:0070458;P:cellular detoxification of nitrogen compound
-GO:0046416;P:D-amino acid metabolic process
-GO:0006473;P:protein acetylation

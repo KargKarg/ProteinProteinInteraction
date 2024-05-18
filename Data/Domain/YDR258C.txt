@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;NBD1;98;344
-REGION;NBD2;467;658
-BINDING;;143;150
-BINDING;;541;548

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0044613;C:nuclear pore central transport channel
-GO:0042272;C:nuclear RNA export factor complex
-GO:0005634;C:nucleus
-GO:0006406;P:mRNA export from nucleus
-GO:0016973;P:poly(A)+ mRNA export from nucleus
-GO:0000055;P:ribosomal large subunit export from nucleus
-GO:0000056;P:ribosomal small subunit export from nucleus

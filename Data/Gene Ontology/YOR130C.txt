@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005740;C:mitochondrial envelope
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0000064;F:L-ornithine transmembrane transporter activity
-GO:0006526;P:arginine biosynthetic process
-GO:1990575;P:mitochondrial L-ornithine transmembrane transport

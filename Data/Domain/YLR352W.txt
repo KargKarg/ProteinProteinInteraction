@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;F-box;220;266
-REGION;Disordered;607;647
-REGION;Disordered;716;739

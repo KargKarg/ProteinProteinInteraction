@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0102306;F:benzil reductase [(S)-benzoin-forming] activity
-GO:0050664;F:oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor

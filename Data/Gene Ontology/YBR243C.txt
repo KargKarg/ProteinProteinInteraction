@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0043541;C:UDP-N-acetylglucosamine transferase complex
-GO:0016757;F:glycosyltransferase activity
-GO:0046872;F:metal ion binding
-GO:0003975;F:UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity
-GO:0009060;P:aerobic respiration
-GO:0006488;P:dolichol-linked oligosaccharide biosynthetic process
-GO:0006487;P:protein N-linked glycosylation

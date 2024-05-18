@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0016020;C:membrane
-GO:0005886;C:plasma membrane
-GO:0030234;F:enzyme regulator activity
-GO:0032781;P:positive regulation of ATP-dependent activity

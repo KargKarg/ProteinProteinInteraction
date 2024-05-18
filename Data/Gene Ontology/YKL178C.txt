@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005886;C:plasma membrane
-GO:0005775;C:vacuolar lumen
-GO:0004933;F:mating-type a-factor pheromone receptor activity
-GO:0004932;F:mating-type factor pheromone receptor activity
-GO:0000755;P:cytogamy
-GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion

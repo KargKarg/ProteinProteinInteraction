@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005658;C:alpha DNA polymerase:primase complex
-GO:0043596;C:nuclear replication fork
-GO:0005524;F:ATP binding
-GO:0003896;F:DNA primase activity
-GO:0046872;F:metal ion binding
-GO:0006260;P:DNA replication
-GO:0006270;P:DNA replication initiation
-GO:0006269;P:DNA replication, synthesis of RNA primer

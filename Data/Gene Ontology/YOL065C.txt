@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000329;C:fungal-type vacuole membrane
-GO:0004439;F:phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity
-GO:0046856;P:phosphatidylinositol dephosphorylation
-GO:0015031;P:protein transport

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Peripherally associates with membranes;1;18
-REGION;Disordered;197;251
-REGION;Disordered;358;389

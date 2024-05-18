@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;1;213;220
-REPEAT;2;222;229
-REGION;Disordered;194;306
-REGION;2 X 8 AA repeats;213;229
-REGION;7 X 2 AA repeats of S-[DE];251;264
-MOTIF;Nuclear localization signal;139;144
-MOTIF;Nuclear localization signal;282;287

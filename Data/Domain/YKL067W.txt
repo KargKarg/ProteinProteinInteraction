@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Pros-phosphohistidine intermediate;119;119
-BINDING;;13;13
-BINDING;;61;61
-BINDING;;89;89
-BINDING;;95;95
-BINDING;;106;106
-BINDING;;116;116

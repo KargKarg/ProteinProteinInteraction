@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;HGGXW;36;40
-ACT_SITE;Nucleophile;110;110
-ACT_SITE;;211;211
-ACT_SITE;;243;243

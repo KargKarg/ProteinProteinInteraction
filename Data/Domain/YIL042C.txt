@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Histidine kinase;126;386
-BINDING;;267;274
-BINDING;;304;304
-BINDING;;323;324
-BINDING;;347;352

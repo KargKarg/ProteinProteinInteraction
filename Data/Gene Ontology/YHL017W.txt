@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005794;C:Golgi apparatus
-GO:0016020;C:membrane
-GO:0042147;P:retrograde transport, endosome to Golgi

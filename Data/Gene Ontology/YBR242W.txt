@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0002953;F:5'-deoxynucleotidase activity
-GO:0050484;F:GMP 5'-nucleotidase activity
-GO:0046872;F:metal ion binding
-GO:0009159;P:deoxyribonucleoside monophosphate catabolic process

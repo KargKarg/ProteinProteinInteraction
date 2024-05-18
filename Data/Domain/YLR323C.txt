@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C3H1-type;138;166
-ZN_FING;RING-type;199;237
-REGION;Disordered;1;67

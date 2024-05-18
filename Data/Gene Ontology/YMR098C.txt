@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0140053;P:mitochondrial gene expression
-GO:0033615;P:mitochondrial proton-transporting ATP synthase complex assembly
-GO:0048255;P:mRNA stabilization

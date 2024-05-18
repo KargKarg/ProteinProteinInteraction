@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;BPL/LPL catalytic;108;312
-ACT_SITE;Acyl-thioester intermediate;272;272
-BINDING;;162;169
-BINDING;;241;243
-BINDING;;254;256
-SITE;Lowers pKa of active site Cys;238;238

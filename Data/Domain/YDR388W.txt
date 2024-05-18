@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;BAR;17;254
-DOMAIN;SH3;421;482
-REGION;Disordered;382;407

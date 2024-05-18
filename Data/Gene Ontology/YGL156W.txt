@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0034270;C:Cvt complex
-GO:0000329;C:fungal-type vacuole membrane
-GO:0004559;F:alpha-mannosidase activity
-GO:0030246;F:carbohydrate binding
-GO:0046872;F:metal ion binding
-GO:0019309;P:mannose catabolic process
-GO:0009313;P:oligosaccharide catabolic process

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0043138;F:3'-5' DNA helicase activity
-GO:0005524;F:ATP binding
-GO:0016887;F:ATP hydrolysis activity
-GO:0003677;F:DNA binding
-GO:0032508;P:DNA duplex unwinding
-GO:0036297;P:interstrand cross-link repair
-GO:0006289;P:nucleotide-excision repair

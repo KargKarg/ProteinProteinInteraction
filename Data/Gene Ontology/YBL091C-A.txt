@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005886;C:plasma membrane
-GO:0033149;F:FFAT motif binding
-GO:0090158;P:endoplasmic reticulum membrane organization
-GO:0061817;P:endoplasmic reticulum-plasma membrane tethering
-GO:0008654;P:phospholipid biosynthetic process
-GO:0060304;P:regulation of phosphatidylinositol dephosphorylation

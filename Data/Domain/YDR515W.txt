@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HTH La-type RNA-binding;265;368
-REGION;Disordered;1;143
-REGION;Disordered;157;198

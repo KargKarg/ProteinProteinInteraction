@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0015169;F:glycerol-3-phosphate transmembrane transporter activity
-GO:0001406;F:glycerophosphodiester transmembrane transporter activity
-GO:0015794;P:glycerol-3-phosphate transmembrane transport
-GO:0001407;P:glycerophosphodiester transmembrane transport
-GO:0055085;P:transmembrane transport

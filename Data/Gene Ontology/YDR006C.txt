@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0010737;P:protein kinase A signaling

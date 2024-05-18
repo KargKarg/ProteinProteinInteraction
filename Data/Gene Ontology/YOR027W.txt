@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0042030;F:ATPase inhibitor activity
-GO:0030544;F:Hsp70 protein binding
-GO:0051879;F:Hsp90 protein binding
-GO:0003729;F:mRNA binding
-GO:0006457;P:protein folding
-GO:0008104;P:protein localization
-GO:0006626;P:protein targeting to mitochondrion

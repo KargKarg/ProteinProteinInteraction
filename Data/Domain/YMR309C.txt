@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PCI;608;783
-REGION;Disordered;1;110

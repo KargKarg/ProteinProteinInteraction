@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0035241;F:protein-arginine omega-N monomethyltransferase activity
-GO:0018216;P:peptidyl-arginine methylation

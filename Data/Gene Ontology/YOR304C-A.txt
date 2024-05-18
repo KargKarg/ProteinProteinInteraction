@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005933;C:cellular bud
-GO:0005935;C:cellular bud neck
-GO:0005934;C:cellular bud tip
-GO:0005737;C:cytoplasm
-GO:0043332;C:mating projection tip
-GO:0051017;P:actin filament bundle assembly

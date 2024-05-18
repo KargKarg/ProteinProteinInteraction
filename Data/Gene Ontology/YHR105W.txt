@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005768;C:endosome
-GO:0010008;C:endosome membrane
-GO:0071561;C:nucleus-vacuole junction
-GO:0005774;C:vacuolar membrane
-GO:0032266;F:phosphatidylinositol-3-phosphate binding
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0036010;P:protein localization to endosome
-GO:0072657;P:protein localization to membrane

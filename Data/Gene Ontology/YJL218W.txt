@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0016407;F:acetyltransferase activity
-GO:0008870;F:galactoside O-acetyltransferase activity

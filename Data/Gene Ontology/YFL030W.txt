@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:0005777;C:peroxisome
-GO:0008453;F:alanine-glyoxylate transaminase activity
-GO:0004760;F:serine-pyruvate transaminase activity
-GO:0019265;P:glycine biosynthetic process, by transamination of glyoxylate

@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Required for oligomerization;435;449
-MOTIF;Dolichol recognition;21;32

@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ATP-grasp;114;330
-REGION;GARS;1;450
-REGION;AIRS;451;802
-BINDING;;141;203
-BINDING;;298;298
-BINDING;;300;300

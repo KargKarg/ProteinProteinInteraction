@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;PFTA 1;44;78
-REPEAT;PFTA 2;84;118
-REPEAT;PFTA 3;123;157
-REPEAT;PFTA 4;163;197
-REPEAT;PFTA 5;207;241

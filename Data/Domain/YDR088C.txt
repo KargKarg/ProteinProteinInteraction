@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;CCHC-type;120;137
-REGION;Disordered;1;72
-REGION;Interaction with PRP8;200;224
-REGION;Disordered;362;382

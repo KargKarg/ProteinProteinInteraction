@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;70
-REGION;Prion domain (PrD);29;131
-ACT_SITE;;220;220
-ACT_SITE;;276;276
-SITE;Cleavage; by autolysis;72;73
-SITE;Cleavage; by autolysis;86;87
-SITE;Cleavage; by autolysis;331;332
-SITE;Cleavage; by autolysis;334;335

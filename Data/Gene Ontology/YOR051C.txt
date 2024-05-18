@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:2000640;P:positive regulation of SREBP signaling pathway
-GO:0006417;P:regulation of translation
-GO:0006415;P:translational termination

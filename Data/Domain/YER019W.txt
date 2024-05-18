@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton acceptor;334;334
-BINDING;;100;100
-SITE;Important for substrate recognition;233;233

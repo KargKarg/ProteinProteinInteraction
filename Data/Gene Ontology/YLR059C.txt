@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0008408;F:3'-5' exonuclease activity
-GO:0000175;F:3'-5'-RNA exonuclease activity
-GO:0003676;F:nucleic acid binding
-GO:0000467;P:exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
-GO:0000002;P:mitochondrial genome maintenance
-GO:0034475;P:U4 snRNA 3'-end processing
-GO:0034476;P:U5 snRNA 3'-end processing

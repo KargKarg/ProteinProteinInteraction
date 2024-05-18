@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004427;F:inorganic diphosphate phosphatase activity
-GO:0000287;F:magnesium ion binding
-GO:0006796;P:phosphate-containing compound metabolic process

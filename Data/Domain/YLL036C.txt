@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;U-box;1;71
-REPEAT;WD 1;328;367
-REPEAT;WD 2;372;410
-REPEAT;WD 3;418;458
-REGION;Required for self-association;57;144
-REGION;Interaction with CEF1;76;134

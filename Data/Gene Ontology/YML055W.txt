@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005787;C:signal peptidase complex
-GO:0120236;P:negative regulation of post-translational protein targeting to membrane, translocation
-GO:0045047;P:protein targeting to ER
-GO:0006465;P:signal peptide processing

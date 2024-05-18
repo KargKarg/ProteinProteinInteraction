@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;COB exons 1 to 4 encoded;1;253
-REGION;COB intron 4 encoded;253;638

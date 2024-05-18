@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0008126;F:acetylesterase activity
-GO:0047372;F:acylglycerol lipase activity
-GO:0016746;F:acyltransferase activity
-GO:0004806;F:triglyceride lipase activity
-GO:0051792;P:medium-chain fatty acid biosynthetic process
-GO:0051793;P:medium-chain fatty acid catabolic process
-GO:0006641;P:triglyceride metabolic process

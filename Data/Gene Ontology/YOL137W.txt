@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005794;C:Golgi apparatus
-GO:0016020;C:membrane
-GO:0022857;F:transmembrane transporter activity

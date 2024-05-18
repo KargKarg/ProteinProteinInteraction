@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0003824;F:catalytic activity
-GO:0000422;P:autophagy of mitochondrion
-GO:0016236;P:macroautophagy
-GO:0006807;P:nitrogen compound metabolic process

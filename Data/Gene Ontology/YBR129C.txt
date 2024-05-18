@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0005886;C:plasma membrane
-GO:0005546;F:phosphatidylinositol-4,5-bisphosphate binding
-GO:1902647;P:negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process

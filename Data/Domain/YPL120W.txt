@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;93;149
-REGION;Disordered;218;238
-REGION;BARA;320;539
-REGION;Required for membrane-association, autophagic function during starvation and normal autophagosome morphology;515;540

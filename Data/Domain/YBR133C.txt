@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SAM-dependent MTase PRMT-type;329;675
-ACT_SITE;Proton donor/acceptor;463;463
-ACT_SITE;Proton donor/acceptor;472;472
-BINDING;;345;345
-BINDING;;354;355
-BINDING;;414;414
-BINDING;;441;442
-SITE;Critical for specifying symmetric addition of methyl groups;348;348

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VWFA;125;304
-ZN_FING;C4-type;349;366
-REGION;Disordered;1;70

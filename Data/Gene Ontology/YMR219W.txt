@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000781;C:chromosome, telomeric region
-GO:0034399;C:nuclear periphery
-GO:0031509;P:subtelomeric heterochromatin formation
-GO:0034398;P:telomere tethering at nuclear periphery

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Charge relay system;52;52
-ACT_SITE;Charge relay system;130;130
-ACT_SITE;Acyl-ester intermediate;154;154

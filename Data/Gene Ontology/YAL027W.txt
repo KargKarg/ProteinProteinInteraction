@@ -1,6 +1,0 @@
-GO id;GO term
-GO:1905348;C:endonuclease complex
-GO:0005634;C:nucleus
-GO:0070337;F:3'-flap-structured DNA binding
-GO:0070338;F:5'-flap-structured DNA binding
-GO:0000736;P:double-strand break repair via single-strand annealing, removal of nonhomologous ends

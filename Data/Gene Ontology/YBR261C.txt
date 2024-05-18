@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0071885;F:N-terminal protein N-methyltransferase activity
-GO:0002181;P:cytoplasmic translation
-GO:0018016;P:N-terminal peptidyl-proline dimethylation

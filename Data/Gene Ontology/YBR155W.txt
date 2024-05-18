@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0030544;F:Hsp70 protein binding
-GO:0051879;F:Hsp90 protein binding
-GO:0043022;F:ribosome binding
-GO:0006457;P:protein folding
-GO:0042026;P:protein refolding

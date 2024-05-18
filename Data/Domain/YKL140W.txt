@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;AB hydrolase-1;107;402
-REGION;Disordered;449;477
-REGION;Disordered;496;516
-REGION;Disordered;528;548
-MOTIF;GXSXG;199;203
-ACT_SITE;Nucleophile;201;201
-ACT_SITE;Charge relay system;369;369
-ACT_SITE;Charge relay system;396;396

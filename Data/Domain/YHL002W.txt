@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VHS;15;145
-DOMAIN;UIM;162;181
-DOMAIN;SH3;217;276
-REGION;Disordered;144;166
-REGION;Disordered;187;212
-REGION;Disordered;389;452

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ubiquitin-like;1;80
-DOMAIN;UBA;389;428
-REGION;Disordered;328;388
-ACT_SITE;;220;220

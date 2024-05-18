@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0003729;F:mRNA binding
-GO:0009060;P:aerobic respiration
-GO:0000958;P:mitochondrial mRNA catabolic process
-GO:0006397;P:mRNA processing

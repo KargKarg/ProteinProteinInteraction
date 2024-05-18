@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;CCHC-type 1;4;21
-ZN_FING;CCHC-type 2;23;40
-ZN_FING;CCHC-type 3;47;64
-ZN_FING;CCHC-type 4;65;82
-ZN_FING;CCHC-type 5;92;109
-ZN_FING;CCHC-type 6;116;133
-ZN_FING;CCHC-type 7;135;152

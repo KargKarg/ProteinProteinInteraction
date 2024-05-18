@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;675;726
-REGION;Disordered;763;837
-MOTIF;PY-motif;487;490
-MOTIF;PY-motif;656;659

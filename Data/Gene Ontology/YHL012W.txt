@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0003983;F:UTP:glucose-1-phosphate uridylyltransferase activity
-GO:0005977;P:glycogen metabolic process
-GO:0006011;P:UDP-glucose metabolic process

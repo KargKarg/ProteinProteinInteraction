@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DH;467;657
-DOMAIN;PH;715;877
-DOMAIN;CNH;938;1279
-REGION;Disordered;1;144
-REGION;Disordered;164;194
-REGION;Disordered;219;239
-REGION;Disordered;780;802

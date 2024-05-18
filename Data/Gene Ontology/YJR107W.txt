@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0016298;F:lipase activity
-GO:0004806;F:triglyceride lipase activity
-GO:0016042;P:lipid catabolic process

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0046964;F:3'-phosphoadenosine 5'-phosphosulfate transmembrane transporter activity
-GO:1902557;F:5'-adenylyl sulfate transmembrane transporter activity
-GO:0015215;F:nucleotide transmembrane transporter activity
-GO:1902559;P:3'-phospho-5'-adenylyl sulfate transmembrane transport
-GO:1902558;P:5'-adenylyl sulfate transmembrane transport
-GO:0051503;P:adenine nucleotide transport

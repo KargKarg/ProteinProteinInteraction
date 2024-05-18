@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;BRCT;355;449
-REGION;Sufficient for interaction with ERB1;51;484
-REGION;Disordered;297;342
-REGION;Disordered;459;605

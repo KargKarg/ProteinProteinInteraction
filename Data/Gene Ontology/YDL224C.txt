@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0003729;F:mRNA binding
-GO:0061157;P:mRNA destabilization
-GO:0008361;P:regulation of cell size

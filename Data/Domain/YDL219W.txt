@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Gly-cisPro motif, important for rejection of L-amino acids;140;141

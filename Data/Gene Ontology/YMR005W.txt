@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0005669;C:transcription factor TFIID complex
-GO:0003682;F:chromatin binding
-GO:0003677;F:DNA binding
-GO:0061629;F:RNA polymerase II-specific DNA-binding transcription factor binding
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0006366;P:transcription by RNA polymerase II
-GO:0006367;P:transcription initiation at RNA polymerase II promoter

@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Guanylate kinase-like;2;184
-BINDING;;9;16
-BINDING;;35;35
-BINDING;;39;42
-BINDING;;51;51
-BINDING;;70;70
-BINDING;;79;81
-BINDING;;101;101

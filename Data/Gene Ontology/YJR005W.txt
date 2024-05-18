@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0030122;C:AP-2 adaptor complex
-GO:0005935;C:cellular bud neck
-GO:0030139;C:endocytic vesicle
-GO:0030276;F:clathrin binding
-GO:0006897;P:endocytosis
-GO:0006886;P:intracellular protein transport
-GO:0016192;P:vesicle-mediated transport

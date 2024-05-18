@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005794;C:Golgi apparatus
-GO:0007030;P:Golgi organization
-GO:0009306;P:protein secretion

@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0070822;C:Sin3-type complex

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0002161;F:aminoacyl-tRNA editing activity
-GO:0005524;F:ATP binding
-GO:0004823;F:leucine-tRNA ligase activity
-GO:0006429;P:leucyl-tRNA aminoacylation
-GO:1903432;P:regulation of TORC1 signaling

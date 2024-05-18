@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000137;C:Golgi cis cisterna
-GO:0000136;C:mannan polymerase complex
-GO:0000009;F:alpha-1,6-mannosyltransferase activity
-GO:0033164;F:glycolipid 1,6-alpha-mannosyltransferase activity
-GO:0006487;P:protein N-linked glycosylation

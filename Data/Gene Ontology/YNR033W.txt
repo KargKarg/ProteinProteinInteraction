@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0046820;F:4-amino-4-deoxychorismate synthase activity
-GO:0046656;P:folic acid biosynthetic process
-GO:0006541;P:glutamine metabolic process
-GO:0008153;P:para-aminobenzoic acid biosynthetic process
-GO:0046654;P:tetrahydrofolate biosynthetic process
-GO:0000162;P:tryptophan biosynthetic process

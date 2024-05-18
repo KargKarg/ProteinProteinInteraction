@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0008047;F:enzyme activator activity
-GO:0004864;F:protein phosphatase inhibitor activity
-GO:0007059;P:chromosome segregation
-GO:0005978;P:glycogen biosynthetic process
-GO:0009966;P:regulation of signal transduction

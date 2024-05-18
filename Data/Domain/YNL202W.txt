@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Microbody targeting signal;290;292
-ACT_SITE;Proton donor;162;162
-ACT_SITE;Lowers pKa of active site Tyr;180;180
-BINDING;;36;36
-BINDING;;85;85
-BINDING;;145;145
-BINDING;;180;180
-BINDING;;209;209

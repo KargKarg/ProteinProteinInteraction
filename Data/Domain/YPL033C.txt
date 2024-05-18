@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Lowers pKa of active site Tyr;197;197
-BINDING;;39;39
-BINDING;;60;60
-BINDING;;67;67
-BINDING;;152;152
-BINDING;;197;197

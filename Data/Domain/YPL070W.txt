@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VPS9;273;414
-REGION;Disordered;40;66
-REGION;Disordered;494;560

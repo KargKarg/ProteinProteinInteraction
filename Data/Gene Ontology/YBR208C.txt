@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0004039;F:allophanate hydrolase activity
-GO:0005524;F:ATP binding
-GO:0046872;F:metal ion binding
-GO:0004847;F:urea carboxylase activity
-GO:0000256;P:allantoin catabolic process
-GO:0043419;P:urea catabolic process

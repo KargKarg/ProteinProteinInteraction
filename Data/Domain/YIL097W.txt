@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CTLH;187;245
-ZN_FING;RING-Gid-type;434;501
-SITE;Essential for ubiquitin ligase activity;434;434

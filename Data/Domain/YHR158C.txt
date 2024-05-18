@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;Kelch 1;139;186
-REPEAT;Kelch 2;253;307
-REPEAT;Kelch 3;308;357
-REPEAT;Kelch 4;359;409
-REPEAT;Kelch 5;411;460
-REGION;Disordered;1;106
-REGION;Disordered;550;589

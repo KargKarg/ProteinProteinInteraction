@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0004021;F:L-alanine:2-oxoglutarate aminotransferase activity
-GO:0030170;F:pyridoxal phosphate binding
-GO:0006523;P:alanine biosynthetic process
-GO:0006524;P:alanine catabolic process
-GO:0042853;P:L-alanine catabolic process

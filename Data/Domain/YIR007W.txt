@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;588;629
-ACT_SITE;Nucleophile;515;515

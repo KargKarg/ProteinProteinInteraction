@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0035339;C:SPOTS complex
-GO:0008047;F:enzyme activator activity
-GO:0006666;P:3-keto-sphinganine metabolic process
-GO:0090156;P:intracellular sphingolipid homeostasis
-GO:0090154;P:positive regulation of sphingolipid biosynthetic process

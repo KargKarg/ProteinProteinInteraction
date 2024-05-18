@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0012505;C:endomembrane system
-GO:0005741;C:mitochondrial outer membrane
-GO:0000214;C:tRNA-intron endonuclease complex
-GO:0003676;F:nucleic acid binding
-GO:0000379;P:tRNA-type intron splice site recognition and cleavage

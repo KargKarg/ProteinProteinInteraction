@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PNPLA;204;392
-REGION;Disordered;471;502
-MOTIF;GXSXG;235;239
-MOTIF;HXXXXD acyltransferase motif;298;303
-ACT_SITE;Nucleophile;237;237
-ACT_SITE;Proton acceptor;403;403

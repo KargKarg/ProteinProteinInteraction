@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0008732;F:L-allo-threonine aldolase activity
-GO:0004793;F:threonine aldolase activity
-GO:0006545;P:glycine biosynthetic process
-GO:0006567;P:threonine catabolic process

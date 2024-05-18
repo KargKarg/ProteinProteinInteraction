@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0034967;C:Set3 complex
-GO:0009267;P:cellular response to starvation
-GO:0006338;P:chromatin remodeling
-GO:0006974;P:DNA damage response
-GO:0045835;P:negative regulation of meiotic nuclear division

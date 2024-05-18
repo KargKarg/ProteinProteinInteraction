@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0008320;F:protein transmembrane transporter activity
-GO:0071555;P:cell wall organization
-GO:0045047;P:protein targeting to ER
-GO:0006612;P:protein targeting to membrane
-GO:0009408;P:response to heat

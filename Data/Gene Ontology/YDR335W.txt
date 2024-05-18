@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0042565;C:RNA nuclear export complex
-GO:0005049;F:nuclear export signal receptor activity
-GO:0003723;F:RNA binding
-GO:0006611;P:protein export from nucleus
-GO:0006405;P:RNA export from nucleus
-GO:0071528;P:tRNA re-export from nucleus

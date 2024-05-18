@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;GXSXG;121;125
-ACT_SITE;Nucleophile;123;123
-ACT_SITE;Charge relay system;251;251
-ACT_SITE;Charge relay system;281;281

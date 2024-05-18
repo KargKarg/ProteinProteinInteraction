@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0051082;F:unfolded protein binding
-GO:0051085;P:chaperone cofactor-dependent protein refolding
-GO:0042026;P:protein refolding

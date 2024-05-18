@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton acceptor;103;103
-SITE;Important for substrate specificity;29;29
-SITE;Important for substrate specificity;104;104
-SITE;Important for substrate specificity;196;196

@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0000329;C:fungal-type vacuole membrane
-GO:0015293;F:symporter activity

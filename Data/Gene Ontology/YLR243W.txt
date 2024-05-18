@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005525;F:GTP binding
-GO:0003924;F:GTPase activity
-GO:0007064;P:mitotic sister chromatid cohesion
-GO:0006606;P:protein import into nucleus

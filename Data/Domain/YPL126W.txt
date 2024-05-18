@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;WD 1;295;334
-REPEAT;WD 2;490;542
-REPEAT;WD 3;552;595
-REPEAT;WD 4;605;645

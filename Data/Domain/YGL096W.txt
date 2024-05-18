@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;Homeobox; TALE-type;194;256
-REGION;Disordered;176;199

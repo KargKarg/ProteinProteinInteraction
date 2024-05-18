@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0035339;C:SPOTS complex
-GO:0030170;F:pyridoxal phosphate binding
-GO:0004758;F:serine C-palmitoyltransferase activity
-GO:0046513;P:ceramide biosynthetic process
-GO:0090156;P:intracellular sphingolipid homeostasis
-GO:0046512;P:sphingosine biosynthetic process

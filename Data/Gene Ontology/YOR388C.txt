@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0008863;F:formate dehydrogenase (NAD+) activity
-GO:0051287;F:NAD binding
-GO:0016616;F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
-GO:0042183;P:formate catabolic process

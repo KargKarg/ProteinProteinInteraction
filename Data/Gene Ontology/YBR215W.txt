@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005694;C:chromosome
-GO:0000417;C:HIR complex
-GO:0005634;C:nucleus
-GO:0006325;P:chromatin organization
-GO:1905268;P:negative regulation of chromatin organization
-GO:0006334;P:nucleosome assembly
-GO:0006357;P:regulation of transcription by RNA polymerase II
-GO:0006368;P:transcription elongation by RNA polymerase II

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0042720;C:mitochondrial inner membrane peptidase complex
-GO:0005739;C:mitochondrion
-GO:0004175;F:endopeptidase activity
-GO:0004252;F:serine-type endopeptidase activity
-GO:0006627;P:protein processing involved in protein targeting to mitochondrion
-GO:0006465;P:signal peptide processing

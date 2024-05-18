@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Effector region;36;44
-BINDING;;14;21
-BINDING;;61;65
-BINDING;;119;122

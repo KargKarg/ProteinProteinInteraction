@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PRELI/MSF1;1;175

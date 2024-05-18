@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Integrase catalytic;619;786
-REGION;Ty4 protease;381;501
-REGION;Integrase-type zinc finger-like;539;599
-ACT_SITE;For protease activity; shared with dimeric partner;414;414
-BINDING;;630;630
-BINDING;;695;695

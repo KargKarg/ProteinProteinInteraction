@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0001405;C:PAM complex, Tim23 associated import motor
-GO:0001671;F:ATPase activator activity
-GO:0030150;P:protein import into mitochondrial matrix

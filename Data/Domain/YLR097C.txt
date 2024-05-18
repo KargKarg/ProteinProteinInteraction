@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;TPR;14;47
-DOMAIN;F-box;98;148

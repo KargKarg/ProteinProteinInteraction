@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005801;C:cis-Golgi network
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000137;C:Golgi cis cisterna
-GO:0000136;C:mannan polymerase complex
-GO:0000032;P:cell wall mannoprotein biosynthetic process
-GO:0097502;P:mannosylation
-GO:0006487;P:protein N-linked glycosylation

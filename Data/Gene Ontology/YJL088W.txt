@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:1903269;C:ornithine carbamoyltransferase inhibitor complex
-GO:0016597;F:amino acid binding
-GO:0004585;F:ornithine carbamoyltransferase activity
-GO:0006526;P:arginine biosynthetic process
-GO:0042450;P:arginine biosynthetic process via ornithine
-GO:0019240;P:citrulline biosynthetic process

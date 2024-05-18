@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;37
-REGION;Disordered;64;155
-REGION;Kinase-interacting sequence (KIS); required for interaction with SNF1;152;342
-REGION;Disordered;250;269
-REGION;Association with SNF1 kinase complex (ASC) domain; required for interaction with SNF4;343;417

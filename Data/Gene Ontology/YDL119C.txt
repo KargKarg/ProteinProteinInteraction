@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0015187;F:glycine transmembrane transporter activity
-GO:1904983;P:glycine import into mitochondrion
-GO:0006783;P:heme biosynthetic process

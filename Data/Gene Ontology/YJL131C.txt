@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0097177;F:mitochondrial ribosome binding
-GO:0003743;F:translation initiation factor activity
-GO:0070124;P:mitochondrial translational initiation

@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;EF-hand 1;52;87
-DOMAIN;EF-hand 2;108;143

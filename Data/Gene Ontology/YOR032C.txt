@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0003677;F:DNA binding
-GO:0003700;F:DNA-binding transcription factor activity
-GO:0046983;F:protein dimerization activity
-GO:0007124;P:pseudohyphal growth

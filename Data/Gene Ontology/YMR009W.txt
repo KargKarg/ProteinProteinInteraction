@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0010308;F:acireductone dioxygenase (Ni2+-requiring) activity
-GO:0010309;F:acireductone dioxygenase [iron(II)-requiring] activity
-GO:0005506;F:iron ion binding
-GO:0016151;F:nickel cation binding
-GO:0019509;P:L-methionine salvage from methylthioadenosine
-GO:0006555;P:methionine metabolic process

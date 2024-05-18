@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0022626;C:cytosolic ribosome
-GO:0022627;C:cytosolic small ribosomal subunit
-GO:0003729;F:mRNA binding
-GO:0043022;F:ribosome binding
-GO:0003743;F:translation initiation factor activity
-GO:0000049;F:tRNA binding
-GO:0006413;P:translational initiation

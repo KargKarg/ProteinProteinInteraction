@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0000407;C:phagophore assembly site
-GO:0006914;P:autophagy
-GO:0009267;P:cellular response to starvation
-GO:0031505;P:fungal-type cell wall organization
-GO:0006629;P:lipid metabolic process

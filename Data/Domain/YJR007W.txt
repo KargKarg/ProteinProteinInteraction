@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;S1 motif;17;88
-REGION;Disordered;283;304

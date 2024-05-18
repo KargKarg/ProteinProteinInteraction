@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005768;C:endosome
-GO:0000324;C:fungal-type vacuole
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005634;C:nucleus
-GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

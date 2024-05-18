@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;uDENN;10;173
-DOMAIN;cDENN;195;360
-DOMAIN;dDENN;362;464
-REGION;Disordered;490;535
-REGION;Disordered;550;572
-REGION;Disordered;587;764

@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C3H1-type 1;28;59
-ZN_FING;C3H1-type 2;61;88
-ZN_FING;C3H1-type 3;89;117
-ZN_FING;C3H1-type 4;118;145
-ZN_FING;C3H1-type 5;147;170

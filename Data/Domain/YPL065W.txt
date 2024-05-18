@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VPS28 N-terminal;11;125
-DOMAIN;VPS28 C-terminal;148;242
-REGION;Interaction with VSP36 and VPS20;148;242

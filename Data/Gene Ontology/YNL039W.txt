@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005654;C:nucleoplasm
-GO:0000126;C:transcription factor TFIIIB complex
-GO:0000995;F:RNA polymerase III general transcription initiation factor activity
-GO:0001156;F:TFIIIC-class transcription factor complex binding
-GO:0001112;P:DNA-templated transcription open complex formation
-GO:0006355;P:regulation of DNA-templated transcription
-GO:0006359;P:regulation of transcription by RNA polymerase III
-GO:0070898;P:RNA polymerase III preinitiation complex assembly

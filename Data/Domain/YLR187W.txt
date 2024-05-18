@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PH 1;90;221
-DOMAIN;PH 2;254;433
-REGION;Disordered;1;36
-REGION;Disordered;483;504
-REGION;Disordered;623;658
-REGION;Disordered;813;960
-REGION;Disordered;1007;1026

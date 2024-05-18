@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005794;C:Golgi apparatus
-GO:0043332;C:mating projection tip

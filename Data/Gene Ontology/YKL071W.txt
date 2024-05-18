@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004022;F:alcohol dehydrogenase (NAD+) activity
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
-GO:0110095;P:cellular detoxification of aldehyde

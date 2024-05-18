@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;1;221;239
-REPEAT;2;400;419
-REGION;Disordered;1;21
-REGION;2 X repeats, Pro-rich;221;419
-REGION;Disordered;556;612
-MOTIF;Nuclear localization signal;296;300

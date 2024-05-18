@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0032299;C:ribonuclease H2 complex
-GO:0046872;F:metal ion binding
-GO:0003723;F:RNA binding
-GO:0004523;F:RNA-DNA hybrid ribonuclease activity
-GO:0043137;P:DNA replication, removal of RNA primer
-GO:0006298;P:mismatch repair

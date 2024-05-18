@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0030685;C:nucleolar preribosome
-GO:0005730;C:nucleolus
-GO:0030688;C:preribosome, small subunit precursor
-GO:0000462;P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
-GO:0071027;P:nuclear RNA surveillance
-GO:0000321;P:re-entry into mitotic cell cycle after pheromone arrest

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0097658;C:Asi complex
-GO:0005783;C:endoplasmic reticulum
-GO:0005637;C:nuclear inner membrane
-GO:0071230;P:cellular response to amino acid stimulus
-GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
-GO:0006511;P:ubiquitin-dependent protein catabolic process

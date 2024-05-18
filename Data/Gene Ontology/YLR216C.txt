@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0043231;C:intracellular membrane-bounded organelle
-GO:0016018;F:cyclosporin A binding
-GO:0003755;F:peptidyl-prolyl cis-trans isomerase activity
-GO:0043022;F:ribosome binding
-GO:0051082;F:unfolded protein binding
-GO:0006457;P:protein folding
-GO:0042026;P:protein refolding

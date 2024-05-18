@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000164;C:protein phosphatase type 1 complex
-GO:2001069;F:glycogen binding
-GO:0008157;F:protein phosphatase 1 binding
-GO:0019888;F:protein phosphatase regulator activity
-GO:0005977;P:glycogen metabolic process
-GO:0005979;P:regulation of glycogen biosynthetic process

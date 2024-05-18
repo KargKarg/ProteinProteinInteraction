@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;ANK 1;8;37
-REPEAT;ANK 2;41;70
-DOMAIN;BTB 1;122;179
-DOMAIN;BTB 2;274;360

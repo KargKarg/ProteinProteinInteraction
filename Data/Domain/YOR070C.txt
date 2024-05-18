@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Rab-GAP TBC;280;508
-REGION;Disordered;1;152
-REGION;Disordered;187;233
-REGION;Disordered;543;564
-SITE;Arginine finger;343;343
-SITE;Glutamin finger;378;378

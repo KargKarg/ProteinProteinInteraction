@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0000943;C:retrotransposon nucleocapsid
-GO:0003723;F:RNA binding
-GO:0032197;P:retrotransposition

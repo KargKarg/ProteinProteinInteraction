@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Tryptophan synthase alpha chain;1;297
-REGION;Tryptophan synthase beta chain;298;707
-ACT_SITE;Proton acceptor;50;50
-ACT_SITE;Proton acceptor;61;61

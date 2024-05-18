@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0051117;F:ATPase binding
-GO:0042030;F:ATPase inhibitor activity
-GO:0032780;P:negative regulation of ATP-dependent activity

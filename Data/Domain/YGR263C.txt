@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Involved in the stabilization of the negatively charged intermediate by the formation of the oxyanion hole;176;178
-ACT_SITE;;250;250
-ACT_SITE;;395;395

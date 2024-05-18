@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000139;C:Golgi membrane
-GO:0016192;P:vesicle-mediated transport

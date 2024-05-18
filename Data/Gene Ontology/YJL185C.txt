@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005777;C:peroxisome
-GO:0000423;P:mitophagy
-GO:0000425;P:pexophagy

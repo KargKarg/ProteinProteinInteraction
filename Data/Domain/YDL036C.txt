@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;S4 RNA-binding;127;188
-ACT_SITE;;238;238

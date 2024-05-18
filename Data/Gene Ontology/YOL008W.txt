@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0048039;F:ubiquinone binding
-GO:0045333;P:cellular respiration
-GO:0006744;P:ubiquinone biosynthetic process

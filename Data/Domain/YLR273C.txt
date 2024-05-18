@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CBM21;201;331
-REGION;Disordered;20;52
-REGION;Disordered;593;629

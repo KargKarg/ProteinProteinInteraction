@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Microbody targeting signal;347;349
-ACT_SITE;Charge relay system;259;259
-ACT_SITE;Charge relay system;282;282
-ACT_SITE;Charge relay system;333;333

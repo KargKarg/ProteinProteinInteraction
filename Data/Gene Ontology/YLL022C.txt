@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000781;C:chromosome, telomeric region
-GO:0000123;C:histone acetyltransferase complex
-GO:0005634;C:nucleus
-GO:0042393;F:histone binding
-GO:0042803;F:protein homodimerization activity
-GO:0006334;P:nucleosome assembly
-GO:0031509;P:subtelomeric heterochromatin formation

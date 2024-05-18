@@ -1,4 +1,0 @@
-GO id;GO term
-GO:1990429;C:peroxisomal importomer complex
-GO:0005778;C:peroxisomal membrane
-GO:0016560;P:protein import into peroxisome matrix, docking

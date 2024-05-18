@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005844;C:polysome
-GO:0016272;C:prefoldin complex
-GO:0015631;F:tubulin binding
-GO:0007017;P:microtubule-based process
-GO:0006457;P:protein folding
-GO:0007021;P:tubulin complex assembly

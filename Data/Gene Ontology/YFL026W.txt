@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0038038;C:G protein-coupled receptor homodimeric complex
-GO:0005886;C:plasma membrane
-GO:0004934;F:mating-type alpha-factor pheromone receptor activity
-GO:0004932;F:mating-type factor pheromone receptor activity
-GO:0005550;F:pheromone binding
-GO:0000755;P:cytogamy
-GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion

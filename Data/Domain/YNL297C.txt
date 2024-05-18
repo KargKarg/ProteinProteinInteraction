@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Golgi membrane targeting and interaction with ARL1;60;410
-REGION;Disordered;547;596
-REGION;Required for function in membrane trafficking;1501;1636

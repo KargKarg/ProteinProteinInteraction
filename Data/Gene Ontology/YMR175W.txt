@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005543;F:phospholipid binding
-GO:0042631;P:cellular response to water deprivation

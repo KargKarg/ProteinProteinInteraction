@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0008801;F:beta-phosphoglucomutase activity
-GO:0000121;F:glycerol-1-phosphatase activity
-GO:0046872;F:metal ion binding
-GO:0005975;P:carbohydrate metabolic process
-GO:0006114;P:glycerol biosynthetic process
-GO:0006970;P:response to osmotic stress

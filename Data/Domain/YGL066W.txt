@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SCA7;220;286
-REGION;Disordered;98;225
-REGION;Disordered;287;353
-REGION;Disordered;469;532
-REGION;Disordered;572;636

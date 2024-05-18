@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0016020;C:membrane
-GO:0005741;C:mitochondrial outer membrane
-GO:0003882;F:CDP-diacylglycerol-serine O-phosphatidyltransferase activity
-GO:0006646;P:phosphatidylethanolamine biosynthetic process
-GO:0006659;P:phosphatidylserine biosynthetic process

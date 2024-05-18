@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005751;C:mitochondrial respiratory chain complex IV
-GO:0005739;C:mitochondrion
-GO:0030234;F:enzyme regulator activity
-GO:0016491;F:oxidoreductase activity
-GO:0009060;P:aerobic respiration
-GO:0006123;P:mitochondrial electron transport, cytochrome c to oxygen
-GO:0097250;P:mitochondrial respirasome assembly
-GO:1902600;P:proton transmembrane transport

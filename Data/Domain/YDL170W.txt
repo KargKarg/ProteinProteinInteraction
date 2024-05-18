@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;Zn(2)-C6 fungal-type;17;44
-MOTIF;Nuclear localization signal;55;62

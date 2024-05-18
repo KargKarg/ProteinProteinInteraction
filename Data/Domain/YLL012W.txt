@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Nucleophile;315;315
-ACT_SITE;Charge relay system;489;489
-ACT_SITE;Charge relay system;520;520

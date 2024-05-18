@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Cytochrome c;88;241
-REGION;Disordered;131;168
-BINDING;covalent;101;101
-BINDING;covalent;104;104
-BINDING;axial binding residue;105;105
-BINDING;axial binding residue;225;225

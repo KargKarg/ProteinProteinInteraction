@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ubiquitin-like;1;76
-ZN_FING;C4-type;121;144

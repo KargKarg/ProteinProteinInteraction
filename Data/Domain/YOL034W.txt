@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Flexible hinge;442;650
-BINDING;;69;76

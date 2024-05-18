@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000164;C:protein phosphatase type 1 complex
-GO:0019888;F:protein phosphatase regulator activity
-GO:1904547;P:regulation of cellular response to glucose starvation
-GO:0043666;P:regulation of phosphoprotein phosphatase activity

@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;38;79
-REGION;Interaction with the F-box domain of F-box proteins;135;194

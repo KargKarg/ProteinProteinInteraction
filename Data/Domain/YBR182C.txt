@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MADS-box;3;57
-DNA_BIND;Mef2-type;58;87
-REGION;Disordered;97;142

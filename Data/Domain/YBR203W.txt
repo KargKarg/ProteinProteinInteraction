@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;F-box;185;236
-REGION;Disordered;35;103
-REGION;Disordered;271;328
-REGION;Disordered;369;396
-REGION;Disordered;414;460

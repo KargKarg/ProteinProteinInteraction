@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0016020;C:membrane
-GO:0005635;C:nuclear envelope
-GO:0031965;C:nuclear membrane
-GO:0055088;P:lipid homeostasis
-GO:0051028;P:mRNA transport
-GO:0006998;P:nuclear envelope organization

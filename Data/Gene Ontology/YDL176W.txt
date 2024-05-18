@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0000147;P:actin cortical patch assembly

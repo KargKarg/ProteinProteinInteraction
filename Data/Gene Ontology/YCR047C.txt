@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0043527;C:tRNA methyltransferase complex
-GO:0016435;F:rRNA (guanine) methyltransferase activity
-GO:0000447;P:endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
-GO:0000056;P:ribosomal small subunit export from nucleus
-GO:0070476;P:rRNA (guanine-N7)-methylation

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;S1 motif;904;1001
-REGION;Endoribonuclease;1;235
-REGION;Disordered;343;363

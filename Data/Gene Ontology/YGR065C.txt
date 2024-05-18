@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005886;C:plasma membrane
-GO:0015225;F:biotin transmembrane transporter activity
-GO:0015293;F:symporter activity
-GO:0022857;F:transmembrane transporter activity
-GO:0015878;P:biotin transport

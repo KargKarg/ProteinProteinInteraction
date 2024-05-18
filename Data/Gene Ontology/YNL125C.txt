@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005739;C:mitochondrion
-GO:0015293;F:symporter activity

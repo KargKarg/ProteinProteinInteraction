@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004033;F:aldo-keto reductase (NADP) activity
-GO:0050236;F:pyridoxine:NADP 4-dehydrogenase activity
-GO:0042820;P:vitamin B6 catabolic process

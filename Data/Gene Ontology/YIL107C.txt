@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0003873;F:6-phosphofructo-2-kinase activity
-GO:0005524;F:ATP binding
-GO:0006003;P:fructose 2,6-bisphosphate metabolic process
-GO:0006000;P:fructose metabolic process

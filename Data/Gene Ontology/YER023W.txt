@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0042802;F:identical protein binding
-GO:0004735;F:pyrroline-5-carboxylate reductase activity
-GO:0055129;P:L-proline biosynthetic process
-GO:0006561;P:proline biosynthetic process

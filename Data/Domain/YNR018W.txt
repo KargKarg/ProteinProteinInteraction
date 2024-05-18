@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HIG1;89;180

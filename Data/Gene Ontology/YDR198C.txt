@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0016279;F:protein-lysine N-methyltransferase activity
-GO:0018026;P:peptidyl-lysine monomethylation
-GO:0018023;P:peptidyl-lysine trimethylation

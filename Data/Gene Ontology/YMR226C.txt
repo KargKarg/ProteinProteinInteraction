@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004090;F:carbonyl reductase (NADPH) activity
-GO:0016491;F:oxidoreductase activity
-GO:0031132;F:serine 3-dehydrogenase activity

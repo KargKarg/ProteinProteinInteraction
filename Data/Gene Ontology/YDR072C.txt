@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000139;C:Golgi membrane
-GO:0070916;C:inositol phosphoceramide synthase complex
-GO:0045140;F:inositol phosphoceramide synthase activity
-GO:0016772;F:transferase activity, transferring phosphorus-containing groups
-GO:0006673;P:inositol phosphoceramide metabolic process
-GO:0006676;P:mannosyl diphosphorylinositol ceramide metabolic process
-GO:0030148;P:sphingolipid biosynthetic process

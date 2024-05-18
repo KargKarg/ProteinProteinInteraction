@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0016491;F:oxidoreductase activity
-GO:0050278;F:sedoheptulose-bisphosphatase activity
-GO:0005975;P:carbohydrate metabolic process
-GO:0046390;P:ribose phosphate biosynthetic process

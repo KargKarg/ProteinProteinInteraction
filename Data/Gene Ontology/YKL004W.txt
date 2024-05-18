@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005794;C:Golgi apparatus
-GO:0032580;C:Golgi cisterna membrane
-GO:0070916;C:inositol phosphoceramide synthase complex
-GO:0045140;F:inositol phosphoceramide synthase activity
-GO:0006673;P:inositol phosphoceramide metabolic process
-GO:0030148;P:sphingolipid biosynthetic process

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
-GO:0000977;F:RNA polymerase II transcription regulatory region sequence-specific DNA binding
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0006357;P:regulation of transcription by RNA polymerase II

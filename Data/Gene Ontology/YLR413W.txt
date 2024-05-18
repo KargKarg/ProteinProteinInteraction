@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0051285;C:cell cortex of cell tip
-GO:0071944;C:cell periphery
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0031505;P:fungal-type cell wall organization

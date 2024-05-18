@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:1990904;C:ribonucleoprotein complex
-GO:0000372;P:Group I intron splicing
-GO:0090615;P:mitochondrial mRNA processing

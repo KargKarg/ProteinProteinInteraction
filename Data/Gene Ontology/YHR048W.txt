@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005886;C:plasma membrane
-GO:0015297;F:antiporter activity
-GO:0022857;F:transmembrane transporter activity
-GO:1902600;P:proton transmembrane transport
-GO:0055085;P:transmembrane transport
-GO:1990961;P:xenobiotic detoxification by transmembrane export across the plasma membrane

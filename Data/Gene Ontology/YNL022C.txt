@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0003723;F:RNA binding
-GO:0009383;F:rRNA (cytosine-C5-)-methyltransferase activity
-GO:0070475;P:rRNA base methylation

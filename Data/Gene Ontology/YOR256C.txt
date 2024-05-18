@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0016020;C:membrane
-GO:0004180;F:carboxypeptidase activity
-GO:0046872;F:metal ion binding
-GO:0008237;F:metallopeptidase activity
-GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

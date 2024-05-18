@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;BNR 1;58;69
-REPEAT;BNR 2;102;113

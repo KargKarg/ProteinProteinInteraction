@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005681;C:spliceosomal complex
-GO:0071021;C:U2-type post-spliceosomal complex
-GO:0030628;F:pre-mRNA 3'-splice site binding
-GO:0008270;F:zinc ion binding
-GO:0000350;P:generation of catalytic spliceosome for second transesterification step

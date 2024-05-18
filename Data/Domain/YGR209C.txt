@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Thioredoxin;2;104
-ACT_SITE;Nucleophile;31;31
-ACT_SITE;Nucleophile;34;34
-SITE;Deprotonates C-terminal active site Cys;25;25
-SITE;Contributes to redox potential value;32;32
-SITE;Contributes to redox potential value;33;33

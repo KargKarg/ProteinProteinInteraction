@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
-GO:0004030;F:aldehyde dehydrogenase [NAD(P)+] activity
-GO:0019413;P:acetate biosynthetic process
-GO:0006068;P:ethanol catabolic process

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;Solcar 1;11;95
-REPEAT;Solcar 2;103;195
-REPEAT;Solcar 3;205;289

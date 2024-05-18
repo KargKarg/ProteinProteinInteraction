@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;201;240
-REGION;Interaction with MUS81;598;691

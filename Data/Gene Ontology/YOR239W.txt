@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005884;C:actin filament
-GO:0032432;C:actin filament bundle
-GO:0005737;C:cytoplasm
-GO:0043332;C:mating projection tip
-GO:0051015;F:actin filament binding
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0052735;F:tRNA (cytidine-3-)-methyltransferase activity
-GO:0030488;P:tRNA methylation

@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CBS 1;114;175
-DOMAIN;CBS 2;198;256
-DOMAIN;CBS 3;283;342
-DOMAIN;CBS 4;443;512
-REGION;Disordered;1;75
-REGION;Disordered;424;478
-REGION;Disordered;508;527

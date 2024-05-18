@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Prephenate dehydratase;7;224
-DOMAIN;ACT;244;322

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005788;C:endoplasmic reticulum lumen
-GO:0003756;F:protein disulfide isomerase activity
-GO:0019153;F:protein-disulfide reductase (glutathione) activity
-GO:0015035;F:protein-disulfide reductase activity
-GO:0051082;F:unfolded protein binding
-GO:0006457;P:protein folding
-GO:0034976;P:response to endoplasmic reticulum stress

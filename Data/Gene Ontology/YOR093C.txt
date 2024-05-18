@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005935;C:cellular bud neck
-GO:0005829;C:cytosol
-GO:0016020;C:membrane
-GO:0044281;P:small molecule metabolic process

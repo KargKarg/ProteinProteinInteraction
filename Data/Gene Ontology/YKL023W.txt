@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0034427;P:nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'

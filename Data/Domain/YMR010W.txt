@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PQ-loop;252;309
-REGION;Disordered;379;405

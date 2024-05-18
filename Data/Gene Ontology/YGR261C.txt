@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0030123;C:AP-3 adaptor complex
-GO:0030665;C:clathrin-coated vesicle membrane
-GO:0005829;C:cytosol
-GO:0005794;C:Golgi apparatus
-GO:0006896;P:Golgi to vacuole transport
-GO:0006886;P:intracellular protein transport
-GO:0006623;P:protein targeting to vacuole
-GO:0016192;P:vesicle-mediated transport

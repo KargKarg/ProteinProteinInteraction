@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0030479;C:actin cortical patch
-GO:0005730;C:nucleolus
-GO:0017024;F:myosin I binding
-GO:0030036;P:actin cytoskeleton organization
-GO:0007010;P:cytoskeleton organization

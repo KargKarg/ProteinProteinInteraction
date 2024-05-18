@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:1990526;C:Ste12p-Dig1p-Dig2p complex
-GO:0003714;F:transcription corepressor activity
-GO:2000218;P:negative regulation of invasive growth in response to glucose limitation
-GO:0045894;P:negative regulation of mating-type specific transcription, DNA-templated
-GO:2000221;P:negative regulation of pseudohyphal growth
-GO:0000122;P:negative regulation of transcription by RNA polymerase II

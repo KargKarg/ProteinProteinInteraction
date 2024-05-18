@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;RRM;46;124
-REGION;Disordered;168;208
-BINDING;;24;24
-BINDING;;49;49
-BINDING;;118;122
-BINDING;;129;133
-BINDING;;139;140

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0031416;C:NatB complex
-GO:0004596;F:peptide alpha-N-acetyltransferase activity
-GO:0000001;P:mitochondrion inheritance
-GO:0017196;P:N-terminal peptidyl-methionine acetylation
-GO:0032956;P:regulation of actin cytoskeleton organization
-GO:0030433;P:ubiquitin-dependent ERAD pathway

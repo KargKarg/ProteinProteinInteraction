@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Non-specific ssDNA binding;16;39

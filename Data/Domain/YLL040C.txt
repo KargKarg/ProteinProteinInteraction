@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Chorein N-terminal;2;114
-DOMAIN;SHR-BD;2206;2484
-REGION;Involved in phospholipid binding;1;1350
-REGION;Disordered;432;457
-REGION;Disordered;1347;1393
-REGION;Disordered;2158;2177
-REGION;Involved in ARF1 binding and phospholipid binding, including phosphatidylinositol 4,5-bisphosphate and phosphatidylinositol 3-phosphate; possibly in conjunction with the SHR-BD domain;2492;3144

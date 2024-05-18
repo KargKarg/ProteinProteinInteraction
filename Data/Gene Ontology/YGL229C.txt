@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0019903;F:protein phosphatase binding
-GO:0019888;F:protein phosphatase regulator activity
-GO:0000082;P:G1/S transition of mitotic cell cycle

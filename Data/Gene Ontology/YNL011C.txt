@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0043743;F:LPPG:FO 2-phospho-L-lactate transferase activity

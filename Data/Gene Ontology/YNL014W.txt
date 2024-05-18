@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0022626;C:cytosolic ribosome
-GO:0005524;F:ATP binding
-GO:0016887;F:ATP hydrolysis activity
-GO:0003723;F:RNA binding
-GO:0003746;F:translation elongation factor activity
-GO:0034599;P:cellular response to oxidative stress
-GO:0002182;P:cytoplasmic translational elongation
-GO:0006414;P:translational elongation

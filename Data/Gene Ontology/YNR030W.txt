@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000009;F:alpha-1,6-mannosyltransferase activity
-GO:0052917;F:dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichol alpha-1,6-mannosyltransferase
-GO:0006488;P:dolichol-linked oligosaccharide biosynthetic process
-GO:0006486;P:protein glycosylation
-GO:0006487;P:protein N-linked glycosylation

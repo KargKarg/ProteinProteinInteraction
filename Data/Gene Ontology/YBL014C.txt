@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0070860;C:RNA polymerase I core factor complex
-GO:0001179;F:RNA polymerase I general transcription initiation factor binding
-GO:0001163;F:RNA polymerase I transcription regulatory region sequence-specific DNA binding
-GO:0042790;P:nucleolar large rRNA transcription by RNA polymerase I
-GO:0006361;P:transcription initiation at RNA polymerase I promoter

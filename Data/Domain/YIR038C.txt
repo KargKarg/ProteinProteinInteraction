@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GST N-terminal;3;90
-DOMAIN;GST C-terminal;96;234

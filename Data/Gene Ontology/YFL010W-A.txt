@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0006865;P:amino acid transport

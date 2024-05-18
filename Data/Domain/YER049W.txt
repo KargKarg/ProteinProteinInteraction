@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Fe2OG dioxygenase;141;247
-BINDING;;159;159
-BINDING;;161;161
-BINDING;;173;173
-BINDING;;227;227
-BINDING;;238;238

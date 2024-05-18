@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005886;C:plasma membrane
-GO:0005315;F:inorganic phosphate transmembrane transporter activity
-GO:0006817;P:phosphate ion transport
-GO:0006797;P:polyphosphate metabolic process
-GO:2000185;P:regulation of phosphate transmembrane transport

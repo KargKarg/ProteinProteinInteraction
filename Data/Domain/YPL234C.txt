@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-SITE;Essential for proton translocation;145;145

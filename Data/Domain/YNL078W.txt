@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;41;64
-REGION;Disordered;277;315
-MOTIF;SUMO-binding;391;398

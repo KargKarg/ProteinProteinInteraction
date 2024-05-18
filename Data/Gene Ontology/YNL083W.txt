@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0005347;F:ATP transmembrane transporter activity
-GO:0005471;F:ATP:ADP antiporter activity
-GO:0005509;F:calcium ion binding
-GO:0015866;P:ADP transport
-GO:0015867;P:ATP transport
-GO:0006839;P:mitochondrial transport

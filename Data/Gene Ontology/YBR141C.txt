@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0016433;F:rRNA (adenine) methyltransferase activity
-GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity

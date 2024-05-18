@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Thioredoxin;3;161
-ACT_SITE;Cysteine sulfenic acid (-SOH) intermediate;48;48

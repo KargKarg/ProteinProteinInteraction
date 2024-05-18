@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-BINDING;;1365;1367
-BINDING;;1389;1389
-BINDING;;1409;1418

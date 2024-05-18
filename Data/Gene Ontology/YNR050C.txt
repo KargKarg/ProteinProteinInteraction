@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005737;C:cytoplasm
-GO:0004755;F:saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity
-GO:0004753;F:saccharopine dehydrogenase activity
-GO:0019878;P:lysine biosynthetic process via aminoadipic acid

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:0034399;C:nuclear periphery
-GO:0004799;F:thymidylate synthase activity
-GO:0006231;P:dTMP biosynthetic process
-GO:0006235;P:dTTP biosynthetic process
-GO:0032259;P:methylation

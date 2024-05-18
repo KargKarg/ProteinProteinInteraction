@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;127;161
-REGION;Involved in ssDNA binding;360;369
-BINDING;;367;367
-BINDING;;369;369
-BINDING;;502;502

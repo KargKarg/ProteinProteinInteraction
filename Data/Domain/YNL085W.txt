@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with PBP1;130;380
-REGION;Disordered;347;400

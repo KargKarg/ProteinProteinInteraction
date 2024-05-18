@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005773;C:vacuole
-GO:0006914;P:autophagy

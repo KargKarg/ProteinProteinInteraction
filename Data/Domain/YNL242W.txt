@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;ER-targeting domain;2;21
-REGION;Disordered;264;286
-REGION;PAS-targeting domain;1347;1373

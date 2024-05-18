@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;N-acetyltransferase;47;191

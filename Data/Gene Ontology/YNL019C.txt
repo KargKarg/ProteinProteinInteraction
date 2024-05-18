@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0005628;C:prospore membrane

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0003844;F:1,4-alpha-glucan branching enzyme activity
-GO:0102752;F:1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)
-GO:0043169;F:cation binding
-GO:0004553;F:hydrolase activity, hydrolyzing O-glycosyl compounds
-GO:0005978;P:glycogen biosynthetic process

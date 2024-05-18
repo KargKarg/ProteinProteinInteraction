@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0016763;F:pentosyltransferase activity
-GO:0043399;F:tRNA A64-2'-O-ribosylphosphate transferase activity
-GO:0019988;P:charged-tRNA amino acid modification

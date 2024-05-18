@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0003729;F:mRNA binding
-GO:1990446;F:U1 snRNP binding
-GO:0048026;P:positive regulation of mRNA splicing, via spliceosome
-GO:0007131;P:reciprocal meiotic recombination

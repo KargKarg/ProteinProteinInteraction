@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005759;C:mitochondrial matrix
-GO:0090144;P:mitochondrial nucleoid organization
-GO:1901858;P:regulation of mitochondrial DNA metabolic process

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0052689;F:carboxylic ester hydrolase activity
-GO:0008474;F:palmitoyl-(protein) hydrolase activity
-GO:0006631;P:fatty acid metabolic process
-GO:0035601;P:protein deacylation

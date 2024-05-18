@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MSS4;1;131
-BINDING;;6;6
-BINDING;;11;11
-BINDING;;104;104
-BINDING;;107;107

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005886;C:plasma membrane
-GO:0015250;F:water channel activity
-GO:0030437;P:ascospore formation
-GO:0055085;P:transmembrane transport
-GO:0006833;P:water transport

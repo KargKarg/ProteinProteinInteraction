@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Protein kinase;14;319
-REGION;Disordered;352;414
-REGION;Disordered;427;474
-MOTIF;YXXZ targeting signal;444;447
-ACT_SITE;Proton acceptor;150;150
-BINDING;;20;28
-BINDING;;60;60

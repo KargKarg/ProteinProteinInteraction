@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0090575;C:RNA polymerase II transcription regulator complex
-GO:0001228;F:DNA-binding transcription activator activity, RNA polymerase II-specific
-GO:0003700;F:DNA-binding transcription factor activity
-GO:0043565;F:sequence-specific DNA binding
-GO:0000976;F:transcription cis-regulatory region binding
-GO:0006357;P:regulation of transcription by RNA polymerase II

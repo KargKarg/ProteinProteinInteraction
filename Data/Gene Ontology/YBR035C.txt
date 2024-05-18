@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005758;C:mitochondrial intermembrane space
-GO:0010181;F:FMN binding
-GO:0004733;F:pyridoxamine phosphate oxidase activity
-GO:0009443;P:pyridoxal 5'-phosphate salvage
-GO:0008615;P:pyridoxine biosynthetic process

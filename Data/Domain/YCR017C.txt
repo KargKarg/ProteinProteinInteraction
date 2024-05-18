@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;PGAP2-like;1;229
-REGION;PGAP2IP-like;230;953
-REGION;Required for function in lipid remodeling;862;882
-ACT_SITE;;802;802

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;112;133
-REGION;Disordered;155;203
-REGION;Disordered;223;250
-REGION;Glycosyltransferase;287;778

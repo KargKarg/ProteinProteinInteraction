@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;APEAR;102;105
-MOTIF;LIR;424;427
-ACT_SITE;Nucleophile;147;147
-ACT_SITE;;322;322
-ACT_SITE;;324;324

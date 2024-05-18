@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;42;87
-ACT_SITE;Nucleophile;287;287
-ACT_SITE;Charge relay system;480;480
-ACT_SITE;Charge relay system;511;511

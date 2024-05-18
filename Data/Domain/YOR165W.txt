@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GB1/RHD3-type G;34;263
-BINDING;;44;51

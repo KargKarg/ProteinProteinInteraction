@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Charge relay system;161;161
-ACT_SITE;Charge relay system;241;241
-ACT_SITE;Charge relay system;276;276
-BINDING;;1;1
-BINDING;;140;140

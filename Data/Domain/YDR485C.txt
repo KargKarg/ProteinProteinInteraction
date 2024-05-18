@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with HTZ1;1;281
-REGION;Disordered;40;179
-REGION;Disordered;314;406
-REGION;Disordered;462;510
-REGION;Disordered;554;585

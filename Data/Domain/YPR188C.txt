@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;EF-hand 1;15;50
-DOMAIN;EF-hand 2;92;127
-BINDING;;28;28
-BINDING;;30;30
-BINDING;;32;32
-BINDING;;39;39

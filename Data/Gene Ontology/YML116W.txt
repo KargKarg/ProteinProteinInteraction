@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0016020;C:membrane
-GO:0005886;C:plasma membrane
-GO:0005773;C:vacuole
-GO:0080139;F:borate efflux transmembrane transporter activity
-GO:0046713;P:borate transport

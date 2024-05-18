@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000785;C:chromatin
-GO:0005634;C:nucleus
-GO:0016586;C:RSC-type complex
-GO:0006338;P:chromatin remodeling
-GO:0006337;P:nucleosome disassembly
-GO:0006357;P:regulation of transcription by RNA polymerase II
-GO:0006368;P:transcription elongation by RNA polymerase II

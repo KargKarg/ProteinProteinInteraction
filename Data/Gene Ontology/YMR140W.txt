@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0042149;P:cellular response to glucose starvation

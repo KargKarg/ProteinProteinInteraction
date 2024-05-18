@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005797;C:Golgi medial cisterna
-GO:0000139;C:Golgi membrane
-GO:0005774;C:vacuolar membrane
-GO:0008375;F:acetylglucosaminyltransferase activity
-GO:0016757;F:glycosyltransferase activity
-GO:0006487;P:protein N-linked glycosylation

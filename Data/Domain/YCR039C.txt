@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;Homeobox; TALE-type;129;191
-REGION;N-terminal domain;1;102
-REGION;Flexible linker;103;128
-REGION;C-terminal tail;190;210

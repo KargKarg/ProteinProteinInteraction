@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Jacalin-type lectin;522;695
-ACT_SITE;;319;319
-BINDING;;318;318
-BINDING;;322;322
-BINDING;;328;328

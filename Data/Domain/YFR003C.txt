@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;56
-REGION;Disordered;79;155
-MOTIF;GLC7-binding;51;53

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0005524;F:ATP binding
-GO:0016979;F:lipoate-protein ligase activity
-GO:0017118;F:lipoyltransferase activity
-GO:0009249;P:protein lipoylation

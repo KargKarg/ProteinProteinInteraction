@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005825;C:half bridge of spindle pole body
-GO:0005874;C:microtubule
-GO:0051301;P:cell division
-GO:0000742;P:karyogamy involved in conjugation with cellular fusion
-GO:0030474;P:spindle pole body duplication

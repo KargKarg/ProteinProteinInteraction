@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;N-acetyltransferase;353;505
-ACT_SITE;;675;675

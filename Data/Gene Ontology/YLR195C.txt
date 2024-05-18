@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0004379;F:glycylpeptide N-tetradecanoyltransferase activity
-GO:0018008;P:N-terminal peptidyl-glycine N-myristoylation

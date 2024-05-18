@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0031515;C:tRNA (m1A) methyltransferase complex
-GO:0160107;F:tRNA (adenine(58)-N1)-methyltransferase activity
-GO:0030488;P:tRNA methylation

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ABC transporter;384;631
-DOMAIN;ABC transmembrane type-2;793;1044
-BINDING;;423;430

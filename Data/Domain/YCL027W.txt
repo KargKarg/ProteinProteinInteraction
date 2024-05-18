@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SH3;436;512
-REGION;Hydrophilic;97;512

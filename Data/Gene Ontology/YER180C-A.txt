@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0006886;P:intracellular protein transport

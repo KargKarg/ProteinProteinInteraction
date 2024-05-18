@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005881;C:cytoplasmic microtubule
-GO:0005634;C:nucleus
-GO:0051010;F:microtubule plus-end binding
-GO:0007049;P:cell cycle
-GO:0051301;P:cell division
-GO:0030473;P:nuclear migration along microtubule

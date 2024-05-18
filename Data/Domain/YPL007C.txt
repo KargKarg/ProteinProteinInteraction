@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Sufficient for SPT15-binding;399;588
-SITE;Involved in the interaction with TFC6;358;358

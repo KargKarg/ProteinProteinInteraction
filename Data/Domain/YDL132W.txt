@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Required for interaction with SKP1/CBF3D and F-box protein;9;280
-REGION;Required for interaction with CDC34/UBC3;448;748

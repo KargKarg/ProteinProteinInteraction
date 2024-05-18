@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PH;1302;1413
-REGION;Disordered;1;38
-REGION;Disordered;57;76
-REGION;Disordered;272;316
-REGION;Disordered;444;479
-REGION;Disordered;529;591
-REGION;Disordered;648;673
-REGION;Interaction with IQG1;768;879

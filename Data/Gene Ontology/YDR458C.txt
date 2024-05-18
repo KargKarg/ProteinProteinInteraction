@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005635;C:nuclear envelope
-GO:0005637;C:nuclear inner membrane
-GO:0034399;C:nuclear periphery
-GO:0003682;F:chromatin binding

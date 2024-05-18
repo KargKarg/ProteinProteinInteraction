@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005788;C:endoplasmic reticulum lumen
-GO:0000774;F:adenyl-nucleotide exchange factor activity
-GO:0006616;P:SRP-dependent cotranslational protein targeting to membrane, translocation

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0000328;C:fungal-type vacuole lumen
-GO:0031902;C:late endosome membrane
-GO:0016020;C:membrane
-GO:0031625;F:ubiquitin protein ligase binding
-GO:0032509;P:endosome transport via multivesicular body sorting pathway
-GO:0030163;P:protein catabolic process

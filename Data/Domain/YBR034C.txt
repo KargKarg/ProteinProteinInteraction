@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SAM-dependent MTase PRMT-type;20;322
-ACT_SITE;;132;132
-ACT_SITE;;141;141
-BINDING;;33;33
-BINDING;;42;42
-BINDING;;66;66
-BINDING;;88;88
-BINDING;;117;117

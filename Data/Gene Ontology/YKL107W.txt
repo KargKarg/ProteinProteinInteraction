@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0016020;C:membrane
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
-GO:1901426;P:response to furfural

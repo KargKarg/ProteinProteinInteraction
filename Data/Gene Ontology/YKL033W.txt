@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0070209;C:ASTRA complex
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0110078;C:TTT Hsp90 cochaperone complex
-GO:0006338;P:chromatin remodeling
-GO:2000003;P:positive regulation of DNA damage checkpoint
-GO:0050821;P:protein stabilization

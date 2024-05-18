@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PH 1;68;200
-DOMAIN;PH 2;217;301
-REGION;Dimeric region;2;67
-REGION;Double PH domain;68;301
-REGION;Disordered;305;455

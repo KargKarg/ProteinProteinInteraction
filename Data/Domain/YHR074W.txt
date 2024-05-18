@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CN hydrolase;5;275
-REGION;Ligase;329;714
-ACT_SITE;Proton acceptor; for glutaminase activity;45;45
-ACT_SITE;For glutaminase activity;114;114
-ACT_SITE;Nucleophile; for glutaminase activity;175;175
-ACT_SITE;;361;361
-BINDING;;359;366

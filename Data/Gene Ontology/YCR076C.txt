@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0070628;F:proteasome binding
-GO:0006325;P:chromatin organization

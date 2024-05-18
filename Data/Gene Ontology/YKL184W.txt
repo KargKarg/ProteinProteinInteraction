@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004586;F:ornithine decarboxylase activity
-GO:0015940;P:pantothenate biosynthetic process
-GO:0009446;P:putrescine biosynthetic process
-GO:0033387;P:putrescine biosynthetic process from ornithine

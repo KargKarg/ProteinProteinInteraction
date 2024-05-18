@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005525;F:GTP binding
-GO:0003924;F:GTPase activity
-GO:0003746;F:translation elongation factor activity
-GO:0032543;P:mitochondrial translation
-GO:0070125;P:mitochondrial translational elongation

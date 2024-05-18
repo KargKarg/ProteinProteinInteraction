@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005621;C:cellular bud scar
-GO:0005576;C:extracellular region
-GO:0009277;C:fungal-type cell wall
-GO:0034399;C:nuclear periphery
-GO:0005199;F:structural constituent of cell wall
-GO:0031505;P:fungal-type cell wall organization
-GO:0006886;P:intracellular protein transport

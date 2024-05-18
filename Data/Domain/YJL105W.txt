@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SET;346;475
-ZN_FING;PHD-type;160;210
-REGION;Disordered;1;61
-REGION;Disordered;125;157

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005576;C:extracellular region
-GO:0005615;C:extracellular space
-GO:0000324;C:fungal-type vacuole
-GO:0032934;F:sterol binding
-GO:0015908;P:fatty acid transport
-GO:0015918;P:sterol transport

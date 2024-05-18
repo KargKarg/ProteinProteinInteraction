@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0046872;F:metal ion binding
-GO:0061711;F:N(6)-L-threonylcarbamoyladenine synthase activity
-GO:0072670;P:mitochondrial tRNA threonylcarbamoyladenosine modification
-GO:0002949;P:tRNA threonylcarbamoyladenosine modification

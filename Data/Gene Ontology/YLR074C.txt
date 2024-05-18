@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0030687;C:preribosome, large subunit precursor
-GO:0003676;F:nucleic acid binding
-GO:0043023;F:ribosomal large subunit binding
-GO:0008270;F:zinc ion binding
-GO:0000055;P:ribosomal large subunit export from nucleus

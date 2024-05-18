@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PDZ GRASP-type 1;66;183
-DOMAIN;PDZ GRASP-type 2;188;276
-REGION;GRASP;66;292
-REGION;Disordered;312;372

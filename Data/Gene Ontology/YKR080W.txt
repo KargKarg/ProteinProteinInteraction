@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0004487;F:methylenetetrahydrofolate dehydrogenase (NAD+) activity
-GO:0004488;F:methylenetetrahydrofolate dehydrogenase (NADP+) activity
-GO:0009396;P:folic acid-containing compound biosynthetic process
-GO:0006730;P:one-carbon metabolic process
-GO:0009113;P:purine nucleobase biosynthetic process
-GO:0006164;P:purine nucleotide biosynthetic process

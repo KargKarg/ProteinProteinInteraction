@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HORMA;20;250
-ZN_FING;;348;364

@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HTH myb-type 1;1;60
-DOMAIN;HTH myb-type 2;63;110
-DNA_BIND;H-T-H motif;33;56
-DNA_BIND;H-T-H motif;84;106
-REGION;Disordered;244;286
-REGION;Disordered;336;355
-REGION;Interaction with PRP19 and self-interaction;460;490

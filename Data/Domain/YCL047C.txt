@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-BINDING;;35;35
-BINDING;;36;36
-BINDING;in other chain;43;43
-BINDING;;138;138
-BINDING;;140;140
-BINDING;;174;174
-BINDING;in other chain;224;227

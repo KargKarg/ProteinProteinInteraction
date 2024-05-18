@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0000329;C:fungal-type vacuole membrane
-GO:0050295;F:steryl-beta-glucosidase activity
-GO:0005975;P:carbohydrate metabolic process
-GO:1904462;P:ergosteryl 3-beta-D-glucoside catabolic process

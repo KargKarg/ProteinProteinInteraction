@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C2H2-type 1;153;175
-ZN_FING;C2H2-type 2;181;205

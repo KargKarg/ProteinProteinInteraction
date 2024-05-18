@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0009328;C:phenylalanine-tRNA ligase complex
-GO:0002161;F:aminoacyl-tRNA editing activity
-GO:0005524;F:ATP binding
-GO:0000287;F:magnesium ion binding
-GO:0004826;F:phenylalanine-tRNA ligase activity
-GO:0000049;F:tRNA binding
-GO:0006432;P:phenylalanyl-tRNA aminoacylation

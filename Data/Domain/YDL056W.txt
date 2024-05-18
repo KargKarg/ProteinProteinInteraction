@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HTH APSES-type;5;111
-REPEAT;ANK 1;394;423
-REPEAT;ANK 2;512;541
-DNA_BIND;H-T-H motif;36;57
-REGION;Disordered;104;223
-REGION;Disordered;280;329

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0097361;C:CIA complex
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0007059;P:chromosome segregation
-GO:0016226;P:iron-sulfur cluster assembly
-GO:0106035;P:protein maturation by [4Fe-4S] cluster transfer

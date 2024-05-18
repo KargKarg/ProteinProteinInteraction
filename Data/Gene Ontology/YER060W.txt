@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0015205;F:nucleobase transmembrane transporter activity
-GO:0015856;P:cytosine transport
-GO:0072530;P:purine-containing compound transmembrane transport

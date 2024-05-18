@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004644;F:phosphoribosylglycinamide formyltransferase activity
-GO:0006189;P:'de novo' IMP biosynthetic process
-GO:0046084;P:adenine biosynthetic process
-GO:0006164;P:purine nucleotide biosynthetic process

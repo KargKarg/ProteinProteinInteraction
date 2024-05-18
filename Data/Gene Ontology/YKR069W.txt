@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0004851;F:uroporphyrin-III C-methyltransferase activity
-GO:0009086;P:methionine biosynthetic process
-GO:0032259;P:methylation
-GO:0019354;P:siroheme biosynthetic process
-GO:0000103;P:sulfate assimilation

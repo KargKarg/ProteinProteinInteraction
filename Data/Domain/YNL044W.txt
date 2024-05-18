@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;SKL peroxisome targeting motif;11;13

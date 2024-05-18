@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;WAC;23;130
-DOMAIN;DDT;423;483
-REGION;Disordered;130;153
-REGION;Disordered;275;374
-REGION;Disordered;482;508
-REGION;Disordered;627;655
-REGION;Disordered;803;825

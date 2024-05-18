@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;RCC1 1;332;389
-REPEAT;RCC1 2;390;452
-REPEAT;RCC1 3;459;510
-REPEAT;RCC1 4;512;569

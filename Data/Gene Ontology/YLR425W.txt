@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005935;C:cellular bud neck
-GO:0000131;C:incipient cellular bud site
-GO:0005085;F:guanyl-nucleotide exchange factor activity
-GO:0031505;P:fungal-type cell wall organization
-GO:1903501;P:positive regulation of mitotic actomyosin contractile ring assembly
-GO:0007165;P:signal transduction

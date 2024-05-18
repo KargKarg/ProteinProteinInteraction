@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0047389;F:glycerophosphocholine phosphodiesterase activity
-GO:0047395;F:glycerophosphoinositol glycerophosphodiesterase activity
-GO:0046475;P:glycerophospholipid catabolic process

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MATH;39;179
-DOMAIN;USP;205;536
-ACT_SITE;Nucleophile;214;214
-ACT_SITE;Proton acceptor;465;465

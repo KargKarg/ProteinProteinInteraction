@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;BRCT;121;208
-DOMAIN;HTH myb-type;355;415
-DNA_BIND;H-T-H motif;388;411
-REGION;Disordered;29;128
-REGION;Disordered;221;268
-REGION;Disordered;308;339
-REGION;Disordered;567;613
-REGION;Activation domain;630;695

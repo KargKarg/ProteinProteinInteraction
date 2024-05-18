@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Exonuclease;55;227
-REGION;Disordered;240;269
-ACT_SITE;;184;184

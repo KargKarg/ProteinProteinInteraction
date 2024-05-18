@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005823;C:central plaque of spindle pole body
-GO:0005737;C:cytoplasm
-GO:0005821;C:intermediate layer of spindle pole body
-GO:0005634;C:nucleus
-GO:0005200;F:structural constituent of cytoskeleton
-GO:0010968;P:regulation of microtubule nucleation
-GO:0030474;P:spindle pole body duplication

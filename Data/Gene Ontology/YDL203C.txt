@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0031505;P:fungal-type cell wall organization
-GO:0009967;P:positive regulation of signal transduction

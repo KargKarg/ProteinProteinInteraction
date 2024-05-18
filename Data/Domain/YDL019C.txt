@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;ANK 1;106;134
-REPEAT;ANK 2;206;235
-DOMAIN;PH;289;386
-REGION;Disordered;504;571
-REGION;Disordered;702;721
-REGION;Disordered;767;834
-REGION;OSBP-related domain (ORD);897;1268
-MOTIF;FFAT;745;751

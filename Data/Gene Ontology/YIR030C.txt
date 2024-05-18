@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0036361;F:racemase activity, acting on amino acids and derivatives
-GO:0006807;P:nitrogen compound metabolic process

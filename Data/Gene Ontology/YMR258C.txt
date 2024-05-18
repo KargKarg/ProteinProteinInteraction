@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0030659;C:cytoplasmic vesicle membrane
-GO:0005783;C:endoplasmic reticulum
-GO:0005634;C:nucleus
-GO:0005095;F:GTPase inhibitor activity
-GO:0006897;P:endocytosis
-GO:0006623;P:protein targeting to vacuole

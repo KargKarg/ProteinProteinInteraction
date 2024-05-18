@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;28
-REGION;Disordered;150;178
-REGION;Disordered;452;521
-REGION;Interaction with SH3 domain of ABP1;467;483
-MOTIF;DXDXT motif;281;285

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004857;F:enzyme inhibitor activity
-GO:0005978;P:glycogen biosynthetic process
-GO:0045818;P:negative regulation of glycogen catabolic process

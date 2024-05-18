@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004861;F:cyclin-dependent protein serine/threonine kinase inhibitor activity
-GO:0140678;F:molecular function inhibitor activity
-GO:0000082;P:G1/S transition of mitotic cell cycle
-GO:0016242;P:negative regulation of macroautophagy

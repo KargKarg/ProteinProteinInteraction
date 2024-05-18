@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000779;C:condensed chromosome, centromeric region
-GO:0072687;C:meiotic spindle
-GO:0005634;C:nucleus
-GO:0051321;P:meiotic cell cycle
-GO:0051177;P:meiotic sister chromatid cohesion
-GO:0045876;P:positive regulation of sister chromatid cohesion
-GO:0071459;P:protein localization to chromosome, centromeric region
-GO:0030435;P:sporulation resulting in formation of a cellular spore

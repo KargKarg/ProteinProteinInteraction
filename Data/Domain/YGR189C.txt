@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GH16;34;260
-REGION;Disordered;329;368
-REGION;Disordered;381;478
-ACT_SITE;Nucleophile;134;134
-ACT_SITE;Proton donor;138;138

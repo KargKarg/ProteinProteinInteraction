@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
-GO:0004090;F:carbonyl reductase (NADPH) activity
-GO:0016614;F:oxidoreductase activity, acting on CH-OH group of donors
-GO:0016616;F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
-GO:0006725;P:cellular aromatic compound metabolic process
-GO:0042180;P:cellular ketone metabolic process
-GO:1901426;P:response to furfural

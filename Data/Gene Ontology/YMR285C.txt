@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004535;F:poly(A)-specific ribonuclease activity
-GO:0003723;F:RNA binding
-GO:0004521;F:RNA endonuclease activity
-GO:0006364;P:rRNA processing

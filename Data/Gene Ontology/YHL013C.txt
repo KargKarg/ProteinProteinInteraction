@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004843;F:cysteine-type deubiquitinase activity
-GO:0019538;P:protein metabolic process

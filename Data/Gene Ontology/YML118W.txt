@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0004535;F:poly(A)-specific ribonuclease activity
-GO:0043633;P:polyadenylation-dependent RNA catabolic process

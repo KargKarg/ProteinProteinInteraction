@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PCI;333;524
-REGION;Required for interaction with MEX67, SUB2 and THP1;1;572
-REGION;Disordered;54;82
-REGION;Required for targeting SAC3 to the nuclear pore;573;1301
-REGION;Disordered;689;715
-REGION;Interaction with CDC31;733;860
-REGION;Disordered;1164;1185

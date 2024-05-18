@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0030437;P:ascospore formation
-GO:0030476;P:ascospore wall assembly
-GO:1903024;P:positive regulation of ascospore-type prospore membrane formation

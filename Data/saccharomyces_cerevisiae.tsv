@@ -1,4 +1,4 @@
-Accession	Begin	End	Chromosome	Orientation	Name	Symbol	Gene ID	Gene Type	Transcripts accession	Protein accession	Protein length	Locus tag
+NCBI.accession	CHROMOSOME.begin	CHROMOSOME.end	CHROMOSOME.value	CHROMOSOME.orientation	GENE.name	SYMBOL	GENE.id	GENE.type	NCBI.transcripts_accession	NCBI.protein_accession	PROTEIN.length	SYSTEMATIC.name
 NC_001133.9	1807	2169	I	minus	seripauperin PAU8	PAU8	851229	protein-coding	NM_001180043.1	NP_009332.1	120	YAL068C
 NC_001133.9	2480	2707	I	plus	uncharacterized protein		1466426	protein-coding	NM_001184582.1	NP_878038.1	75	YAL067W-A
 NC_001133.9	7235	9016	I	minus	putative permease SEO1	SEO1	851230	protein-coding	NM_001178208.1	NP_009333.1	593	YAL067C

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0010494;C:cytoplasmic stress granule
-GO:0005524;F:ATP binding
-GO:0008190;F:eukaryotic initiation factor 4E binding
-GO:0003729;F:mRNA binding
-GO:0000290;P:deadenylation-dependent decapping of nuclear-transcribed mRNA
-GO:0006402;P:mRNA catabolic process
-GO:0017148;P:negative regulation of translation

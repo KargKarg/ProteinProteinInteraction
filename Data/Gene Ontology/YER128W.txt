@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005768;C:endosome
-GO:0001671;F:ATPase activator activity
-GO:0015031;P:protein transport
-GO:0007034;P:vacuolar transport

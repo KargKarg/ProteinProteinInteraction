@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0000324;C:fungal-type vacuole
-GO:0034605;P:cellular response to heat
-GO:0070301;P:cellular response to hydrogen peroxide
-GO:0009267;P:cellular response to starvation
-GO:0006974;P:DNA damage response

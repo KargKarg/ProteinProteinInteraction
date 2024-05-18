@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0090575;C:RNA polymerase II transcription regulator complex
-GO:0003677;F:DNA binding
-GO:0046983;F:protein dimerization activity
-GO:0008654;P:phospholipid biosynthetic process
-GO:0045944;P:positive regulation of transcription by RNA polymerase II

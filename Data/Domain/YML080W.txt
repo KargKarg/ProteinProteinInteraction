@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;404;423
-ACT_SITE;Proton donor;121;121
-BINDING;;35;37
-BINDING;;92;92
-BINDING;;160;160
-BINDING;;188;188
-BINDING;;223;225
-BINDING;;247;248

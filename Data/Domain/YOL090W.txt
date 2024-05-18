@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with MSH6;851;964
-BINDING;;688;695

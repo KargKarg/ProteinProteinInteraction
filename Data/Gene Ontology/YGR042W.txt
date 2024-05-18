@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000781;C:chromosome, telomeric region
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0035861;C:site of double-strand break
-GO:0008047;F:enzyme activator activity
-GO:0032205;P:negative regulation of telomere maintenance

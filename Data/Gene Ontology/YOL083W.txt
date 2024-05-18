@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0034270;C:Cvt complex
-GO:0005829;C:cytosol
-GO:0034045;C:phagophore assembly site membrane
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0071211;P:protein targeting to vacuole involved in autophagy
-GO:0015031;P:protein transport
-GO:0065003;P:protein-containing complex assembly
-GO:0031503;P:protein-containing complex localization

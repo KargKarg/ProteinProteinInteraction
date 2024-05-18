@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005967;C:mitochondrial pyruvate dehydrogenase complex
-GO:0005739;C:mitochondrion
-GO:0004742;F:dihydrolipoyllysine-residue acetyltransferase activity
-GO:0005198;F:structural molecule activity
-GO:0006086;P:acetyl-CoA biosynthetic process from pyruvate

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0000182;F:rDNA binding
-GO:0001042;F:RNA polymerase I core binding
-GO:0001181;F:RNA polymerase I general transcription initiation factor activity
-GO:0001179;F:RNA polymerase I general transcription initiation factor binding
-GO:0006361;P:transcription initiation at RNA polymerase I promoter

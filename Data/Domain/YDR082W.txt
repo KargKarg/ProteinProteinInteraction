@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;OB;62;159
-REGION;Winged helix-turn-helix (wHTH) 1;311;397
-REGION;Winged helix-turn-helix (wHTH) 2;396;494

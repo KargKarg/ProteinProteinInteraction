@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0061608;F:nuclear import signal receptor activity
-GO:0006020;P:inositol metabolic process
-GO:0008654;P:phospholipid biosynthetic process
-GO:0006606;P:protein import into nucleus

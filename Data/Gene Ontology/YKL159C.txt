@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0008597;F:calcium-dependent protein serine/threonine phosphatase regulator activity
-GO:0030346;F:protein phosphatase 2B binding
-GO:0019722;P:calcium-mediated signaling

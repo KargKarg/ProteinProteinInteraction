@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005934;C:cellular bud tip
-GO:0000324;C:fungal-type vacuole
-GO:0043332;C:mating projection tip
-GO:0005886;C:plasma membrane
-GO:0005775;C:vacuolar lumen
-GO:0015079;F:potassium ion transmembrane transporter activity
-GO:0071805;P:potassium ion transmembrane transport

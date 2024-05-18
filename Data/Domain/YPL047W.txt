@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;SGF11-type;71;92

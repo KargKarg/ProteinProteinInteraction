@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005794;C:Golgi apparatus
-GO:0000139;C:Golgi membrane
-GO:0006890;P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum

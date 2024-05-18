@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GRAM;29;116
-DOMAIN;Rab-GAP TBC;244;432
-DOMAIN;EF-hand 1;602;637
-DOMAIN;EF-hand 2;638;673
-REGION;Disordered;878;950

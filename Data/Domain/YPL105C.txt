@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GYF;149;205
-REGION;Disordered;305;505
-REGION;Disordered;527;547
-REGION;Disordered;593;612
-REGION;Disordered;634;661

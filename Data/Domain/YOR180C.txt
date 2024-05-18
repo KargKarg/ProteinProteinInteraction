@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-MOTIF;Peroxisome targeting signal (PTS1);269;271
-ACT_SITE;Proton donor/acceptor;152;152
-BINDING;;62;66
-BINDING;;120;120

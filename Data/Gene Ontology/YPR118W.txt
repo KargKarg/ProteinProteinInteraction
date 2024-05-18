@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0046523;F:S-methyl-5-thioribose-1-phosphate isomerase activity
-GO:0019509;P:L-methionine salvage from methylthioadenosine
-GO:0019284;P:L-methionine salvage from S-adenosylmethionine

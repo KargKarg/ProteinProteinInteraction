@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0030687;C:preribosome, large subunit precursor
-GO:0042254;P:ribosome biogenesis
-GO:0006364;P:rRNA processing

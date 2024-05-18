@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HECT;2932;3268
-REGION;Disordered;1941;2023
-REGION;Disordered;2038;2083
-REGION;Disordered;2416;2443
-ACT_SITE;Glycyl thioester intermediate;3235;3235

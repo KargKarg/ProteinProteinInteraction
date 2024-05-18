@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0000287;F:magnesium ion binding
-GO:0008973;F:phosphopentomutase activity
-GO:0006006;P:glucose metabolic process
-GO:0046115;P:guanosine catabolic process
-GO:0006148;P:inosine catabolic process
-GO:0006166;P:purine ribonucleoside salvage

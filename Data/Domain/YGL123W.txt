@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;S5 DRBM;76;139
-REGION;Disordered;1;34

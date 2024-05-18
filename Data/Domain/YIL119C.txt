@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Myb-like;90;158
-REGION;Disordered;51;94
-REGION;Disordered;165;187
-REGION;Disordered;241;273

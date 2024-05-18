@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0000776;C:kinetochore
-GO:0031511;C:Mis6-Sim4 complex
-GO:0005634;C:nucleus
-GO:0008608;P:attachment of spindle microtubules to kinetochore
-GO:0051301;P:cell division
-GO:0007059;P:chromosome segregation
-GO:0051321;P:meiotic cell cycle

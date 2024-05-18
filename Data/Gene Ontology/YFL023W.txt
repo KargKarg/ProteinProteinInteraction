@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0016272;C:prefoldin complex
-GO:0051082;F:unfolded protein binding
-GO:0001731;P:formation of translation preinitiation complex
-GO:0006457;P:protein folding
-GO:1990113;P:RNA polymerase I assembly
-GO:1990114;P:RNA polymerase II core complex assembly
-GO:1990115;P:RNA polymerase III assembly

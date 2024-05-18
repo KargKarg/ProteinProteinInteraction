@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Yippee;41;138
-BINDING;;45;45
-BINDING;;48;48
-BINDING;;101;101
-BINDING;;104;104

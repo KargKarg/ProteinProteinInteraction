@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005743;C:mitochondrial inner membrane
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005634;C:nucleus
-GO:0033617;P:mitochondrial cytochrome c oxidase assembly
-GO:0033108;P:mitochondrial respiratory chain complex assembly

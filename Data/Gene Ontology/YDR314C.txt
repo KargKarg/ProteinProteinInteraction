@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0000111;C:nucleotide-excision repair factor 2 complex
-GO:0005634;C:nucleus
-GO:0071942;C:XPC complex
-GO:0003684;F:damaged DNA binding
-GO:0003697;F:single-stranded DNA binding
-GO:0006298;P:mismatch repair
-GO:0006289;P:nucleotide-excision repair

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005576;C:extracellular region
-GO:0009277;C:fungal-type cell wall
-GO:0000324;C:fungal-type vacuole
-GO:0098552;C:side of membrane

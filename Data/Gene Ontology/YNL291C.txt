@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005886;C:plasma membrane
-GO:0005262;F:calcium channel activity
-GO:0015275;F:stretch-activated, monoatomic cation-selective, calcium channel activity
-GO:0098703;P:calcium ion import across plasma membrane
-GO:0006816;P:calcium ion transport

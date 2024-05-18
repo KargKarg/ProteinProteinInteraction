@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0008233;F:peptidase activity
-GO:0003697;F:single-stranded DNA binding
-GO:0006974;P:DNA damage response
-GO:0006508;P:proteolysis

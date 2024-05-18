@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;BCNT-C;217;294
-REGION;Disordered;1;92
-REGION;Disordered;126;146
-REGION;Disordered;199;219

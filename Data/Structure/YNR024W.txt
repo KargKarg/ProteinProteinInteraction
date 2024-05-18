@@ -1,3 +1,0 @@
-Structure type;Structure begin;Structure end
-STRAND;103;105
-STRAND;111;114

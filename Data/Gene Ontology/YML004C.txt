@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004462;F:lactoylglutathione lyase activity
-GO:0046872;F:metal ion binding
-GO:0006749;P:glutathione metabolic process
-GO:0019243;P:methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005524;F:ATP binding
-GO:0004612;F:phosphoenolpyruvate carboxykinase (ATP) activity
-GO:0006094;P:gluconeogenesis

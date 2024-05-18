@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;26
-ACT_SITE;Proton acceptor;133;133
-ACT_SITE;Proton donor;231;231
-BINDING;;133;135
-BINDING;;223;233
-BINDING;;229;233

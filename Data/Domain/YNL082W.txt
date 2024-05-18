@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;DNA- and ATP-binding;1;357
-REGION;Disordered;379;423
-REGION;Interaction with MLH1;661;873

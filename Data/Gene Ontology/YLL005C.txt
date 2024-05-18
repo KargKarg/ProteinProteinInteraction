@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0005227;F:calcium-activated cation channel activity
-GO:0030437;P:ascospore formation
-GO:0030476;P:ascospore wall assembly

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004164;F:diphthine synthase activity
-GO:0032259;P:methylation
-GO:0017183;P:protein histidyl modification to diphthamide

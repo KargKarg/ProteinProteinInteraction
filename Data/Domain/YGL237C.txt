@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;NFYA/HAP2-type;192;217
-REGION;Disordered;1;64
-REGION;Interaction with the HAP2-HAP3-HAP5 heteromer;23;180
-REGION;Disordered;78;129
-REGION;Disordered;220;265
-MOTIF;Subunit association domain (SAD);162;185

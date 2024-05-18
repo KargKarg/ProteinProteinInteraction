@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Leucine-zipper;12;26
-REGION;Disordered;104;138
-REGION;Disordered;155;260
-MOTIF;Nuclear localization signal;266;271

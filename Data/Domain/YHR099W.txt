@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;FAT;2622;3177
-DOMAIN;PI3K/PI4K catalytic;3374;3732
-DOMAIN;FATC;3712;3744
-REGION;Disordered;185;212
-REGION;Disordered;522;546
-REGION;G-loop;3380;3386
-REGION;Catalytic loop;3563;3571
-REGION;Activation loop;3600;3625

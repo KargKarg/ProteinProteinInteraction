@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;bZIP;225;281
-REGION;Required for transcriptional activation;89;100
-REGION;Required for transcriptional activation;106;125
-REGION;Disordered;217;248
-REGION;Basic motif;231;251
-REGION;Leucine-zipper;253;274
-MOTIF;Nuclear localization signal;167;200
-MOTIF;Nuclear localization signal;231;249

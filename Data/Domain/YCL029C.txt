@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CAP-Gly;26;69
-REGION;Disordered;108;157
-MOTIF;CCHC-box;416;429

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0030015;C:CCR4-NOT core complex
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0000289;P:nuclear-transcribed mRNA poly(A) tail shortening
-GO:0032968;P:positive regulation of transcription elongation by RNA polymerase II

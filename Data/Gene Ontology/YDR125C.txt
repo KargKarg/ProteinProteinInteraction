@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0042171;F:lysophosphatidic acid acyltransferase activity
-GO:0004623;F:phospholipase A2 activity
-GO:0035965;P:cardiolipin acyl-chain remodeling
-GO:0071555;P:cell wall organization
-GO:0055088;P:lipid homeostasis
-GO:0006654;P:phosphatidic acid biosynthetic process

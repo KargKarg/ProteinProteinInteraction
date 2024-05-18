@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0051539;F:4 iron, 4 sulfur cluster binding
-GO:0003677;F:DNA binding
-GO:0046872;F:metal ion binding
-GO:0045145;F:single-stranded DNA 5'-3' DNA exonuclease activity
-GO:0036297;P:interstrand cross-link repair
-GO:0000002;P:mitochondrial genome maintenance

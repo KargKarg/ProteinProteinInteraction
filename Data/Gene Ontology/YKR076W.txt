@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0045174;F:glutathione dehydrogenase (ascorbate) activity
-GO:0004364;F:glutathione transferase activity
-GO:0071555;P:cell wall organization
-GO:0006749;P:glutathione metabolic process

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0016020;C:membrane
-GO:0022857;F:transmembrane transporter activity
-GO:0055085;P:transmembrane transport

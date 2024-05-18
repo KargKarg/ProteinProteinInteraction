@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005741;C:mitochondrial outer membrane
-GO:0051082;F:unfolded protein binding
-GO:0006457;P:protein folding
-GO:0034394;P:protein localization to cell surface

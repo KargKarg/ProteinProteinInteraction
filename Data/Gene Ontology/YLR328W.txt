@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0005524;F:ATP binding
-GO:0042802;F:identical protein binding
-GO:0000309;F:nicotinamide-nucleotide adenylyltransferase activity
-GO:0004515;F:nicotinate-nucleotide adenylyltransferase activity
-GO:0009435;P:NAD biosynthetic process

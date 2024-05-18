@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;RNase H type-1;184;346
-REGION;Disordered;54;81
-BINDING;;193;193
-BINDING;;193;193
-BINDING;;235;235
-BINDING;;264;264
-BINDING;;338;338

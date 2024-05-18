@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;RRM 1;37;119
-DOMAIN;RRM 2;186;274
-REGION;Disordered;1;30
-REGION;RNA-binding RGG-box;131;151
-REGION;Disordered;151;171
-REGION;Disordered;275;294

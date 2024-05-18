@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005774;C:vacuolar membrane
-GO:0015179;F:L-amino acid transmembrane transporter activity
-GO:0003333;P:amino acid transmembrane transport

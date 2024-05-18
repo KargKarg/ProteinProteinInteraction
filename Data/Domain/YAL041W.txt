@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Calponin-homology (CH);135;246
-DOMAIN;DH;278;454
-DOMAIN;PH;478;668
-DOMAIN;PB1;761;854
-REGION;Disordered;1;24
-REGION;Disordered;542;571
-REGION;Disordered;674;745

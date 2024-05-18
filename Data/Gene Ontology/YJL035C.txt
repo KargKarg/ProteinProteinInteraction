@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0052718;C:tRNA-specific adenosine-34 deaminase complex
-GO:0008251;F:tRNA-specific adenosine deaminase activity
-GO:0052717;F:tRNA-specific adenosine-34 deaminase activity
-GO:0008270;F:zinc ion binding
-GO:0006400;P:tRNA modification
-GO:0002100;P:tRNA wobble adenosine to inosine editing

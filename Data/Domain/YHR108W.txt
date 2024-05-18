@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;VHS;33;169
-DOMAIN;GAT;196;321
-DOMAIN;GAE;466;581
-REGION;Disordered;358;378

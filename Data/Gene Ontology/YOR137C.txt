@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0004721;F:phosphoprotein phosphatase activity
-GO:1902600;P:proton transmembrane transport

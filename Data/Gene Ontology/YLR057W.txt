@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000139;C:Golgi membrane
-GO:0005509;F:calcium ion binding
-GO:0004571;F:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity
-GO:0005975;P:carbohydrate metabolic process
-GO:0006486;P:protein glycosylation
-GO:0030433;P:ubiquitin-dependent ERAD pathway

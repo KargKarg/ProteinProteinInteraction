@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SUN;163;331
-REGION;Disordered;44;108

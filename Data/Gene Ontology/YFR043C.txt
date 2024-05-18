@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0016192;P:vesicle-mediated transport

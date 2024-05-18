@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005938;C:cell cortex
-GO:0005935;C:cellular bud neck
-GO:0000131;C:incipient cellular bud site
-GO:0005886;C:plasma membrane
-GO:0005085;F:guanyl-nucleotide exchange factor activity
-GO:0007120;P:axial cellular bud site selection
-GO:0007121;P:bipolar cellular bud site selection
-GO:0007265;P:Ras protein signal transduction

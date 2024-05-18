@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0010008;C:endosome membrane
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005771;C:multivesicular body
-GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
-GO:0015031;P:protein transport
-GO:0006900;P:vesicle budding from membrane

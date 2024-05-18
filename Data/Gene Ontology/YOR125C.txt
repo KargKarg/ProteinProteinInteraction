@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0031314;C:extrinsic component of mitochondrial inner membrane
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0008682;F:3-demethoxyubiquinol 3-hydroxylase activity
-GO:0046872;F:metal ion binding
-GO:0004497;F:monooxygenase activity
-GO:0016709;F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
-GO:0006744;P:ubiquinone biosynthetic process

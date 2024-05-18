@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Helicase ATP-binding;73;249
-DOMAIN;Helicase C-terminal;263;433
-REGION;Disordered;1;37
-MOTIF;Q motif;42;70
-MOTIF;DEAD box;196;199
-MOTIF;Bipartite nuclear localization signal;275;291
-BINDING;;86;93

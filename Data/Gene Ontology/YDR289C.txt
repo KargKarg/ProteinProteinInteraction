@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000785;C:chromatin
-GO:0005634;C:nucleus
-GO:0035861;C:site of double-strand break
-GO:0003677;F:DNA binding
-GO:1990269;F:RNA polymerase II C-terminal domain phosphoserine binding
-GO:0000993;F:RNA polymerase II complex binding
-GO:0031124;P:mRNA 3'-end processing
-GO:0010526;P:retrotransposon silencing

@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ubiquitin-like;6;80
-DOMAIN;USP;109;497
-REGION;Disordered;365;391
-ACT_SITE;Nucleophile;118;118
-ACT_SITE;Proton acceptor;447;447

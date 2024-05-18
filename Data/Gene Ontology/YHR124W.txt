@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000228;C:nuclear chromosome
-GO:0003700;F:DNA-binding transcription factor activity
-GO:0043565;F:sequence-specific DNA binding
-GO:0051301;P:cell division
-GO:0051321;P:meiotic cell cycle
-GO:0045944;P:positive regulation of transcription by RNA polymerase II

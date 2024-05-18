@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C2H2-type;49;73
-REGION;Nuclear export signal-like (NES-like);17;31
-MOTIF;Nuclear localization signal;7;16

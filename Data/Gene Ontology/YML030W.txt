@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005746;C:mitochondrial respirasome
-GO:0005739;C:mitochondrion
-GO:0033617;P:mitochondrial cytochrome c oxidase assembly
-GO:0097250;P:mitochondrial respirasome assembly
-GO:0010155;P:regulation of proton transport

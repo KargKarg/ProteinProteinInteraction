@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0034657;C:GID complex
-GO:0005634;C:nucleus
-GO:0005773;C:vacuole
-GO:0030437;P:ascospore formation
-GO:0045721;P:negative regulation of gluconeogenesis
-GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
-GO:0007039;P:protein catabolic process in the vacuole

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0010009;C:cytoplasmic side of endosome membrane
-GO:0005829;C:cytosol
-GO:0005768;C:endosome
-GO:0035091;F:phosphatidylinositol binding
-GO:0032266;F:phosphatidylinositol-3-phosphate binding
-GO:0006886;P:intracellular protein transport
-GO:0042147;P:retrograde transport, endosome to Golgi

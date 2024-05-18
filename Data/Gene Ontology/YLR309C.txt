@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005794;C:Golgi apparatus
-GO:0000139;C:Golgi membrane
-GO:0043001;P:Golgi to plasma membrane protein transport
-GO:0034976;P:response to endoplasmic reticulum stress
-GO:0016192;P:vesicle-mediated transport

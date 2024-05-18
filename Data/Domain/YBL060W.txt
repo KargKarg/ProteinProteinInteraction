@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SEC7;61;266
-DOMAIN;PH;412;551
-REGION;Disordered;14;35
-REGION;Disordered;63;97

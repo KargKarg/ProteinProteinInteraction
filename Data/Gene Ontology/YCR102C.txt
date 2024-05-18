@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0016651;F:oxidoreductase activity, acting on NAD(P)H
-GO:0071468;P:cellular response to acidic pH
-GO:0046688;P:response to copper ion

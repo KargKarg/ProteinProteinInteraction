@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0072380;C:TRC complex
-GO:0006620;P:post-translational protein targeting to endoplasmic reticulum membrane
-GO:0045048;P:protein insertion into ER membrane
-GO:0016192;P:vesicle-mediated transport

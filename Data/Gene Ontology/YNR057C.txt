@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005524;F:ATP binding
-GO:0004141;F:dethiobiotin synthase activity
-GO:0000287;F:magnesium ion binding
-GO:0009102;P:biotin biosynthetic process

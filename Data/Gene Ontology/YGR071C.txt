@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0005773;C:vacuole
-GO:0003677;F:DNA binding
-GO:0046872;F:metal ion binding
-GO:0006357;P:regulation of transcription by RNA polymerase II
-GO:0006624;P:vacuolar protein processing
-GO:0007033;P:vacuole organization

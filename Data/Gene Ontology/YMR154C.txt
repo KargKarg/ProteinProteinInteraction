@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0004198;F:calcium-dependent cysteine-type endopeptidase activity
-GO:0004197;F:cysteine-type endopeptidase activity
-GO:0016485;P:protein processing
-GO:0006508;P:proteolysis

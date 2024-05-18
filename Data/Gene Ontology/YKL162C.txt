@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0035243;F:protein-arginine omega-N symmetric methyltransferase activity
-GO:0032259;P:methylation

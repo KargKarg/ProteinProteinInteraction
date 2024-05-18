@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005385;F:zinc ion transmembrane transporter activity
-GO:0006882;P:intracellular zinc ion homeostasis
-GO:0046686;P:response to cadmium ion
-GO:0071577;P:zinc ion transmembrane transport

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005780;C:extrinsic component of intraperoxisomal membrane
-GO:0005777;C:peroxisome
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0045033;P:peroxisome inheritance

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005730;C:nucleolus
-GO:0005634;C:nucleus
-GO:0000994;F:RNA polymerase III core binding
-GO:0016480;P:negative regulation of transcription by RNA polymerase III

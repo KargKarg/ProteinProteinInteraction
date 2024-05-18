@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;t-SNARE coiled-coil homology;330;392
-REGION;Disordered;1;26
-REGION;Inhibitory region;4;50
-REGION;Positive regulatory region;51;95

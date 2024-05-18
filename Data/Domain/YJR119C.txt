@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;JmjN;4;47
-DOMAIN;JmjC;381;549
-ZN_FING;PHD-type;235;285
-BINDING;;427;427
-BINDING;;430;430
-BINDING;;517;517

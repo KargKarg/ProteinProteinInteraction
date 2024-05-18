@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0071913;F:citrate secondary active transmembrane transporter activity
-GO:0005371;F:tricarboxylate secondary active transmembrane transporter activity
-GO:0006843;P:mitochondrial citrate transmembrane transport
-GO:0055085;P:transmembrane transport

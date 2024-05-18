@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton donor/acceptor;127;127
-ACT_SITE;Acyl-thioester intermediate;159;159
-ACT_SITE;Proton donor/acceptor;296;296

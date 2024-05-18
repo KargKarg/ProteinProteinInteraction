@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;145
-REGION;Interaction with FUS3 and KSS1;212;452
-REGION;Disordered;262;311
-REGION;Disordered;331;395

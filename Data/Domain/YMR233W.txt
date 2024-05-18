@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DEK-C;1;56
-DOMAIN;SWIB/MDM2;119;195
-REGION;Disordered;83;118
-REGION;Disordered;200;226

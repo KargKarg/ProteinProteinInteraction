@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0004866;F:endopeptidase inhibitor activity
-GO:0042144;P:vacuole fusion, non-autophagic

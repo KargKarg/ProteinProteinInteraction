@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0042645;C:mitochondrial nucleoid
-GO:0005739;C:mitochondrion
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity
-GO:0004030;F:aldehyde dehydrogenase [NAD(P)+] activity
-GO:0019413;P:acetate biosynthetic process
-GO:0006067;P:ethanol metabolic process
-GO:0006740;P:NADPH regeneration
-GO:0006090;P:pyruvate metabolic process

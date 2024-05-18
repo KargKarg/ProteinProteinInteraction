@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;RanBD1;1;314
-REGION;Disordered;341;375

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0008519;F:ammonium transmembrane transporter activity
-GO:0072488;P:ammonium transmembrane transport
-GO:0019740;P:nitrogen utilization
-GO:1900430;P:positive regulation of filamentous growth of a population of unicellular organisms
-GO:0007124;P:pseudohyphal growth

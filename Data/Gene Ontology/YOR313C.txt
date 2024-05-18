@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005811;C:lipid droplet
-GO:0030437;P:ascospore formation

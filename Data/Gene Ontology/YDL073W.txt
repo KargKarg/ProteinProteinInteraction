@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005078;F:MAP-kinase scaffold activity
-GO:0001933;P:negative regulation of protein phosphorylation
-GO:0007232;P:osmosensory signaling pathway via Sho1 osmosensor

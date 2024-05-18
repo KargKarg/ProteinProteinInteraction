@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0003729;F:mRNA binding
-GO:0000077;P:DNA damage checkpoint signaling
-GO:0000086;P:G2/M transition of mitotic cell cycle

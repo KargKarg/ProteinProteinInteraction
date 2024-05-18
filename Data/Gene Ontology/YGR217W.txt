@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0005891;C:voltage-gated calcium channel complex
-GO:0005262;F:calcium channel activity
-GO:0005509;F:calcium ion binding
-GO:0008331;F:high voltage-gated calcium channel activity
-GO:0005245;F:voltage-gated calcium channel activity
-GO:0098703;P:calcium ion import across plasma membrane
-GO:0006816;P:calcium ion transport

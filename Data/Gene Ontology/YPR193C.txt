@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:1990331;C:Hpa2 acetyltransferase complex
-GO:0005634;C:nucleus
-GO:0004402;F:histone acetyltransferase activity
-GO:0042802;F:identical protein binding
-GO:0008080;F:N-acetyltransferase activity
-GO:0032917;P:polyamine acetylation
-GO:0006473;P:protein acetylation

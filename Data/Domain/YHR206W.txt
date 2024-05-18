@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Response regulatory;378;492
-REGION;Disordered;1;29
-REGION;DNA-binding domain;84;190
-REGION;Hydrophobic repeat HR-A/B;212;303
-REGION;Disordered;501;579
-REGION;Disordered;599;622

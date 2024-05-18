@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0047816;F:D-arabinose 1-dehydrogenase (NAD+) activity
-GO:0045290;F:D-arabinose 1-dehydrogenase [NAD(P)+] activity
-GO:0070485;P:dehydro-D-arabinono-1,4-lactone biosynthetic process

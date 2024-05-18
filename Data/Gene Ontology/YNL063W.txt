@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0008276;F:protein methyltransferase activity
-GO:0102559;F:protein-(glutamine-N5) methyltransferase activity
-GO:0008757;F:S-adenosylmethionine-dependent methyltransferase activity
-GO:0032259;P:methylation
-GO:0006451;P:translational readthrough

@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0004180;F:carboxypeptidase activity
-GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0000439;C:transcription factor TFIIH core complex
-GO:0005675;C:transcription factor TFIIH holo complex
-GO:0006289;P:nucleotide-excision repair
-GO:0006294;P:nucleotide-excision repair, preincision complex assembly
-GO:0006366;P:transcription by RNA polymerase II
-GO:0006367;P:transcription initiation at RNA polymerase II promoter

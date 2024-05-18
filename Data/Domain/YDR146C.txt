@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C2H2-type 1;550;574
-ZN_FING;C2H2-type 2;580;604
-ZN_FING;C2H2-type 3;609;632
-DNA_BIND;A.T hook;647;659
-REGION;Disordered;245;267
-REGION;Disordered;443;483
-REGION;Disordered;644;677
-MOTIF;Nuclear localization signal;635;659

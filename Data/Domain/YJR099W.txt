@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with ubiquitin;10;15
-REGION;Interaction with ubiquitin;149;157
-REGION;Interaction with ubiquitin;219;228
-ACT_SITE;Nucleophile;90;90
-ACT_SITE;Proton donor;166;166
-SITE;Transition state stabilizer;84;84
-SITE;Important for enzyme activity;181;181

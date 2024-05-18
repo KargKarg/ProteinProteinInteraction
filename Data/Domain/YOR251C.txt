@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Rhodanese 1;20;137
-DOMAIN;Rhodanese 2;177;299
-REGION;Disordered;191;222
-ACT_SITE;Cysteine persulfide intermediate;259;259

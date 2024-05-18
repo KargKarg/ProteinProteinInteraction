@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:0008775;F:acetate CoA-transferase activity
-GO:0003986;F:acetyl-CoA hydrolase activity
-GO:0006083;P:acetate metabolic process

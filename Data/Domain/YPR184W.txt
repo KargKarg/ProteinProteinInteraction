@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;4-alpha-glucanotransferase;1;~
-REGION;Amylo-1,6-glucosidase;~;1536
-ACT_SITE;;535;535
-ACT_SITE;;538;538
-ACT_SITE;;670;670

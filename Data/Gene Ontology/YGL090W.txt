@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000785;C:chromatin
-GO:0005737;C:cytoplasm
-GO:0032807;C:DNA ligase IV complex
-GO:0005634;C:nucleus
-GO:0003682;F:chromatin binding
-GO:0006303;P:double-strand break repair via nonhomologous end joining

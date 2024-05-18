@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0005524;F:ATP binding
-GO:0004359;F:glutaminase activity
-GO:0003952;F:NAD+ synthase (glutamine-hydrolyzing) activity
-GO:0009435;P:NAD biosynthetic process

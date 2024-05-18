@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0017004;P:cytochrome complex assembly
-GO:0006397;P:mRNA processing
-GO:0048255;P:mRNA stabilization
-GO:0006364;P:rRNA processing

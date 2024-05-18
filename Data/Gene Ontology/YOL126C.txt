@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0034399;C:nuclear periphery
-GO:0030060;F:L-malate dehydrogenase activity
-GO:0006094;P:gluconeogenesis
-GO:0006108;P:malate metabolic process
-GO:0016558;P:protein import into peroxisome matrix
-GO:0006099;P:tricarboxylic acid cycle

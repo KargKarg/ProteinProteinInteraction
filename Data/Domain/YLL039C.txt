@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ubiquitin-like 1;1;76
-DOMAIN;Ubiquitin-like 2;77;152
-DOMAIN;Ubiquitin-like 3;153;228
-DOMAIN;Ubiquitin-like 4;229;304
-DOMAIN;Ubiquitin-like 5;305;380

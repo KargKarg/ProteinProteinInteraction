@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0008180;C:COP9 signalosome
-GO:0005737;C:cytoplasm
-GO:0000502;C:proteasome complex
-GO:0008541;C:proteasome regulatory particle, lid subcomplex
-GO:0034515;C:proteasome storage granule
-GO:0043161;P:proteasome-mediated ubiquitin-dependent protein catabolic process
-GO:0000338;P:protein deneddylation

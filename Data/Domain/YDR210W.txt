@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;1;4;13
-REPEAT;2;14;23
-REPEAT;3;24;33
-REGION;Disordered;1;43
-REGION;3 X 10 AA tandem repeats of Q-Q-G-Y-Y-Q-Q-G-P-P;4;33

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0140671;C:ADA complex
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0006357;P:regulation of transcription by RNA polymerase II

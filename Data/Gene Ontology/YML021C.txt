@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0004844;F:uracil DNA N-glycosylase activity
-GO:0097510;P:base-excision repair, AP site formation via deaminated base removal
-GO:0006281;P:DNA repair

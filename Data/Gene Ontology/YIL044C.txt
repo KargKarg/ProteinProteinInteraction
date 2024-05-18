@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005794;C:Golgi apparatus
-GO:0005096;F:GTPase activator activity
-GO:0046872;F:metal ion binding
-GO:0006888;P:endoplasmic reticulum to Golgi vesicle-mediated transport
-GO:0006891;P:intra-Golgi vesicle-mediated transport

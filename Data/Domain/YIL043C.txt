@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;FAD-binding FR-type;38;142
-BINDING;;122;137
-BINDING;;148;180

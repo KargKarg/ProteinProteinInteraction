@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Required for protease activation;314;345
-ACT_SITE;;204;204
-BINDING;;203;203
-BINDING;;207;207
-BINDING;;257;257

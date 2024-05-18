@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0071469;P:cellular response to alkaline pH
-GO:0071472;P:cellular response to salt stress

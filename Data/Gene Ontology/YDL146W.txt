@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0030479;C:actin cortical patch
-GO:0005933;C:cellular bud
-GO:0005935;C:cellular bud neck
-GO:0005737;C:cytoplasm
-GO:0071933;F:Arp2/3 complex binding
-GO:0000147;P:actin cortical patch assembly
-GO:0051666;P:actin cortical patch localization
-GO:0006897;P:endocytosis

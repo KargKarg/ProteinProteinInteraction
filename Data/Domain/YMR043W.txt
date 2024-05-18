@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MADS-box;18;72
-REGION;Disordered;97;137
-REGION;Disordered;167;264

@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;LIM zinc-binding 1;13;66
-DOMAIN;LIM zinc-binding 2;70;122
-DOMAIN;Rho-GAP;791;1006
-REGION;Disordered;203;293
-REGION;Disordered;401;478
-REGION;Disordered;505;600

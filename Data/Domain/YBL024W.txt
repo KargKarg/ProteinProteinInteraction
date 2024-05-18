@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;24
-REGION;Disordered;650;684
-ACT_SITE;Nucleophile;310;310
-BINDING;;173;179
-BINDING;;202;202
-BINDING;;229;229
-BINDING;;257;257

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0015038;F:glutathione disulfide oxidoreductase activity
-GO:0004602;F:glutathione peroxidase activity
-GO:0004364;F:glutathione transferase activity
-GO:0034599;P:cellular response to oxidative stress
-GO:0010731;P:protein glutathionylation

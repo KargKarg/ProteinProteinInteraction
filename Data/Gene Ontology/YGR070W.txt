@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005085;F:guanyl-nucleotide exchange factor activity
-GO:0007264;P:small GTPase mediated signal transduction

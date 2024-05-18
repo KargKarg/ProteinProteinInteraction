@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005933;C:cellular bud
-GO:0005829;C:cytosol
-GO:0005783;C:endoplasmic reticulum
-GO:0005739;C:mitochondrion
-GO:0051087;F:protein-folding chaperone binding
-GO:0016558;P:protein import into peroxisome matrix
-GO:0045040;P:protein insertion into mitochondrial outer membrane

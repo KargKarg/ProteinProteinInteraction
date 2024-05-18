@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GIY-YIG;12;95
-ZN_FING;SLX1-type;218;282

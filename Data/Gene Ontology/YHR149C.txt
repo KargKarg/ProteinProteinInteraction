@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005935;C:cellular bud neck
-GO:0005934;C:cellular bud tip
-GO:0000131;C:incipient cellular bud site
-GO:0016020;C:membrane
-GO:1902413;P:negative regulation of mitotic cytokinesis

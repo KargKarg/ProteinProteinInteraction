@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;UBZ4-type;11;38
-REGION;Disordered;35;62
-BINDING;;14;14
-BINDING;;17;17
-BINDING;;29;29
-BINDING;;33;33
-BINDING;;177;184
-BINDING;;179;185

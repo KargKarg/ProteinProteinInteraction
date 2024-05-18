@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0016020;C:membrane
-GO:0005886;C:plasma membrane
-GO:0035673;F:oligopeptide transmembrane transporter activity
-GO:0006857;P:oligopeptide transport
-GO:0015031;P:protein transport

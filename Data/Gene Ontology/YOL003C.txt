@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005794;C:Golgi apparatus
-GO:0016409;F:palmitoyltransferase activity
-GO:0019706;F:protein-cysteine S-palmitoyltransferase activity
-GO:0018345;P:protein palmitoylation
-GO:0006612;P:protein targeting to membrane

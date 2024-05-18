@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Calpain catalytic;70;317
-ACT_SITE;;128;128
-ACT_SITE;;271;271
-ACT_SITE;;296;296

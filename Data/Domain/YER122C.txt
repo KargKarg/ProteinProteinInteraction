@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Arf-GAP;16;137
-ZN_FING;C4-type;31;54
-REGION;Disordered;145;255
-REGION;Disordered;268;338

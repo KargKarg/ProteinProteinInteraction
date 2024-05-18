@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Phosphatase sequence motif I;118;126
-REGION;Phosphatase sequence motif II;166;169
-REGION;Phosphatase sequence motif III;216;227

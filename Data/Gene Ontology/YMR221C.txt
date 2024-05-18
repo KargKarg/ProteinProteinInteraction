@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005739;C:mitochondrion
-GO:0022857;F:transmembrane transporter activity

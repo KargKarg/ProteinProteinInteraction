@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DOT1;254;568
-REGION;Disordered;1;50
-REGION;Disordered;99;177
-REGION;Required for interaction with nucleosomes and DNA;158;172
-BINDING;;372;375
-BINDING;;395;404
-BINDING;;422;422
-BINDING;;459;460

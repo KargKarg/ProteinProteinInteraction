@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0015228;F:coenzyme A transmembrane transporter activity
-GO:0015880;P:coenzyme A transport
-GO:1990559;P:mitochondrial coenzyme A transmembrane transport

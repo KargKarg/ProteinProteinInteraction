@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PPIase cyclophilin-type;37;195
-MOTIF;Prevents secretion from ER;222;225

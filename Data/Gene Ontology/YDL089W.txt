@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0031965;C:nuclear membrane
-GO:0034399;C:nuclear periphery
-GO:0043007;P:maintenance of rDNA
-GO:0007096;P:regulation of exit from mitosis

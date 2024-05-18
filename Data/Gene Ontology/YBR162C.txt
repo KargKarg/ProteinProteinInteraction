@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005576;C:extracellular region
-GO:0009277;C:fungal-type cell wall
-GO:0000324;C:fungal-type vacuole
-GO:0016798;F:hydrolase activity, acting on glycosyl bonds
-GO:0071555;P:cell wall organization
-GO:0008152;P:metabolic process

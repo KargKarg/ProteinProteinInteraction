@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MIF4G;22;204
-DOMAIN;MI;290;407
-REGION;Disordered;505;577

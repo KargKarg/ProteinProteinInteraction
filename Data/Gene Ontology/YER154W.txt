@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0030061;C:mitochondrial crista
-GO:0097002;C:mitochondrial inner boundary membrane
-GO:0005739;C:mitochondrion
-GO:0032977;F:membrane insertase activity
-GO:0097177;F:mitochondrial ribosome binding
-GO:0033615;P:mitochondrial proton-transporting ATP synthase complex assembly
-GO:0045039;P:protein insertion into mitochondrial inner membrane
-GO:0032979;P:protein insertion into mitochondrial inner membrane from matrix

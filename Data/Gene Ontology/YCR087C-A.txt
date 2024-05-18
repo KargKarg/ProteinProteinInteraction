@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0003677;F:DNA binding
-GO:0046872;F:metal ion binding
-GO:0000122;P:negative regulation of transcription by RNA polymerase II
-GO:0006364;P:rRNA processing

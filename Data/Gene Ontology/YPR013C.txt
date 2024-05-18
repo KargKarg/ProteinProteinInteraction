@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0003677;F:DNA binding
-GO:0046872;F:metal ion binding
-GO:0043565;F:sequence-specific DNA binding

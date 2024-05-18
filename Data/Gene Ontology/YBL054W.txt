@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0070210;C:Rpd3L-Expanded complex
-GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
-GO:0000978;F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
-GO:0043565;F:sequence-specific DNA binding
-GO:0006355;P:regulation of DNA-templated transcription
-GO:0006357;P:regulation of transcription by RNA polymerase II

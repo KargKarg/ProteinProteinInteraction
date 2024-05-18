@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;FAS1 1;34;162
-DOMAIN;FAS1 2;463;604
-DOMAIN;FAS1 3;606;744

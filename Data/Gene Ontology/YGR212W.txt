@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0008080;F:N-acetyltransferase activity
-GO:0009410;P:response to xenobiotic stimulus

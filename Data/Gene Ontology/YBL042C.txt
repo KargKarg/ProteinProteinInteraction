@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0015205;F:nucleobase transmembrane transporter activity
-GO:0015213;F:uridine transmembrane transporter activity
-GO:0015851;P:nucleobase transport
-GO:0055085;P:transmembrane transport
-GO:0015862;P:uridine transport

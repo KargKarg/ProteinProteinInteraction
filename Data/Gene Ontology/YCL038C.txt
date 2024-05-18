@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0032974;P:amino acid transmembrane export from vacuole
-GO:0006914;P:autophagy

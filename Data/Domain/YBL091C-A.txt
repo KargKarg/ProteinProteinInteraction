@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MSP;1;125
-REGION;Disordered;133;152

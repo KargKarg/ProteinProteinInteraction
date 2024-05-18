@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HIT;3;115
-REGION;Disordered;143;164
-MOTIF;Histidine triad motif;96;100
-ACT_SITE;Tele-AMP-histidine intermediate;98;98

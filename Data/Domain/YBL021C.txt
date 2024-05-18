@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;;42;48
-REGION;Disordered;1;31
-REGION;Subunit association domain (SAD);69;80

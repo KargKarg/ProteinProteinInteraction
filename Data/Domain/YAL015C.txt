@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;HhH;223;247
-MOTIF;Bipartite nuclear localization signal;14;37
-ACT_SITE;Nucleophile; for N-glycosylase activity;243;243
-SITE;Important for catalytic activity;262;262

@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;FHA;47;102
-DOMAIN;Protein kinase;162;444
-ACT_SITE;Proton acceptor;290;290
-BINDING;;168;176
-BINDING;;199;199

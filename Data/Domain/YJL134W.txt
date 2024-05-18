@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;15;35
-REGION;Phosphatase sequence motif I;128;136
-REGION;Phosphatase sequence motif II;157;160
-REGION;Phosphatase sequence motif III;203;214
-ACT_SITE;Proton donor;160;160
-ACT_SITE;Nucleophile;210;210
-SITE;Stabilizes the active site histidine for nucleophilic attack;214;214

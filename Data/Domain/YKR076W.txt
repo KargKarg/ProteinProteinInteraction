@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GST C-terminal;201;353
-ACT_SITE;Nucleophile;46;46
-BINDING;;15;15
-BINDING;;79;79
-BINDING;;155;155
-BINDING;;158;158
-BINDING;;173;173
-BINDING;;174;174

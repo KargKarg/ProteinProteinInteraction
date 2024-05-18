@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005697;C:telomerase holoenzyme complex
-GO:0070034;F:telomerase RNA binding
-GO:0042162;F:telomeric DNA binding
-GO:0000184;P:nuclear-transcribed mRNA catabolic process, nonsense-mediated decay

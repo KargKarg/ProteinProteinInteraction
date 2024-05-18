@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;STAS;574;725
-REGION;Disordered;1;91

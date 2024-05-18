@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;AWS;63;118
-DOMAIN;SET;120;237
-DOMAIN;Post-SET;244;260
-DOMAIN;WW;475;507
-REGION;Disordered;1;32
-REGION;Disordered;504;548
-REGION;Binding to RNA polymerase II CTD;619;718
-REGION;Disordered;672;692

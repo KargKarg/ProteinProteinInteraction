@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;TFIIS central;254;365
-ZN_FING;PHD-type;72;134
-REGION;Disordered;23;65
-REGION;Disordered;142;231

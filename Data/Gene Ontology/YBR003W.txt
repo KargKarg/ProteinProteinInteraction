@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0031314;C:extrinsic component of mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:1990234;C:transferase complex
-GO:0046872;F:metal ion binding
-GO:0004659;F:prenyltransferase activity
-GO:0000010;F:trans-hexaprenyltranstransferase activity
-GO:0008299;P:isoprenoid biosynthetic process
-GO:0006744;P:ubiquinone biosynthetic process

@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GH16;67;339
-ACT_SITE;Nucleophile;217;217
-ACT_SITE;Proton donor;221;221

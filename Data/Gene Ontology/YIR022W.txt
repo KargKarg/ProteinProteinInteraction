@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005787;C:signal peptidase complex
-GO:0008233;F:peptidase activity
-GO:0004252;F:serine-type endopeptidase activity
-GO:0045047;P:protein targeting to ER
-GO:0006465;P:signal peptide processing

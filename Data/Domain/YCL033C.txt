@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;MsrB;40;168
-ACT_SITE;Nucleophile;157;157
-BINDING;;79;79
-BINDING;;82;82
-BINDING;;128;128
-BINDING;;131;131

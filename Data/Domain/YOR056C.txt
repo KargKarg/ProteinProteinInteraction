@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PINc;10;115
-REGION;Disordered;120;205
-REGION;Disordered;366;385
-BINDING;;304;304
-BINDING;;307;307
-BINDING;;323;323
-BINDING;;326;326

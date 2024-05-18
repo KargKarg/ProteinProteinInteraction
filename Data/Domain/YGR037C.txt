@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ACB;2;87
-BINDING;;29;33
-BINDING;;51;51
-BINDING;;55;55
-BINDING;;74;74

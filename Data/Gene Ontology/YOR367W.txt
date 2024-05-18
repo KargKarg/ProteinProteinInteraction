@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0030479;C:actin cortical patch
-GO:0015629;C:actin cytoskeleton
-GO:0051015;F:actin filament binding
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0007015;P:actin filament organization

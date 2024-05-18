@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005615;C:extracellular space
-GO:0005773;C:vacuole
-GO:0008270;F:zinc ion binding
-GO:0071555;P:cell wall organization

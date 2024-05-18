@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;sHSP;86;207
-REGION;Disordered;192;214

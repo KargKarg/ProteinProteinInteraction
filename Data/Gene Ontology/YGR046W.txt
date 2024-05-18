@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0004605;F:phosphatidate cytidylyltransferase activity
-GO:0032049;P:cardiolipin biosynthetic process
-GO:0016024;P:CDP-diacylglycerol biosynthetic process

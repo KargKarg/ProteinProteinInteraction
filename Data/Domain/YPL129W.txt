@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;YEATS;1;134
-REGION;Acylated histone binding;59;61
-REGION;Acylated histone binding;81;83
-REGION;Disordered;133;169
-SITE;Acylated histone binding;104;104

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0008175;F:tRNA methyltransferase activity
-GO:0030488;P:tRNA methylation
-GO:0006400;P:tRNA modification
-GO:0031591;P:wybutosine biosynthetic process

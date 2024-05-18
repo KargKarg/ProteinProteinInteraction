@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0003723;F:RNA binding
-GO:0141100;F:tRNA (guanine(18)-2'-O)-methyltransferase activity
-GO:0016423;F:tRNA (guanine) methyltransferase activity
-GO:0030488;P:tRNA methylation
-GO:0002128;P:tRNA nucleoside ribose methylation

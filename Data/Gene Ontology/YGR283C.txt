@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0008168;F:methyltransferase activity
-GO:0032259;P:methylation

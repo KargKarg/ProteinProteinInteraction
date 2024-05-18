@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005741;C:mitochondrial outer membrane
-GO:0005739;C:mitochondrion
-GO:0007005;P:mitochondrion organization
-GO:0055091;P:phospholipid homeostasis

@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ACT-like 1;393;473
-DOMAIN;ACT-like 2;495;566

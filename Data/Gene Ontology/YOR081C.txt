@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005811;C:lipid droplet
-GO:0042171;F:lysophosphatidic acid acyltransferase activity
-GO:0004806;F:triglyceride lipase activity
-GO:0016042;P:lipid catabolic process
-GO:0030435;P:sporulation resulting in formation of a cellular spore
-GO:0006642;P:triglyceride mobilization

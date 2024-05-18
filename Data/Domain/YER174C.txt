@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Thioredoxin;3;110
-DOMAIN;Glutaredoxin;146;244
-REGION;Disordered;116;143
-BINDING;;163;163
-BINDING;;171;171
-BINDING;;200;200
-BINDING;;212;212
-BINDING;;225;226

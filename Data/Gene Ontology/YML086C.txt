@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005741;C:mitochondrial outer membrane
-GO:0005739;C:mitochondrion
-GO:0003885;F:D-arabinono-1,4-lactone oxidase activity
-GO:0071949;F:FAD binding
-GO:0034599;P:cellular response to oxidative stress
-GO:0070485;P:dehydro-D-arabinono-1,4-lactone biosynthetic process

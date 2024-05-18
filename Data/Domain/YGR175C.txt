@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-BINDING;;28;29
-BINDING;;48;49
-BINDING;;56;56
-BINDING;;158;158
-BINDING;;335;335
-BINDING;;348;348
-SITE;Important for enzyme activity;90;90

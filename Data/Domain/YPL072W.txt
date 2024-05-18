@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;USP;53;497
-ACT_SITE;Nucleophile;62;62
-ACT_SITE;Proton acceptor;407;407

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005524;F:ATP binding
-GO:0003879;F:ATP phosphoribosyltransferase activity
-GO:0000287;F:magnesium ion binding
-GO:0000105;P:histidine biosynthetic process

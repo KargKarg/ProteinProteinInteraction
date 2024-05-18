@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Homodimerization;591;630
-MOTIF;GXGXXG motif;331;336
-ACT_SITE;Glycyl thioester intermediate;507;507

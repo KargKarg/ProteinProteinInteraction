@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;1;339;378
-REPEAT;2;384;423
-REGION;Ig-like fold domain important for alpha-agglutinin activity, contributing to a functional binding site for a-agglutinin;216;322
-REGION;2 X 40 AA tandem repeats;339;423
-SITE;Not glycosylated;348;348

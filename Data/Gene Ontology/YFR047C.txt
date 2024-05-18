@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004514;F:nicotinate-nucleotide diphosphorylase (carboxylating) activity
-GO:0034354;P:'de novo' NAD biosynthetic process from tryptophan
-GO:0009435;P:NAD biosynthetic process
-GO:0034213;P:quinolinate catabolic process

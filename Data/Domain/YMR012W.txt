@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Clu;339;596
-REPEAT;TPR 1;704;738
-REPEAT;TPR 2;1020;1053
-REPEAT;TPR 3;1148;1181
-REGION;Disordered;19;39
-REGION;Disordered;148;176
-REGION;Disordered;1212;1277

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0031012;C:extracellular matrix
-GO:0005615;C:extracellular space
-GO:0000324;C:fungal-type vacuole
-GO:0016020;C:membrane
-GO:0004621;F:glycosylphosphatidylinositol phospholipase D activity
-GO:0006507;P:GPI anchor release

@@ -1,4 +1,4 @@
-Gene.secondaryIdentifier	Gene.proteins.secondaryIdentifier	Gene.proteins.molecularWeight	Gene.proteins.pI	Gene.proteins.gravyScore	Gene.proteins.aromaticityScore	Gene.proteins.cai	Gene.proteins.instabilityIndex	Gene.proteins.aliphaticIndex
+SYSTEMATIC.name	Gene.proteins.secondaryIdentifier	PROTEINS.molecular_weight	PROTEINS.pI	PROTEINS.gravy_score	PROTEINS.aromaticity_score	PROTEINS.cai	PROTEINS.instability_index	PROTEINS.aliphatic_index
 Q0010	Q0010	15626.7	4.5	0.92	0.27	0.1	44.54	110.74
 Q0017	Q0017	6276.5	10.16	-0.09	0.13	0.1	33.11	87.64
 Q0032	Q0032	12477.2	9.68	0.29	0.28	0.07	41.85	73.04

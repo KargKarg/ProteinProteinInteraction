@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000151;C:ubiquitin ligase complex
-GO:0034450;F:ubiquitin-ubiquitin ligase activity
-GO:0006513;P:protein monoubiquitination
-GO:0000209;P:protein polyubiquitination

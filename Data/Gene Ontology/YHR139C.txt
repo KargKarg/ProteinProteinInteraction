@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0030435;P:sporulation resulting in formation of a cellular spore

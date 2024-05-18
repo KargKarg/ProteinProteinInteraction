@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004573;F:Glc3Man9GlcNAc2 oligosaccharide glucosidase activity
-GO:0009311;P:oligosaccharide metabolic process
-GO:0006487;P:protein N-linked glycosylation

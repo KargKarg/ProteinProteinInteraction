@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0000324;C:fungal-type vacuole
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005886;C:plasma membrane
-GO:0015233;F:pantothenate transmembrane transporter activity
-GO:0006897;P:endocytosis
-GO:0098717;P:pantothenate import across plasma membrane
-GO:0015887;P:pantothenate transmembrane transport

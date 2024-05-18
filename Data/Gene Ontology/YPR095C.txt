@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000139;C:Golgi membrane
-GO:0005739;C:mitochondrion
-GO:0005085;F:guanyl-nucleotide exchange factor activity
-GO:0006887;P:exocytosis
-GO:0032014;P:positive regulation of ARF protein signal transduction
-GO:0034067;P:protein localization to Golgi apparatus
-GO:0034976;P:response to endoplasmic reticulum stress
-GO:0016192;P:vesicle-mediated transport

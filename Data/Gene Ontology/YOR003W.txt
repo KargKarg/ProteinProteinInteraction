@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005615;C:extracellular space
-GO:0000328;C:fungal-type vacuole lumen
-GO:0004252;F:serine-type endopeptidase activity
-GO:0007039;P:protein catabolic process in the vacuole
-GO:0006508;P:proteolysis

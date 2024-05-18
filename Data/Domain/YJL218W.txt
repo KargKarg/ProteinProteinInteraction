@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton donor/acceptor;114;114
-BINDING;in other chain;84;84
-BINDING;in other chain;141;141
-BINDING;in other chain;159;159
-BINDING;;164;165
-BINDING;;179;179
-BINDING;in other chain;182;182
-SITE;Transition state stabilizer;84;84

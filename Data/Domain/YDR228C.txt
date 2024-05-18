@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;CID;4;139
-REGION;Interaction with RBP1 CTD (CID);1;130
-REGION;Disordered;263;286

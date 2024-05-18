@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0033101;C:cellular bud membrane
-GO:0005829;C:cytosol
-GO:0000139;C:Golgi membrane
-GO:0043231;C:intracellular membrane-bounded organelle
-GO:0016020;C:membrane
-GO:0005509;F:calcium ion binding
-GO:0008047;F:enzyme activator activity
-GO:0009966;P:regulation of signal transduction

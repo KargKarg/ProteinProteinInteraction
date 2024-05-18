@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005509;F:calcium ion binding
-GO:0005096;F:GTPase activator activity
-GO:0090630;P:activation of GTPase activity

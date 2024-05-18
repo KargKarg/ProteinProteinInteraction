@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005739;C:mitochondrion
-GO:0004806;F:triglyceride lipase activity
-GO:0006629;P:lipid metabolic process
-GO:0019433;P:triglyceride catabolic process

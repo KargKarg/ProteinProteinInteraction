@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005759;C:mitochondrial matrix
-GO:0051537;F:2 iron, 2 sulfur cluster binding
-GO:0008198;F:ferrous iron binding
-GO:0006879;P:intracellular iron ion homeostasis
-GO:0016226;P:iron-sulfur cluster assembly
-GO:0002098;P:tRNA wobble uridine modification

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005739;C:mitochondrion
-GO:0031965;C:nuclear membrane
-GO:0000742;P:karyogamy involved in conjugation with cellular fusion
-GO:0048288;P:nuclear membrane fusion involved in karyogamy

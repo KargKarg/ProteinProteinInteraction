@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0010494;C:cytoplasmic stress granule
-GO:0005634;C:nucleus
-GO:0005524;F:ATP binding
-GO:0003729;F:mRNA binding
-GO:0004831;F:tyrosine-tRNA ligase activity
-GO:0006437;P:tyrosyl-tRNA aminoacylation

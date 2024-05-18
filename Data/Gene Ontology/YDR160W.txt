@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005886;C:plasma membrane
-GO:0015171;F:amino acid transmembrane transporter activity
-GO:0003333;P:amino acid transmembrane transport
-GO:0043200;P:response to amino acid

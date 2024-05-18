@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0045462;F:trichothecene 3-O-acetyltransferase activity
-GO:0043387;P:mycotoxin catabolic process

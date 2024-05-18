@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0008623;C:CHRAC
-GO:0000781;C:chromosome, telomeric region
-GO:0005634;C:nucleus
-GO:0046982;F:protein heterodimerization activity
-GO:0006338;P:chromatin remodeling
-GO:0006261;P:DNA-templated DNA replication
-GO:0006355;P:regulation of DNA-templated transcription
-GO:0031509;P:subtelomeric heterochromatin formation

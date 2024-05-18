@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0018064;F:protein-L-histidine N-tele-methyltransferase activity
-GO:0042038;P:peptidyl-histidine methylation, to form tele-methylhistidine
-GO:0045903;P:positive regulation of translational fidelity
-GO:0000027;P:ribosomal large subunit assembly

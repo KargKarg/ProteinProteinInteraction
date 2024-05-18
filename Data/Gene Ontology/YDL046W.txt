@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0000328;C:fungal-type vacuole lumen
-GO:0032934;F:sterol binding
-GO:0032366;P:intracellular sterol transport
-GO:0015918;P:sterol transport

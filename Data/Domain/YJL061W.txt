@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with NUP116;1;409
-REGION;Interaction with NSP1 and NUP159;463;713
-MOTIF;Bipartite nuclear localization signal;607;623

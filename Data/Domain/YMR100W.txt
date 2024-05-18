@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;MYND-type; degenerate;514;555
-REGION;Disordered;563;620
-BINDING;;530;530
-BINDING;;533;533
-BINDING;;551;551
-BINDING;;555;555

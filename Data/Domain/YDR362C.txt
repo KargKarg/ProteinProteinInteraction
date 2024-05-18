@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;A.T hook;6;18
-REGION;Required for DNA-binding;1;158
-REGION;Disordered;24;45
-REGION;Disordered;67;156
-REGION;Sufficient for interaction with TFC8;159;672

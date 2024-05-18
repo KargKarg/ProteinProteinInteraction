@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Peptidase C50;1443;1542
-REGION;Disordered;1016;1037
-ACT_SITE;;1531;1531

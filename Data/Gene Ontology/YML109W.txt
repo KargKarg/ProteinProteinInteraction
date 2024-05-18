@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0030428;C:cell septum
-GO:0005935;C:cellular bud neck
-GO:0005934;C:cellular bud tip
-GO:0005737;C:cytoplasm
-GO:0030010;P:establishment of cell polarity
-GO:0010971;P:positive regulation of G2/M transition of mitotic cell cycle
-GO:0000183;P:rDNA heterochromatin formation
-GO:0032880;P:regulation of protein localization

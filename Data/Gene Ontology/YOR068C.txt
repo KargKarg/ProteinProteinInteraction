@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0042144;P:vacuole fusion, non-autophagic

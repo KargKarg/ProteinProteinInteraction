@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:0003867;F:4-aminobutyrate transaminase activity
-GO:0034386;F:4-aminobutyrate:2-oxoglutarate transaminase activity
-GO:0030170;F:pyridoxal phosphate binding
-GO:0009450;P:gamma-aminobutyric acid catabolic process

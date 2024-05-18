@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0022627;C:cytosolic small ribosomal subunit
-GO:0003735;F:structural constituent of ribosome
-GO:0002181;P:cytoplasmic translation
-GO:0000447;P:endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
-GO:0000461;P:endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
-GO:0000028;P:ribosomal small subunit assembly
-GO:0006407;P:rRNA export from nucleus

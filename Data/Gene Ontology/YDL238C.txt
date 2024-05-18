@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0008892;F:guanine deaminase activity
-GO:0008270;F:zinc ion binding
-GO:0006147;P:guanine catabolic process
-GO:0046098;P:guanine metabolic process

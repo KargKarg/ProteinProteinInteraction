@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0022625;C:cytosolic large ribosomal subunit
-GO:0005840;C:ribosome
-GO:0003729;F:mRNA binding
-GO:0003723;F:RNA binding
-GO:0003735;F:structural constituent of ribosome
-GO:0002181;P:cytoplasmic translation
-GO:0017148;P:negative regulation of translation

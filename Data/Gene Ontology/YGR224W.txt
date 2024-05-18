@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005886;C:plasma membrane
-GO:1901474;F:azole transmembrane transporter activity
-GO:0022857;F:transmembrane transporter activity
-GO:0045117;P:azole transmembrane transport
-GO:0055085;P:transmembrane transport

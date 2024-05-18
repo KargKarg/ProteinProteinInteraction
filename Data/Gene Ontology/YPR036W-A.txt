@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005628;C:prospore membrane
-GO:0030437;P:ascospore formation

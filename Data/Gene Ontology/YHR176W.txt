@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0050660;F:flavin adenine dinucleotide binding
-GO:0004497;F:monooxygenase activity
-GO:0004499;F:N,N-dimethylaniline monooxygenase activity
-GO:0050661;F:NADP binding
-GO:0006457;P:protein folding

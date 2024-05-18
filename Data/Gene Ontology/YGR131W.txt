@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005886;C:plasma membrane
-GO:0070941;P:eisosome assembly
-GO:0072659;P:protein localization to plasma membrane
-GO:0015031;P:protein transport

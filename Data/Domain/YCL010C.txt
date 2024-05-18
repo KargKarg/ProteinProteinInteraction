@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SGF29 C-terminal;121;255
-REGION;Disordered;75;102
-REGION;Histone H3K4me3 N-terminus binding;163;165
-REGION;Histone H3K4me3 N-terminus binding;207;210
-REGION;Histone H3K4me3 binding;229;232
-SITE;Histone H3K4me3 binding;205;205
-SITE;Histone H3K4me3 binding;212;212

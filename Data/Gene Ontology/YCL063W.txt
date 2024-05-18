@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0071563;C:Myo2p-Vac17p-Vac8p transport complex
-GO:0043495;F:protein-membrane adaptor activity
-GO:0000011;P:vacuole inheritance

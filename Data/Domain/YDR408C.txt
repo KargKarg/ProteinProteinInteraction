@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton donor;125;125
-BINDING;;12;14
-BINDING;;105;108
-BINDING;;123;123
-BINDING;;167;167
-BINDING;;197;197
-SITE;Raises pKa of active site His;167;167

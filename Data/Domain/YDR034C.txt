@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;Zn(2)-C6 fungal-type;159;186
-REGION;Disordered;1;50
-REGION;Disordered;72;157
-REGION;Disordered;195;258

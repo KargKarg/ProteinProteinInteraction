@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0047884;F:FAD diphosphatase activity
-GO:0042726;P:flavin-containing compound metabolic process

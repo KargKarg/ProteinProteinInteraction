@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GRAM;164;230
-DOMAIN;VASt;403;576
-REGION;Disordered;340;362

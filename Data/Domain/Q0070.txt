@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;COX1 exons encoded;1;324
-REGION;COX1 intron aI5_alpha encoded;325;630

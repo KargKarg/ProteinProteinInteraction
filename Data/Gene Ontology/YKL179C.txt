@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0000139;C:Golgi membrane
-GO:0000149;F:SNARE binding
-GO:0048211;P:Golgi vesicle docking
-GO:0048193;P:Golgi vesicle transport
-GO:0006891;P:intra-Golgi vesicle-mediated transport

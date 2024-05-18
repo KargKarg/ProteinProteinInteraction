@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005946;C:alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)
-GO:0005737;C:cytoplasm
-GO:0003824;F:catalytic activity
-GO:0030234;F:enzyme regulator activity
-GO:0005992;P:trehalose biosynthetic process
-GO:0070413;P:trehalose metabolism in response to stress

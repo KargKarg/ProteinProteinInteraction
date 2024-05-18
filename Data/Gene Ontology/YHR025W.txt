@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005524;F:ATP binding
-GO:0004413;F:homoserine kinase activity
-GO:0009092;P:homoserine metabolic process
-GO:0016310;P:phosphorylation
-GO:0009088;P:threonine biosynthetic process

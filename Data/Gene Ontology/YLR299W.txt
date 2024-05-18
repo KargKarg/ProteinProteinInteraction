@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0005886;C:plasma membrane
-GO:0005774;C:vacuolar membrane
-GO:0036374;F:glutathione hydrolase activity
-GO:0103068;F:leukotriene C4 gamma-glutamyl transferase activity
-GO:0006751;P:glutathione catabolic process
-GO:0006508;P:proteolysis
-GO:0006805;P:xenobiotic metabolic process

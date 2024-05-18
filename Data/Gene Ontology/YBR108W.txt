@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0030479;C:actin cortical patch
-GO:0045121;C:membrane raft
-GO:0000147;P:actin cortical patch assembly
-GO:0051016;P:barbed-end actin filament capping

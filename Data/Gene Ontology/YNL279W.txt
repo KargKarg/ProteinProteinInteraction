@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0043332;C:mating projection tip
-GO:0005886;C:plasma membrane
-GO:0032220;P:plasma membrane fusion involved in cytogamy

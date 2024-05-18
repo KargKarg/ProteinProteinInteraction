@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0043530;F:adenosine 5'-monophosphoramidase activity
-GO:0000166;F:nucleotide binding
-GO:0009117;P:nucleotide metabolic process

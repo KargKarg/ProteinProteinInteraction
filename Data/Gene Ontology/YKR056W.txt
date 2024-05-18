@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0051908;F:double-stranded DNA 5'-3' exodeoxyribonuclease activity
-GO:0000014;F:single-stranded DNA endodeoxyribonuclease activity
-GO:0030697;F:tRNA (uracil(54)-C5)-methyltransferase activity, S-adenosyl methionine-dependent
-GO:0032259;P:methylation
-GO:0006400;P:tRNA modification

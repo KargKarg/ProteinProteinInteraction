@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REPEAT;WD 1;116;147
-REPEAT;WD 2;158;189
-REPEAT;WD 3;206;237
-REPEAT;WD 4;249;280
-REPEAT;WD 5;293;324
-REPEAT;WD 6;350;381
-REGION;Interaction with the histone H4 N-terminus;335;339
-SITE;Important for interaction with HAT1;266;266

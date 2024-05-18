@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0003677;F:DNA binding
-GO:0004519;F:endonuclease activity
-GO:0046872;F:metal ion binding
-GO:0007534;P:gene conversion at mating-type locus
-GO:0016539;P:intein-mediated protein splicing
-GO:0007533;P:mating type switching

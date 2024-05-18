@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005628;C:prospore membrane
-GO:0005275;F:amine transmembrane transporter activity
-GO:0015837;P:amine transport
-GO:0030476;P:ascospore wall assembly
-GO:0055085;P:transmembrane transport

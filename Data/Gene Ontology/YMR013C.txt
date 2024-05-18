@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0004168;F:dolichol kinase activity
-GO:0043048;P:dolichyl monophosphate biosynthetic process
-GO:0016310;P:phosphorylation
-GO:0006486;P:protein glycosylation

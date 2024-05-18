@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005886;C:plasma membrane
-GO:0098552;C:side of membrane

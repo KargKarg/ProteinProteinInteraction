@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0003677;F:DNA binding
-GO:0043022;F:ribosome binding
-GO:0003713;F:transcription coactivator activity
-GO:1990145;P:maintenance of translational fidelity
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0072344;P:rescue of stalled ribosome

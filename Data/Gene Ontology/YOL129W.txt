@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005739;C:mitochondrion
-GO:0034424;C:Vps55/Vps68 complex
-GO:0032511;P:late endosome to vacuole transport via multivesicular body sorting pathway
-GO:0006623;P:protein targeting to vacuole
-GO:0015031;P:protein transport

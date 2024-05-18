@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005739;C:mitochondrion
-GO:0016531;F:copper chaperone activity
-GO:1903136;F:cuprous ion binding
-GO:0033617;P:mitochondrial cytochrome c oxidase assembly
-GO:0018343;P:protein farnesylation
-GO:0015680;P:protein maturation by copper ion transfer

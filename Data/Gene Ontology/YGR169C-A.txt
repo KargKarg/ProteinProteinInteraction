@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0043022;F:ribosome binding
-GO:0030371;F:translation repressor activity
-GO:0002182;P:cytoplasmic translational elongation
-GO:0006879;P:intracellular iron ion homeostasis
-GO:0141014;P:ribosome hibernation

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0016247;F:channel regulator activity
-GO:0034599;P:cellular response to oxidative stress
-GO:0090372;P:positive regulation of glycerol transport
-GO:0030163;P:protein catabolic process

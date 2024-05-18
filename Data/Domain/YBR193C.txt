@@ -1,2 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with TBP1;2;138

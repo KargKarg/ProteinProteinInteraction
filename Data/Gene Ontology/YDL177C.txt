@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0006446;P:regulation of translational initiation

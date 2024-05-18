@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DOD-type homing endonuclease;494;642
-BINDING;;257;264

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0031415;C:NatA complex
-GO:0043022;F:ribosome binding
-GO:0006474;P:N-terminal protein amino acid acetylation

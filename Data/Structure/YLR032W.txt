@@ -1,2 +1,0 @@
-Structure type;Structure begin;Structure end
-STRAND;5;8

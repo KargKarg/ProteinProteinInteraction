@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0000324;C:fungal-type vacuole
-GO:0005628;C:prospore membrane
-GO:0004339;F:glucan 1,4-alpha-glucosidase activity
-GO:0004553;F:hydrolase activity, hydrolyzing O-glycosyl compounds
-GO:0005980;P:glycogen catabolic process
-GO:0030435;P:sporulation resulting in formation of a cellular spore

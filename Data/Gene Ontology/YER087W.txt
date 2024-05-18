@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005524;F:ATP binding
-GO:0004827;F:proline-tRNA ligase activity
-GO:0006433;P:prolyl-tRNA aminoacylation

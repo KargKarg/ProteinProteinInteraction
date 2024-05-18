@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;CCHH-type;33;57
-REGION;Disordered;86;105

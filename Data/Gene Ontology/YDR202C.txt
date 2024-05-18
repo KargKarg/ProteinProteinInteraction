@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0031901;C:early endosome membrane
-GO:0012505;C:endomembrane system
-GO:0043291;C:RAVE complex
-GO:0015031;P:protein transport
-GO:0043254;P:regulation of protein-containing complex assembly
-GO:0007035;P:vacuolar acidification
-GO:0070072;P:vacuolar proton-transporting V-type ATPase complex assembly

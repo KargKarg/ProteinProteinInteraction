@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0005773;C:vacuole
-GO:0015031;P:protein transport
-GO:0006624;P:vacuolar protein processing

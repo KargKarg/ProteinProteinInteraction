@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ENTH;1;126
-REGION;Disordered;555;637
-REGION;Clathrin-binding;587;637

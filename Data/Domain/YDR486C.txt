@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with VTA1;128;159
-REGION;Disordered;186;229

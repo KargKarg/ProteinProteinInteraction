@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005758;C:mitochondrial intermembrane space
-GO:0005739;C:mitochondrion
-GO:0005315;F:inorganic phosphate transmembrane transporter activity
-GO:1990547;P:mitochondrial phosphate ion transmembrane transport
-GO:0035435;P:phosphate ion transmembrane transport

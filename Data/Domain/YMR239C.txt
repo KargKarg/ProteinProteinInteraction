@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;RNase III;227;331
-DOMAIN;DRBM;369;437
-REGION;Disordered;1;29
-REGION;Disordered;168;189
-REGION;Disordered;451;471

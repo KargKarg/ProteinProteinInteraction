@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Small GTPase-like;16;244
-REGION;Disordered;210;245
-BINDING;;27;34
-BINDING;;75;79
-BINDING;;132;135

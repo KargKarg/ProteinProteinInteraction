@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;YjeF N-terminal;12;234
-BINDING;;69;73
-BINDING;;70;70
-BINDING;;138;138
-BINDING;;142;148
-BINDING;;173;173
-BINDING;;176;176

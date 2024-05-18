@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0006491;P:N-glycan processing
-GO:0006486;P:protein glycosylation

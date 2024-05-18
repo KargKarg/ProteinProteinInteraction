@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0016020;C:membrane
-GO:0015297;F:antiporter activity
-GO:0022857;F:transmembrane transporter activity
-GO:0042910;F:xenobiotic transmembrane transporter activity
-GO:1990961;P:xenobiotic detoxification by transmembrane export across the plasma membrane

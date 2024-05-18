@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0030234;F:enzyme regulator activity
-GO:0019348;P:dolichol metabolic process

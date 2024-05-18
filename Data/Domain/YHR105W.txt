@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PX;73;213
-REGION;Disordered;1;63
-MOTIF;PxP;5;15

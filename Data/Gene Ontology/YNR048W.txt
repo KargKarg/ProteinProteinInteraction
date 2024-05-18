@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005794;C:Golgi apparatus
-GO:1990531;C:phospholipid-translocating ATPase complex
-GO:0005886;C:plasma membrane
-GO:0005802;C:trans-Golgi network
-GO:0045332;P:phospholipid translocation

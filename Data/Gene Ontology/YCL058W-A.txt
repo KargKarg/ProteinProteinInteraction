@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0000977;F:RNA polymerase II transcription regulatory region sequence-specific DNA binding
-GO:0000122;P:negative regulation of transcription by RNA polymerase II
-GO:0000750;P:pheromone-dependent signal transduction involved in conjugation with cellular fusion

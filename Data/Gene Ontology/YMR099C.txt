@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0030246;F:carbohydrate binding
-GO:0047938;F:glucose-6-phosphate 1-epimerase activity
-GO:0005975;P:carbohydrate metabolic process

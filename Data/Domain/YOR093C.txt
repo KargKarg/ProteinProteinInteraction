@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;DMAP1-binding;5;101
-REGION;Disordered;52;73
-REGION;Disordered;96;130

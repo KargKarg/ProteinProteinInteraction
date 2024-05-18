@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;EF-hand;1787;1822
-REGION;Disordered;1;171
-REGION;Disordered;206;288
-REGION;Disordered;2011;2039

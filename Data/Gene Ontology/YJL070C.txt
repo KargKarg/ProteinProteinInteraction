@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005739;C:mitochondrion
-GO:0046483;P:heterocycle metabolic process
-GO:1901360;P:organic cyclic compound metabolic process

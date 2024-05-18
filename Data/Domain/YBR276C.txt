@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Tyrosine-protein phosphatase;585;783
-REGION;Catalytic;593;807
-ACT_SITE;Phosphocysteine intermediate;725;725

@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;H-T-H-like motif;210;239
-BINDING;;336;336
-BINDING;;417;417
-BINDING;;434;434
-BINDING;;474;474

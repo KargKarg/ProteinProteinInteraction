@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005768;C:endosome
-GO:0016020;C:membrane
-GO:0043328;P:protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

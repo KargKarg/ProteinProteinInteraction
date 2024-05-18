@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0070319;C:Golgi to plasma membrane transport vesicle
-GO:0004605;F:phosphatidate cytidylyltransferase activity
-GO:0016024;P:CDP-diacylglycerol biosynthetic process
-GO:0046488;P:phosphatidylinositol metabolic process
-GO:0006658;P:phosphatidylserine metabolic process

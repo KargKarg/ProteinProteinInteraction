@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DNA_BIND;HMG box;10;83
-REGION;Disordered;100;121
-REGION;Disordered;242;273

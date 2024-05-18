@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005509;F:calcium ion binding
-GO:0004341;F:gluconolactonase activity
-GO:0019853;P:L-ascorbic acid biosynthetic process

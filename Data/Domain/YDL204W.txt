@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Reticulon;30;236
-REGION;Disordered;1;25
-REGION;Disordered;214;313
-REGION;Disordered;339;393

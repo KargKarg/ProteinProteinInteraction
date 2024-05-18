@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Proton donor;49;49
-BINDING;;111;111
-BINDING;;219;286
-SITE;Lowers pKa of active site Tyr;78;78

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0016020;C:membrane
-GO:0047429;F:nucleoside triphosphate diphosphatase activity
-GO:0004528;F:phosphodiesterase I activity
-GO:0017111;F:ribonucleoside triphosphate phosphatase activity
-GO:0009141;P:nucleoside triphosphate metabolic process

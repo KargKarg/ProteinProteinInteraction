@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with SSC1;43;209
-BINDING;;101;108

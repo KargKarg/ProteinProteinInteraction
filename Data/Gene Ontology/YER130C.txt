@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0000987;F:cis-regulatory region sequence-specific DNA binding
-GO:0000981;F:DNA-binding transcription factor activity, RNA polymerase II-specific
-GO:0046872;F:metal ion binding
-GO:0042594;P:response to starvation

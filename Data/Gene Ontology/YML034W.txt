@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005635;C:nuclear envelope
-GO:0005637;C:nuclear inner membrane
-GO:0034399;C:nuclear periphery
-GO:0003682;F:chromatin binding
-GO:0034087;P:establishment of mitotic sister chromatid cohesion
-GO:0043007;P:maintenance of rDNA
-GO:0000070;P:mitotic sister chromatid segregation

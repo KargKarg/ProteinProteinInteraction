@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;279;359
-REGION;Disordered;377;462
-REGION;Interaction with ATG1;432;520
-REGION;Disordered;521;599
-REGION;Disordered;690;719

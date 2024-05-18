@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;C4-type;5;29
-ZN_FING;TFIIS-type;65;108
-BINDING;;69;69
-BINDING;;75;75
-BINDING;;100;100
-BINDING;;103;103

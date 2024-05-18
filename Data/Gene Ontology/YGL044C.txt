@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005847;C:mRNA cleavage and polyadenylation specificity factor complex
-GO:0005849;C:mRNA cleavage factor complex
-GO:0005848;C:mRNA cleavage stimulating factor complex
-GO:0060090;F:molecular adaptor activity
-GO:0003729;F:mRNA binding
-GO:0006378;P:mRNA polyadenylation
-GO:0006397;P:mRNA processing

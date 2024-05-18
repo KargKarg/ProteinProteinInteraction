@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;SH3 1;72;132
-DOMAIN;SH3 2;155;217
-DOMAIN;PX;278;404
-DOMAIN;PB1;478;551
-REGION;Disordered;1;73

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0009055;F:electron transfer activity
-GO:0009063;P:amino acid catabolic process
-GO:0033539;P:fatty acid beta-oxidation using acyl-CoA dehydrogenase

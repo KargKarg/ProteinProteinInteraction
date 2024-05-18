@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;KH;153;219
-ZN_FING;CCHC-type 1;271;288
-ZN_FING;CCHC-type 2;297;314
-REGION;Disordered;83;110
-REGION;Disordered;329;476

@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0004345;F:glucose-6-phosphate dehydrogenase activity
-GO:0050661;F:NADP binding
-GO:0006006;P:glucose metabolic process
-GO:0006740;P:NADPH regeneration
-GO:0009051;P:pentose-phosphate shunt, oxidative branch
-GO:0042542;P:response to hydrogen peroxide

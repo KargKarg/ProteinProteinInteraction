@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005730;C:nucleolus
-GO:0051082;F:unfolded protein binding
-GO:0042254;P:ribosome biogenesis
-GO:0006364;P:rRNA processing

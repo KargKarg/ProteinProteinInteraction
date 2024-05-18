@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PH;114;266
-DOMAIN;SMP-LTD;304;504
-REGION;Disordered;541;566
-REGION;Disordered;578;600
-REGION;Disordered;615;770

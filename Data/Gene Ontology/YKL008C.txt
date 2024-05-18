@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0061576;C:acyl-CoA ceramide synthase complex
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0034399;C:nuclear periphery
-GO:0050291;F:sphingosine N-acyltransferase activity
-GO:0046513;P:ceramide biosynthetic process

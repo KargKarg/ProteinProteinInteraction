@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0071949;F:FAD binding
-GO:0015035;F:protein-disulfide reductase activity
-GO:0016972;F:thiol oxidase activity
-GO:0034975;P:protein folding in endoplasmic reticulum

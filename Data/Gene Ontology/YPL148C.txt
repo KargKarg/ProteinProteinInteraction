@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0008897;F:holo-[acyl-carrier-protein] synthase activity
-GO:0000287;F:magnesium ion binding
-GO:0006633;P:fatty acid biosynthetic process
-GO:0031108;P:holo-[acyl-carrier-protein] biosynthetic process

@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0009651;P:response to salt stress

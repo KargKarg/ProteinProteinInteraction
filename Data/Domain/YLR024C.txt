@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ZN_FING;UBR-type;96;172
-ZN_FING;RING-type; atypical;1241;1362
-REGION;Interaction with UBC2;1134;1240
-REGION;Disordered;1203;1227

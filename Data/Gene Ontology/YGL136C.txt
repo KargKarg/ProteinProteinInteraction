@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0008650;F:rRNA (uridine-2'-O-)-methyltransferase activity
-GO:0001510;P:RNA methylation
-GO:0031167;P:rRNA methylation

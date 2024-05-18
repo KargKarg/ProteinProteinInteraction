@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0000974;C:Prp19 complex
-GO:0071006;C:U2-type catalytic step 1 spliceosome
-GO:0071007;C:U2-type catalytic step 2 spliceosome
-GO:0036002;F:pre-mRNA binding
-GO:0017070;F:U6 snRNA binding
-GO:0000398;P:mRNA splicing, via spliceosome

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005778;C:peroxisomal membrane
-GO:0005777;C:peroxisome
-GO:0030674;F:protein-macromolecule adaptor activity
-GO:0032581;P:ER-dependent peroxisome organization
-GO:0045033;P:peroxisome inheritance
-GO:0045046;P:protein import into peroxisome membrane

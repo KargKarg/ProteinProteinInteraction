@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0005774;C:vacuolar membrane
-GO:0046872;F:metal ion binding
-GO:0007165;P:signal transduction

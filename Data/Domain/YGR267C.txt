@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;18;55
-BINDING;;132;132
-BINDING;;135;135
-BINDING;;203;203

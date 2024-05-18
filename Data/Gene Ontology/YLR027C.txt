@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0005777;C:peroxisome
-GO:0004069;F:L-aspartate:2-oxoglutarate aminotransferase activity
-GO:0030170;F:pyridoxal phosphate binding
-GO:0006103;P:2-oxoglutarate metabolic process
-GO:0006532;P:aspartate biosynthetic process
-GO:0006531;P:aspartate metabolic process
-GO:0006536;P:glutamate metabolic process

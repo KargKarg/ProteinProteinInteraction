@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0034045;C:phagophore assembly site membrane
-GO:0000045;P:autophagosome assembly
-GO:0000422;P:autophagy of mitochondrion
-GO:0032258;P:cytoplasm to vacuole transport by the Cvt pathway
-GO:0016236;P:macroautophagy

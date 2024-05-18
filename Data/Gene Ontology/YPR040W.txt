@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0009968;P:negative regulation of signal transduction
-GO:0031929;P:TOR signaling

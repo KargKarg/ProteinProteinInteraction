@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0020037;F:heme binding
-GO:0033754;F:indoleamine 2,3-dioxygenase activity
-GO:0046872;F:metal ion binding
-GO:0004833;F:tryptophan 2,3-dioxygenase activity
-GO:0034354;P:'de novo' NAD biosynthetic process from tryptophan
-GO:0019441;P:tryptophan catabolic process to kynurenine

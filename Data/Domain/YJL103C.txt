@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PAS;466;538
-DNA_BIND;Zn(2)-C6 fungal-type;20;48
-REGION;Disordered;325;352

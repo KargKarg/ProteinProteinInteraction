@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;30;169
-ACT_SITE;N6-GMP-lysine intermediate;223;223
-SITE;Essential for dimer formation;280;280

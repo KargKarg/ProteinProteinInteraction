@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000324;C:fungal-type vacuole
-GO:0004573;F:Glc3Man9GlcNAc2 oligosaccharide glucosidase activity
-GO:0070880;P:fungal-type cell wall beta-glucan biosynthetic process
-GO:0009272;P:fungal-type cell wall biogenesis
-GO:0009311;P:oligosaccharide metabolic process
-GO:0006487;P:protein N-linked glycosylation

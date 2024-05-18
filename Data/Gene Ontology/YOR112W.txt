@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005643;C:nuclear pore
-GO:0000049;F:tRNA binding
-GO:0006409;P:tRNA export from nucleus

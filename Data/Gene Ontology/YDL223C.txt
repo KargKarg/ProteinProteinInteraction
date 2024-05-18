@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005937;C:mating projection
-GO:0005886;C:plasma membrane
-GO:0000753;P:cell morphogenesis involved in conjugation with cellular fusion
-GO:0008360;P:regulation of cell shape

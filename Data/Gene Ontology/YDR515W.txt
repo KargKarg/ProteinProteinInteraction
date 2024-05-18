@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0010494;C:cytoplasmic stress granule
-GO:0005829;C:cytosol
-GO:0003729;F:mRNA binding
-GO:0003723;F:RNA binding
-GO:0006878;P:intracellular copper ion homeostasis
-GO:0045727;P:positive regulation of translation
-GO:0006417;P:regulation of translation

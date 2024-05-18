@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071944;C:cell periphery
-GO:0005737;C:cytoplasm
-GO:0005783;C:endoplasmic reticulum
-GO:0016807;F:cysteine-type carboxypeptidase activity
-GO:0004843;F:cysteine-type deubiquitinase activity
-GO:1990380;F:K48-linked deubiquitinase activity
-GO:0071108;P:protein K48-linked deubiquitination
-GO:0006508;P:proteolysis

@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005829;C:cytosol
-GO:0003824;F:catalytic activity
-GO:0030476;P:ascospore wall assembly

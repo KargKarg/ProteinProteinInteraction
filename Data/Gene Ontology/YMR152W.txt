@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005783;C:endoplasmic reticulum
-GO:0005811;C:lipid droplet
-GO:0005739;C:mitochondrion
-GO:0018455;F:alcohol dehydrogenase [NAD(P)+] activity
-GO:0006974;P:DNA damage response

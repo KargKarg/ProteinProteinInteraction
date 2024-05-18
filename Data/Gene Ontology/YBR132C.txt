@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0000329;C:fungal-type vacuole membrane
-GO:0005886;C:plasma membrane
-GO:0015171;F:amino acid transmembrane transporter activity
-GO:0003333;P:amino acid transmembrane transport
-GO:1902274;P:positive regulation of (R)-carnitine transmembrane transport
-GO:1902269;P:positive regulation of polyamine transmembrane transport

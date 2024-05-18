@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004861;F:cyclin-dependent protein serine/threonine kinase inhibitor activity
-GO:0006623;P:protein targeting to vacuole

@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0004352;F:glutamate dehydrogenase (NAD+) activity
-GO:0006538;P:glutamate catabolic process
-GO:0019551;P:glutamate catabolic process to 2-oxoglutarate
-GO:0006807;P:nitrogen compound metabolic process

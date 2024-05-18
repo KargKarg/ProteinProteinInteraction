@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;116;150
-REGION;Disordered;169;196
-REGION;Protease;432;621
-ACT_SITE;;514;514
-ACT_SITE;;531;531
-ACT_SITE;;580;580

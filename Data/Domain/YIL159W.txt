@@ -1,9 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;GBD/FH3;94;490
-DOMAIN;FH1;659;851
-DOMAIN;FH2;868;1290
-DOMAIN;DAD;1302;1336
-REGION;Disordered;661;684
-REGION;Disordered;764;785
-REGION;Disordered;817;839
-REGION;Disordered;1285;1309

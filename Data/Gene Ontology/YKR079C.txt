@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005739;C:mitochondrion
-GO:0005634;C:nucleus
-GO:0042781;F:3'-tRNA processing endoribonuclease activity
-GO:0046872;F:metal ion binding
-GO:1990180;P:mitochondrial tRNA 3'-end processing
-GO:0042780;P:tRNA 3'-end processing

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;ABC transporter 1;28;287
-DOMAIN;ABC transporter 2;679;941
-BINDING;;62;69
-BINDING;;727;734

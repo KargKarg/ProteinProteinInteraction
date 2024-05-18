@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;40
-REGION;Disordered;240;267
-SITE;Interaction with the N-terminal Pro (Pro/N-degron) of proteins that are targeted for degradation;133;133
-SITE;Interaction with the N-terminal Pro (Pro/N-degron) of proteins that are targeted for degradation;294;294
-SITE;Interaction with the N-terminal Pro (Pro/N-degron) of proteins that are targeted for degradation;316;316

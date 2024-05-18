@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Ras-GEF;592;859
-DOMAIN;PH;1846;1948
-DOMAIN;Rho-GAP;1967;2165
-REGION;Disordered;1;209
-REGION;Disordered;243;305
-REGION;Disordered;353;372
-REGION;Disordered;1771;1828

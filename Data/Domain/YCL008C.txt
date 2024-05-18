@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;UEV;12;161
-DOMAIN;SB;322;385
-REGION;Disordered;155;219

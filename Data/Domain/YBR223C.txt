@@ -1,7 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with DNA;312;316
-ACT_SITE;Nucleophile;182;182
-ACT_SITE;Proton donor/acceptor;432;432
-BINDING;;184;184
-BINDING;;434;434
-SITE;Interaction with DNA;467;467

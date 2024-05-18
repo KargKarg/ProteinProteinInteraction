@@ -1,8 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-ACT_SITE;Cysteine persulfide intermediate;421;421
-BINDING;;168;169
-BINDING;;248;248
-BINDING;;276;276
-BINDING;;296;298
-BINDING;;336;336
-BINDING;via persulfide group;421;421

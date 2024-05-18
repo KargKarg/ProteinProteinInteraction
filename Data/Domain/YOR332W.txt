@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Interaction with VMA5;8;20
-REGION;Interaction with VMA10;19;38

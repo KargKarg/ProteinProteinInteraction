@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005783;C:endoplasmic reticulum
-GO:0000329;C:fungal-type vacuole membrane
-GO:0030026;P:intracellular manganese ion homeostasis
-GO:0010960;P:magnesium ion homeostasis
-GO:0007005;P:mitochondrion organization

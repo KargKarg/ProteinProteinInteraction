@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0032153;C:cell division site
-GO:0035838;C:growing cell tip
-GO:0005886;C:plasma membrane

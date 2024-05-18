@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0004834;F:tryptophan synthase activity
-GO:0000162;P:tryptophan biosynthetic process

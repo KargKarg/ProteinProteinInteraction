@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005935;C:cellular bud neck
-GO:0000131;C:incipient cellular bud site
-GO:0004843;F:cysteine-type deubiquitinase activity
-GO:0016579;P:protein deubiquitination
-GO:0006508;P:proteolysis

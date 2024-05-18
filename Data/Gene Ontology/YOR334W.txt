@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005739;C:mitochondrion
-GO:0015095;F:magnesium ion transmembrane transporter activity
-GO:0045016;P:mitochondrial magnesium ion transmembrane transport

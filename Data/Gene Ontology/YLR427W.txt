@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0022626;C:cytosolic ribosome
-GO:0046872;F:metal ion binding
-GO:0000976;F:transcription cis-regulatory region binding
-GO:0061630;F:ubiquitin protein ligase activity
-GO:0070651;P:nonfunctional rRNA decay
-GO:0045944;P:positive regulation of transcription by RNA polymerase II
-GO:0006513;P:protein monoubiquitination

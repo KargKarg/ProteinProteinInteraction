@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Thioredoxin 1;30;141
-DOMAIN;Thioredoxin 2;355;487
-MOTIF;Prevents secretion from ER;514;517

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005811;C:lipid droplet
-GO:0031966;C:mitochondrial membrane
-GO:0005739;C:mitochondrion
-GO:0034479;F:phosphatidylglycerol phospholipase C activity
-GO:0046475;P:glycerophospholipid catabolic process
-GO:0034478;P:phosphatidylglycerol catabolic process

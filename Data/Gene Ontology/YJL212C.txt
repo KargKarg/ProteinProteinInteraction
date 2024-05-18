@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0035673;F:oligopeptide transmembrane transporter activity
-GO:0005427;F:proton-dependent oligopeptide secondary active transmembrane transporter activity
-GO:0006857;P:oligopeptide transport
-GO:0015031;P:protein transport

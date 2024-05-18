@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0000974;C:Prp19 complex
-GO:0071006;C:U2-type catalytic step 1 spliceosome
-GO:0000398;P:mRNA splicing, via spliceosome

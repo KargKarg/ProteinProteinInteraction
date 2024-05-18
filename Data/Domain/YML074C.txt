@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PPIase FKBP-type;324;411
-REGION;Disordered;54;127
-REGION;Disordered;160;302
-MOTIF;Nuclear localization signal;256;271

@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0031386;F:protein tag activity
-GO:0000753;P:cell morphogenesis involved in conjugation with cellular fusion
-GO:0000398;P:mRNA splicing, via spliceosome
-GO:0033120;P:positive regulation of RNA splicing
-GO:0043687;P:post-translational protein modification

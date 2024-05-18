@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005886;C:plasma membrane
-GO:0015104;F:antimonite transmembrane transporter activity
-GO:0015297;F:antiporter activity
-GO:0015105;F:arsenite transmembrane transporter activity
-GO:0015699;P:antimonite transport
-GO:0015700;P:arsenite transport
-GO:0006811;P:monoatomic ion transport
-GO:0046685;P:response to arsenic-containing substance

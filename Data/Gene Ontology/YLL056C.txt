@@ -1,3 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0004029;F:aldehyde dehydrogenase (NAD+) activity

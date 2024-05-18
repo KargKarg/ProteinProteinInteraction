@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;383;407
-ACT_SITE;Lowers pKa of active site Tyr;236;236
-BINDING;;114;114
-BINDING;;236;236
-BINDING;;281;281

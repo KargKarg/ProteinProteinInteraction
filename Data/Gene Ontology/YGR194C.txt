@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005524;F:ATP binding
-GO:0004856;F:xylulokinase activity
-GO:0042732;P:D-xylose metabolic process
-GO:0016310;P:phosphorylation
-GO:0005998;P:xylulose catabolic process
-GO:0005997;P:xylulose metabolic process

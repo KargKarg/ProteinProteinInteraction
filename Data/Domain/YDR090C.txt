@@ -1,3 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;PQ-loop 1;5;69
-DOMAIN;PQ-loop 2;138;194

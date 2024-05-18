@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005634;C:nucleus
-GO:0035312;F:5'-3' DNA exonuclease activity
-GO:0008409;F:5'-3' exonuclease activity
-GO:0003684;F:damaged DNA binding
-GO:0046872;F:metal ion binding
-GO:0006281;P:DNA repair
-GO:0006303;P:double-strand break repair via nonhomologous end joining
-GO:0036297;P:interstrand cross-link repair

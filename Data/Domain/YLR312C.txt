@@ -1,4 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;15;50
-MOTIF;ATG8-binding;8;11
-MOTIF;ATG11-binding;52;59

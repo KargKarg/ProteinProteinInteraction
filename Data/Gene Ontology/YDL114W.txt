@@ -1,2 +1,0 @@
-GO id;GO term
-GO:0016616;F:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor

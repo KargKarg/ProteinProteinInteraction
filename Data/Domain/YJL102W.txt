@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;tr-type G;39;327
-BINDING;;48;55
-BINDING;;113;117
-BINDING;;165;168

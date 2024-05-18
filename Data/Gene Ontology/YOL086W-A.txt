@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0071821;C:FANCM-MHF complex
-GO:0003682;F:chromatin binding
-GO:0003677;F:DNA binding
-GO:0046982;F:protein heterodimerization activity
-GO:0006974;P:DNA damage response
-GO:0006281;P:DNA repair
-GO:0031297;P:replication fork processing
-GO:0000712;P:resolution of meiotic recombination intermediates

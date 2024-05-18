@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005743;C:mitochondrial inner membrane
-GO:0005759;C:mitochondrial matrix
-GO:0005739;C:mitochondrion
-GO:0003842;F:1-pyrroline-5-carboxylate dehydrogenase activity
-GO:0006537;P:glutamate biosynthetic process
-GO:0010133;P:proline catabolic process to glutamate

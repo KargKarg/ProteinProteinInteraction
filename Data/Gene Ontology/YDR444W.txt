@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0047372;F:acylglycerol lipase activity
-GO:0044255;P:cellular lipid metabolic process
-GO:0016042;P:lipid catabolic process

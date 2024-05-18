@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005634;C:nucleus
-GO:0005524;F:ATP binding
-GO:0046872;F:metal ion binding
-GO:0004747;F:ribokinase activity
-GO:0019303;P:D-ribose catabolic process

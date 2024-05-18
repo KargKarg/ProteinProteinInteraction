@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0031965;C:nuclear membrane
-GO:0008270;F:zinc ion binding
-GO:0051237;P:maintenance of RNA location
-GO:0051028;P:mRNA transport

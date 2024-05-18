@@ -1,4 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0008124;F:4-alpha-hydroxytetrahydrobiopterin dehydratase activity
-GO:0006729;P:tetrahydrobiopterin biosynthetic process

@@ -1,7 +1,0 @@
-GO id;GO term
-GO:0005783;C:endoplasmic reticulum
-GO:0005789;C:endoplasmic reticulum membrane
-GO:0034737;F:ergosterol O-acyltransferase activity
-GO:0034738;F:lanosterol O-acyltransferase activity
-GO:0008204;P:ergosterol metabolic process
-GO:0016125;P:sterol metabolic process

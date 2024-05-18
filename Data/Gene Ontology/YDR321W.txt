@@ -1,5 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0042597;C:periplasmic space
-GO:0004067;F:asparaginase activity
-GO:0006530;P:asparagine catabolic process

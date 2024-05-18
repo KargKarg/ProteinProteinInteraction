@@ -1,8 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005524;F:ATP binding
-GO:0004103;F:choline kinase activity
-GO:0004305;F:ethanolamine kinase activity
-GO:0006656;P:phosphatidylcholine biosynthetic process
-GO:0006646;P:phosphatidylethanolamine biosynthetic process
-GO:0016310;P:phosphorylation

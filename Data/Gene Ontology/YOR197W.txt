@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0005829;C:cytosol
-GO:0005634;C:nucleus
-GO:0004198;F:calcium-dependent cysteine-type endopeptidase activity
-GO:0004197;F:cysteine-type endopeptidase activity
-GO:0006915;P:apoptotic process
-GO:0006515;P:protein quality control for misfolded or incompletely synthesized proteins
-GO:0006508;P:proteolysis

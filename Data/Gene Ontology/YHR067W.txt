@@ -1,6 +1,0 @@
-GO id;GO term
-GO:0005739;C:mitochondrion
-GO:0019171;F:(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity
-GO:0016491;F:oxidoreductase activity
-GO:0006633;P:fatty acid biosynthetic process
-GO:0006631;P:fatty acid metabolic process

@@ -1,5 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-DOMAIN;Glutamine amidotransferase type-2;2;239
-ACT_SITE;Nucleophile;2;2
-BINDING;;373;373
-BINDING;;374;374

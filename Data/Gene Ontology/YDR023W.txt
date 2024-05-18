@@ -1,9 +1,0 @@
-GO id;GO term
-GO:0005737;C:cytoplasm
-GO:0010494;C:cytoplasmic stress granule
-GO:0005829;C:cytosol
-GO:0005524;F:ATP binding
-GO:0004828;F:serine-tRNA ligase activity
-GO:0000049;F:tRNA binding
-GO:0002181;P:cytoplasmic translation
-GO:0006434;P:seryl-tRNA aminoacylation

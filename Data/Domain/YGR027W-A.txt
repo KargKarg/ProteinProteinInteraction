@@ -1,6 +1,0 @@
-Domain type;Domaine Description;Domain begin;Domain end
-REGION;Disordered;1;93
-REGION;Disordered;126;173
-REGION;RNA-binding;299;401
-REGION;Disordered;352;440
-SITE;Cleavage; by Ty1 protease;401;402
